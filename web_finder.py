@@ -54,5 +54,15 @@ def find_website_for(company_name):
             return {"company": company_name, "url": url, "score": score, "meta": meta}
     return {"company": company_name, "url": None, "candidates": candidates[:5]}
 
-# Example
-print(find_website_for("ExxonMobil"))
+def main():
+    df = pd.read_csv("company_names.csv")
+    results = []
+    for index, row in df.iterrows():
+        company_name = row["company_name"]
+        result = find_website_for(company_name)
+        results.append(result)
+    with open("company_results.json", "w") as f:
+        json.dump(results, f)
+
+if __name__ == "__main__":
+    main()
