@@ -3,8 +3,10 @@ import requests
 from rapidfuzz import fuzz
 from bs4 import BeautifulSoup
 import tldextract
+import pandas as pd
+import json 
 
-SERP_API_KEY = "REPLACE_WITH_KEY"
+SERP_API_KEY = "9e0b9bcb598c0d6c5a659d921b3452c1165d5b3f6156946db0e7bd378fd972a8"
 
 def serp_search(company_name, num=5):
     params = {"engine": "google", "q": f"{company_name} official website", "api_key": SERP_API_KEY, "num": num}
