@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+pandas
+numpy
+torch
+scikit-learn
+allennlp
+allennlp-models
