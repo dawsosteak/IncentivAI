@@ -1,0 +1,1 @@
+Download the webpages from the links in @urls.txt and store each one in a markdown file.  Use the @web-to-markdown agent for each url.

@@ -1,0 +1,3 @@
+### Summary of Illinois Energy Code Status
+
+Illinois enforces mandatory statewide energy codes for residential and commercial buildings, effective November 30, 2025. The current codes include 2024 IECC with amendments for residential buildings and 2024 IECC/ASHRAE 90.1-2022 for commercial. Key contacts include Lisa Hennigh (Capital Development Board) and Rebecca Luke (Illinois EPA). Certification requirements exist for both code types, with significant cost savings projected ($0.49B residential, $0.75B commercial). State-funded projects must achieve LEED Silver or equivalent certification. Local governments may adopt stricter commercial codes but must align with state residential standards unless exempt.

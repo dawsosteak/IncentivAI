@@ -1,0 +1,10 @@
+OLLAMA_PROCESSOR_MODEL = "llama3.1:8b"
+OLLAMA_EXTRACTOR_MODEL = "llama3.1:8b"
+
+REQUEST_TIMEOUT = 30
+USER_AGENT = "CleanEnergyBot/1.0"
+
+DEFAULT_URL_COLUMN = "URL"
+
+OUTPUT_DIR = "output"
+DATABASE_FILE = "clean_energy_incentives.csv"
