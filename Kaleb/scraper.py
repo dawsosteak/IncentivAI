@@ -162,24 +162,24 @@ if __name__ == "__main__":
     scraper = ContentScraper()
     #print(scraper.fetch_content("hhttp://comptroller.marylandtaxes.com/Public_Services/Agency_Information/Office_of_the_Comptroller/Comptroller_Initiatives/Shop_Maryland_Tax-free_Week/"))
 
-scraped_content = []
-relevant_urls = pd.read_excel('Relevant URLs.xlsx', header = None)
-scraped_content = []
-# Iterate through URLs and scrape content form the first 100 URLs
-for url in relevant_urls[0][:10]: 
-    print(f"Fetching content for: {url}")
-    try:
-        content = scraper.fetch_content(url)
-        scraped_content.append(content) # Don't forget to save it!
-    except Exception as e:
-        print(f"Error fetching content for {url}: {e}")
-#Save to Word document
-print("Writing to document...")
-doc = Document()
-doc.add_heading('Scraped Content Report', 0)
-for url, content in zip(relevant_urls[0], scraped_content):
-    doc.add_heading(f'URL: {url}', level=1)
-    doc.add_paragraph(content)
+    scraped_content = []
+    relevant_urls = pd.read_excel('Relevant URLs.xlsx', header = None)
+    scraped_content = []
+    # Iterate through URLs and scrape content form the first 10 URLs
+    for url in relevant_urls[0][:10]: 
+        print(f"Fetching content for: {url}")
+        try:
+            content = scraper.fetch_content(url)
+            scraped_content.append(content) # save it
+        except Exception as e:
+            print(f"Error fetching content for {url}: {e}")
+    #Save to Word document
+    print("Writing to document...")
+    doc = Document()
+    doc.add_heading('Scraped Content Report', 0)
+    for url, content in zip(relevant_urls[0], scraped_content):
+        doc.add_heading(f'URL: {url}', level=1)
+        doc.add_paragraph(content)
 
-doc.save('Scraped_Results.docx')
-print("Done!")
+    doc.save('Scraped_Results.docx')
+    print("Done!")

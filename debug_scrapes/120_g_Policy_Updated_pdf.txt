@@ -1,0 +1,647 @@
+--- SOURCE (PDF): http://www.cityofchicago.org/content/dam/city/depts/zlup/Sustainable_Development/Publications/City_of_Chicago_Solar_Zoning_Policy_Updated.pdf ---
+                                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+City of Chicago Solar Zoning Policy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DEPARTMENT OF PLANNING & DEVELOPMENT 
+CITY OF CHICAGO 
+ 
+November 2015 
+
+                                               
+ 
+Page 2 of 16 
+ 
+ 
+  TABLE OF CONTENTS 
+I. DOCUMENT OVERVIEW ..................................................................................................................... 3 
+A. DEFINITIONS ................................................................................................................................................... 4 
+B. SOLAR PV SYSTEM DESCRIPTION ............................................................................................................... 5 
+C. CONFIGURATION TYPES ............................................................................................................................... 6 
+1. Accessory to a Structure ............................................................................................................................... 6 
+(a) Roof-Mounted...................................................................................................................................... 6 
+(b) Non Roof-Mounted .............................................................................................................................. 6 
+2. Freestanding ................................................................................................................................................. 8 
+3. Building Integrated Photovoltaics (BIPV) ...................................................................................................... 9 
+D. DISTRICT ZONING......................................................................................................................................... 10 
+II. DESIGN CONSIDERATIONS ............................................................................................................. 11 
+A. GENERAL DESIGN CONSIDERATIONS ....................................................................................................... 11 
+B. SPECIFIC DESIGN CONSIDERATIONS ........................................................................................................ 12 
+1. Roof-Mounted Systems .............................................................................................................................. 12 
+(a) Allowed Structures ............................................................................................................................ 12 
+(b) Height ................................................................................................................................................ 12 
+(c) Placement ......................................................................................................................................... 12 
+2. Non Roof-Mounted Systems ....................................................................................................................... 13 
+(a) Residential Districts ........................................................................................................................... 13 
+(b) All Other Districts ............................................................................................................................... 13 
+3. Freestanding Systems ................................................................................................................................ 14 
+(a) Residential Districts ........................................................................................................................... 14 
+(b) All Other Districts ............................................................................................................................... 14 
+C. ABANDONMENT ............................................................................................................................................ 15 
+III. OTHER CONSIDERATIONS .............................................................................................................. 15 
+A. LANDMARK DISTRICTS ................................................................................................................................ 15 
+B. PUBLIC WAY USE ......................................................................................................................................... 16 
+ 
+ 
+                                               
+ 
+Page 3 of 16 
+ 
+I. DOCUMENT OVERVIEW  
+The purpose of this policy is to provide guidance strictly for the zoning review of solar photovoltaic (PV) 
+projects in the City of Chicago. The goal of this policy document is to make zoning design requirements 
+transparent for solar PV system applicants. This policy does not provide specific guidance for the zoning 
+review of solar thermal systems. 
+ 
+The framework of this policy document is to (1.) identify the major zoning districts and (2.) establish the 
+solar PV system configuration types. The zoning district will have major impacts on a solar PV project and 
+may limit major design features of the system, such as the size and location of the installation. The 
+configuration type for the solar PV system will have specific design requirements. Using the zoning district 
+and system configuration type, the City of Chicago has established design considerations required of the 
+solar PV system in order to obtain zoning approval. See Figure 1 to illustrate the zoning review process: 
+ 
+ 
+Determine 
+Zoning District
+Determine 
+Solar PV System 
+Configuration 
+Type
+General Design 
+Considerations
+Specific Design 
+Considerations
+Is the Property in a 
+Landmark District? 
+Yes
+No Does the System 
+Make Use of the 
+Public Way?
+No
+Yes
+Obtain Zoning 
+Approval
+Solar PV 
+System 
+Requires 
+Design Review
+Solar PV System 
+Required Public 
+Way Use Permit
+ 
+ 
+Figure 1: Flow Diagram illustrating zoning review process 
+ 
+ 
+Disclaimer:  All solar PV systems are subject to review by the City. If the solar PV system is found 
+not to be in accordance with this policy, or violates City of Chicago Ordinance, the City of Chicago 
+reserves the right to mandate the Owner of the property to modify or remove the system, at the 
+Owner’s expense, as deemed appropriate. 
+ 
+Further, this document serves as a policy of the City of Chicago, and is not an Ordinance. As 
+such, the requirements provided by this document are merely guidelines, and the City of Chicago 
+withholds the right to deny Zoning Approval for any solar PV system, even if it is found to be in 
+accordance with this policy. 
+ 
+ 
+  
+                                               
+ 
+Page 4 of 16 
+ 
+A. DEFINITIONS  
+Accessory Structure: A structure that is subordinate in area, extent and purpose to the principal use and 
+building on the zoning lot and that is customarily used in conjunction with a permitted accessory use. (17-
+17-0205) 
+Accessory Use: A use that is subordinate in area, extent and purpose to the principal use on the zoning 
+lot and that is customarily found in conjunction with a permitted principal use. (17- 17-0206) 
+Engineered Mounting Structure: A structure on which solar PV system components are mounted. The 
+structure shall be made of p re-fabricated materials and designed using industry standards. The sole 
+purpose of the structure is to support components in a solar PV system. No unfinished materials shall be 
+used in an engineered mounting structure. 
+Principal Use: An activity or combination of activities of chief importance on the lot. One of the main 
+purposes for which the land, buildings or structures are intended, designed, or ordinarily used. (17- 17-
+02126) 
+Public Way:  Any sidewalk, street, alley, highway, or other public thoroughfare. (17- 17-02137) 
+Setback: An open, unobstructed area that is required by the Chicago Zoning Ordinance to be provided 
+from the furthermost projection of a structure to the property line of the lot on which the building is 
+located. (17-17-02152) (See Figure 2) 
+Photovoltaic (PV) : The term “p hotovoltaic” refers to the generation of electrical power by method of 
+converting solar radiation into direct current electricity. Solar PV collectors consist of a number of solar 
+cells made from photovoltaic material. 
+Yard: The actual (as opposed to “required”)  open space on a zoning lot that is unoccupied and 
+unobstructed from its lowest level to the sky. (17-17-02192) (See Figure 2) 
+Front Yard
+Structure
+Side Setback
+Side Setback
+Rear Yard
+Required 
+Rear 
+Setback
+Required 
+Front 
+Setback
+ 
+Figure 2: Illustration showing location of setbacks on a property 
+                                               
+ 
+Page 5 of 16 
+ 
+B. SOLAR PV SYSTEM DESCRIPTION 
+Definition: 
+ 
+A solar PV system produces electricity for the principal use of the property on which the solar electric 
+system is located. The solar PV system is considered an accessory structure to the principal structure. 
+The components of a solar PV system that are governed by this policy are not limited to solar collector 
+units, as this policy also governs any other component installed as part of a solar PV system. 
+ 
+Components: 
+ 
+The components of a solar electric system that are relevant to the zoning policy: 
+ 
+1. Solar collector units (series of photovoltaic (PV) cells, typically configured in standard panel 
+assemblies) 
+2. Solar collector mounting structures (bracketing hardware, trays, ballasting, etc.) 
+3. System wiring (includes all cables, conduit, etc.) 
+4. Other electrical equipment (junction boxes, inverters, disconnect switches, meters, etc.)   
+ 
+1
+2
+3
+4
+LEGEND
+1. Solar Collectors
+2. Mounting Structures (not shown)
+3. System Wiring
+4. Electrical Equipment 
+(inverter, disconnect switch, meter)
+ 
+ 
+Figure 3: Graphical Illustration of Components for a Typical Rooftop Solar PV System 
+ 
+ 
+ 
+                                               
+ 
+Page 6 of 16 
+ 
+ 
+Solar CollectorSolar Collector
+Solar Collector
+Inverter
+Disconnect  
+Switch
+Meter
+M Home
+Main Service 
+Panel
+Solar Collector
+Conduit
+ 
+Figure 4: Single Line Diagram of Solar PV System 
+ 
+C. CONFIGURATION TYPES 
+The basic configuration types of solar PV systems are Roof-Mounted, Non Roof-Mounted, Freestanding, 
+or BIPV systems. Each solar PV system configuration type has unique design considerations that will 
+impact the zoning review. Zoning design considerations depend on the selected solar PV system 
+configuration type.  
+1. Accessory to a Structure 
+(a) Roof-Mounted 
+ 
+Roof-mounted systems are defined as solar PV systems in which all solar collector units 
+are mounted on the roof of a structure. Roof-mounted systems can either be physically 
+connected to the roof of a structure (penetrating, see Figure 5), or rested on top of the 
+structure through ballasting means (non-penetrating/ballasted, see Figure 6 ).  
+(b) Non Roof-Mounted 
+ 
+Non roof-mounted systems are defined as solar PV systems in which the solar collector 
+units are attached to the exterior of a structure at a location other than the roof. Such 
+solar PV systems can be attached to the exterior walls of a structure, or other features 
+such as awnings (see Figure 7). 
+ 
+ 
+                                               
+ 
+Page 7 of 16 
+ 
+ 
+ 
+ 
+ 
+Figure 5 (Above Left): An example of a roof-mounted (penetrating) solar PV system  
+(Source: http://www.solarserviceinc.com) 
+ 
+Figure 6 (Above Right): An example of a ballasted (non-penetrating) solar PV system. Here, the PV panels 
+are not physically connected to the roof. Cinderblocks are used as ballasting means to secure the system to 
+the roof. (Source: http://www.solarserviceinc.com) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 7: At the Chicago Center for Green Technology, solar panels serve 
+a dual purpose, as they are used to generate electricity and are used as 
+awnings above windows. This is an example of a non roof-mounted 
+system. (Source: http://news.medill.northwestern.edu
+) 
+  
+
+                                               
+ 
+Page 8 of 16 
+ 
+2. Freestanding 
+Freestanding systems are defined as solar PV systems in which the solar collector units are 
+mounted independently of the principal structure or any other accessory structure. The most 
+common types of freestanding solar PV systems are ground-mounted and pole-mounted 
+systems. 
+ 
+ 
+ 
+Figure 8: Dual purpose ground-mounted solar PV system located on  
+a parking shading structure. (Source: http://climateinc.org)  
+ 
+ 
+Figure 9: Single purpose pole-mounted solar PV system.  
+(Source: http://www.mlive.com) 
+ 
+
+                                               
+ 
+Page 9 of 16 
+ 
+3. Building Integrated Photovoltaics (BIPV) 
+A BIPV system is defined as a solar PV system where the solar collector units are integrated into 
+the principal structure, rather than considered an accessory to the structure. The BIPV system 
+typically replaces or substitutes an architectural or structural element of the structure. Examples 
+of BIPV electric systems are those where solar collector units are built into roofing materials, 
+skylights, windows, and awnings. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 10: BIPV system, solar PV panels are built into the shingles of a roof   
+(http://solarenergyfactsblog.com
+) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 11: BIPV system, as a window of a structure (http://inhabitat.com
+)  
+                                               
+ 
+Page 10 of 16 
+ 
+D. ZONING DISTRICT 
+Solar PV systems are subject to different design considerations based on their zoning district. For the 
+purpose of this policy, there are four distinct zoning district categories that determine zoning approval. 
+ 
+The location and boundaries of zoning districts in the City of Chicago can be found using the following 
+link:  
+ 
+https://gisapps.cityofchicago.org/zoning/
+ 
+ 
+Residential Districts (Type ‘R’ and ‘DR’): 
+ 
+The Residential Districts include all districts with a cla ssification that begin with ‘R’. In addition, this 
+category also includes the Downtown Residential Districts, for which the district classification begins with 
+‘DR’.  The residential districts are intended to create, maintain and promote a variety of housing 
+opportunities for individual households and to maintain the desired physical character of the city’s existing 
+neighborhoods. While the districts primarily accommodate residential use types, nonresidential uses that 
+are compatible with residential neighborhoods are also allowed. (17-2-0101) 
+ 
+Business and Commercial Districts (Type ‘B’ and ‘C’) 
+ 
+The ‘B’ and ‘C’ (Business and Commercial) districts are intended to accommodate retail, service and 
+commercial uses and to ensure that business and commercial-zoned areas are compatible with the 
+character of existing neighborhoods. (17-3-0101) 
+ 
+Manufacturing Districts (Type ‘M’) 
+ 
+The ‘M’ and Planned  Manufacturing Districts “PMD” are intended to accommodate manufacturing, 
+warehousing, wholesale and industrial uses outside the Central Area. (17-5-0101) 
+ 
+Downtown Districts (Type ‘D’) 
+ 
+‘D’ zoning districts are intended solely for application within the downtown area (17-4-0101). The 
+downtown districts exclude the downtown residential districts (type ‘DR’), as these are grouped with the 
+residential districts. 
+  
+                                               
+ 
+Page 11 of 16 
+ 
+II. DESIGN CONSIDERATIONS 
+Once the zoning district and solar PV system configuration type have been determined (from Section I: 
+‘Document Overview’, above), the City of Chicago reviews solar PV system applications using various 
+design considerations. 
+ 
+ Design considerations are broken into two separate areas:  
+ 
+ General Design Considerations  are guiding design principles that apply to all solar PV 
+systems, regardless of configuration and zoning district type. 
+ 
+ Specific Design Considerations  are design principles that apply based on the system 
+configuration type and zoning district. 
+ 
+A. GENERAL DESIGN CONSIDERATIONS 
+1. Solar collectors shall be locat ed such that any solar glare is not directed onto nearby properties or 
+roadways. To limit solar glare, the face of the collectors can be configured as to not face a Public 
+Way or neighboring property. Solar collectors must be made of a non-reflective surface. If the 
+solar PV installation creates an adverse impact to the public or neighboring properties, the 
+property owner will be required to take measures to mitigate the impact. Such measures may 
+include screening provisions, such as vegetation, to block the glare, or to remove the solar 
+collectors entirely.  
+ 
+2. A solar PV system shall not be used to display any advertising or signage, including streamers, 
+pennants, spinners, flags, reflectors, ribbons, balloons, banners, or other similar materials.  
+ 
+3. All solar PV systems shall be installed using an engineered mounting structure. 
+ 
+4. All solar PV system wiring shall be neatly grouped, routed and continuously supported. 
+ 
+5. Where feasible, solar collector units shall be consolidated into array groupings, rather than 
+situated in a disjointed manner. (See Figure 12, below) 
+ 
+Preferred Arrangement Discouraged Arrangement
+ 
+Figure 12: Arrangement solar collectors should be consolidated as much as possible. 
+                                               
+ 
+Page 12 of 16 
+ 
+B. SPECIFIC DESIGN CONSIDERATIONS 
+The specific design considerations contained in this section are not applicable to every solar PV system. 
+They are applied only once the zoning district of the property is known and the configuration type of the 
+solar PV system has been determined. 
+1. Roof-Mounted Systems 
+Roof-mounted solar PV systems are considered accessory to structures in all zoning districts. The 
+requirements for roof-mounted solar PV systems are the same in all zoning districts. 
+(a) Allowed Structures 
+i.
+ Residential Districts 
+ 
+No part of the solar PV system may extend beyond the exterior perimeter of the principal 
+or accessory structure.  
+ii. All Other Districts 
+ 
+Solar PV systems can be mounted on accessory structures, such that no part of the 
+system extends beyond the exterior perimeter of the building on which the system is 
+mounted. 
+(b) Height 
+ 
+  Flat Roof 
+ 
+Any part of the solar PV system shall not exceed 9 feet in overall height, or extend more 
+than 5 feet above the building parapet, whichever results in less height. (17- 17-0311-B) 
+ 
+  Pitched Roof 
+ 
+Solar PV collectors must be mounted flush with the roof, and the surface of the collector 
+shall not extend any further than 12 inches from the roof surface at any point 1. No portion 
+of the solar collectors shall extend beyond the ridgeline of the roof at any point. 
+(c) Placement 
+ 
+Solar PV systems shall be designed and configured to blend into the architecture of the building 
+to the greatest extent possible, or shall be screened from the view from the public way.  
+ 
+Solar collector units shall be consolidated to one area on the roof to the greatest extent possible, 
+and shall not be scattered in multiple groups on the roof. 
+ 
+In any district, if the principal structure is located within a required setback, then the solar PV 
+system may be located within that same setback. 
+                                                      
+1 This requirement only applies to solar PV systems, and does not apply to solar thermal systems. Zoning requirements for solar 
+thermal installations are outside the scope of this policy. 
+                                               
+ 
+Page 13 of 16 
+ 
+ 
+TABLE 1: ROOF-MOUNTED SOLAR PV SYSTEMS DESIGN MATRIX 
+Roof 
+Type 
+District Allowed 
+Structure 
+Setback Height Aesthetic 
+Flat 
+Residential 
+Principal & 
+Accessory 
+Structures No portion of the 
+system shall extend 
+beyond the edge of the 
+roof. 
+Max Height: 9 feet or 5 
+feet above parapet, 
+whichever is less 
+Blend into the 
+architecture of the 
+building. 
+ 
+Consolidated to one area 
+of the roof, not scattered. 
+ 
+Engineered mounting 
+structures required. 
+All Other 
+Districts 
+Principal & 
+Accessory 
+Structures 
+Pitched 
+Residential 
+Principal & 
+Accessory 
+Structures No portion of the 
+system shall extend 
+beyond the ridgeline or 
+the edge of the roof. 
+Surface of the panel 
+shall not extend any 
+further than 12 inches 
+from the roof surface, 
+at any point. All Other 
+Districts 
+Principal & 
+Accessory 
+Structures 
+Note: Requirements are provided only for solar PV systems, and do not apply to solar thermal systems. 
+2. Non Roof-Mounted Systems 
+(a) Residential Districts 
+ 
+Solar PV systems shall not be mounted to any façade facing the front of the property. 
+ 
+Systems may be mounted to the sides of structures, such that no part of the system projects 
+more than 18 inches into the side setback of the property. 
+ 
+Systems may be mounted to the rear of a structure, such that no part of the system projects more 
+than 3 feet into the rear setback of the property. 
+(b) All Other Districts 
+ 
+Non roof-mounted solar PV systems may be mounted to the front, sides, or rear of structures. 
+The maximum distance that a system is allowed to project from a structure is 3 feet.  
+ 
+If a system projects into a public way, it requires public way approval, and the application must be 
+reviewed by the Chicago Department of Transportation (CDOT). 
+ 
+Solar PV systems may be mounted to awnings. The system must be mounted to the flat surface 
+of an awning, and must not project horizontally or vertically beyond the limits of the awning.  
+ 
+                                               
+ 
+Page 14 of 16 
+ 
+ 
+ 
+ 
+TABLE 2: NON-ROOF-MOUNTED SOLAR PV SYSTEMS DESIGN MATRIX 
+District Type Allowed in 
+Setback? 
+Extension Length Aesthetic 
+Residential Front No N/A 
+Blend into the architecture of the 
+building. 
+ 
+ 
+ 
+Consolidated or uniformly placed on 
+structure, not scattered. 
+ 
+ 
+ 
+Engineered mounting structure 
+required. 
+Side Yes 18 inches maximum 
+Rear Yes 3 feet maximum 
+Business &  
+Commercial 
+Front Yes 
+Max extension from structure: 3 feet 
+ 
+ 
+Systems that extend into the Public Way 
+require CDOT review. 
+Side Yes 
+Rear Yes 
+Manufacturing Front Yes 
+Side Yes 
+Rear Yes 
+Downtown Front Yes 
+Rear Yes 
+Side Yes 
+ 
+3. Freestanding Systems 
+(a) Residential Districts 
+ 
+Freestanding solar PV systems are not permitted in Residential Districts. 
+(b) All Other Districts 
+ 
+Freestanding solar PV systems shall not be located within any required setback of a property. 
+ 
+Any power transmission lines connecting a freestanding solar PV system to any other structure 
+on the property shall be buried underground. 
+ 
+                                               
+ 
+Page 15 of 16 
+ 
+ 
+TABLE 3: FREESTANDING SOLAR PV SYSTEMS DESIGN MATRIX 
+District Type Setback Requirements Aesthetic 
+Residential NOT PERMITTED 
+All Other Districts System shall not be located 
+in any required setback. 
+Consolidated to one area of the property, not scattered. 
+ 
+System cables between structures must be buried. 
+ 
+ 
+C. ABANDONMENT 
+If a solar PV system has been abandoned, meaning it has not been in operation for a period of 12 months 
+or more, or is defective or unsafe in any manner, the solar PV system shall be required to be removed or 
+repaired by the property owner.  
+ 
+If not removed within 90 days, the City of Chicago may pursue legal action to have the system removed 
+at the property owner’s expense. 
+III. OTHER CONSIDERATIONS 
+A. LANDMARK DISTRICTS 
+If the proposed solar PV system is to be installed on a property that is a designated or proposed Chicago 
+Landmark, or within a designated or proposed Chicago Landmark District, a separate design review is 
+required by Historic Preservation Division of the Department of Planning and Development.
+The purpose of this review is to determine whether the solar PV system will adversely affect any 
+significant historical or architectural features of the property and/or district.  
+ 
+Typically, significant features are those aspects that are readily visible from the public way. Based on the 
+specific landmark designation ordinance, significant features do vary from building to building and from 
+one district to the other. Since no two situations are exactly alike, each application will be reviewed on a 
+case-by-case basis; however the general approach for installations of solar PV systems would include the 
+following design considerations:   
+  
+ For solar panels installed on rooftops, these should be placed on the roof such that the 
+components would not be visible from the public rights-of-way (streets and sidewalks). 
+ 
+ For a free-standing solar panel system, these should be located in limited or no-visibility locations 
+in secondary areas of the property, such as in the rear yard. 
+ 
+ For solar panel installations on building facades, these should be located with limited visibility 
+from the public rights-of-way, such as on a secondary elevation at the rear of a property. 
+     
+                                               
+ 
+Page 16 of 16 
+ 
+The Historic Preservation Division staff encourages applicants to seek their advice and guidance before 
+filing a permit application.  A pre-permit review can clarify landmark requirements for the applicant and 
+help expedite the review during the permit application process.  For more information, please reference 
+the City of Chicago’s Landmarks Ordinance (Municipal Code of Chicago, Section 2-120-580 et seq.) 
+B. PUBLIC WAY USE 
+Any solar PV system that extends into or is placed in the public way is subject to an additional review by 
+the Department of Business Affairs and Consumer Protection (BACP) and/or the Chicago Department of 
+Transportation ( CDOT). If the solar PV system is approved by the BACP or CDOT, additional fees will be 
+required and a Public Way Use permit will be granted.  

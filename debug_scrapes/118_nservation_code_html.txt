@@ -1,0 +1,507 @@
+--- SOURCE: http://www.cityofchicago.org/city/en/depts/bldgs/supp_info/chicago-energy-conservation-code.html ---
+Chicago Energy Transformation Code
+The 2022 Chicago Energy Transformation Code, based on the 2021 edition of the International Energy Conservation Code, applies to projects where the first permit application is started on or after November 1, 2022. Additional requirements of this code will apply to projects where the first permit application is started on or after January 1, 2023.
+The 2019 Chicago Energy Conservation Code, based on the 2018 edition of the International Energy Conservation Code, applies to permit applications started between June 1, 2019, and October 31, 2022, as well as subsequent phases of projects where the first phase permit is subject to this code.
+Required Energy Code Compliance Statement
+For every permit application that requires architectural plans, an Illinois-licensed architect or engineer who is familiar with the project and the applicable Chicago energy code requirements must complete an Energy Code Compliance Statement, using forms provided by the Department of Buildings.
+The completed Compliance Statement must be submitted along with the supporting documents as part of the permit application process.
+In ProjectDox, please upload the completed Compliance Statement and supporting documents to the following folder:
+Document Submittals > Energy Conservation Compliance
+For the latest forms, please visit visit chicago.gov/permit.
+Summary of Compliance Methods
+There are multiple methods for demonstrating compliance with the 2022 Chicago Energy Transformation Code. The Department of Buildings has prepared the following summary of requirements for each compliance method to assist permit applicants. Different compliance methods are available for nontransient residential buildings up to 4 stories (Group R-2, R-3, R-4 and R-5 occupancies) and all other projects.
+Compliance Methods (Commercial)
+The commercial provisions of the Chicago Energy Transformation Code apply to all projects other than Group R-2, R-3, R-4, and R-5 occupancies with no more than four stories above grade plane. Commercial projects must demonstrate compliance with the code using one of the following methods:
+Use the U.S. Department of Energy’s COMcheck software to demonstrate compliance with the 2021 International Energy Conservation Code (IECC). The professional who completes the Compliance Statement is responsible for ensuring that the project meets additional requirements of the Chicago Energy Transformation Code that are not reflected in COMcheck.
+Upload to ProjectDox
+- Construction documents that include all information required by Section 14A-4-411.3.13 of the Chicago Construction Codes Administrative Provisions
+- Completed 2022 Chicago Energy Transformation Code Compliance Statement
+- Compliance certificate generated from COMcheck for IECC 2021
+During and After Construction
+- Build the project in accordance with the approved construction documents and the Chicago Construction Codes.
+- Perform commissioning and functional testing as required by Sections C402.5.3 and C408, as applicable.
+- Install a Thermal Envelope Certificate as required by Section C401.3.
+- Provide maintenance information to the building owner as required by Section C408.
+Use the U.S. Department of Energy’s COMcheck software to demonstrate compliance with the 2019 edition of ASHRAE 90.1: Energy Standard for Buildings Except Low-Rise Residential Buildings. The professional who completes the Compliance Statement is responsible for ensuring that the project meets additional requirements of the Chicago Energy Transformation Code that are not reflected in COMcheck.
+Upload to ProjectDox
+- Construction documents that include all information required by Section 14A-4-411.3.13 of the Chicago Construction Codes Administrative Provisions
+- Completed 2022 Chicago Energy Transformation Code Compliance Statement
+- Compliance certificate generated from COMcheck for ASHRAE 90.1-2019
+During and After Construction
+- Build the project in accordance with the approved construction documents and the Chicago Construction Codes.
+- Perform verification, testing, and commissioning as required by Section 4.2.5 of ASHRAE 90.1-2019.
+- Install a Thermal Envelope Certificate as required by Section C401.3.
+Coming Soon! Starting in January 2023, the U.S. Department of Energy will allow users of COMcheck to select the Chicago Energy Transformation Code as a compliance option.
+Prepare a report or narrative substantiating how the project complies with the prescriptive requirements of the Chicago Energy Transformation Code, including Sections C402 through C406. The report must be signed and sealed by an architect, professional engineer, or structural engineer licensed by the State of Illinois.
+Upload to ProjectDox
+- Construction documents that include all information required by Section 14A-4-411.3.13 of the Chicago Construction Codes Administrative Provisions
+- Completed 2022 Chicago Energy Transformation Code Compliance Statement
+- Energy Transformation Code compliance narrative or report that is signed and sealed by an Illinois-licensed architect, professional engineer, or structural engineer
+During and After Construction
+- Build the project in accordance with the approved construction documents and the Chicago Construction Codes.
+- Perform commissioning and functional testing as required by Sections C402.5.3 and C408, as applicable.
+- Install a Thermal Envelope Certificate as required by Section C401.3.
+- Provide maintenance information to the building owner as required by Section C408.
+Use energy modeling software to establish compliance with Section C407 of the Chicago Energy Transformation Code.
+Upload to ProjectDox
+- Construction documents that include all information required by Section 14A-4-411.3.13 of the Chicago Construction Codes Administrative Provisions
+- Completed 2022 Chicago Energy Transformation Code Compliance Statement
+- Report, generated by energy-modeling software, showing compliance with Section C407
+- If the software-generated report includes any errors or warning messages, a letter explaining each error or warning message signed by the same professional who completes the Compliance Statement
+During and After Construction
+- Build the project in accordance with the approved construction documents and the Chicago Construction Codes.
+- Perform commissioning and functional testing as required by Section C408.
+- Install a Thermal Envelope Certificate as required by Section C401.3.
+- Provide maintenance information to the building owner as required by Section C408.
+Prepare a report substantiating how the project complies with the prescriptive requirements of ASHRAE 90.1-2019 (Sections 5, 6, 7, 8, 9 and 10). The report must use the compliance forms from the 2019 edition of the 90.1 User Manual or an equivalent format. The report must be signed and sealed by an architect, professional engineer, or structural engineer licensed by the State of Illinois.
+Upload to ProjectDox
+- Construction documents that include all information required by Section 14A-4-411.3.13 of the Chicago Construction Codes Administrative Provisions
+- Completed 2022 Chicago Energy Transformation Code Compliance Statement
+- ASHRAE 90.1-2019 compliance report that is signed and sealed by an Illinois-licensed architect, professional engineer, or structural engineer
+During and After Construction
+- Build the project in accordance with the approved construction documents and the Chicago Construction Codes.
+- Perform verification, testing, and commissioning as required by Section 4.2.5 of ASHRAE 90.1-2019.
+- Install a Thermal Envelope Certificate as required by Section C401.3.
+Use simulation software to establish compliance with Section 11 of ASHRAE 90.1-2019.
+Upload to ProjectDox
+- Construction documents that include all information required by Section 14A-4-411.3.13 of the Chicago Construction Codes Administrative Provisions
+- Completed 2022 Chicago Energy Transformation Code Compliance Statement
+- Documentation complying with Section 11.7 of ASHRAE 90.1-2019
+- If the software-generated report includes any errors or warning messages, a letter explaining each error or warning message signed by the same professional who completes the Compliance Statement
+During and After Construction
+- Build the project in accordance with the approved construction documents and the Chicago Construction Codes.
+- Perform verification, testing, and commissioning as required by Section 4.2.5 of ASHRAE 90.1-2019.
+- Install a Thermal Envelope Certificate as required by Section C401.3.
+Use energy modeling software to establish compliance with Normative Appendix G of ASHRAE 90.1-2019 by comparing proposed building performance to baseline building performance.
+Upload to ProjectDox
+- Construction documents that include all information required by Section 14A-4-411.3.13 of the Chicago Construction Codes Administrative Provisions
+- Completed 2022 Chicago Energy Transformation Code Compliance Statement
+- Documentation complying with Section G1.3.2 of ASHRAE 90.1-2019
+- If the software-generated report includes any errors or warning messages, a letter explaining each error or warning message signed by the same professional who completes the Compliance Statement
+During and After Construction
+- Build the project in accordance with the approved construction documents and the Chicago Construction Codes.
+- Perform verification, testing, and commissioning as required by Section 4.2.5 of ASHRAE 90.1-2019.
+- Install a Thermal Envelope Certificate as required by Section C401.3.
+Use one of the Phius certification programs (either Phius CORE or Phius ZERO) to establish project compliance in accordance with the Phius 2021 Passive Building Standard Certification Guidebook, version 3.1.
+Upload to ProjectDox
+- Construction documents that include all information required by Section 14A-4-411.3.13 of the Chicago Construction Codes Administrative Provisions
+- Completed 2022 Chicago Energy Transformation Code Compliance Statement
+- A design certification letter, issued by Phius or another approved third-party certification organization, establishing that the design, as submitted, complies with the 2021 Phius Standard
+- A list of compliance features
+During and After Construction
+- Build the project in accordance with the approved construction documents and the Chicago Construction Codes.
+- Perform verification, testing, and commissioning as required by the Passive Building Standard Certification Guidebook.
+- Install a Thermal Envelope Certificate as required by Section C401.3.
+- Within 180 days of project competition, file written certification establishing that the project has been certified in accordance with the Passive Building Standard Certification Guidebook, including all co-requisite programs applicable to the project type, with the Department of Buildings. A $50 filing fee is required.
+Use the National Green Building Standard (NGBS) certification program to establish compliance. Compliance must be established at the “Gold” level under the 2020 edition.
+Upload to ProjectDox
+- Construction documents that include all information required by Section 14A-4-411.3.13 of the Chicago Construction Codes Administrative Provisions
+- Completed 2022 Chicago Energy Transformation Code Compliance Statement
+- Evidence that the project has been registered with a third-party certification organization that is approved to determine compliance with NGBS-2020
+- A list of compliance features that will achieve “Gold” level certification under NGBS-2020
+During and After Construction
+- Build the project in accordance with the approved construction documents and the Chicago Construction Codes.
+- Perform verification, testing, and commissioning as required by NGBS-2020.
+- Install a Thermal Envelope Certificate as required by Section C401.3.
+- Within 180 days of project competition, file written certification establishing that the project has achieved “Gold” level certification under NGBS-2020, with the Department of Buildings. A $50 filing fee is required.
+Use the National Green Building Standard (NGBS) certification program to establish compliance. Compliance must be established at the “Emerald” level under the 2020 edition.
+Upload to ProjectDox
+- Construction documents that include all information required by Section 14A-4-411.3.13 of the Chicago Construction Codes Administrative Provisions
+- Completed 2022 Chicago Energy Transformation Code Compliance Statement
+- Evidence that the project has been registered with a third-party certification organization that is approved to determine compliance with NGBS-2020
+- A list of compliance features that will achieve “Emerald” level certification under NGBS-2020
+During and After Construction
+- Build the project in accordance with the approved construction documents and the Chicago Construction Codes.
+- Perform verification, testing, and commissioning as required by NGBS-2020.
+- Install a Thermal Envelope Certificate as required by Section C401.3.
+- Within 180 days of project competition, file written certification establishing that the project has achieved “Emerald” level certification under NGBS-2020, with the Department of Buildings. A $50 filing fee is required.
+Compliance Methods (Residential)
+The residential provisions of the Chicago Energy Transformation Code apply to Group R-2, R-3, R-4, and R-5 occupancies with no more than four stories above grade plane. Residential projects must demonstrate compliance with the code using one of the following methods:
+Use the U.S. Department of Energy’s REScheck software to demonstrate compliance with the 2021 International Energy Conservation Code (IECC). The professional who completes the Compliance Statement is responsible for ensuring that the project meets additional requirements of the Chicago Energy Transformation Code that are not reflected in REScheck.
+Upload to ProjectDox
+- Construction documents that include all information required by Section 14A-4-411.3.13 of the Chicago Construction Codes Administrative Provisions
+- Completed 2022 Chicago Energy Transformation Code Compliance Statement
+- Compliance certificate generated from REScheck for IECC 2021
+During and After Construction
+- Build the project in accordance with the approved construction documents and the Chicago Construction Codes.
+- Perform testing as required by Sections R402.4.1.2 (building envelope) and R403.3.5 (ducts), as applicable.
+- Install an Energy Code Compliance Data Certificate as required by Section R401.3.
+Coming Soon! Starting in January 2023, the U.S. Department of Energy will allow users of REScheck to select the Chicago Energy Transformation Code as a compliance option.
+Prepare a report or narrative substantiating how the project complies with the prescriptive requirements of the Chicago Energy Transformation Code, including Sections R402 through R404. The report must be signed and sealed by an architect, professional engineer, or structural engineer licensed by the State of Illinois.
+Upload to ProjectDox
+- Construction documents that include all information required by Section 14A-4-411.3.13 of the Chicago Construction Codes Administrative Provisions
+- Completed 2022 Chicago Energy Transformation Code Compliance Statement
+- Energy Transformation Code compliance narrative or report that is signed and sealed by an Illinois-licensed architect, professional engineer, or structural engineer
+During and After Construction
+- Build the project in accordance with the approved construction documents and the Chicago Construction Codes.
+- Perform testing as required by Sections R402.4.1.2 (building envelope) and R403.3.5 (ducts), as applicable.
+- Install an Energy Code Compliance Data Certificate as required by Section R401.3.
+Use energy modeling software to establish compliance with Section R405 of the Chicago Energy Transformation Code.
+Upload to ProjectDox
+- Construction documents that include all information required by Section 14A-4-411.3.13 of the Chicago Construction Codes Administrative Provisions
+- Completed 2022 Chicago Energy Transformation Code Compliance Statement
+- Report, generated by energy-modeling software, showing compliance with Section R405
+- If the software-generated report includes any errors or warning messages, a letter explaining each error or warning message signed by the same professional who completes the Compliance Statement
+During and After Construction
+- Build the project in accordance with the approved construction documents and the Chicago Construction Codes.
+- Perform inspections and testing as necessary to obtain the Compliance Report required by Section R405.3.2.2.
+- Install an Energy Code Compliance Data Certificate as required by Section R401.3.
+- Within 180 days of project competition, file the Compliance Report required by Section R405.3.2.2 with the Department of Buildings. A $50 filing fee is required.
+Use a RESNET-compliant Energy Rating Index (ERI) Program, such as HERS, to establish compliance. ERI compliance requires obtaining third-party review of the proposed design before submitting for permitting and third-party inspections to confirm compliance after construction.
+Upload to ProjectDox
+- Construction documents that include all information required by Section 14A-4-411.3.13 of the Chicago Construction Codes Administrative Provisions
+- Completed 2022 Chicago Energy Transformation Code Compliance Statement
+- A pre-construction compliance report meeting the requirements of Section R406.7.2
+During and After Construction
+- Build the project in accordance with the approved construction documents and the Chicago Construction Codes.
+- Perform inspections and testing as necessary to obtain the Compliance Report required by Section R405.3.2.2.
+- Install an Energy Code Compliance Data Certificate as required by Section R401.3.
+- Within 180 days of project competition, file the Confirmed Compliance Report required by Section R406.7.2.2 with the Department of Buildings. A $50 filing fee is required.
+Use one of the Phius certification programs (either Phius CORE or Phius ZERO) to establish project compliance in accordance with the Phius 2021 Passive Building Standard Certification Guidebook, version 3.1.
+Upload to ProjectDox
+- Construction documents that include all information required by Section 14A-4-411.3.13 of the Chicago Construction Codes Administrative Provisions
+- Completed 2022 Chicago Energy Transformation Code Compliance Statement
+- A design certification letter, issued by Phius or another approved third-party certification organization, establishing that the design, as submitted, complies with the 2021 Phius Standard
+- A list of compliance features
+During and After Construction
+- Build the project in accordance with the approved construction documents and the Chicago Construction Codes.
+- Perform verification, testing, and commissioning as required by the Passive Building Standard Certification Guidebook.
+- Install an Energy Code Compliance Data Certificate as required by Section R401.3.
+- Within 180 days of project competition, file written certification establishing that the project has been certified in accordance with the Passive Building Standard Certification Guidebook, including all co-requisite programs applicable to the project type, with the Department of Buildings. A $50 filing fee is required.
+Use the National Green Building Standard (NGBS) certification program to establish compliance. Compliance must be established at the “Gold” level under the 2020 edition.
+Upload to ProjectDox
+- Construction documents that include all information required by Section 14A-4-411.3.13 of the Chicago Construction Codes Administrative Provisions
+- Completed 2022 Chicago Energy Transformation Code Compliance Statement
+- Evidence that the project has been registered with a third-party certification organization that is approved to determine compliance with NGBS-2020
+- A list of compliance features that will achieve “Gold” level certification under NGBS-2020
+During and After Construction
+- Build the project in accordance with the approved construction documents and the Chicago Construction Codes.
+- Perform verification, testing, and commissioning as required by NGBS-2020.
+- Install an Energy Code Compliance Data Certificate as required by Section R401.3.
+- Within 180 days of project competition, file written certification establishing that the project has achieved “Gold” level certification under NGBS-2020, with the Department of Buildings. A $50 filing fee is required.
+Use the National Green Building Standard (NGBS) certification program to establish compliance. Compliance must be established at the “Emerald” level under the 2020 edition.
+Upload to ProjectDox
+- Construction documents that include all information required by Section 14A-4-411.3.13 of the Chicago Construction Codes Administrative Provisions
+- Completed 2022 Chicago Energy Transformation Code Compliance Statement
+- Evidence that the project has been registered with a third-party certification organization that is approved to determine compliance with NGBS-2020
+- A list of compliance features that will achieve “Emerald” level certification under NGBS-2020
+During and After Construction
+- Build the project in accordance with the approved construction documents and the Chicago Construction Codes.
+- Perform verification, testing, and commissioning as required by NGBS-2020.
+- Install an Energy Code Compliance Data Certificate as required by Section R401.3.
+- Within 180 days of project competition, file written certification establishing that the project has achieved “Emerald” level certification under NGBS-2020, with the Department of Buildings. A $50 filing fee is required.
+Applies To
+Flat and low-sloped roofs (less than 2:12 or 17 percent slope) on new buildings or building additions with a ground-level footprint of at least 7,500 square feet and a building height of 60 feet or less, except:
+- Buildings with on-site renewable energy
+- Roofs with extensive shading
+- Buildings with extensive rooftop features
+- Apartment buildings with 3 or fewer stories
+Summary
+At least 40 percent of the available roof area must be designated as a solar-ready zone and designed with structural capacity to accommodate an additional weight (dead load) of at least 5 pounds per square foot. The construction documents must show a reasonable path for future installation of conduit from the solar-ready roof zone to the main electrical service panel. Floor space must be provided for future installation of an energy storage system (battery) and space must be reserved in the main electrical panel for future connection of on-site energy generation or energy storage equipment. A permanent certificate with information about the solar-ready zone must be installed near the main electrical panel or other building equipment.
+Effective Date
+Projects where the first building permit application is started on or after January 1, 2023
+Code Citation(s)
+Municipal Code of Chicago Sections 14N-C6-C603 and 14R-R6-R603 (Chicago Energy Transformation Code Sections C603 and R603)
+More Information
+Applies To
+New dwelling units, including single family homes, and common areas available to the residents of apartment buildings that are created through new construction or change of occupancy from non-residential to residential use
+Summary
+In new dwelling units with individual fuel-gas-fired appliances for indoor cooking, hot water heating, or clothes drying, adequate electrical capacity and wiring must be provided to make it easy to switch out the gas-fired appliance with an equivalent all-electric appliance in the future without additional construction or electrical work. The requirement also applies to fuel-gas-fired cooking equipment in a common area shared by residents of an apartment building.
+An outlet served by a 40-amp circuit is required adjacent to fuel-gas-fired indoor cooking appliances. An outlet served by a 30-amp circuit is required adjacent to fuel-gas-fired clothes dryers and hot water heaters. Additional floor space is required next to some types of fuel-gas-fired hot water heaters.
+Effective Date
+Projects where the first building permit application is started on or after January 1, 2023
+Code Citation(s)
+Municipal Code of Chicago Sections 14N-C6-C604 and 14R-R6-R604 (Chicago Energy Transformation Code Sections C604 and R604)
+More Information
+Applies To
+Exterior balconies and parapet walls in new construction buildings, except residential buildings with three or fewer dwelling units
+Summary
+When the structure of exterior balconies or parapet walls interrupts the required insulation in a building’s walls and roof (the building’s “thermal envelope”) it can lead to significant heat loss. This provision requires that exterior balconies and parapet walls either: (1) be provided with continuous insulation to bring them within the building thermal envelope; or (2) be constructed with a thermal break that will significantly reduce heat loss at the point of penetration.
+Effective Date
+Projects where the first building permit application is started on or after January 1, 2023
+Code Citation(s)
+Municipal Code of Chicago Sections 14N-C6-C605 and 14R-R6-R605 (Chicago Energy Transformation Code Sections C605 and R605)
+Applies To
+All permanently installed fuel-gas-fired lighting
+Summary
+New fuel-gas-fired lighting appliances may not be installed. Existing fuel-gas-fired lighting appliances may be maintained and repaired.
+Fuel-gas-fired lighting appliances include indoor and outdoor lamps, lanterns, and torches that produce light by burning a gaseous fuel such as methane (natural gas), or propane. This prohibition does not apply to fuel-gas-fired appliances that are primarily intended to provide heat such as fireplaces, fire pits, and patio heaters.
+Effective Date
+Projects where the first building permit application is started on or after November 1, 2022
+Code Citation(s)
+Municipal Code of Chicago Sections 14N-C6-C606 and 14R-R6-R606 (Chicago Energy Transformation Code Sections C606 and R606)
+Applies To
+All new roof covering material, including ballast, on roofs with a slope of less than 5:12 (41 percent), except: (1) walking surfaces of occupiable rooftops; (2) areas of vegetative roofs, roof gardens, and landscaped roofs; (3) photovoltaic and solar thermal equipment; and (4) roofs with a slope of at least 2:12 (17 percent) on historic buildings
+Summary
+New roof covering material must meet minimum requirements for solar reflectance. This requirement helps to reflect solar energy back toward the sky, reduce cooling loads for the building, and reduce the heat island effect.
+Effective Date
+Roof reflectance requirements were added to the Municipal Code in 2003. These requirements were recodified when the 2019 Chicago Building Code was adopted.
+Code Citation(s)
+Municipal Code of Chicago Section 14B-15-1515 (Chicago Building Code Section 1515)
+More Information
+Applies To
+- Projects where the first permit application is started on or before October 31, 2023: On-site parking areas that serve new construction buildings containing five or more dwelling units
+- Projects where the first permit application is started on or after November 1, 2023: On-site parking areas that serve new construction buildings containing one or more dwelling units (see below for more information)
+- Off-street parking areas with 30 or more parking spaces that serve new construction buildings containing any non-residential uses
+Summary
+At least 20 percent (and at least one) of the total parking spaces must be either EVSE-ready or EVSE-installed. For certain residential buildings where the first permit application is started on or after November 1, 2023, 100 percent of the parking spaces must be either EVSE-ready or EVSE-installed. (See below for more information.)
+EVSE-ready means having conduit and wiring for a 40-ampere, 208- or 240-volt dedicated branch circuit terminating at a receptacle or junction box adjacent to the parking space.
+EVSE-installed means having a 40-ampere, 208- or 240-volt dedicated branch circuit terminating at a Level 2 electric vehicle charging unit adjacent to the parking space.
+Effective Date
+EVSE-ready requirements were added to the Chicago Zoning Ordinance in 2019 and apply to projects where the first permit application was started on or after November 1, 2020.
+Code Citation(s)
+Municipal Code of Chicago Sections 17-10-1011, 17-17-0251.5-D, 17-17-0251.5-E (Chicago Zoning Ordinance Sections 17-10-1011, 17-17-0251.5-D, 17-17-0251.5-E)
+
+--- SOURCE: https://www.chicago.gov/city/en/depts/bldgs/supp_info/chicago-energy-conservation-code.html ---
+Chicago Energy Transformation Code
+The 2022 Chicago Energy Transformation Code, based on the 2021 edition of the International Energy Conservation Code, applies to projects where the first permit application is started on or after November 1, 2022. Additional requirements of this code will apply to projects where the first permit application is started on or after January 1, 2023.
+The 2019 Chicago Energy Conservation Code, based on the 2018 edition of the International Energy Conservation Code, applies to permit applications started between June 1, 2019, and October 31, 2022, as well as subsequent phases of projects where the first phase permit is subject to this code.
+Required Energy Code Compliance Statement
+For every permit application that requires architectural plans, an Illinois-licensed architect or engineer who is familiar with the project and the applicable Chicago energy code requirements must complete an Energy Code Compliance Statement, using forms provided by the Department of Buildings.
+The completed Compliance Statement must be submitted along with the supporting documents as part of the permit application process.
+In ProjectDox, please upload the completed Compliance Statement and supporting documents to the following folder:
+Document Submittals > Energy Conservation Compliance
+For the latest forms, please visit visit chicago.gov/permit.
+Summary of Compliance Methods
+There are multiple methods for demonstrating compliance with the 2022 Chicago Energy Transformation Code. The Department of Buildings has prepared the following summary of requirements for each compliance method to assist permit applicants. Different compliance methods are available for nontransient residential buildings up to 4 stories (Group R-2, R-3, R-4 and R-5 occupancies) and all other projects.
+Compliance Methods (Commercial)
+The commercial provisions of the Chicago Energy Transformation Code apply to all projects other than Group R-2, R-3, R-4, and R-5 occupancies with no more than four stories above grade plane. Commercial projects must demonstrate compliance with the code using one of the following methods:
+Use the U.S. Department of Energy’s COMcheck software to demonstrate compliance with the 2021 International Energy Conservation Code (IECC). The professional who completes the Compliance Statement is responsible for ensuring that the project meets additional requirements of the Chicago Energy Transformation Code that are not reflected in COMcheck.
+Upload to ProjectDox
+- Construction documents that include all information required by Section 14A-4-411.3.13 of the Chicago Construction Codes Administrative Provisions
+- Completed 2022 Chicago Energy Transformation Code Compliance Statement
+- Compliance certificate generated from COMcheck for IECC 2021
+During and After Construction
+- Build the project in accordance with the approved construction documents and the Chicago Construction Codes.
+- Perform commissioning and functional testing as required by Sections C402.5.3 and C408, as applicable.
+- Install a Thermal Envelope Certificate as required by Section C401.3.
+- Provide maintenance information to the building owner as required by Section C408.
+Use the U.S. Department of Energy’s COMcheck software to demonstrate compliance with the 2019 edition of ASHRAE 90.1: Energy Standard for Buildings Except Low-Rise Residential Buildings. The professional who completes the Compliance Statement is responsible for ensuring that the project meets additional requirements of the Chicago Energy Transformation Code that are not reflected in COMcheck.
+Upload to ProjectDox
+- Construction documents that include all information required by Section 14A-4-411.3.13 of the Chicago Construction Codes Administrative Provisions
+- Completed 2022 Chicago Energy Transformation Code Compliance Statement
+- Compliance certificate generated from COMcheck for ASHRAE 90.1-2019
+During and After Construction
+- Build the project in accordance with the approved construction documents and the Chicago Construction Codes.
+- Perform verification, testing, and commissioning as required by Section 4.2.5 of ASHRAE 90.1-2019.
+- Install a Thermal Envelope Certificate as required by Section C401.3.
+Coming Soon! Starting in January 2023, the U.S. Department of Energy will allow users of COMcheck to select the Chicago Energy Transformation Code as a compliance option.
+Prepare a report or narrative substantiating how the project complies with the prescriptive requirements of the Chicago Energy Transformation Code, including Sections C402 through C406. The report must be signed and sealed by an architect, professional engineer, or structural engineer licensed by the State of Illinois.
+Upload to ProjectDox
+- Construction documents that include all information required by Section 14A-4-411.3.13 of the Chicago Construction Codes Administrative Provisions
+- Completed 2022 Chicago Energy Transformation Code Compliance Statement
+- Energy Transformation Code compliance narrative or report that is signed and sealed by an Illinois-licensed architect, professional engineer, or structural engineer
+During and After Construction
+- Build the project in accordance with the approved construction documents and the Chicago Construction Codes.
+- Perform commissioning and functional testing as required by Sections C402.5.3 and C408, as applicable.
+- Install a Thermal Envelope Certificate as required by Section C401.3.
+- Provide maintenance information to the building owner as required by Section C408.
+Use energy modeling software to establish compliance with Section C407 of the Chicago Energy Transformation Code.
+Upload to ProjectDox
+- Construction documents that include all information required by Section 14A-4-411.3.13 of the Chicago Construction Codes Administrative Provisions
+- Completed 2022 Chicago Energy Transformation Code Compliance Statement
+- Report, generated by energy-modeling software, showing compliance with Section C407
+- If the software-generated report includes any errors or warning messages, a letter explaining each error or warning message signed by the same professional who completes the Compliance Statement
+During and After Construction
+- Build the project in accordance with the approved construction documents and the Chicago Construction Codes.
+- Perform commissioning and functional testing as required by Section C408.
+- Install a Thermal Envelope Certificate as required by Section C401.3.
+- Provide maintenance information to the building owner as required by Section C408.
+Prepare a report substantiating how the project complies with the prescriptive requirements of ASHRAE 90.1-2019 (Sections 5, 6, 7, 8, 9 and 10). The report must use the compliance forms from the 2019 edition of the 90.1 User Manual or an equivalent format. The report must be signed and sealed by an architect, professional engineer, or structural engineer licensed by the State of Illinois.
+Upload to ProjectDox
+- Construction documents that include all information required by Section 14A-4-411.3.13 of the Chicago Construction Codes Administrative Provisions
+- Completed 2022 Chicago Energy Transformation Code Compliance Statement
+- ASHRAE 90.1-2019 compliance report that is signed and sealed by an Illinois-licensed architect, professional engineer, or structural engineer
+During and After Construction
+- Build the project in accordance with the approved construction documents and the Chicago Construction Codes.
+- Perform verification, testing, and commissioning as required by Section 4.2.5 of ASHRAE 90.1-2019.
+- Install a Thermal Envelope Certificate as required by Section C401.3.
+Use simulation software to establish compliance with Section 11 of ASHRAE 90.1-2019.
+Upload to ProjectDox
+- Construction documents that include all information required by Section 14A-4-411.3.13 of the Chicago Construction Codes Administrative Provisions
+- Completed 2022 Chicago Energy Transformation Code Compliance Statement
+- Documentation complying with Section 11.7 of ASHRAE 90.1-2019
+- If the software-generated report includes any errors or warning messages, a letter explaining each error or warning message signed by the same professional who completes the Compliance Statement
+During and After Construction
+- Build the project in accordance with the approved construction documents and the Chicago Construction Codes.
+- Perform verification, testing, and commissioning as required by Section 4.2.5 of ASHRAE 90.1-2019.
+- Install a Thermal Envelope Certificate as required by Section C401.3.
+Use energy modeling software to establish compliance with Normative Appendix G of ASHRAE 90.1-2019 by comparing proposed building performance to baseline building performance.
+Upload to ProjectDox
+- Construction documents that include all information required by Section 14A-4-411.3.13 of the Chicago Construction Codes Administrative Provisions
+- Completed 2022 Chicago Energy Transformation Code Compliance Statement
+- Documentation complying with Section G1.3.2 of ASHRAE 90.1-2019
+- If the software-generated report includes any errors or warning messages, a letter explaining each error or warning message signed by the same professional who completes the Compliance Statement
+During and After Construction
+- Build the project in accordance with the approved construction documents and the Chicago Construction Codes.
+- Perform verification, testing, and commissioning as required by Section 4.2.5 of ASHRAE 90.1-2019.
+- Install a Thermal Envelope Certificate as required by Section C401.3.
+Use one of the Phius certification programs (either Phius CORE or Phius ZERO) to establish project compliance in accordance with the Phius 2021 Passive Building Standard Certification Guidebook, version 3.1.
+Upload to ProjectDox
+- Construction documents that include all information required by Section 14A-4-411.3.13 of the Chicago Construction Codes Administrative Provisions
+- Completed 2022 Chicago Energy Transformation Code Compliance Statement
+- A design certification letter, issued by Phius or another approved third-party certification organization, establishing that the design, as submitted, complies with the 2021 Phius Standard
+- A list of compliance features
+During and After Construction
+- Build the project in accordance with the approved construction documents and the Chicago Construction Codes.
+- Perform verification, testing, and commissioning as required by the Passive Building Standard Certification Guidebook.
+- Install a Thermal Envelope Certificate as required by Section C401.3.
+- Within 180 days of project competition, file written certification establishing that the project has been certified in accordance with the Passive Building Standard Certification Guidebook, including all co-requisite programs applicable to the project type, with the Department of Buildings. A $50 filing fee is required.
+Use the National Green Building Standard (NGBS) certification program to establish compliance. Compliance must be established at the “Gold” level under the 2020 edition.
+Upload to ProjectDox
+- Construction documents that include all information required by Section 14A-4-411.3.13 of the Chicago Construction Codes Administrative Provisions
+- Completed 2022 Chicago Energy Transformation Code Compliance Statement
+- Evidence that the project has been registered with a third-party certification organization that is approved to determine compliance with NGBS-2020
+- A list of compliance features that will achieve “Gold” level certification under NGBS-2020
+During and After Construction
+- Build the project in accordance with the approved construction documents and the Chicago Construction Codes.
+- Perform verification, testing, and commissioning as required by NGBS-2020.
+- Install a Thermal Envelope Certificate as required by Section C401.3.
+- Within 180 days of project competition, file written certification establishing that the project has achieved “Gold” level certification under NGBS-2020, with the Department of Buildings. A $50 filing fee is required.
+Use the National Green Building Standard (NGBS) certification program to establish compliance. Compliance must be established at the “Emerald” level under the 2020 edition.
+Upload to ProjectDox
+- Construction documents that include all information required by Section 14A-4-411.3.13 of the Chicago Construction Codes Administrative Provisions
+- Completed 2022 Chicago Energy Transformation Code Compliance Statement
+- Evidence that the project has been registered with a third-party certification organization that is approved to determine compliance with NGBS-2020
+- A list of compliance features that will achieve “Emerald” level certification under NGBS-2020
+During and After Construction
+- Build the project in accordance with the approved construction documents and the Chicago Construction Codes.
+- Perform verification, testing, and commissioning as required by NGBS-2020.
+- Install a Thermal Envelope Certificate as required by Section C401.3.
+- Within 180 days of project competition, file written certification establishing that the project has achieved “Emerald” level certification under NGBS-2020, with the Department of Buildings. A $50 filing fee is required.
+Compliance Methods (Residential)
+The residential provisions of the Chicago Energy Transformation Code apply to Group R-2, R-3, R-4, and R-5 occupancies with no more than four stories above grade plane. Residential projects must demonstrate compliance with the code using one of the following methods:
+Use the U.S. Department of Energy’s REScheck software to demonstrate compliance with the 2021 International Energy Conservation Code (IECC). The professional who completes the Compliance Statement is responsible for ensuring that the project meets additional requirements of the Chicago Energy Transformation Code that are not reflected in REScheck.
+Upload to ProjectDox
+- Construction documents that include all information required by Section 14A-4-411.3.13 of the Chicago Construction Codes Administrative Provisions
+- Completed 2022 Chicago Energy Transformation Code Compliance Statement
+- Compliance certificate generated from REScheck for IECC 2021
+During and After Construction
+- Build the project in accordance with the approved construction documents and the Chicago Construction Codes.
+- Perform testing as required by Sections R402.4.1.2 (building envelope) and R403.3.5 (ducts), as applicable.
+- Install an Energy Code Compliance Data Certificate as required by Section R401.3.
+Coming Soon! Starting in January 2023, the U.S. Department of Energy will allow users of REScheck to select the Chicago Energy Transformation Code as a compliance option.
+Prepare a report or narrative substantiating how the project complies with the prescriptive requirements of the Chicago Energy Transformation Code, including Sections R402 through R404. The report must be signed and sealed by an architect, professional engineer, or structural engineer licensed by the State of Illinois.
+Upload to ProjectDox
+- Construction documents that include all information required by Section 14A-4-411.3.13 of the Chicago Construction Codes Administrative Provisions
+- Completed 2022 Chicago Energy Transformation Code Compliance Statement
+- Energy Transformation Code compliance narrative or report that is signed and sealed by an Illinois-licensed architect, professional engineer, or structural engineer
+During and After Construction
+- Build the project in accordance with the approved construction documents and the Chicago Construction Codes.
+- Perform testing as required by Sections R402.4.1.2 (building envelope) and R403.3.5 (ducts), as applicable.
+- Install an Energy Code Compliance Data Certificate as required by Section R401.3.
+Use energy modeling software to establish compliance with Section R405 of the Chicago Energy Transformation Code.
+Upload to ProjectDox
+- Construction documents that include all information required by Section 14A-4-411.3.13 of the Chicago Construction Codes Administrative Provisions
+- Completed 2022 Chicago Energy Transformation Code Compliance Statement
+- Report, generated by energy-modeling software, showing compliance with Section R405
+- If the software-generated report includes any errors or warning messages, a letter explaining each error or warning message signed by the same professional who completes the Compliance Statement
+During and After Construction
+- Build the project in accordance with the approved construction documents and the Chicago Construction Codes.
+- Perform inspections and testing as necessary to obtain the Compliance Report required by Section R405.3.2.2.
+- Install an Energy Code Compliance Data Certificate as required by Section R401.3.
+- Within 180 days of project competition, file the Compliance Report required by Section R405.3.2.2 with the Department of Buildings. A $50 filing fee is required.
+Use a RESNET-compliant Energy Rating Index (ERI) Program, such as HERS, to establish compliance. ERI compliance requires obtaining third-party review of the proposed design before submitting for permitting and third-party inspections to confirm compliance after construction.
+Upload to ProjectDox
+- Construction documents that include all information required by Section 14A-4-411.3.13 of the Chicago Construction Codes Administrative Provisions
+- Completed 2022 Chicago Energy Transformation Code Compliance Statement
+- A pre-construction compliance report meeting the requirements of Section R406.7.2
+During and After Construction
+- Build the project in accordance with the approved construction documents and the Chicago Construction Codes.
+- Perform inspections and testing as necessary to obtain the Compliance Report required by Section R405.3.2.2.
+- Install an Energy Code Compliance Data Certificate as required by Section R401.3.
+- Within 180 days of project competition, file the Confirmed Compliance Report required by Section R406.7.2.2 with the Department of Buildings. A $50 filing fee is required.
+Use one of the Phius certification programs (either Phius CORE or Phius ZERO) to establish project compliance in accordance with the Phius 2021 Passive Building Standard Certification Guidebook, version 3.1.
+Upload to ProjectDox
+- Construction documents that include all information required by Section 14A-4-411.3.13 of the Chicago Construction Codes Administrative Provisions
+- Completed 2022 Chicago Energy Transformation Code Compliance Statement
+- A design certification letter, issued by Phius or another approved third-party certification organization, establishing that the design, as submitted, complies with the 2021 Phius Standard
+- A list of compliance features
+During and After Construction
+- Build the project in accordance with the approved construction documents and the Chicago Construction Codes.
+- Perform verification, testing, and commissioning as required by the Passive Building Standard Certification Guidebook.
+- Install an Energy Code Compliance Data Certificate as required by Section R401.3.
+- Within 180 days of project competition, file written certification establishing that the project has been certified in accordance with the Passive Building Standard Certification Guidebook, including all co-requisite programs applicable to the project type, with the Department of Buildings. A $50 filing fee is required.
+Use the National Green Building Standard (NGBS) certification program to establish compliance. Compliance must be established at the “Gold” level under the 2020 edition.
+Upload to ProjectDox
+- Construction documents that include all information required by Section 14A-4-411.3.13 of the Chicago Construction Codes Administrative Provisions
+- Completed 2022 Chicago Energy Transformation Code Compliance Statement
+- Evidence that the project has been registered with a third-party certification organization that is approved to determine compliance with NGBS-2020
+- A list of compliance features that will achieve “Gold” level certification under NGBS-2020
+During and After Construction
+- Build the project in accordance with the approved construction documents and the Chicago Construction Codes.
+- Perform verification, testing, and commissioning as required by NGBS-2020.
+- Install an Energy Code Compliance Data Certificate as required by Section R401.3.
+- Within 180 days of project competition, file written certification establishing that the project has achieved “Gold” level certification under NGBS-2020, with the Department of Buildings. A $50 filing fee is required.
+Use the National Green Building Standard (NGBS) certification program to establish compliance. Compliance must be established at the “Emerald” level under the 2020 edition.
+Upload to ProjectDox
+- Construction documents that include all information required by Section 14A-4-411.3.13 of the Chicago Construction Codes Administrative Provisions
+- Completed 2022 Chicago Energy Transformation Code Compliance Statement
+- Evidence that the project has been registered with a third-party certification organization that is approved to determine compliance with NGBS-2020
+- A list of compliance features that will achieve “Emerald” level certification under NGBS-2020
+During and After Construction
+- Build the project in accordance with the approved construction documents and the Chicago Construction Codes.
+- Perform verification, testing, and commissioning as required by NGBS-2020.
+- Install an Energy Code Compliance Data Certificate as required by Section R401.3.
+- Within 180 days of project competition, file written certification establishing that the project has achieved “Emerald” level certification under NGBS-2020, with the Department of Buildings. A $50 filing fee is required.
+Applies To
+Flat and low-sloped roofs (less than 2:12 or 17 percent slope) on new buildings or building additions with a ground-level footprint of at least 7,500 square feet and a building height of 60 feet or less, except:
+- Buildings with on-site renewable energy
+- Roofs with extensive shading
+- Buildings with extensive rooftop features
+- Apartment buildings with 3 or fewer stories
+Summary
+At least 40 percent of the available roof area must be designated as a solar-ready zone and designed with structural capacity to accommodate an additional weight (dead load) of at least 5 pounds per square foot. The construction documents must show a reasonable path for future installation of conduit from the solar-ready roof zone to the main electrical service panel. Floor space must be provided for future installation of an energy storage system (battery) and space must be reserved in the main electrical panel for future connection of on-site energy generation or energy storage equipment. A permanent certificate with information about the solar-ready zone must be installed near the main electrical panel or other building equipment.
+Effective Date
+Projects where the first building permit application is started on or after January 1, 2023
+Code Citation(s)
+Municipal Code of Chicago Sections 14N-C6-C603 and 14R-R6-R603 (Chicago Energy Transformation Code Sections C603 and R603)
+More Information
+Applies To
+New dwelling units, including single family homes, and common areas available to the residents of apartment buildings that are created through new construction or change of occupancy from non-residential to residential use
+Summary
+In new dwelling units with individual fuel-gas-fired appliances for indoor cooking, hot water heating, or clothes drying, adequate electrical capacity and wiring must be provided to make it easy to switch out the gas-fired appliance with an equivalent all-electric appliance in the future without additional construction or electrical work. The requirement also applies to fuel-gas-fired cooking equipment in a common area shared by residents of an apartment building.
+An outlet served by a 40-amp circuit is required adjacent to fuel-gas-fired indoor cooking appliances. An outlet served by a 30-amp circuit is required adjacent to fuel-gas-fired clothes dryers and hot water heaters. Additional floor space is required next to some types of fuel-gas-fired hot water heaters.
+Effective Date
+Projects where the first building permit application is started on or after January 1, 2023
+Code Citation(s)
+Municipal Code of Chicago Sections 14N-C6-C604 and 14R-R6-R604 (Chicago Energy Transformation Code Sections C604 and R604)
+More Information
+Applies To
+Exterior balconies and parapet walls in new construction buildings, except residential buildings with three or fewer dwelling units
+Summary
+When the structure of exterior balconies or parapet walls interrupts the required insulation in a building’s walls and roof (the building’s “thermal envelope”) it can lead to significant heat loss. This provision requires that exterior balconies and parapet walls either: (1) be provided with continuous insulation to bring them within the building thermal envelope; or (2) be constructed with a thermal break that will significantly reduce heat loss at the point of penetration.
+Effective Date
+Projects where the first building permit application is started on or after January 1, 2023
+Code Citation(s)
+Municipal Code of Chicago Sections 14N-C6-C605 and 14R-R6-R605 (Chicago Energy Transformation Code Sections C605 and R605)
+Applies To
+All permanently installed fuel-gas-fired lighting
+Summary
+New fuel-gas-fired lighting appliances may not be installed. Existing fuel-gas-fired lighting appliances may be maintained and repaired.
+Fuel-gas-fired lighting appliances include indoor and outdoor lamps, lanterns, and torches that produce light by burning a gaseous fuel such as methane (natural gas), or propane. This prohibition does not apply to fuel-gas-fired appliances that are primarily intended to provide heat such as fireplaces, fire pits, and patio heaters.
+Effective Date
+Projects where the first building permit application is started on or after November 1, 2022
+Code Citation(s)
+Municipal Code of Chicago Sections 14N-C6-C606 and 14R-R6-R606 (Chicago Energy Transformation Code Sections C606 and R606)
+Applies To
+All new roof covering material, including ballast, on roofs with a slope of less than 5:12 (41 percent), except: (1) walking surfaces of occupiable rooftops; (2) areas of vegetative roofs, roof gardens, and landscaped roofs; (3) photovoltaic and solar thermal equipment; and (4) roofs with a slope of at least 2:12 (17 percent) on historic buildings
+Summary
+New roof covering material must meet minimum requirements for solar reflectance. This requirement helps to reflect solar energy back toward the sky, reduce cooling loads for the building, and reduce the heat island effect.
+Effective Date
+Roof reflectance requirements were added to the Municipal Code in 2003. These requirements were recodified when the 2019 Chicago Building Code was adopted.
+Code Citation(s)
+Municipal Code of Chicago Section 14B-15-1515 (Chicago Building Code Section 1515)
+More Information
+Applies To
+- Projects where the first permit application is started on or before October 31, 2023: On-site parking areas that serve new construction buildings containing five or more dwelling units
+- Projects where the first permit application is started on or after November 1, 2023: On-site parking areas that serve new construction buildings containing one or more dwelling units (see below for more information)
+- Off-street parking areas with 30 or more parking spaces that serve new construction buildings containing any non-residential uses
+Summary
+At least 20 percent (and at least one) of the total parking spaces must be either EVSE-ready or EVSE-installed. For certain residential buildings where the first permit application is started on or after November 1, 2023, 100 percent of the parking spaces must be either EVSE-ready or EVSE-installed. (See below for more information.)
+EVSE-ready means having conduit and wiring for a 40-ampere, 208- or 240-volt dedicated branch circuit terminating at a receptacle or junction box adjacent to the parking space.
+EVSE-installed means having a 40-ampere, 208- or 240-volt dedicated branch circuit terminating at a Level 2 electric vehicle charging unit adjacent to the parking space.
+Effective Date
+EVSE-ready requirements were added to the Chicago Zoning Ordinance in 2019 and apply to projects where the first permit application was started on or after November 1, 2020.
+Code Citation(s)
+Municipal Code of Chicago Sections 17-10-1011, 17-17-0251.5-D, 17-17-0251.5-E (Chicago Zoning Ordinance Sections 17-10-1011, 17-17-0251.5-D, 17-17-0251.5-E)

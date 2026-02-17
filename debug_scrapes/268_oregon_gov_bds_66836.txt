@@ -1,0 +1,358 @@
+--- SOURCE: http://www.portlandoregon.gov/bds/66836 ---
+Translate this Page
+What property owners should know
+Hire a solar contractor
+A solar contractor will apply for permits and coordinate inspections.
+Need help choosing one? Visit Choosing a Contractor on the Energy Trust of Oregon's website.
+What to expect during the application process
+- The contractor will need the property owner's phone number and email address.
+- The contractor will need to look at the roof to determine the type of permit needed.
+- Applications are reviewed in the order in which they are received. Check your place in the Daily Permit Request List to find out more about the current order of permit requests.
+Track the status of your permit
+After your contractor applies, there are various ways to track its progress. See Step 4: Check your permit status.
+Step 1: Research rules that apply to a site
+Find out what rules apply to the property using PortlandMaps.
+Special rules may apply if the property is located in a plan district, historic, or conservation district. Visit how to research the zoning that applies to your project.
+Meet with City staff to answer your permit-related questions. Schedule a free 15-minute question appointment with a:
+- City planner
+- Permit technician
+- Building code and engineering reviewer
+- Fire safety expert
+Step 2: Determine which solar permit path to take
+There are two different review processes for solar permits: the prescriptive process and the engineered systems process. To determine if a structure meets prescriptive standards, you will need to assess the roof construction and be prepared to answer a series of questions when you apply for your solar permit. You can preview and prepare for the application questions using the solar worksheet.
+Solar installations utilizing solar roof tiles should follow the engineered systems process.
+- Solar energy systems that meet the prescriptive installation path described in the state building code are not required to be designed by an Oregon-registered design professional.
+- Solar energy systems not meeting the prescriptive path will follow the engineered systems process. Engineered systems must be designed by an Oregon-registered design professional. Solar installations utilizing solar roof tiles are not required to be designed by an Oregon Registered Design professional provided (1) the net installed weight of the system, including all components above the roof sheathing, is less than or equal to 4 psf., (2) solar tiles are installed directly over existing sheathing by removing all existing roofing material above the existing sheathing, and (3) all solar tiles (both active and inactive tiles) shall be uniformly supported over the existing sheathing.
+- Learn more about the engineered systems process in these Guidelines for Residential Solar Permits using Engineered Systems.
+- Structural Design Requirements for Solar Installations apply only to projects following the engineered systems process. It does not apply to uniformly supported solar tile installations.
+- Please note that projects that follow the engineered systems process may have a longer permit review timeline.
+Step 3: Apply for a solar permit
+Submit your complete solar permit request online through Development Hub PDX (DevHub).
+All plans must be drawn to scale.
+Not allowed:
+- No sketches
+- No Google Maps images
+- No photographs
+All solar permit applications must include the following materials uploaded in Adobe Acrobat (.pdf) format:
+- The Structural Design Criteria. The structural design criteria shall be listed on the first page of the drawings which shall be stamped by a Registered Design Professional, registered in Oregon. At a minimum, the design criteria shall include:
+- Design sloped roof snow load (shall not be less than 20 psf),
+- Basic design wind speed (min. 98 mph) and exposure category, and
+- Solar panel system dead load.
+- For solar installations utilizing solar roof tiles that are not required to be designed by an Oregon registered design professional, clearly indicate that (1) the net installed weight of the system including all components above the roof sheathing is less than or equal to 4 psf., (2) solar tiles are installed directly over existing sheathing by removing all existing roofing material above the existing sheathing, and (3) a statement that the installation shall meet the requirements of section 1507.16 of the 2022 Oregon Structural Specialty Code or section 905.16 of the 2021 Oregon Residential Specialty Code.
+- Site Plan
+- Fire Access Path (Not required for solar tile installations)
+- A roof framing plan (Roof framing plan is not required if the roof is framed using pre-engineered trusses and for solar installations utilizing solar tiles. Instead, provide a roof plan showing the layout of the solar panels.)
+- A roof cross-section (Roof cross-section is not required if the roof is framed using pre-engineered trusses and for solar installations utilizing solar tile installations.)
+- System Racking Attachment (required for both Engineered and Prescriptive Pathways)
+- Engineering calculations stamped by an Oregon-registered design professional are required for all Engineered systems. Exception: Calculations are not required for solar installations utilizing solar roof tiles provided (1) the net installed weight of the system including all components above the roof sheathing is less than or equal to 4 psf., (2) solar tiles are installed directly over existing sheathing by removing all existing roofing material above the existing sheathing, and (3) all solar tiles (both active and inactive tiles) shall be uniformly supported over the existing sheathing. Instead, a letter certifying that the installation meets the requirements of section 1507.16 of the 2022 Oregon Structural Specialty Code or section 905.16 of the 2021 Oregon Residential Specialty Code may be uploaded along with the manufacturer’s installation requirements.
+Your permit request will be assigned an IVR number during this request review process.
+Step 4: Check your permit status
+City permit bureaus review project plans for compliance with local and state development codes. Depending on the project, different review groups check each project.
+To learn how to track the status of your permit, visit the Check Permit Status page.
+Step 5: Respond to corrections
+You may need to make corrections to the plans you submit. Visit the page, "How to Prepare and Submit Permit Application Corrections Electronically," to find out how to submit corrections correctly through the Single PDF Process. If minimal submittal requirements are not met, corrections will be rejected.
+The Single PDF process is different than the ePlans process. For ePlans submittals through Project Dox, visit our ePlans page.
+Step 6: Pre-Issuance
+Pre-issuance is the last step before your permit is final. We will do the following:
+- We review plans to see what changes were made. We also make sure the changes do not require another review.
+- If changes occur during the review process, the reviewers will be notified – this will show on PortlandMaps.com as "Hold see comments."
+- Review that fees are accurate.
+The final review and next steps
+- This review is completed in chronological order based on the sign-off date of the last technical review.
+- Once your pre-issuance check is completed, we'll contact you. We'll let you know that the permit is ready to issue and about any fees due.
+You can find the contact information of the permit technician assigned to your permit on PortlandMaps.
+Step 7: Inspections
+Once your permit is approved and construction is underway, you will need to call for an inspection. A City inspector will come to the project site and review the installation for compliance with state building codes.
+Learn more and watch the video about how to schedule and how to prepare for a solar inspection.
+Step 8 (if required): Requesting a Permit Revision
+Sometimes it is necessary to revise approved permit plans to address issues that arise during construction after a permit has been issued. Most changes to approved permit plans will require an application for a permit revision. If you are unsure whether a change requires a permit revision, speak with your City inspector for clarification.
+Click here for detailed information on how to apply for a permit revision. After you have logged into your DevHub account, select “Apply for a New Permit” and then select “Building Permit Request.” Although you are applying to revise a solar permit application, DO NOT select “Solar Permit Request.” Select “Building Permit Request” and follow the steps for How to apply for a permit revision on DevHub.
+Solar permit fee estimates
+The fees listed in the table below are estimates. Final permit fees depend on the size and type of solar panel system as well as the review process (prescriptive process or engineered system). Fees for an electrical or plumbing permit depend on the system size or fixture count on a trade permit application.
+Prescriptive estimate
+| System Type | Estimated Building Permit Fees | Estimated Electrical Permit Fees |
+|---|---|---|
+| P.V. 3.5 kW | $576.00 | $187.00 |
+| P.V. 5.5 kW | $576.00 | $265.00 |
+| Water Heating | $576.00 | $143.00 |
+Engineered Systems estimate
+| System Type | Estimated Building Permit Fees | Estimated Electrical Permit Fees |
+|---|---|---|
+| P.V. 3.5 kW | $770.00 | $187.00 |
+| P.V. 5.5 kW | $770.00 | $265.00 |
+| Water Heating | $770.00 | $143.00 |
+Small Business Empowerment Program
+The Small Business Empowerment Program assists Black, Indigenous, and people of color business owners and business owners with disabilities recognized by the ADA who have experienced barriers in the review process.
+Working with utility companies
+Oregon law allows all utility customers to generate their own electricity. You can also reduce electricity bills by installing a photovoltaic energy system. Your utility provider will switch out your existing utility meter for a bidirectional “net” meter. This tracks the power you get from the utility, and what you send back to the grid.
+The power you use from your utility is offset by the power you send to the grid and you are only charged for the difference or the “net.” You may generate more power than you use in a billing period. Then your bill will show no kilowatt-hour usage charges, and you'll only be responsible for basic utility service charges. For more information visit Solar Net Metering – Energy Trust of Oregon.
+
+--- SOURCE: https://www.portland.gov/ppd/solar-development ---
+Solar Energy Development
+Solar development initiatives for residential and commercial projects in the City of Portland.
+Contact
+Contact
+General Inquiries
+Portland Permitting & Development503-823-7300The phone is answered Monday through Friday from 8 a.m. to 5 p.m. Please leave a message if you call outside of those hours.
+711Oregon Relay Service
+
+--- SOURCE: https://www.portland.gov/ppd/solar-development/solar-permits ---
+Translate this Page
+What property owners should know
+Hire a solar contractor
+A solar contractor will apply for permits and coordinate inspections.
+Need help choosing one? Visit Choosing a Contractor on the Energy Trust of Oregon's website.
+What to expect during the application process
+- The contractor will need the property owner's phone number and email address.
+- The contractor will need to look at the roof to determine the type of permit needed.
+- Applications are reviewed in the order in which they are received. Check your place in the Daily Permit Request List to find out more about the current order of permit requests.
+Track the status of your permit
+After your contractor applies, there are various ways to track its progress. See Step 4: Check your permit status.
+Step 1: Research rules that apply to a site
+Find out what rules apply to the property using PortlandMaps.
+Special rules may apply if the property is located in a plan district, historic, or conservation district. Visit how to research the zoning that applies to your project.
+Meet with City staff to answer your permit-related questions. Schedule a free 15-minute question appointment with a:
+- City planner
+- Permit technician
+- Building code and engineering reviewer
+- Fire safety expert
+Step 2: Determine which solar permit path to take
+There are two different review processes for solar permits: the prescriptive process and the engineered systems process. To determine if a structure meets prescriptive standards, you will need to assess the roof construction and be prepared to answer a series of questions when you apply for your solar permit. You can preview and prepare for the application questions using the solar worksheet.
+Solar installations utilizing solar roof tiles should follow the engineered systems process.
+- Solar energy systems that meet the prescriptive installation path described in the state building code are not required to be designed by an Oregon-registered design professional.
+- Solar energy systems not meeting the prescriptive path will follow the engineered systems process. Engineered systems must be designed by an Oregon-registered design professional. Solar installations utilizing solar roof tiles are not required to be designed by an Oregon Registered Design professional provided (1) the net installed weight of the system, including all components above the roof sheathing, is less than or equal to 4 psf., (2) solar tiles are installed directly over existing sheathing by removing all existing roofing material above the existing sheathing, and (3) all solar tiles (both active and inactive tiles) shall be uniformly supported over the existing sheathing.
+- Learn more about the engineered systems process in these Guidelines for Residential Solar Permits using Engineered Systems.
+- Structural Design Requirements for Solar Installations apply only to projects following the engineered systems process. It does not apply to uniformly supported solar tile installations.
+- Please note that projects that follow the engineered systems process may have a longer permit review timeline.
+Step 3: Apply for a solar permit
+Submit your complete solar permit request online through Development Hub PDX (DevHub).
+All plans must be drawn to scale.
+Not allowed:
+- No sketches
+- No Google Maps images
+- No photographs
+All solar permit applications must include the following materials uploaded in Adobe Acrobat (.pdf) format:
+- The Structural Design Criteria. The structural design criteria shall be listed on the first page of the drawings which shall be stamped by a Registered Design Professional, registered in Oregon. At a minimum, the design criteria shall include:
+- Design sloped roof snow load (shall not be less than 20 psf),
+- Basic design wind speed (min. 98 mph) and exposure category, and
+- Solar panel system dead load.
+- For solar installations utilizing solar roof tiles that are not required to be designed by an Oregon registered design professional, clearly indicate that (1) the net installed weight of the system including all components above the roof sheathing is less than or equal to 4 psf., (2) solar tiles are installed directly over existing sheathing by removing all existing roofing material above the existing sheathing, and (3) a statement that the installation shall meet the requirements of section 1507.16 of the 2022 Oregon Structural Specialty Code or section 905.16 of the 2021 Oregon Residential Specialty Code.
+- Site Plan
+- Fire Access Path (Not required for solar tile installations)
+- A roof framing plan (Roof framing plan is not required if the roof is framed using pre-engineered trusses and for solar installations utilizing solar tiles. Instead, provide a roof plan showing the layout of the solar panels.)
+- A roof cross-section (Roof cross-section is not required if the roof is framed using pre-engineered trusses and for solar installations utilizing solar tile installations.)
+- System Racking Attachment (required for both Engineered and Prescriptive Pathways)
+- Engineering calculations stamped by an Oregon-registered design professional are required for all Engineered systems. Exception: Calculations are not required for solar installations utilizing solar roof tiles provided (1) the net installed weight of the system including all components above the roof sheathing is less than or equal to 4 psf., (2) solar tiles are installed directly over existing sheathing by removing all existing roofing material above the existing sheathing, and (3) all solar tiles (both active and inactive tiles) shall be uniformly supported over the existing sheathing. Instead, a letter certifying that the installation meets the requirements of section 1507.16 of the 2022 Oregon Structural Specialty Code or section 905.16 of the 2021 Oregon Residential Specialty Code may be uploaded along with the manufacturer’s installation requirements.
+Your permit request will be assigned an IVR number during this request review process.
+Step 4: Check your permit status
+City permit bureaus review project plans for compliance with local and state development codes. Depending on the project, different review groups check each project.
+To learn how to track the status of your permit, visit the Check Permit Status page.
+Step 5: Respond to corrections
+You may need to make corrections to the plans you submit. Visit the page, "How to Prepare and Submit Permit Application Corrections Electronically," to find out how to submit corrections correctly through the Single PDF Process. If minimal submittal requirements are not met, corrections will be rejected.
+The Single PDF process is different than the ePlans process. For ePlans submittals through Project Dox, visit our ePlans page.
+Step 6: Pre-Issuance
+Pre-issuance is the last step before your permit is final. We will do the following:
+- We review plans to see what changes were made. We also make sure the changes do not require another review.
+- If changes occur during the review process, the reviewers will be notified – this will show on PortlandMaps.com as "Hold see comments."
+- Review that fees are accurate.
+The final review and next steps
+- This review is completed in chronological order based on the sign-off date of the last technical review.
+- Once your pre-issuance check is completed, we'll contact you. We'll let you know that the permit is ready to issue and about any fees due.
+You can find the contact information of the permit technician assigned to your permit on PortlandMaps.
+Step 7: Inspections
+Once your permit is approved and construction is underway, you will need to call for an inspection. A City inspector will come to the project site and review the installation for compliance with state building codes.
+Learn more and watch the video about how to schedule and how to prepare for a solar inspection.
+Step 8 (if required): Requesting a Permit Revision
+Sometimes it is necessary to revise approved permit plans to address issues that arise during construction after a permit has been issued. Most changes to approved permit plans will require an application for a permit revision. If you are unsure whether a change requires a permit revision, speak with your City inspector for clarification.
+Click here for detailed information on how to apply for a permit revision. After you have logged into your DevHub account, select “Apply for a New Permit” and then select “Building Permit Request.” Although you are applying to revise a solar permit application, DO NOT select “Solar Permit Request.” Select “Building Permit Request” and follow the steps for How to apply for a permit revision on DevHub.
+Solar permit fee estimates
+The fees listed in the table below are estimates. Final permit fees depend on the size and type of solar panel system as well as the review process (prescriptive process or engineered system). Fees for an electrical or plumbing permit depend on the system size or fixture count on a trade permit application.
+Prescriptive estimate
+| System Type | Estimated Building Permit Fees | Estimated Electrical Permit Fees |
+|---|---|---|
+| P.V. 3.5 kW | $576.00 | $187.00 |
+| P.V. 5.5 kW | $576.00 | $265.00 |
+| Water Heating | $576.00 | $143.00 |
+Engineered Systems estimate
+| System Type | Estimated Building Permit Fees | Estimated Electrical Permit Fees |
+|---|---|---|
+| P.V. 3.5 kW | $770.00 | $187.00 |
+| P.V. 5.5 kW | $770.00 | $265.00 |
+| Water Heating | $770.00 | $143.00 |
+Small Business Empowerment Program
+The Small Business Empowerment Program assists Black, Indigenous, and people of color business owners and business owners with disabilities recognized by the ADA who have experienced barriers in the review process.
+Working with utility companies
+Oregon law allows all utility customers to generate their own electricity. You can also reduce electricity bills by installing a photovoltaic energy system. Your utility provider will switch out your existing utility meter for a bidirectional “net” meter. This tracks the power you get from the utility, and what you send back to the grid.
+The power you use from your utility is offset by the power you send to the grid and you are only charged for the difference or the “net.” You may generate more power than you use in a billing period. Then your bill will show no kilowatt-hour usage charges, and you'll only be responsible for basic utility service charges. For more information visit Solar Net Metering – Energy Trust of Oregon.
+
+--- SOURCE: https://www.portland.gov/es/ppd/solar-development/permiso-para-instalaciones-solares ---
+Traduzca esta Pagina
+Lo que deben saber los propietarios
+Contratar a un contratista de energía solar
+Un contratista de instalaciones solares solicitará los permisos y coordinará las inspecciones. ¿Necesita ayuda para elegir uno? Visite Selección de un contratista en el sitio web de Energy Trust of Oregon.
+Qué sucederá durante el proceso de solicitud
+- El contratista necesitará el número de teléfono y la dirección de correo electrónico del propietario.
+- El contratista tendrá que ver el tejado para determinar el tipo de permiso necesario.
+- Las solicitudes se revisan en el orden en que se reciben. Consulte la Lista Diaria de Solicitudes de Permiso para conocer el orden actual de las solicitudes de permiso.
+Descargue el archivo PDF Lista diaria de solicitudes de permiso
+Cómo realizar el seguimiento de su solicitud de permiso
+Una vez presentada la solicitud, hay varias formas de realizar el seguimiento de la misma. Consulte el Paso 4: Consulte el estado de su solicitud de permiso.
+Paso 1: Investigue las normas vigentes en un lugar
+Averigüe en línea qué normas rigen en la zona de la propiedad para un proyecto solar utilizando Portland Maps. Si la propiedad está situada en un distrito de planificación, histórico o de conservación, puede haber normas específicas para ese distrito. Visite esta página para obtener más información sobre cómo investigar la zonificación que corresponde a su proyecto.
+El personal de la ciudad está disponible para reunirse y responder a sus preguntas relacionadas con los permisos. Obtenga más información sobre nuestras citas gratuitas de 15 minutos para responder preguntas y programe una reunión con un planificador municipal, un técnico de permisos, un revisor de códigos de construcción e ingeniería o un experto en seguridad contra incendios.
+Paso 2: Determine qué proceso debe seguir para solicitar el permiso para instalaciones solares
+Existen dos procesos de revisión diferentes para los permisos para instalaciones solares: el proceso prescriptivo y el proceso de sistemas diseñados. Para determinar si una estructura cumple las normas prescriptivas, tendrá que evaluar la construcción del tejado y estar preparado para responder a una serie de preguntas cuando solicite el permiso. Puede ver y prepararse para las preguntas de la solicitud utilizando la hoja de trabajo para solicitar permisos para instalaciones solares.
+Descargue el archivo PDF Hoja de trabajo para solicitar permisos para instalaciones solares
+- Los sistemas de energía solar que cumplen con el proceso de instalación prescriptiva descrita en el código de construcción del estado no necesitan ser diseñados por un profesional de diseño registrado en Oregón.
+- Los sistemas de energía solar que no cumplan con el proceso de instalación prescriptiva seguirán el proceso de sistemas de ingeniería. Los sistemas de ingeniería deben ser diseñados por un profesional de diseño registrado en Oregón.
+- Obtenga más información sobre el proceso de sistemas de ingeniería en estas Directivas para los permisos de energía solar residencial mediante sistemas de ingeniería.
+- Los requisitos de diseño estructural para instalaciones solares deben cumplirse únicamente en los proyectos que siguen el proceso de sistemas de ingeniería.
+- Tenga en cuenta que los proyectos que siguen el proceso de sistemas de ingeniería pueden tener un plazo de revisión de permisos más largo.
+Paso 3: Solicite un permiso de instalación de dispositivos solares
+Envíe su solicitud de permiso de instalación solar completado en línea utilizando Development Hub PDX (DevHub).
+Descargar archivo PDF Guía para la solicitud de instalación solar
+Después de enviar la solicitud de permiso, nos pondremos en contacto con usted en el plazo de uno o dos días laborables si necesitamos más información.
+Todas las solicitudes para permisos solares deben incluir los siguientes materiales, descargados en formato Adobe Acrobat (.pdf):
+-
+El criterio de diseño estructural. El criterio de diseño estructural deberá listarse en la primera página de los esquemas, que deberán sellarse por un Profesional de diseño registrado en Oregón.
+Como mínimo, el criterio de diseño deberá incluir:
+- Diseño de inclinación de tejado para carga de nieve (no será de menos de 20 psf).
+- Diseño básico para velocidad eólica (min. 98 mph) y categoría de exposición y
+- carga de peso del sistema de paneles solares. - Plano del sitio
+- Camino de acceso para bomberos
+- Un plano de la estructura del techo (el plano de la estructura del techo no es necesario si el techo está construido con vigas prediseñadas)
+- Una sección transversal del techo (la sección transversal del techo no es necesaria si el techo está construido con vigas prediseñadas)
+- Sistema de fijación de bastidores (necesario tanto para el proceso de ingeniería como para el prescriptivo)
+- Descargar archivo PDF Solicitud de permiso de energía eléctrica renovable
+Paso 4: Revise el estado de su permiso
+Los departamentos de permisos de la ciudad revisan los planos del proyecto para el cumplimiento con los códigos de desarrollo locales y estatales. Dependiendo del proyecto, diferentes grupos revisan cada proyecto.
+Para obtener más información sobre cómo seguir el estado de su permiso, visite la página "Comprobar el estado del permiso", que también ofrece orientación y un breve video sobre cómo utilizar Portland Maps.
+Paso 5: Responder a las correcciones
+Es posible que tenga que hacer correcciones a los planos que presente. Visite la página "Cómo preparar y presentar correcciones a la solicitud de permiso de forma electrónica" para saber cómo presentar correcciones correctamente utilizando el proceso de PDF único. Si no se cumplen los requisitos mínimos de presentación, las correcciones serán rechazadas.
+El proceso de PDF único es diferente del proceso de ePlans. Para la presentación de ePlans mediante Project Dox, visite nuestra página de información sobre ePlans.
+Paso 6: Emisión previa
+La emisión previa es el último paso antes de que su permiso sea definitivo. Haremos lo siguiente:
+- Revisamos los planos para ver qué cambios se han hecho. También nos aseguramos de que los cambios no requieran otra revisión.
+- Si se producen cambios durante el proceso de revisión, se notificará a los revisores - esto se mostrará en PortlandMaps.com como "Detenido Ver comentarios".
+- Compruebe que las tarifas sean correctas.
+Cuándo se realiza la revisión final y los siguientes pasos para su permiso
+- Esta revisión se completa en orden cronológico según la fecha de aprobación de la última revisión técnica.
+- Una vez completada la revisión previa a la emisión del permiso, nos pondremos en contacto con usted. Le informaremos cuando el permiso esté listo y las tasas que deberá pagar.
+Puede encontrar la información de contacto del técnico asignado a su permiso en Portland Maps.
+Paso 7: Inspecciones
+Una vez aprobado el permiso y cuando esté en marcha la construcción, deberá solicitar una inspección. Un inspector de la ciudad irá al lugar del proyecto e inspeccionará la instalación para comprobar que cumpla con los códigos de construcción del estado.
+Obtenga más información y vea el video sobre cómo programar y prepararse para una inspección de instalación solar.
+Paso 8 (si es preciso): Solicitando la revisión de un permiso.
+A veces es necesario revisar los planes de un permiso aprobado para abordar problemas que emergen durante la construcción, después de que se ha concedido un permiso. La mayoría de los cambios a planes de permisos aprobados requieren una solicitud para la revisión del permiso. Si no está seguro de si un cambio requiere una revisión de permiso, hable con su inspector de la ciudad para que se lo clarifique.
+Haga clic aquí para obtener información detallada sobre cómo entregar una solicitud para la revisión de un permiso. Después de que haya ingresado en su cuenta de DevHub, seleccione ·solicitud para un nuevo permiso" y después seleccione "petición para un permiso de construcción." Aunque está pidiendo revisar la solicitud de un permiso solar NO seleccione la opción "petición para un permiso solar." Seleccione "petición para un permiso de construcción" y siga los pasos para Cómo solicitar la revisión de un permiso en DevHub.
+Cálculos aproximados de las tasas de los permisos de instalaciones solares
+Las tasas indicadas en la tabla siguiente son estimaciones.
+Las tarifas finales de los permisos dependen del tamaño y del tipo de sistema de paneles solares, así como del proceso de revisión (proceso prescriptivo o sistema de ingeniería). Las tarifas de los permisos de electricidad o plomería dependen del tamaño del sistema o del número de accesorios en la solicitud de permiso comercia.
+Cálculo del proceso prescriptivo
+| Tipo de sistema | Tarifas estimadas del permiso de construcción | Tarifas estimadas del permiso eléctrico |
+|---|---|---|
+| P.V. 3,5 kW |
+$576.00 | $187.00 |
+| P.V. 5,5 kW |
+$576.00 | $265.00 |
+| Calentamiento de agua |
+$576.00 | $143.00 |
+Cálculo aproximado de los sistemas de ingeniería
+| System Type | Estimated Building Permit Fees | Estimated Electrical Permit Fees |
+|---|---|---|
+| P.V. 3,5 kW |
+$770.00 | $187.00 |
+| P.V. 5,5 kW |
+$770.00 | $265.00 |
+| Calentamiento de agua |
+$770.00 | $143.00 |
+Programa de empoderamiento para pequeñas empresas
+El Programa de empoderamiento de pequeñas empresas ayuda a los propietarios de negocios negros, indígenas y personas de color y a los propietarios de negocios, con discapacidades reconocidas por la ADA, que han tenido problemas durante el proceso de revisión.
+Trabajar junto con las empresas de servicios públicos
+La ley de Oregón permite a todos los clientes de empresas de servicios públicos generar su propia electricidad. También puede reducir las facturas de electricidad instalando un sistema de energía fotovoltaica. Su compañía eléctrica cambiará su medidor actual por un medidor "neto" bidireccional. Este medidor registra la energía que usted recibe de la compañía eléctrica y la que devuelve a la red.
+La energía que utiliza de su empresa de suministro se compensa con la que envía a la red y solo se le cobra la diferencia o el consumo "neto". Puede generar más energía de la que utiliza en un periodo de facturación. En ese caso, su factura no mostrará cargos por uso de kilovatios/hora y solo será responsable de los cargos básicos del servicio público. Para obtener más información, visite Solar Net Metering – Energy Trust of Oregon.
+
+--- SOURCE: https://www.portland.gov/ru/ppd/solar-development/razresheniya-na-ustanovku-sistem-solnechnoy-energii ---
+Перевести эту Cтраницу
+Что должен знать владелец недвижимости?
+Нанять подрядчика для установки солнечных батарей
+Подрядчик для установки солнечных батарей подает заявления на разрешение и координирует инспекции. Вам требуется помощь в поиске подрядчика? Посетите раздел "Как выбрать подрядчика" на сайте Energy Trust of Oregon.
+Что проводится во время процесса рассмотрения заявок
+- Подрядчику потребуется номер телефона и адрес электронной почты домовладельца.
+- Подрядчику потребуется проверить крышу для того, чтобы установить надлежащий тип разрешения.
+- Заявки рассматриваются в порядке их получения. Проверьте свою очередь в Ежедневном списке запроса разрешений, чтобы определить свой текущий номер в очереди запросов на разрешения.
+Скачать PDF-файл Daily Permit Request List
+Как отслеживать статус вашего разрешения
+После подачи заявки можно разными способами отслеживать ход ее рассмотрения. Смотрите Этап 4: Проверить статус разрешения.
+Этап 1: Изучите правила, применимые к каждой территории.
+Узнайте, какие правила применимы в зоне недвижимости к реализации проекта солнечной энергии, онлайн с помощью карт Портленда Portland Maps. Если объекты недвижимости находятся в плановом районе, историческом районе или в районе консервации, то к ним могут оказаться применимыми особые правила. Посетите эту страницу для получения дополнительной информации о том, как изучить зонирование, применимое к вашему проекту.
+Сотрудники городского управления готовы встретиться и ответить на ваши вопросы, связанные с разрешением. Узнайте подробнее о наших бесплатных 15-минутных встречах и запланируйте встречу с планировщиком городской администрации, специалистом по разрешениям, рецензентом по вопросам строительного кодекса и инженерным вопросам или экспертом по пожарной безопасности.
+Этап 2: Определите, какой процесс для установки солнечных систем лучше выбрать.
+Существует два различных процесса рассмотрения разрешений на установки систем солнечной энергии: предписывающий процесс и процесс спроектированных систем. Чтобы определить, соответствует ли конструкция нормам предписывающего процесса, вам нужно будет оценить конструкцию крыши и быть готовым ответить на ряд вопросов при подаче заявки на получение разрешения на установку систем солнечной энергии. Вы можете просмотреть и подготовиться к вопросам по заявке с помощью рабочей таблицы для солнечных систем.
+Скачать PDF-файл Solar Worksheet
+- Системам солнечной энергии, соответствующим требованиям предписывающего процесса установки, приведенного в строительном кодексе штата, не требуется, чтобы они были спроектированы профессиональным конструктором/проектировщиком, зарегистрированным в штате Орегон.
+- Системы солнечной энергии, не соответствующие требованиям предписывающего процесса, будут проектироваться в соответствии с требованиями процесса спроектированных систем. Требуется, чтобы спроектированные системы проектировались профессиональным конструктором, зарегистрированным в штате Орегон.
+- Дополнительная информация о процессе спроектированных систем содержится в этих Инструкциях по разрешениям на установку систем солнечной энергии в жилых домах с использованием спроектированных систем.
+- Требования к конструкции проекта для установок солнечной энергии применимы только к проектам, следующим процессу спроектированных систем.
+- Учтите, пожалуйста, что проекты, следующие процессу спроектированных систем, могут потребовать более длительного срока рассмотрения.
+Этап 3: Подача заявки на разрешение для установки систем солнечной энергии
+Подавайте заполненную заявку на разрешение установки системы солнечной энергии онлайн на сайте Development Hub PDX (DevHub).
+Скачать PDF-файлSolar Application Guide
+После того, как вы подадите заявку на разрешение, мы обратимся к вам в течение 1-2 рабочих дней, если потребуется дополнительная информация.
+Все заявления для получения разрешения на установку систем солнечной энергии должны включать следующие материалы, загруженные в формате Adobe Acrobat (.pdf).
+- Критерии строительного проектирования. Критерии строительного проектирования должны быть указаны на первой странице чертежей, на которой должна иметься печать зарегистрированного в штате Орегон специалиста по проектированию. Как минимум, критерии проектирования должны включать следующее:
+- Расчетная снеговая нагрузка на наклонную крышу (должна быть не менее 20 фунтов/кв. фут),
+- Базовая расчетная скорость ветра (не менее 98 миль/час) и категория воздействия, и
+- Собственный вес системы панелей солнечных батарей.
+- План местности
+- Подъездной путь для пожарных машин
+- План каркаса крыши (план каркаса крыши не требуется, если крыша обрамлена с использованием предварительно спроектированных ферм)
+- Поперечное сечение крыши (поперечное сечение крыши не требуется, если крыша обрамлена с использованием предварительно спроектированных ферм)
+- Крепление для стеллажей системы (требуется как для спроектированного, так и для предписывающего процесса)
+- Скачать PDF-файлElectrical Renewable Energy Permit Application
+Скачать PDF-файл Plumbing Permit Application
+После отправки запроса на получение разрешения через DevHub ваша заявка будет рассмотрена специалистом по выдаче разрешений, чтобы убедиться, что предоставленная вами информация соответствует минимальным нормам подачи заявок. Вашему запросу на получение разрешения будет присвоен номер IVR во время процесса рассмотрения запроса.
+Этап 4: Проверка статуса разрешения
+Бюро выдачи разрешений города рассматривают планы проектов на предмет соответствия строительным правилам и нормам штата и города. В зависимости от проекта, каждый проект рассматривают различные группы экспертов.
+Чтобы узнать подробнее о том, как отслеживать статус вашего разрешения, посетите страницу "Проверить статус разрешения", в которой также содержатся руководство и короткое видео о том, как пользоваться картами Портленда.
+Этап 5: Ответ на поправки
+К представленному вами плану могут потребоваться поправки. Посетите страницу "Как подготовить и представить поправки к заявлению на разрешение в электронном виде/How to Prepare and Submit Permit Application Corrections Electronically", чтобы узнать правильный способ ввода поправок с помощью процесса Single PDF Process. Если не будут выполнены минимальные требования по предоставлению поправок, поправки не будут приняты.
+Процесс "Single PDF process" отличается от процесса "ePlans." Для предоставления ePlans посредством Project Dox смотрите: информационную страницу о ePlans.
+Этап 6: Предвыпуск
+Предвыпуск - это последний этап перед окончательной выдачей разрешения. Мы выполним следующие шаги:
+- Мы проверим планы, чтобы узнать, какие изменения были внесены. Мы также удостоверимся в том, что внесенные изменения не приведут к дополнительному рассмотрению.
+- Если изменения появятся в процессе рассмотрения, то занимающиеся рассмотрением специалисты будут уведомлены об этом. Это будет отражено на PortlandMaps.com в виде "‘Hold see comments.’" (Подождите, посмотрите примечания).
+- Проверьте точность указанных платежей.
+Когда проводится окончательное рассмотрение, а также последующие этапы получения разрешения.
+- Это рассмотрение проводится в хронологическом порядке на основании даты подписания заключительного технического рассмотрения.
+- Мы выйдем на связь с вами после завершения проверки для предвыпуска. Мы сообщим вам о том, что разрешение готово к выдаче, а также о том, требуются ли какие-либо дополнительные платежи.
+Вы сможете найти контактную информацию специалиста, работающего над вашим разрешением, на Portland Maps.
+Этап 7: Инспекции/осмотры
+Когда разрешение будет утверждено, и начнутся строительные работы, вам нужно будет позвонить и назначить инспекцию. Инспектор городской службы прибудет на объект работ по проекту и проверит установку на соответствие строительным кодексам штата.
+Для дополнительной информации смотрите видео о том, как назначить инспекцию установки системы солнечной энергии и как к ней подготовиться.
+Этап 8 (если требуется): запрос пересмотра разрешения
+В некоторых случаях возникает необходимость в пересмотре утвержденных планов для решения вопросов, возникающих в ходе строительства после выдачи разрешения. Большинство изменений, вносимых в утвержденные планы, требуют подачи заявления на пересмотр разрешения. Если вы не уверены в том, что то или иное изменение требует пересмотра разрешения, обратитесь за разъяснениями к городскому инспектору (City inspector).
+Нажмите здесь для получения подробной информации о том, как подать заявление на пересмотр разрешения. После входа в учетную запись DevHub выберите Apply for a New Permit (Подать заявку на новое разрешение), а затем выберите Building Permit Request (Запрос разрешения на проведение строительных работ). Хотя вы подаете запрашиваете пересмотр разрешения на установку систем солнечной энергии, НЕ выбирайте Solar Permit Request (Запрос разрешения на установку систем солнечной энергии). Выберите Building Permit Request (Запрос разрешения на проведение строительных работ) и следуйте шагам раздела How to apply for a permit revision on DevHub (Как подать заявление на пересмотр разрешения на DevHub).
+Предварительная оценка оплаты разрешения на установку системы солнечной энергии.
+Расценки, приведенные в таблице, являются предварительными. Оплата разрешения зависит от габаритов и типа системы солнечных батарей, а также от вида процесса рассмотрения (предписывающего или для спроектированных систем). Платежи за разрешения на электричество или сантехнику зависят от габаритов системы или от количества приспособлений/устройств в заявке на производственную лицензию.
+Предварительная оценка (предписывающий вариант рассмотрения)
+| Тип системы | Разрешение на проведение строительных работ | Разрешение на проведение электротехнических работ |
+|---|---|---|
+| P.V. 3.5 кВт |
+$576.00 | $187.00 |
+| P.V. 5.5 кВт |
+$576.00 | $265.00 |
+| Водяное отопление | $576.00 | $143.00 |
+Предварительная оценка (вариант спроектированных систем)
+| Тип системы | Разрешение на проведение строительных работ | Разрешение на проведение электротехнических работ |
+|---|---|---|
+| P.V. 3.5 кВт |
+$770.00 | $187.00 |
+| P.V. 5.5 кВт |
+$770.00 | $265.00 |
+| Водяное отопление | $770.00 | $143.00 |
+Программа расширения прав и возможностей малого бизнеса
+Программа расширения прав и возможностей малого бизнеса помогает бизнесменам афроамериканского и цветного происхождения, представителям коренных народов и лицам с инвалидностями, признанными Американским законом об инвалидности (ADA), которые столкнулись с препятствиями в процессе рассмотрения.
+Работа с компаниями коммунальных услуг
+По закону штата Орегон все заказчики коммунальных услуг имеют право на выработку собственной электроэнергии. Вы сможете сократить счёт за электричество, если установите фотоэлектрическую систему энергии. Ваш поставщик коммунальных услуг переключит вас на двунаправленный "чистый" (net) счётчик. Таким образом отслеживается энергия, получаемая от коммунальных служб и передающаяся обратно от вас в энергосистему.
+Энергия, получаемая вами от коммунальных служб, компенсируется энергией, вырабатываемой вами и поступающей в энергосистему, и вы оплачиваете только "чистую" (net) разницу. Вы сможете вырабатывать большее количество энергии, чем потреблять за расчётный период. Тогда на вашем счету не будет указано количество потребляемой энергии в киловаттах, и вы будете оплачивать только базовые коммунальные услуги. За дополнительной информацией обращайтесь к Solar Net Metering – Energy Trust of Oregon.
