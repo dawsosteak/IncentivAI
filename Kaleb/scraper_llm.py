@@ -11,17 +11,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 # Constants
-OLLAMA_MODEL = "gemma:latest"  # User specified gemma3, usually mapped to gemma:2b, 7b etc. Using 'gemma:latest' or 'gemma2' is safer if 'gemma3' isn't exact. 
-# Note: 'gemma3' might be a typo for 'llama3' or a very new model. I will use 'gemma:latest' as a fallback if 'gemma3' fails, but let's try to stick to user request if possible or standard 'gemma'.
-# Actually, let's use a variable we can easily change.
-# If the user specifically said "gemma3", they might mean the 3rd iteration or a specific tag. 
-# Standard tags are usually 'gemma', 'gemma:2b', 'gemma:7b'. 
-# UPDATE: Google just released Gemma 2. There is no Gemma 3 yet (as of early 2025 knowledge). 
-# The user might mean Llama 3 or maybe they have a custom model named gemma3. 
-# I will use "gemma" as default but allow override.
-# Let's try to use "gemma" and if it fails, we catch it.
-# Constants
-OLLAMA_MODEL = "gemma:2b"
+OLLAMA_MODEL = "qwen2.5"
 
 def extract_data_with_ollama(text_content: str, model_name: str = OLLAMA_MODEL) -> Dict[str, str]:
     """
@@ -36,12 +26,14 @@ def extract_data_with_ollama(text_content: str, model_name: str = OLLAMA_MODEL) 
             "notes": "Scraped content was empty or too short."
         }
         
-    # 1. Truncate but keep a bit more context if possible, max 6000 chars is usually safe for Gemma.
-    truncated_text = text_content[:6000] 
+    # 1. Truncate but keep more context for Qwen (32k context window), leaving room for prompt/response.
+    truncated_text = text_content[:25000] 
 
     # 2. Construct a prompt
     prompt = f"""
-    Analyze the text below to find energy rebate/incentive information.
+    Analyze the text below to find energy rebate/incentive information. 
+    If there are multiple incentives, add them all. If a source is not available, leave it blank. 
+    If information is not found, use "Not specified".
     
     TEXT:
     \"\"\"
@@ -64,6 +56,8 @@ def extract_data_with_ollama(text_content: str, model_name: str = OLLAMA_MODEL) 
     Notes: ...
     """
 
+    # Use the structured prompt below for better extraction results
+        
     try:
         response = ollama.chat(model=model_name, messages=[{'role': 'user', 'content': prompt}])
         content = response['message']['content']
@@ -142,7 +136,7 @@ def main():
         df_urls = pd.read_excel(excel_path, header=None)
         urls = df_urls[0].tolist()
         # Limit to first 30 for testing/demo purposes 
-        urls_to_process = urls[:30] 
+        urls_to_process = urls[10:30] 
         logger.info(f"Processing {len(urls_to_process)} URLs...")
     except Exception as e:
         logger.error(f"Error reading Excel: {e}")
