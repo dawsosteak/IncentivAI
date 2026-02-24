@@ -1,0 +1,553 @@
+--- SOURCE (PDF): http://longbeach.gov/sustainability/media-library/documents/urban-living/builidings-and-neighborhoods/greenbuildingpolicy/ ---
+ 1
+City of Long Beach Green Building Policy 
+for Municipal Buildings 
+ 
+ 
+ 
+1 Purpose 
+ 
+The City of Long Beach’s 2010 Citywide Strategic Plan identifies “Becoming a Sustainable City” 
+as a primary strategic goal.  More specifically the Strategic Plan calls upon the City to “Develop 
+Green Building Development Guidelines to ensure  aesthetic and environmental compatibility of 
+new projects.”
+1
+  The strategic plan also calls for related sustainable City goals including:  ensuring 
+environmental responsibility in all City purch ases and contracts; using full-cost accounting in 
+decision making; establishing a sustainable City board; developing baseline data and benchmarks 
+against which program progress will be measured;  and using financial incentives to motivate 
+participation in sustainability initiatives.  Th is Green Building Policy has been developed in 
+response to the City’s sustainability goals as articulated in the 2010 Citywide Strategic Plan. 
+ 
+1.1 Municipal Building Focus 
+ 
+By focusing on municipal buildings, this Gr een Building Policy demonstrates the City’s 
+commitment to environmental, economic, and social  stewardship, to cost savings for the City’s 
+taxpayers through reduced operating costs, to a h ealthy work environment for staff and visitors, 
+and to the City’s goals of protecting, conser ving, and enhancing the region’s environmental 
+resources.  Through the implementation of Green Building Guidelines, the City’s new 
+construction, remodel and tenant improvement projects will help to set a community standard and 
+model of sustainable building. 
+ 
+The City of Long Beach is dedicated to devel opment that accomplishes a wide range of City 
+goals, including providing housing that matches th e City’s income distribution, facilitating job 
+creation and retention, preserving historic build ings, and developing vibrant communities in 
+which to live, work and play.  Incorporating green building techniques and, more broadly, 
+sustainable development goals into City deve lopment projects complements and affirms the 
+City’s other priorities.  Making buildings more efficient also lowers operating costs, provides a 
+better environment in which to work and liv e, and translates into a more productive and 
+competitive work force. 
+ 
+1.2   Why Build Green? 
+ 
+Whether we are working, learning, playing, or simply spending time with our friends and 
+families, our time is increasingly spent inside a building.  In fact, the United States Environmental 
+Protection Agency estimates that Americans spend about 90 percent of their time indoors.  Often 
+without our awareness, buildings and their supporting infrastructure affect our personal 
+interactions, our health, our environment, and our economy. 
+ 
+                                                     
+ 
+1
+ Long Beach 2010 Strategic Plan, Page 26 
+ 2
+The building industry is the largest manufacturing activity in the United States.  According to the 
+United States Department of Energy’s Center of Excellence for Sustainable Development, 
+buildings in the United States consume over 30 pe rcent of America’s energy, 67 percent of all 
+electricity, and produce over 35 percent of the nation’s carbon dioxide emissions (the chief 
+greenhouse gas).  In California, buildings genera te about 30 percent of the State’s solid waste 
+materials.  In addition buildings are a major s ource of the pollution that causes urban air quality 
+problems and the pollutants that many scientists believe cause climate change.  Traditional 
+building practices allow such environmental degrad ation and resource inefficiency by failing to 
+integrate essential design elements at the outset.   
+ 
+Green building, by contrast, prescribes a holistic, integrated design approach, in which the project 
+team – architects, interior designers, engineers, operations and maintenance staff, occupants, and 
+the client – view the building as a whole system.  From the start, design, construction, operations 
+and maintenance, and demolition are considered a nd evaluated to optimize the environmental and 
+economic performance of the building.  This involves evaluating the building and its components 
+over the entire life cycle of the building in order to accurately measure its economic, 
+environmental and social costs. 
+ 
+The built environment has a profound impact on our  natural environment, economy, health, and 
+productivity.  Green building practices provide the fra mework and tools to build in an efficient, 
+healthy, and ecologically responsible manner.  Encouraging green building practices is in the 
+public’s interest because these techniques maximize environmental, economic and social benefits.  
+Specific benefits include: 
+ 
+Social Benefits 
+ Improved air, thermal, and acoustic environments 
+ Enhanced occupant comfort, well being and health 
+ Increased worker productivity  
+ Reduced employer liability due to healthier indoor environments 
+ Promotion of Long Beach’s energy, land use, environmental and growth-management 
+policies 
+ Strengthened established goals related to increased housing, mixed-use and transit oriented 
+development, storm water and erosion control, Brownfield redevelopment, and improved 
+bicycle and pedestrian access 
+ Contributions to community health, vitality and aesthetics 
+ 
+Economic Benefits 
+ Annual savings to building owners/tenants through reduced operation costs and increased 
+operation and maintenance efficiencies of 20 to 60 percent over conventional buildings 
+ Enhanced asset value and profits 
+ Improved employee productivity and satisfaction 
+ Creation of new local industries and jobs, by keeping construction dollars in the local 
+community 
+ 
+Environmental Benefits 
+ Minimization of local ecological degradation (h abitat, air, soil, and water) by enhancing 
+and protecting natural habitats  through efficient site and building design, sustainable 
+construction practices, low impact building materials, sustainable landscaping, and 
+operational practices 
+ 3
+ Improved air and water quality 
+ Reduction of solid waste 
+ Conservation of energy, water and other natural resources 
+ 
+1.3  Green Building Track Record 
+ 
+By adopting this Green Building Policy, the City  of Long Beach will join a number of leading 
+cities which have also adopted municipal gr een building guidelines, including: Austin, TX; 
+Portland, OR; New York City, NY; Seattle, WA; Fa irfax County, VI; Boulder, CO; Chicago, IL; 
+San Francisco, CA; San Jose, CA; Santa Monica,  CA; San Mateo County, CA; and Los Angeles, 
+CA.  
+ 
+A variety of facilities have been built or are being built in accordance with LEED, including: 
+ 
+ Office buildings 
+ Hospitals 
+ Airport and ferry terminals 
+ Museums, performance halls and libraries 
+ Community and recreation centers 
+ Police stations and court houses 
+ Fire stations and public service facilities 
+ Convention and conference centers 
+ Commercial office, industrial, retail, and laboratory facilities 
+ Schools, universities, child care facilities 
+ Multi-family housing 
+ 
+For a more comprehensive list of a sample of LEED registered projects by each category, see 
+Appendix A. 
+ 
+1.4  Reducing Costs 
+ 
+While green building principles are based on sound environmental policies, they are also 
+grounded in economics.  Because the City owns and operates its facilities, it is in a unique 
+position to maximize the advantage of life cycle cost analysis.  Under this approach, the 
+construction, operating, maintenance and decommission costs of a building are calculated over its 
+expected useful life, looking at the net present value of design options as investments.  Architects, 
+engineers and maintenance staff can figure the cost-effectiveness and performance of specific 
+systems and components (e.g., electrical and me chanical systems) over a longer time frame, 
+rather than specify systems based simply on th e lowest up-front expenditure.  For example, a 
+space conditioning system with a higher initial cost may prove to have a higher return on 
+investment due to energy savings and lower opera ting costs.  When the building is viewed as a 
+whole system, complementary systems and components are chosen, ultimately reducing 
+maintenance and long-term operational costs.  From a fiscal perspective, developing sustainably 
+can have a positive impact, especially over the long term.  Reviewing current policies from a 
+“whole system perspective” can help save money over time and lead to a community more 
+aligned with natural systems. 
+ 
+The quantity of information regarding both first cost and life cycle cost differentials between 
+green buildings and conventional buildings is gr owing.  Research completed by Xenergy Inc for 
+ 4
+the City of Portland Oregon found that the add itional cost to build three sample buildings 
+according to the LEED certified standard was -0.3 to  1.3 percent from a first cost perspective in 
+comparison to developing the buildings without re gard to LEED.  This sa me study found that 
+constructing these buildings to the LEED certified standard would save the city approximately 15 
+percent of the total construction costs over the life of the building.
+2
+  The US Green Building 
+Council has also collected information with rega rd to a variety of LEED certified buildings and 
+has found that building to LEED resulted in from 0 percent to 2.2 percent increase in first costs.
+3
+  
+The US Green Building Council is currently comp iling information about the cost savings of 
+building green over the life-cycle of a building.  
+ 
+Green Building Payback 
+Green buildings pay for their green components quickly through reduced operating costs and 
+improved performance.  Even if one considers only the impact of going green on utility costs, the 
+typical green building project will pay for all green components through lowered utility bills in 
+four to eight years. 
+ 
+New construction typically costs around $200/per square foot for office space.  Building to a 
+LEED certification level can increase that cost by  between $2 and $4 per square foot.  However, 
+incorporation of green building components can reduce utility costs from $1.50 per square foot 
+per year to less than $1.00 per sq ft per year .  Thus the payback on green building will average 
+between four and eight years even if utility savings are the only item considered. 
+ 
+The implementation of this policy will: 
+ 
+1. Yield cost savings to City taxpayers through reduced operating costs over the life cycle of 
+City buildings; 
+2. Provide a healthy work environment for City employees and visitors to City facilities and 
+buildings; 
+3. Advance the City’s stated goal of environmen tal stewardship, which includes protecting, 
+conserving, and enhancing the region's environmental resources, and  
+4. Help establish a community standard of sustainable building for the City of Long Beach. 
+ 
+                                                     
+ 
+2
+ Green City Buildings: Applying the LEED Rating System, XENERGY Inc., Portland Oregon, June 2000.  
+3
+ “Green Building Cost Premiums and Savings,” USGBC, August 2001 
+ 5
+1.5  Definitions 
+ 
+US Green Building Council (USGBC) 
+The USGBC
+4
+ was formed in 1993 as a national non-profit to accelerate the adoption of green 
+building practices, technologies, policies, and st andards.  The USGBC developed LEED to help 
+stimulate green building market transformation.  USGBC membership consists of more than 600 
+organizations including product manufacturer s, environmental non profit organizations, 
+institutions, building and design pr ofessionals, building owners, and local and state governments.  
+The City of Long Beach is a member of the USGBC.  
+ 
+LEED Rating System 
+The US Green Building Council's LEED (Leadersh ip in Energy and Environmental Design) 
+Rating System is a self-assessment system designe d for rating new commercial, institutional, and 
+high-rise residential buildings.  It is a voluntary,  consensus-based, market-driven building rating 
+system based on existing proven technology.  It  evaluates environmental performance from a 
+"whole building" perspective over a building's life cy cle, providing a definitive standard for what 
+constitutes a "green building".  LEED is based on accepted energy and environmental principles 
+and strikes a balance between known effective practices and emerging concepts.  It is a feature-
+oriented system where credits are earned for satis fying each criterion.  Different levels of green 
+building certification are awarded based on the to tal credits earned.  The system contains 
+relatively few prerequisites and a wide-range of possible credits in five categories: Sustainable 
+Site Planning, Improving Energy Efficiency, Conserving Materials and Resources, Embracing 
+Indoor Environmental Quality, and Safeguarding Water.   
+ 
+The four LEED rating levels are certified by th e USGBC based on the total credits a building is 
+eligible for out of a possible total of 64 credits.  The LEED rating levels are: 
+Certified   26 credits 
+Silver                 33 credits 
+Gold            39 credits     
+Platinum   52 credits    
+  
+Life Cycle Cost Analysis 
+Life Cycle Cost Analysis is an inclusive appro ach to costing a program, facility, or group of 
+facilities that encompasses planning, design, c onstruction, operation, a nd maintenance over the 
+useful life of the facilities and includes decommi ssioning/disassembly costs.  Life Cycle Cost 
+Analysis looks at the net present value of design options as investments.  The goal is to achieve 
+the highest, most cost-effective environmental performance possible over the life of the project. 
+ 
+                                                     
+ 
+4
+ The web site for the US Green Building Council is www.usgbc.org 
+ 6
+2.  Green Building Policies 
+  
+2.1   Green Building Policy for New Municipal Building Projects 
+ 
+It is the policy of the City to plan, design, c onstruct, manage, renovate, and maintain its facilities 
+and buildings in a sustainable manner.  The US Green Building Council's LEED rating system 
+and Reference Guide shall be the design and measurement tools used to determine what 
+constitutes sustainable building under this polic y.  (For a detailed description of LEED, see 
+Appendix B.)  This policy applies to new constr uction and additions to existing buildings and 
+facilities whenever the gross area of the new construction is over 7,500 square feet. 
+ 
+2.1.1  Policy #1:  The City of Long Beach shall adopt Green Building Policy goals and 
+incorporate green building principles and practices into the planning, design, construction, 
+management, renovation, operations, and disposal of all City fac ilities that are constructed and 
+owned by the City. 
+ 
+2.1.2 Policy #2:  The City of Long Beach shall adopt the US Green Building Council's LEED 
+Building Rating System as the green building d esign standard for its ongoing and future program 
+areas and incorporate this system into all City facility projects that are constructed and owned by 
+the City.   
+ 
+ During the first two years of policy implementation, all departments that are undertaking 
+any new construction project of  over 7,500 square feet will be  required to build at least 
+one pilot project to the LEED certification standard.  The use of pilot projects during the 
+first two years of policy implementation will allow each department, the Department of 
+Public Works, and building contractors and subs to familiarize themselves with green 
+building implementation before rolling out the policy for all new municipal projects.  
+ This policy sets a minimum standard of LEED Certified and a policy goal of LEED 
+Silver for all new construction municipal projects with over 7,500 square feet of occupied 
+space.
+5
+ 
+ The budget appropriations for all new construc tion projects subject to this policy shall 
+include funding to meet the requirements of this policy.  Budget planning and life cycle 
+cost analysis to achieve the highest LEED rating is encouraged under this policy.  
+ By 2007 or before, the City Council may cons ider upgrading the minimum certification 
+standard to LEED Silver.  
+ Projects for which design or construction are already underway at the time this policy is 
+adopted are released from compliance to the policy.  
+ 
+2.1.3 Policy #3:  The City of Long Beach shall provide leadership and guidance to encourage 
+the application of green buildi ng practices in private sector pl anning, design, construction, 
+management, renovation, operations , and disposal of buildings by promoting the voluntary 
+application of the LEED Green Building Rating System. 
+ 
+                                                     
+ 
+5
+ This policy applies to a wide variet y of municipal projects including but not limited to: office and administration 
+buildings, libraries, multi-family affordable housing, hospita l and medical facilities, poli ce stations, port facilities, 
+etc.  
+ 7
+2.2   Green Building Policy for Munici pal Remodel and Tenant Improvements  
+ 
+The US Green Building Council is currently deve loping a LEED standard for remodel and tenant 
+improvement projects.  Since neither of these standards is final at the time of adoption of this 
+policy, the City of Long Beach adopts the follo wing policy with regard to rehabilitation and 
+tenant improvement projects within City owned buildings.  
+ 
+2.2.1 Policy #1: The addition of a wing, room, or floor of more than 50 percent of a building’s 
+existing total square feet shall be considered under this policy as a new construction project and 
+consequently such a project must be certifie d according to the LEED standard for Existing 
+Buildings. 
+ 
+2.2.2 Policy #2:  For municipal remodel projects which affect less than 50 percent of a 
+buildings total square feet, and which cost more than $35 per square foot,
+ 6
+ the City will apply the 
+following policy: 
+ 
+If a green material or technology costs the same  or less than the conventional material or 
+technology, and performs comparably then it shall be incorporated into the remodel or retrofit 
+project.  
+ 
+Remodel and retrofit projects shall consider a systems approach.  For example, a remodeling 
+project which significantly alters one compone nt of a system (such as the HVAC system, 
+landscaping, roofing, or lighting system) should ex plore the full life-cycle cost of upgrading the 
+entire system to the green standard at the same time.  
+ 
+2.2.3 Policy #3:  It is the policy of the City of L ong Beach that all municipal building 
+rehabilitation and retrofit projects, to the degree feasible, adopt the green building best practices 
+as outlined in Appendix E.  
+ 
+2.2.4 Policy #4:    It is the policy of the City of Long Beach that all tenant improvements
+7
+ in 
+municipal buildings shall apply with the following principle:  
+ 
+If a green material or technology costs the same  or less than the conventional material or 
+technology, and performs comparably, then it shall be incorporated into the tenant improvement 
+project.  However, no department, agency or cont ractor is required by this policy to procure 
+products for tenant improvements that do not perform  adequately for their intended use or are not 
+available at a reasonable price in a reasonable period of time.  
+ 
+                                                     
+ 
+6
+ Remodel projects are defined as projects which require significant bu ilding systems, and or structural 
+retrofit at a cost of more than $35 per square foot.   
+7
+ Tenant improvement projects in clude any changes to the interior of a municipal building normally 
+considered as a tenant improvement (such as painting, replacing carpet, moving non-structural interior walls, 
+etc.) that costs between $10 and $35/ square foot. 
+ 8
+2.3 Infrastructure, unoccupied buildings, park, and industrial projects 
+ 
+It is the policy of the City of Long Beach that infrastructure projects (streets, parking garages, 
+etc.), unoccupied buildings, park equipment and recreation facilities (docks, playgrounds, etc.) 
+and city industrial projects are not required to conform to the LEED standard as the standard does 
+not address these types of projects.  It is the polic y of the City of Long Beach that green building 
+techniques, methods and materials be incorporated into such projects as much as practicable.  
+ 
+2.4  Green Building Policy Exceptions 
+ 
+The following projects can apply for an exception to  the green building retrofit and green tenant 
+improvement policies from the Green Building Team (see section 3.1.1), which will make 
+decisions on a case by case basis.  
+ 
+ Buildings of less than 7,500 square feet of occupied space. 
+ Buildings for which LEED certification will si gnificantly reduce the effectiveness of the 
+building’s primary purpose, as perhaps with incarceration facilities.  
+ Historically designated buildings with design considerations which limit the inclusion of 
+green materials or building techniques. 
+ Projects for which achieving LEED certification would increase costs such that the project is 
+no longer financially feasible.  Some projects may be burdened with other extraordinary up-
+front costs that act as a financial barrier to development, for example development on 
+Brownfield sites, development on sites without infrastructure, historic preservation projects, 
+or affordable housing projects.  In cases wh ere development is already only marginally 
+financially feasible, additional costs incurred by implementing LEED certification may make 
+an already difficult project not viable.  In su ch cases, projects will be required to prove that 
+the financial feasibility of the project is jeopa rdized by building to the LEED standard by 
+providing detailed proformas to the Green Building Team for review.  
+ No practical green alternative for the proposed tenant improvement project. 
+ 
+It is the policy of the City of Long Beach that projects that are granted exceptions from 
+conforming to the LEED standard incorporate gr een building techniques, methods and materials 
+as much as practicable. 
+ 
+2.5 Pilot Test Green Building Program for City-Influenced Projects  
+ 
+Projects, which receive direct City funding or benefit from other direct City incentives, should be 
+encouraged on a voluntary basis to achieve certif ication to the LEED standard.  In order to 
+identify effective programs, the City of Long Beach will pilot test the following methods to 
+encourage the use of LEED by private sector partners: 
+ 
+1. Incorporate LEED certification as one of many selection criteria for City released RFPs 
+(Request for Proposals) for commercial development projects on City land.   
+2. Provide a project-appropriate mix of incentives which could include, for example zoning 
+techniques like an FAR
+8
+ bonus or reduced parking requirements for Green Building 
+projects located along transit corridors. 
+                                                      
+8
+ FAR refers to the Floor-Area-Ratio, which is used by planners to control building balk.  For example an 
+FAR of 9:1 would allow a developer to build 9 times the square footage of floor space as the area of the 
+ 9
+ 
+3. Use the Environmental Impact Review process, in cases where the City is the lead agency 
+for a development project that may have significant environmental impacts, to 
+recommend sustainable design strategies to mitigate environmental impacts. 
+ 
+2.6  Private Sector Green Building Incentives 
+ 
+Participation in the Green Buildings program will be voluntary but encouraged for developers of 
+private sector and non-municipal projects.  Deve lopers may view the use of green building 
+materials and techniques as an additional risk.  To counteract this perception, the City will 
+provide information about green building and develop green building incentives.  
+ 
+2.6.1  Process-based Incentives 
+ 
+Time and money are the driving forces behind most development projects.  Delayed schedules 
+often account for increased costs, and measures to facilitate permit approval are the equivalent of 
+cash to most developers.  The following process- based incentives can be developed within the 
+City to overcome the regulatory obstacles associated with green building. 
+ 
+ The Department of Planning and Building will develop a small Green Building Code Check 
+Team to consider the adoption of proven green  technologies and techniques in municipal and 
+private construction projects which may not presently be allowed by the Department’s 
+interpretation of the UBC (Uniform Building Code).   Specifically, this team will consist of at 
+least three people with green building experien ce and knowledge of the City’s building code 
+who will have responsibility for reviewing all private sector green building plans. 
+ The Department of Planning and Building will pr ovide expedited plan check at no additional 
+charge for buildings that meet LEED™ compliance.
+9
+  The Department has made significant 
+strides to facilitate the building permitting an d approval process, and by continuing to 
+improve its customer service and adopting a fast-track process, the City can erase one of the 
+primary obstacles to adopting green building practices.   
+ The Department of Planning and Building will craft zoning code incentives for projects that 
+incorporate sustainable design practices.  Fo r example, the City could reduce parking 
+requirements for green projects within specified transportation zones or provide a FAR bonus 
+to a project which satisfies LEED certification requirements.  
+ 
+                                                                                                                                                             
+ 
+development lot.  In an area zoned with height limits, which allow nine floors, the result would be a bulky 
+square building, in an area with height limits of 15 floors, the developer might develop a tall slender building 
+with many step-backs.  
+9
+ The Department currently provides expedited plan check if a customer pays for the service.  
+ 10
+2.6.2 Public Awareness and Education 
+ 
+Education and Outreach  
+The City will develop a Green Building Speakers Bureau to advise developers, architects and 
+builders with regard to new green building procedures, materials and design strategies.   
+ 
+Website and Information 
+The City will connect the City of Long B each’s website to the USGBC LEED website, which 
+provides downloadable copies of the LEED guidelin es, training schedule, certification costs and 
+process, etc.  The City will also develop a web-based list of architects and contractors familiar 
+with green building design and construction me thods or connect to www.greendesign.net.  The 
+City shall make available information regarding " life cycle cost analysis" to assist developers in 
+the evaluation of the net present value of green building design options.    
+ 
+Mayor’s Award for Green Building 
+By incorporating a Mayor’s Award for Green Bu ilding Design Excellence into the “Building a 
+Better Long Beach Design Award Program,” the C ity can further encourage the private and 
+public sector to build sustainably.  The award will encourage the private sector, and demonstrate 
+clearly to all, the City’s commitment to green building.   
+ 
+Job Site Signs   
+The City can install job site signs which indi cate that a project is LEED certified and list key 
+green building features of the project.  These job- site signs will increase public awareness of the 
+City’s commitment to environmen tally responsible building and the long-term health of the 
+community. 
+ 
+3   Implementation Strategy 
+ 
+3.1  Program Development and Evaluation 
+ 
+3.1.1  Green Team 
+ 
+The City will form a Green Building Team compos ed of nine City staff representatives from the 
+Departments of Public Works, Planning and Bu ilding, Energy, Water, Community Development, 
+Port of Long Beach, Harbor, Fire, and Parks R ecreation and Marine and five public appointees 
+with green building knowledge including a licensed  architect, licensed engineer, a developer, a 
+representative from the Chamber of Commerce, and a representative from the environmental 
+community.  The Green Building Team will assist  with the successful implementation of this 
+policy.  The Green Building Team will: 
+ 
+ Review and make decisions about exceptions to the policy under Section 2.4 of this policy. 
+ Meet as necessary to facilitate the successful  completion of municipal construction and 
+remodel projects.  These meetings will also serve to facilitate information sharing across 
+projects.  
+ Meet at least once per year to review the program and resolve problems with the program. 
+ Report program outcomes/accomplishments to City Council every two years.   
+ 11
+3.1.2  Education   
+ 
+All project personnel likely to manage projects w ithin the purview of this policy will attend a 
+LEED Intermediate or Advanced Workshop through the US Green Building Council.  In addition, 
+the City will offer inter-departmental green building training programs to strengthen the 
+interactions and team building for the Green Building Team and consequently improve the 
+implementation of this policy.  The implementa tion of these green building guidelines touches all 
+City departments and inter-departmental team building will ease and improve the implementation 
+of this policy.  
+ 
+3.1.3  Demonstration Projects 
+ 
+The City of Long Beach shall, within the first two years of adopting this Green Building Policy 
+initiate a minimum of three demonstration projects (see Section 2.1.2).   
+ 
+ The demonstration projects may consist of new construction, remodel or tenant improvement 
+projects.    
+ The demonstration projects should be easily accessible to all City staff as well as to the 
+public, such as a city library or recreation center.  
+ 
+The demonstration projects will give the Planning and Building Department's Technical Advisory 
+Committee (TAC)
+10
+ an opportunity to incorporate the green building policy into its existing 
+review procedures as well as associated administrative project review procedures. 
+ 
+3.1.4  Program Evaluation 
+ 
+City staff will develop and produce an annual set of program evaluation metrics to track 
+participation and overall green building program effectiveness.  The program evaluation should 
+include:  
+ 
+ A rank order of the most common LEED criteria employed by the City to meet 
+LEED Certification 
+ An estimate of both first costs and life- cycle analysis costs associated with 
+complying with each LEED criteria over conventional construc tion techniques and 
+materials 
+ An estimate of staff time contributions to project completion 
+ Estimate of non-cost benefits accrued through LEED certification 
+ 
+The evaluation data should be shared with city staff, the public and City Council.  
+ 
+3.1.5  Continuous Improvement  
+ 
+The Green Building Team and ot hers involved in the implementation of the Green Building 
+Policy will meet at least twice per year with the express purpose of reviewing program evaluation 
+data, exploring ways to improve the program , and implementing corrective action (problem 
+solving of issues as they arise) if necessary.  
+                                                     
+ 
+10
+ The Technical Advisory Committee consists of representatives of all City departments that have review 
+authority over development. 
+ 12
+ 
+3.2 Program Goals 
+ 
+ Within three years of adopting the Green Buildi ng Policy for the City of Long Beach, all new 
+municipal projects of over 7,500 square feet will meet the LEED Certified criteria.  
+ 
+ Within six years of adopting the Green Build ing Policy for the City of Long Beach, 60 
+percent of all new municipal construction projects will meet LEED Silver criteria. 
+ 

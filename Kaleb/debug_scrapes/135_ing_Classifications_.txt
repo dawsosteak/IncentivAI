@@ -1,0 +1,64 @@
+--- SOURCE: http://www.cslb.ca.gov/About_Us/Library/Licensing_Classifications/ ---
+CSLB Licensing Classifications
+Business & Professions Code
+Division 3, Chapter 9. Contractors, Article 4. Classifications
+7055. For the purpose of classification, the contracting business includes any or all of the following branches:
+Print a complete list of the "Description of Classifications" or click the specific classification below for the individual description.
+(A) General Engineering Contractor
+(B) General Building Contractor
+(B-2) Residential Remodeling Contractor
+(C) Specialty Contractor
+- C-2 - Insulation and Acoustical Contractor
+- C-4 - Boiler, Hot Water Heating and Steam Fitting Contractor
+- C-5 - Framing and Rough Carpentry Contractor
+- C-6 - Cabinet, Millwork and Finish Carpentry Contractor
+- C-7 - Low Voltage Systems Contractor
+- C-8 - Concrete Contractor
+- C-9 - Drywall Contractor
+- C-10 - Electrical Contractor
+- C-11 - Elevator Contractor
+- C-12 - Earthwork and Paving Contractors
+- C-13 - Fencing Contractor
+- C-15 - Flooring and Floor Covering Contractors
+- C-16 - Fire Protection Contractor
+- C-17 - Glazing Contractor
+- C-20 - Warm-Air Heating, Ventilating and Air-Conditioning Contractor
+- C-21 - Building Moving/Demolition Contractor
+- C-22 - Asbestos Abatement Contractor
+- C-23 - Ornamental Metal Contractor
+- C-27 - Landscaping Contractor
+- C-28 - Lock and Security Equipment Contractor
+- C-29 - Masonry Contractor
+- C-31 - Construction Zone Traffic Control Contractor
+- C-32 - Parking and Highway Improvement Contractor
+- C-33 - Painting and Decorating Contractor
+- C-34 - Pipeline Contractor
+- C-35 - Lathing and Plastering Contractor
+- C-36 - Plumbing Contractor
+- C-38 - Refrigeration Contractor
+- C-39 - Roofing Contractor
+- C-42 - Sanitation System Contractor
+- C-43 - Sheet Metal Contractor
+- C-45 - Sign Contractor
+- C-46 - Solar Contractor
+- C-47 - General Manufactured Housing Contractor
+- C-49 - Tree and Palm Contractor
+- C-50 - Reinforcing Steel Contractor
+- C-51 - Structural Steel Contractor
+- C-53 - Swimming Pool Contractor
+- C-54 - Ceramic and Mosaic Tile Contractor
+- C-55 - Water Conditioning Contractor
+- C-57 - Well Drilling Contractor
+- C-60 - Welding Contractor
+- C-61 - Limited Specialty
+- ASB - Asbestos Certification
+- HAZ - Hazardous Substance Removal Certification
+Certifications
+Please note: Contractors with an asbestos certification can only perform abatement work within the license classification(s) they already hold. Hazardous substance removal certifications are only issued to contractors who hold an “A”, “B”, C-12, C-21, C-36, C-57, or C-61/D-40 contractor license. These certifications require a separate application which can be found on the Forms and Applications page.
+
+--- SOURCE: https://www.cslb.ca.gov/About_Us/Library/Licensing_Classifications/Licensing_Classifications_Detail.aspx?Class=C46 ---
+C-46 - Solar Contractor
+California Code of Regulations
+Title 16, Division 8, Article 3. Classifications
+A solar contractor installs, modifies, maintains, and repairs thermal and photovoltaic solar energy systems. A licensee classified in this section shall not undertake or perform building or construction trades, crafts, or skills, except when required to install a thermal or photovoltaic solar energy system.
+Authority cited: Sections 7008 and 7059, Reference: Sections 7058 and 7059 (Business and Professions Code)

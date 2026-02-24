@@ -1,0 +1,71 @@
+--- SOURCE: http://www.energy.wsu.edu/RenewableEnergySystemIncentiveProgram.aspx ---
+Renewable Energy System Incentive Program
+The Renewable Energy Incentive Program (RESIP) is still an active program, however, it is fully subscribed and no longer taking new applicants. Due to the popularity of RESIP, this program ended June 30, 2021 and the Washington State Legislature has not authorized additional funding at this time.
+System Additions
+Adding solar PV capacity to an existing certified system is allowed. However, depending on how the addition is metered, the following will apply:
+- Adding capacity outside of the existing certified renewable energy system’s production meter – the existing system’s incentive rate and program term are preserved.
+- Adding capacity through the existing certified renewable energy system’s production meter – there can be potential delays in annual incentive review and payment. The existing incentive rate and program term may be affected (i.e., if the system’s capacity now exceeds 12kW, a Commercial-scale rate will apply).
+Moving
+If you are a homeowner selling your residence with solar PV, be sure to provide a good forwarding address to your utility company – in case you have any final incentive payment coming.
+If you are purchasing a home with solar PV, check with your utility to see if the system is certified and in a current incentive program. Or, you may contact the WSU Energy Program.
+Contact Us
+For additional questions, you are invited to contact the WSU Energy Program at ep.solarprogram@wsu.edu or 360-956-2200.
+
+--- SOURCE: http://www.energy.wsu.edu/RenewableEnergy.aspx ---
+The WSU Energy Program supports the development of renewable energy resources through a variety of actions and efforts. Central among those is the support provided to the renewable energy programs in the State of Washington. These include:
+
+--- SOURCE: http://www.energy.wsu.edu/RenewableEnergy/CommunitySolarProgram.aspx ---
+Community Solar Expansion Program
+The Washington State Community Solar Expansion Program is an incentive program that aims to expand access to the benefits of renewable energy for Washington’s low-income sector. The Program seeks to incentivize projects that will deliver continuing direct benefits and reduce the energy burden for low-income communities.
+Announcement (9/15/2025)
+As of September 2025, the CSEP team has been notified of a budget shortfall for our administrative operation. While there is no impact to funding for proposed solar projects, it impacts our daily operations. To continue reviewing applications in a timely manner, we are implementing a precertification application fee of $5,000 for submissions received after September 30th 2025. The fee is applied to projects receiving precertification and is included in project costs that are reimbursed upon certification approval. Please visit the FAQ Page for additional details.
+Announcement (10/15/2025)
+As of October 2025, a significant number of precertification applications have been submitted and are in review. Forecasted obligated funding levels based on these submissions have reached $25 million for the FY25-FY27 Biennium (July 1st 2025 – June 30th 2027). Potential projects may continue to submit for precertification and can receive approval, but may not be able to submit for certification and receive the one-time incentive payment until the next Biennium (July 1st 2027 – June 30th 2029). Effective October 16, 2025, any new approved precertifications will be placed on a waitlist in order of approval for potential certification and incentive payment in this biennium, if changes are made in other projects and funding becomes available.
+Case Studies
+Estimated Allocated Funding
+Through February 3, 2026, the Community Solar Expansion Program has pre-certified or certified a total of $30.6 million in incentives, with 48 certified projects, 120 in precertification, and an additional dozen or more that are in development, working towards pre-certification.
+Data current up to February 3, 2026
+As of February, 2026, 52% of the 2028–2029 biennium funding has been obligated through project precertifications. These obligations correspond to incentive payouts scheduled between July 1, 2027 and June 30, 2029.
+Projects Underway
+Curious where the WSU Energy Program has been helping to reduce the energy burden across the state? Check out our statewide map to discover pre-certified and certified projects since 2022.
+
+--- SOURCE: http://www.energy.wsu.edu/RenewableEnergy/LeastConflictSolar.aspx ---
+Least-Conflict Solar Siting
+Exploring pathways to protect Washington’s unique and diverse habitat and agricultural lands while producing the solar energy needed to help the state’s utilities reach 100% clean electricity.
+The Least-Conflict Solar Siting Project poses the question: Where can utility-scale solar be developed in the Columbia Plateau region while also ensuring that important natural habitat, productive farmlands and ranchlands, and tribal rights and cultural resources are protected?
+To do this, the Washington State University Energy Program is leading a voluntary, collaborative, non-regulatory effort that engages relevant stakeholders, Tribes, and key agencies in a conversation and process to identify least-conflict areas for utility-scale solar development. The intent is to reduce land use conflicts and minimize negative impacts to natural and working lands while increasing solar renewable energy production. The project will make relevant spatial data available to the public, create maps highlighting the least-conflict areas in the region, and produce a final report by June 30, 2023.
+Background
+The Clean Energy Transformation Act requires Washington state utilities to meet 100% of their load with clean, renewable sources of energy by mid-century. To help meet these requirements, utility-scale solar developments are necessary. A large increase in proposals for solar development in the Columbia Plateau region of eastern Washington is putting pressure on communities and local governments, and risking loss of some of the region’s productive farmland, ranchlands, and native shrubsteppe habitat—over half of which has already been lost.
+To address this situation and find a common path forward, a bipartisan group of stakeholders and legislators secured state funding for the Least-Conflict Solar Siting Project in the 2021 Washington state legislative session. Funding is appropriated through a budget proviso for fiscal year 2023.
+How the Least-Conflict Process Works
+Groups of participants with interests in farmland, ranchland, and environmental conservation, etc., are guided through an exercise to map lands that are of high value from each group’s perspective. Lands that would generate less opposition to solar developments – the least-conflict lands – will be identified and mapped. A solar industry group identifies the best opportunities for their industry.
+Tribal involvement is specific to each Tribe, and may include feedback of the draft maps and additional mapping layers.
+An overlay of the maps identifies the common least-conflict lands. Maps and data are stored in an online platform for public use during the project and after it concludes. An important outcome of this project is for the data and maps to be used by planners, agencies, solar industry, Tribes, stakeholders, and others.
+All interested persons are invited to three large meetings—which occur throughout the process—to stay informed, offer feedback, and provide input on other related issues. All of these meetings are likely to be virtual due to ongoing COVID-19 precautions.
+Contact:
+For information about the Least-Conflict Solar Siting mapping tool, data, Gateway, and Databasin, please contact James Strittholt, Conservation Biology Institute, at stritt@consbio.org.
+For information about the WSU Energy Program in general, please call 360-956-2000.
+
+--- SOURCE: http://www.energy.wsu.edu/BuildingEfficiency/EnergyCode.aspx ---
+Washington State Residential Energy Code Technical Code Support
+See disclosure relating to Initiative 2066 along with other disclaimers.
+Our energy code team provides support to those who use the residential sections of the Washington State Energy Code (WSEC-R).
+To determine which version of the WSEC-R a building permit must follow, refer to the date when the permit was applied for and submitted. If the building permit was submitted after:
+- March 15th, 2024, it must meet requirements of 2021 WSEC-R
+- February 1st, 2021, it must meet requirements of 2018 WSEC-R
+- July 1st, 2016, it must meet requirements of 2015 WSEC-R
+Click on one of the provided links to get started:
+For additional assistance from the Technical Code Support Hotline:
+Call: 360.956.2042
+Or
+Submit an energy code question here. We generally respond to requests within three business days. This form will automatically submit your question to us via email and we will generate a response to the provided contact information. This form will have the same response time as submitting your request to the prior method. Please do not submit to both. Thank you for your support in our efforts to bring updates to our website and services. The new website features are being added to help us improve our service to you.
+Washington State Energy Code - Commercial (WSEC-C)
+Evergreen Technology Consulting provides technical code support for the Washington State commercial energy code support.
+Contact: Evergreen Technology Consulting
+Phone: 360-539-5300
+Website: Washington State Energy Code
+Email: com.techsupport@WAenergycodes.com.
+State Building Code Council (SBCC)
+The State Building Code Council (SBCC) was created to provide independent analysis and objective advice to the legislature and the Governor’s Office on state building code issues. The SBCC establishes the minimum building (mechanical, fire, plumbing, and energy code) requirements necessary to promote health, safety, and welfare to the people of the state of Washington by reviewing, developing, and adopting the state building code.
+Click here to be redirected to the SBCC website. The most current and up to date WSEC versions, and all other Washington specific codes, are located and updated by the SBCC.
+Photo courtesy of: SBCC (wa.gov)

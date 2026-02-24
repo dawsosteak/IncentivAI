@@ -1,0 +1,303 @@
+--- SOURCE: http://publicservice.vermont.gov/electric/interconnection ---
+About the Interconnection Rule Working Group
+The Department of Public Service is convening a stakeholder process to develop revised interconnection rules for electric generators in Vermont. The group will develop one or more proposed modified rules and submit them to the Public Utility Commission during the summer of 2015, with the intention that the Commission can include them in a common rulemaking with the revised rules for net metering being developed and investigated in a separate, Commission-led process.
+The Department's efforts on this project are supported by a U.S. DOE State Energy Program grant award. The grant also provides funding for the development of an electronic interconnection application and for analysis by Green Mountain Power to develop a "Distributed Generation Map" that would streamline analysis of proposed projects and allow developers to understand the state of the grid at different possible points of interconnection.
+Meeting Notes and Materials
+February 4, 2016
+-
+Near-final revised interconnection rule: Clean version and redline from the current Rule 5.500.
+October 28, 2015
+- New "strawman" interconnection rule discussed at this meeting. Meeting notes are contained in Tracked Changes and Comments within the document.
+September 15, 2015
+- Spreadsheet summary of items to be addressed in the rule update, with proposed solutions
+- GMP proposed Fast Track criteria, with notes from the meeting
+- GMP proposed logic for treatment of queuing and overlapping timelines
+August 27, 2015
+- This meeting discussed the issue of queuing for overlapping timelines for projects with interacting grid implications.
+July 30, 2015
+July 7, 2015
+- Meeting notes are in this document, as comments on GMP's proposed edits to Fast Track criteria
+- Proposed flow chart of interconnection process
+June 17, 2015
+April 21, 2015
+- Meeting Summary
+- VELCO and GMP presentation re: Transmission Perspective on Interconnection Rule Issues
+- GMP presentation re: Automated DR Screening and Solar Map
+April 7, 2015
+- Meeting Summary
+- ISO-New England Presentations:
+- Schedule 23 Pre-application reports
+- Schedule 23 Fast Track and Supplemental Review Guidelines
+- Distributed Energy Resources Interconnection Issues
+March 19, 2015
+Resources
+- PUC Rule 5.100 Revision process, pursuant to Act 99
+- Current PUC rules (including rules 5.100 and 5.500 addressing interconnection)
+- CPUC presentation to the NARUC Staff Subcommittee on Electricity re: the CA Smart Inverter Working Group
+- FERC Small Generator Interconnection Procedure (SGIP)
+
+--- SOURCE: https://publicservice.vermont.gov/energy-efficiency-utilities ---
+The Vermont Public Utility Commission has appointed three entities to deliver electricity and heating-and-process-fuel energy efficiency services to residential and business consumers throughout Vermont. Efficiency Vermont (operated by the Vermont Energy Investment Corporation) delivers services in most of the state. Burlington Electric Department and Vermont Gas Systems deliver services in their service territory. The services offered by these "Energy Efficiency Utilities" help consumers invest now in energy efficiency measures that will save Vermonters money.
+Energy Efficiency Utility Performance Evaluation
+The Public Utility Commission has delegated to the Department of Public Service the responsibility to evaluate, measure, and verify services offered and savings claimed by the Energy Efficiency Utilities.
+Vermont Public Utility Commission Energy Efficiency Regulation
+The Public Utility Commission website has comprehensive information regarding the regulation of the Energy Efficiency Utilties, including links to ongoing and historical proceedings to set budgets, performance targets, and more.
+Efficiency Vermont
+Efficiency Vermont (EVT) is one of Vermont's Energy Efficiency Utilities. This comprehensive site describes EVT's programs and service offerings that can help you identify the most cost-effective ways to reduce energy use in your home or business. EVT can also be reached by calling 1-888-921-5990.
+Burlington Electric Department
+Burlington Electric Department (BED) is one of Vermont's Energy Efficiency Utilities. This comprehensive site describes BED's programs and service offerings that can help you identify the most cost-effective ways to reduce energy use in your home or business. BED can also be reached by calling 1-802-865-7300.
+Vermont Gas Systems Efficiency Programs
+Vermont Gas Systems offers comprehensive thermal efficiency programs including rebates, financing, and technical assistance for cost-effective natural gas saving measures for both its residential and business customers.
+Resources
+2024 Technical Reference User Manual
+
+--- SOURCE: https://publicservice.vermont.gov/efficiency ---
+Overview
+Energy efficiency resources are often less expensive than the equivalent supply resources. State policy for least-cost energy planning therefore highlights efficiency as a key tool to meet the state's energy needs in the most cost-effective manner. Expenditures on energy efficiency stay local, create good jobs, help the local economy, and reduce the state's environmental footprint. The Department of Public Service carries out and/or oversees numerous energy efficiency and energy conservation programs, while also serving as the Vermont State Energy Office under the U.S. Department of Energy, State Energy Program. Extensive information about all of these programs can be found below.
+Residential
+Residential Building Energy Standards (RBES)
+This energy code affects all new homes (and additions, alterations, renovations, or repairs) built after July 1, 1998. The current version took effect on September 1, 2020, and an updated version shall take effect July, 1, 2024.
+Vermont Accreditation Procedure for Home Energy Rating System (HERS) Providers
+The Vermont Accreditation Procedure for Home Energy Rating System Providers sets minimum standards for rater training, operating procedures and policies, software programs, and quality control. These standards assure that customers can rely on the representations of accredited providers.
+Energy Savings Resources
+This page has state and federal resources with useful information to help you save energy.
+Commercial and Industrial
+Commercial Building Energy Standards (CBES)
+The Commercial Building Energy Standards (CBES) apply to all commercial buildings as of January 1, 2007. The current version took effect on September 1, 2020, and an updated version shall take effect July, 1, 2024.
+Act 250 Energy Review
+Act 250 projects for compliance with Criterion 9(F).
+COMcheck-EZ
+The COMcheck-EZ software simplifies energy code compliance by offering a flexible computer-based alternative to manual calculations.
+Energy Savings Account (ESA) Program
+The Vermont Public Utility Commission has established an option for eligible Vermont business customers to self-administer energy efficiency through the use of an Energy Savings Account (ESA).
+Energy Code Compliance Plan
+The Energy Code Compliance Plan provides more information on the process the Department of Public Service followed for developing a plan to meet 90 percent compliance with Vermont energy codes by February 1, 2017.
+Efficiency Potential Studies
+Energy Efficiency Potential Study 2019
+The scope of this study includes assessing the energy efficiency potential associated with the State’s three designated EEUs. This study assesses both electric and natural gas energy efficiency potential throughout Vermont for a period of 20 years (2021-2040). The study was used as a basis to inform energy efficiency budgets for 2018 through 2020 for electric and natural gas efficiency utilities (EEUs), as ordered by the Public Utility Commission in its Demand Resources Plan proceeding. Every three years, the Vermont Public Utility Commission conducts a proceeding, the Demand Resources Plan (DRP), to identify short- and long-term energy efficiency budgets and savings goals, as well as other compensation matters related to the delivery of energy efficiency services by Vermont’s EEUs.
+Energy Efficiency Potential Study 2017
+The Energy Efficiency Potential study assesses both electric and natural gas energy efficiency potential throughout Vermont for a period of 20 years (2018-2037). The Department of Public Service commissioned this study, which assesses the potential for electric energy efficiency to reduce electric consumption and peak demand throughout Vermont. The study was used as a basis to inform energy efficiency budgets for 2018 through 2020 for electric and natural gas efficiency utilities (EEUs), as ordered by the Public Utility Commission in its Demand Resources Plan proceeding. Every three years, the Vermont Public Utility Commission conducts a proceeding, the Demand Resources Plan (DRP), to identify short- and long-term energy efficiency budgets and savings goals, as well as other compensation matters related to the delivery of energy efficiency services by Vermont’s EEUs.
+Regulated and Unregulated Fuel Efficiency Potential Studies (2014)
+Regulated Fuels, Natural Gas
+Unregulated Fuels, Deliverable Fuels
+The Department of Public Service commissioned these studies to estimate the energy efficiency potential for the regulated and unregulated fuels market in Vermont.
+Electric Energy Efficiency Potential Study (2013)
+The Department of Public Service commissioned an update to the study carried out in 2011 of the potential for electric energy efficiency to reduce electric consumption and peak demand throughout Vermont. This study was used as a basis to inform energy efficiency budgets for 2015-2017, as ordered by the Public Utility Commission in its Demand Resources Plan proceeding.
+Electric Energy Efficiency Potential Study (2011)
+The Deparment of Public Service commissioned a study of the potential for electric energy efficiency to reduce electric consumption and peak demand throughout Vermont. The study found that that energy efficiency could achieve 25.4% of forecasted kWh sales in 2031, and 19.9% of 2031 forecasted summer peak demand. This study was used as a basis to inform energy efficiency budgets for 2012-2014, as ordered by the Public Utility Commission in its Demand Resources Plan proceeding.
+Vermont Electric Energy Efficiency Potential Study and Appendices (2007)
+This study estimates the achievable cost-effective potential for electric energy and peak demand savings from energy efficiency and fuel conversion measures in Vermont.
+Vermont Energy Efficiency Potential Study for Oil, Propane, Kerosene and Wood Fuels (2007)
+This study estimates the achievable cost-effective potential for energy savings from energy efficiency measures for oil, propane, kerosene and wood fuels in Vermont over the 10-year period from 2007 through 2016.
+Thermal Efficiency Task Force
+The Department of Public Service created and facilitated a task force to ensure an integrated and comprehensive statewide whole-building approach to thermal energy efficiency that will put Vermont on the path toward meeting the goals set forth in statute.
+Avoided Energy Supply Costs
+Every two years, the Department of Public Service joins a regional effort to develop "Avoided Energy Supply Costs" for consideration to be used for energy efficiency cost-effectiveness screening. The final report and appendices, produced by Synapse Energy Economics, can be found below.
+2015 Avoided Energy Supply Costs Study:
+Final Report with Appendices (pdf)
+Appendix B (xlsx)
+Appendix C (xlsx)
+Appendix D (xlsx)
+2013 Avoided Energy Supply Costs Study:
+Final Report with Appendices
+Appendix B - Workbook
+Appendix C - Workbook
+Appendix D - Workbook
+Description of Amendments
+Amended Appendix C
+Amended Appendix D
+Building Energy Labeling
+Working groups have been conducted to complete analysis on building energy disclosure, including whether and how to require disclosure of the energy efficiency of commercial and residential buildings in order to make data on building energy performance visible in the marketplace for real property, and to inform the choices of those who may purchase or rent such property.
+Efficiency & Energy Resources Division
+For information about the Efficiency & Energy Resources Division, please see the Divisions page.
+
+--- SOURCE: https://publicservice.vermont.gov/renewables ---
+Act 179 Report - Recommendations for a Group Net Metering Successor Program
+In 2024, the Vermont General Assembly enacted Act 179, reforming Vermont’s Renewable Energy Standard (“RES”). As part of these reforms, Act 179 ended the virtual Group Net Metering (“GNM”) program for all applications after December 31, 2024 with one exception for developers of affordable housing. Act 179 also tasked the Department of Public Service (“Department”) with developing a report to discuss and prioritize recommendations for a successor program for GNM, while also reporting on several issues such as current utility programs and funding opportunities for income-eligible customers and affordable housing.
+The Department of Public Service is pleased to share the final report, submitted January 15th, 2025 to the following legislative committees: Senate Natural Resources and Energy, House Energy and Digital Infrastructure, and House Environment.
+Read the full report here: Act 179 Report - Recommendations for a Group Net Metering Successor Program
+Read the one page overview here: Act 179 Report - One Page Summary
+The report puts forward four recommendations (described in detail in Section Two, starting pg. 11) to advance efforts to connect communities with renewables in Vermont.
+The Department thanks members of the public and the organizations who took the time to review the report and offer thoughtful comments and feedback into the process during the public comment period in December 2024. While the Department was not required to put the report out for comment by Act 179 (see Section One of the report for the requirements), such opportunities are important to hear from a broader array communities than would have otherwise been possible and to support refining and clarifying recommendations before finalizing the report. Ultimately, the final report is improved as a result. The conversation about the future of community renewables in Vermont will continue following the publication of this report through the legislative session and proceedings before the Public Utility Commission. The Department hopes the public will continue to be engaged as those discussions evolve.
+Please reach out to Claire McIlvennie by email (claire.mcilvennie@vermont.gov) or phone (802-461-6333) with questions.
+Comprehensive Review of Vermont’s Renewable & Clean Electricity Policies and Programs
+Between July 2022 - December 2023, the Department of Public Service conducted a process to review the policies and programs related to renewable electricity to determine what changes are necessary to achieve state energy and climate goals.
+The sections below provide information of various aspects of this effort, which concluded when the final report was published in April 2024:
+- Final Report - review the final report on this process, including key takeaways and policy and program recommendations
+- Past Events - covers past events held on the topics of renewable and clean electricity
+- Public Engagement Plan - offers information on the Department of Public Service's Plan to engage Vermonter's in this policy review process
+- Supporting Information - provides information on renewable and clean electricity in Vermont
+Final Report - April 2024
+In April 2024, the Department released the final report on this process:
+The final report reviews the public engagement process and technical analyses conducted, distills five key takeaways from the process, and puts forward five policy and program recommendations. The report also reflects on the public engagement effort and offers a self-assessment on how well the Department achieved its goals for public engagement.
+The Department's five policy and program recommendations include:
+- Adopt a 100% Clean Energy Standard, while maintaining the current 75% renewable energy by 2032 requirement.
+- Under the CES, by 2035 require 30% renewable energy come from new renewable resources built after 2010. Half (15%) of the renewable energy should be required to come from distributed renewable energy.
+- Change the compensation structure of the current net-metering program to reduce costs of meeting the CES and reduce the inequitable cost-shift.
+- Develop a Renewable Energy for Communities (RE4C) program to support community renewable energy systems.
+- Conduct further study on opportunities to account for renewability more granularly and the benefits and costs to the transmission & distribution infrastructure associated with increasing distributed renewable energy.
+Read the final report to learn more!
+Reviewing Electricity Policies and Programs: Past Events & Engagement Opportunities
+Update November 27, 2023: Between December 2022 and November 2023, the Department, in collaboration with many partners, has been executing its three-phased approach to reviewing Vermont’s clean and renewable electricity policies and programs. It has does so through:
+- A three-part educational webinar series (January-March 2023)
+- Statewide polling and focus groups (June – July 2023)
+- A regional event series (September – October 2023)
+- Technical analyses (July – November 2023)
+- Public Comment Period (December 2023) and
+- Monthly newsletters (June 2023 – present)
+Materials related to these individual efforts are available in the sections below. The Department is currently in the process of drafting a report on this effort which will synthesize key learnings from across this suite of activities.
+Educational Webinar Series (January-March 2023)
+- What were the webinars about? To kick start the process to review Vermont's renewable and clean electricity policies and programs, the Department of Public Service held a three-part webinar series to cover foundational topics on where Vermont’s electricity comes from, what policies and programs support the use of renewable electricity, and provide information about the process to develop future programs and policies that will further reduce greenhouse gas emissions. Content covered in each of the three webinars are available here:
+- Webinar 1: Where Does Vermont’s Electricity Come From?
+- Topics: How does the electric system get power to our homes and businesses; what electricity is generated in Vermont; what types of resources do Vermont utilities have to purchase to make sure the lights stay on?
+- Recordings:
+- Tuesday January 31, 12:00 pm-1:30 pm: [Video recording]
+- Thursday February 2, 6:00 pm-7:30 pm: [Video recording]
+- Presentation slides
+- Webinar 2: Current Renewable Electricity Policies
+- Topics: Current policies and programs including the Renewable Energy Standard, Net-Metering, and the Standard Offer program and how they have helped support renewable electricity to date.
+- Recordings:
+- Tuesday February 14, 12:00 pm-1:30 pm [Video recording]
+- Wednesday February 15, 6:00 pm-7:30 pm [Video recording]
+- Presentation slides
+- Webinar 3: Parking Lot Session - Renewable Energy Certificates and their Markets
+- Topics: A deeper dive on renewable energy certificates with Jason Gifford from Sustainable Energy Advantage
+- Recording:
+- Wednesday March 15, 12:00 pm-1:00 pm, [Video recording]
+- Presentation slides
+- Webinar Questions & Answers - Includes all questions asked by webinar participants and answers for those questions not addressed live during the webinar
+Statewide Polling & Focus Groups (June-July 2023)
+- Earlier this year, the Department worked with consulting firm MassINC Polling Group to conduct a statewide survey and focus groups with a random sample of Vermonters to better understand their priorities and preferences for renewable electricity in the state. This effort began in early June with a statewide survey of over 700 Vermonters which was followed with 11 focus groups (6 in-person, 5 virtual) with a subset of people who took that survey to dig deeper on topics of renewable and clean electricity. The report, titled "Vermont Weighs In" was released on October 3rd and offers key takeaways on Vermonter's priorities around and preferred sources of electricity, as well as their awareness of current electricity sources and policies. MassINC Polling Group (MPG) conducted the research on behalf of PSD.
+- Read the Full Report
+- Review the Summary Presentation
+- Read the full press release (issued October 3, 2023)
+- November 8th webinar: A lunchtime webinar to discuss this effort and key learnings from this engagement with Vermonters
+- Recording
+- Slides (coming soon)
+- Q&A follow up (coming soon)
+Regional Event Series (September - October 2023)
+- What did we do: Say Watt?! During September and October 2023, the Department partnered with Vermont’s 11 Regional Planning Commissions (RPCs) to offer a series of engagement opportunities for Vermonters to further weigh in on the future of renewable electricity policies and programs. During this period, the RPCs hosted 21 engagement opportunities, including 16 standalone listening sessions and workshops, 5 tabling opportunities at local events and community spaces, and 5 surveys. These efforts aimed to understand what should be prioritized when thinking about where electricity comes from, preferred sources of electricity, and how policies and programs can better achieve these outcomes. The Department co-developed outreach and meeting materials with the RPCs to help ensure consistency between events but allowed the RPCs flexibility to modify event structures or materials as appropriate. Materials created include three one-pager flyers on electricity in Vermont:
+- Regional Event Summaries: At the conclusion of the events, the Department asked each RPC to put together a short summary of the events they hosted and their key takeaways:
+- Addison County Regional Planning Commission (ACRPC) Summary
+- Bennington County Regional Commission (BCRC) Summary
+- Chittenden County Regional Planning Commission (CCPRC)
+- Central Vermont Regional Planning Commission (CVRPC) Summary
+- Lamoille County Planning Commission (LCPC) Summary
+- Mount Ascutney Regional Commission (MARC) Summary
+- Northeastern Vermont Development Association (NVDA) Summary
+- Northwestern Regional Planning Commission (NRPC) Summary
+- Rutland Regional Planning Commission (RRPC) Summary
+- Two Rivers-Ottauquechee Regional Commission (TRORC) Summary
+- Windham Regional Commission (WRC) Summary
+Technical Analysis (July - November 2023)
+- What is the technical analysis? The Department contracted with consultant Sustainable Energy Advantage to conduct a technical analysis that investigated possible impacts of modifying the existing Renewable Energy Standard, aligned with recommendations made in the 2022 Comprehensive Energy Plan and 2021 Climate Action Plan. To support the technical analysis and ensure consideration of a broad array of perspectives in the selection of scenarios, inputs, and assumptions in the analysis, the Department also convened a Stakeholder Advisory Group (membership information available here). The Stakeholder Advisory Group met with the Department and their technical consultants six times between July and November. Materials from each meeting, including minutes, are provided here for reference:
+- Meeting 1: Friday July 21, 10:00am-11:30am
+- Meeting 2: Tuesday August 1, 10:30am-12:30pm
+- Meeting 3: Thursday August 31, 9:00am-11:00am
+- Meeting 4: Monday September 11, 2:00pm-4:00pm
+- Meeting 5: Tuesday October 17, 1:00pm-3:00pm
+- Meeting 6: Tuesday November 14, 10:00am-12:00pm
+- Workshop & Opportunity to Comment on Draft Modeling Results: On October 10th, the Department hosted a virtual workshop to review the draft results of this modeling effort. The workshop included a presentation of the draft results and opportunities for stakeholders to review and ask questions about the draft results. In addition, the Department also accepted written feedback on the draft results until October 25th.
+Workshop Materials:
+Public Comment Period (December 2023)
+- On November 27th, the Department published a draft summary of the process it has taken to review Vermont’s renewable and clean electricity policies and programs. This effort responded to recommendations from the 2022 Comprehensive Energy Plan and 2021 Climate Action Plan to review those policies in a transparent and open manner. The draft report synthesized learnings from across the public engagement efforts and supporting technical analyses conducted between January and November 2023. It distilled five initial takeaways related to the future of electricity in Vermont and offers several reflections on the process taken to engage Vermonters in this effort.
+- The Department requested feedback on:
+- Did we hear the public correctly? Are our interpretations of the process in line with yours?
+- What did we miss?
+- If you participated in this process, what worked well? What could we do better in the future?
+- There were multiple ways to weigh in, including a survey, via email, or by attending one of two public meetings. We held two virtual workshops on December 5th (10am-12pm & 6pm-8pm). The workshops offered space to:
+- Review the initial takeaways presented in this report,
+- Answer questions on this process, and
+- Brainstorm where we go from here.
+- In case you missed them, you can review the recordings:
+- December 5th, 10am-12pm: View the the recording
+- December 5th, 6pm-8pm: View the recording
+Monthly Updates
+To help everyone stay in the loop on what the Department is doing to review Vermont's clean and renewable electricity programs and policies, we're sending our stakeholder list a monthly update. In case you missed it or aren't yet on our stakeholder list, you can access copies of each month's update here:
+Public Engagement Plan
+12/01/22: Public Service Department Releases Public Engagement Plan to Guide Review of Vermont’s Renewable Electricity Policy and Programs
+- The Department's proposed public engagement plan is meant to guide a comprehensive review of Vermont's renewable and clean electricity programs and policies over the next year. The proposed plan incorporates input received earlier this year from the Request for Input and envisions three phases of public engagement to implement a core recommendation of the Comprehensive Energy Plan.
+- Feedback? The Department welcomes feedback on the proposed plan. Please submit feedback through via email at PSD-REPrograms@vermont.gov
+- How did you develop the Public Engagement Plan? This plan was informed by a Request for Input (RFI), issued in July 2022 to solicit feedback on the process for the comprehensive review and to gather initial input about what is important to Vermonters regarding the State’s supply of electricity. Links to the RFI, the related press release and supporting materials, and the synthesis of information submitted are below:
+- August 1, 2022, Press Release - RFI Response Deadline extended to August 15, 2022
+- July 5, 2022, Press Release
+- Request for Input document
+- 10/14/22: Request for Input - Response Synthesis
+- 10/14/22: Request for Input - All Responses
+- RFI Supporting Materials:
+- Request for Input overview: This two-page document provides a high-level description of the Request for Input and general scope of information under consideration. This document serves as an initial primer to the RFI, before diving into the specific questions under consideration.
+- Visual Comparison of Potential Timelines: The Department's Request for Input asks a couple questions regarding how Vermonters would like to see the review of renewable and clean electricity programs and policies occur. In particular, the questions reference Appendix A of the Request for Input, which details two illustrative timelines of how this process could occur. To support review of and reflection on those timelines, the Department has developed a high-level visual of these two timelines, highlighting core milestones in each potential process.
+- VECAN Webinar and Supporting Slides: In addition to these written materials, staff from the Department participated in a webinar with the Vermont Energy and Climate Action Network (VECAN) on July 29, 2022, to discuss the Request for Input and answer participants' questions on the effort. The recording from that webinar, slides, and other materials are available for review via VECAN's website at: https://vecan.net/vecan-vermont-public-service-department-webinar-rfi-f…
+-
+11/8/22: The Department has posted the Draft 2023 RES Model on the Renewables page for review.
+Supporting Information
+Comprehensive Energy Plan
+The Vermont Comprehensive Energy Plan (CEP) sets out a pathway for Vermont to obtain 90% of its energy from renewable sources by 2050. This ambitious goal calls on all citizens to take actions that will collectively transform the way we use and produce energy in our electric, transportation, and heating sectors. Some of the main policies and incentives available to Vermonters that will help effect this transformation are highlighted below. For an in-depth look at the CEP's goals and recommendations, please review the 2022 Comprehensive Energy Plan.
+Renewable Energy Standard
+Beginning in 2017 the Vermont Renewable Energy Standard (RES) required utilities to meet certain goals. Specifically, by 2032, to:
+- Meet 75% of sales with renewable energy (55% in 2017, 59% in 2020)
+- Meet 10% of sales with distributed generation (1% in 2017, 2.2% in 2020)
+- Meet 12% of sales with "energy transformation projects" (2% in 2017, 4% in 2020)*
+*Municipal electric utilities having not more than 6,000 customers have different targets (2.67% in 2020; 10.67% by 2032)
+Climate Action Plan
+Vermont and the world are facing the impacts of climate change and it’s time to act. The initial Vermont Climate Action Plan, released on December 1, 2021, outlines steps to cut climate pollution and help Vermonters prepare for extreme weather and other impacts caused by climate change.
+The Legislature established the Vermont Climate Council to draft the plan. As they drafted the plan, the Climate Council incorporated ideas and feedback from a wide range of Vermonters.
+The initial Vermont Climate Action Plan is a first step in climate action and will be updated at least every four years. The plan includes an implementation section for legislators and other state-level stakeholders to inform decision-making.
+Net-Metering
+The net-metering program, which was established in 1999, is only one of several programs available for developing solar and other types of renewable energy in Vermont. Customers who participate in the net-metering program can offset their electric bills through financial incentives based on the amount of electricity generated by their net-metering systems
+The Vermont Public Utilities Commission manages the net-metering program. For complete information on the program visit their net-metering website.
+Clean Energy Development Fund
+The purpose of CEDF is to increase in Vermont the development and deployment of cost-effective and environmentally sustainable electric power resources, primarily with respect to renewable energy resources, and the use of combined heat and power technologies. Additional information on CEDF can be found on the CEDF page.
+Siting Generation Projects
+Any electric generation facility must receive a Certificate of Public Good from the Public Utility Commission (PUC) before site preparation or construction can begin on that facility.
+Section 248 of Title 30 sets forth the land use, economic, and engineering criteria that the PUC uses to review projects. Depending on the size and type of project, however, the criteria that are reviewed and the process for review can vary considerably.
+Standard Offer
+In 2009 Vermont created one of the first standard price offerings for renewables in the nation, as part of the state's Sustainably Priced Energy for Economic Development (SPEED) program. The first iteration of the program resulted in fixed-price contracts for 50 MW of in-state renewables projects (up to 2.2 MW each). In 2012 the Vermont legislature increased the program by 77.5 MW, up to a total of 127.5 MW through 2022. More information is available on the Standard Offer page.
+Resources
+This webpage provides information and resources regarding renewable energy sources including solar, biomass, wind, and hydropower.
+
+--- SOURCE (PDF): https://publicservice.vermont.gov/sites/dps/files/documents/Electric/Interconnection/2015%2004%2021%20Solar%20Map%20Slides%20-%20NM%20Workshop%20group.pdf ---
+Automated DR 
+Screening and 
+Solar Map 
+by: 
+
+Objective and Goals 
+Transparent DR Interconnection in GMP’s 
+electrical distribution system by making the 
+technical grid information available to 
+developers 
+ The Project will: 
+ Enable optimal siting of DR while reducing 
+interconnection cost and project lead time 
+ Improve GMP’s efficiency and accuracy on 
+DR interconnection analysis 
+ 
+ 
+Solar Map 
+http://gmp.maps.arcgis.com/apps/OnePane/basicviewer/index.h
+tml?appid=dcf1de0fd1ff4cd29d81ca534d3b0318  
+Automated DR Screening 
+DOE Award 
+Automated DR Screening 
+ Integration of  metered load data, GIS information and 
+Distributed Resource (DR) Database  
+ Metered load data from SCADA, AMI and MV90 
+ GIS data includes GMP’s distribution circuit infrastructure and 
+equipment information, such as regulators, capacitors, conductor and 
+cable size types, and protective and switching devices. 
+ DR database provides the size and type of the DR system and the 
+location relative to GMP’s GIS data. 
+ Refinement and  visual display of all GMP distribution 
+circuits with table showing pertinent grid information, 
+necessary for evaluation of interconnection. 
+ Development of circuit calibration tools to properly 
+simulate actual circuit metering data.  This provides proper 
+depiction of circuit load distribution, voltage performance 
+and other system parameters. 
+ Complete Capacity load flow analysis for each protective 
+zone in a circuit; screening specific locations to assist 
+developers in determining the maximum generation that 
+can be added for potential interconnection. 
+Load Calibration Tool 
+

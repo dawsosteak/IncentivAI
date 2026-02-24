@@ -8,10 +8,22 @@ from typing import List, Set
 from urllib.parse import urljoin, urlparse
 import io
 from pypdf import PdfReader
+import pandas as pd
+from docx import Document
 
 logger = logging.getLogger(__name__)
 
 class ContentScraper:
+    """
+    A configured web scraper designed to crawl utility websites for energy efficiency incentives.
+    
+    Design Philosophy:
+    - Targeted Crawling: Instead of a broad crawl, it starts from a specific URL and only follows links 
+      that match specific keywords or patterns (e.g. "program", "incentive").
+    - Depth Control: strictly limited by `max_pages` to prevent getting lost in large corporate sites.
+    - Content Extraction: Uses `trafilatura` for main text and `pypdf` for PDF documents, as incentive 
+      details are often hidden in PDF downloads.
+    """
     def __init__(self, max_pages: int = 5):
         self.session = requests.Session()
         self.session.headers.update({
@@ -37,6 +49,13 @@ class ContentScraper:
         """
         Crawls the website starting from base_url, looking for incentive-related pages.
         Returns combined text content from relevant pages.
+        
+        Args:
+            base_url: The starting URL. This may be a specific page or a general landing page.
+            
+        Returns:
+            str: A large string containing the concatenated text of all visited pages, 
+                 separated by "--- SOURCE: [url] ---" headers.
         """
         if not base_url:
             return ""
@@ -77,8 +96,10 @@ class ContentScraper:
                 if text:
                     collected_text.append(f"--- SOURCE: {url} ---\n{text}\n")
 
-                # If this is the first successful page, determine the primary domain
-                # This handles redirects (e.g. bit.ly -> actual site)
+                # If this is the first successful page, determine the primary domain.
+                # REASONING: We cannot rely on the input `base_url` for domain warnings
+                # because many inputs are shortlinks (bit.ly) or redirects. 
+                # We need the *final* destination URL to know what domain we are actually on.
                 current_netloc = urlparse(response.url).netloc
                 if start_netloc is None:
                     start_netloc = current_netloc
@@ -88,7 +109,10 @@ class ContentScraper:
                 soup = BeautifulSoup(response.text, 'html.parser')
                 for link in soup.find_all('a', href=True):
                     href = link['href']
-                    # Use the actual response URL to resolve relative links, not the initial base_url
+                    # Use the actual response URL to resolve relative links, not the initial base_url.
+                    # REASONING: If we were redirected from `bit.ly/xyz` to `site.com/page`, 
+                    # a link `<a href="subpage">` must be resolved against `site.com/page`, 
+                    # not `bit.ly/xyz`.
                     full_url = urljoin(response.url, href)
                     
                     # check if it matches the primary domain we are scraping
@@ -136,4 +160,26 @@ class ContentScraper:
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
     scraper = ContentScraper()
-    print(scraper.fetch_content("hhttp://comptroller.marylandtaxes.com/Public_Services/Agency_Information/Office_of_the_Comptroller/Comptroller_Initiatives/Shop_Maryland_Tax-free_Week/"))
+    #print(scraper.fetch_content("hhttp://comptroller.marylandtaxes.com/Public_Services/Agency_Information/Office_of_the_Comptroller/Comptroller_Initiatives/Shop_Maryland_Tax-free_Week/"))
+
+    scraped_content = []
+    relevant_urls = pd.read_excel('Relevant URLs.xlsx', header = None)
+    scraped_content = []
+    # Iterate through URLs and scrape content form the first 10 URLs
+    for url in relevant_urls[0][:10]: 
+        print(f"Fetching content for: {url}")
+        try:
+            content = scraper.fetch_content(url)
+            scraped_content.append(content) # save it
+        except Exception as e:
+            print(f"Error fetching content for {url}: {e}")
+    #Save to Word document
+    print("Writing to document...")
+    doc = Document()
+    doc.add_heading('Scraped Content Report', 0)
+    for url, content in zip(relevant_urls[0], scraped_content):
+        doc.add_heading(f'URL: {url}', level=1)
+        doc.add_paragraph(content)
+
+    doc.save('Scraped_Results.docx')
+    print("Done!")

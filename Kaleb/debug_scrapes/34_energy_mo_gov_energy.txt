@@ -1,0 +1,79 @@
+--- SOURCE: http://energy.mo.gov/energy ---
+Energy is fundamental to modern life — it powers our homes, fuels transportation and drives the technologies we rely on every day. We rely on it to heat and cool our spaces, light our rooms, drive cars, move freight and manufacture products. It is a simple fact: we need energy to survive and function. Yet the concept of energy can be quite complicated.
+In the simplest terms, energy is the capability to do work — it is the power that allows people, animals and machines to move and do things. Natural resources, for example, contain the energy that we rely on to power devices and machinery. Energy is fuel like gasoline or propane, geothermal power, wind that blows through turbines, and coal or gas that can be burned to emit heat.
+It’s important to know that energy and electricity are not the same. Electricity is a specific and widely used form of energy that we use to power our devices, light our homes and run appliances. Electricity doesn’t just appear at the wall outlet. It is generated at power plants, often far from where it is used. Once generated, it travels through a complex transmission and distribution network called the electrical grid, which consists of power stations, substations, transmission lines and the distribution poles you see outside your home and in your neighborhood. The grid is what delivers electricity from power plants to homes, businesses and industries. Without electricity, modern communications, technology, medical advancements and industry would be nearly impossible.
+The Missouri Department of Natural Resources focuses on affordable and reliable energy production in Missouri. The department assists, educates and encourages Missourians to advance the efficient use of diverse energy resources to drive economic growth, provide for a healthier environment and achieve greater energy security for future generations. With its large, highly educated workforce, strategic location, low business costs, clean energy initiative and plentiful natural resources, Missouri is perfectly positioned to take advantage of advances in alternative energy in the wind, solar and biofuel sectors.
+
+--- SOURCE: https://dnr.mo.gov/energy/efficiency ---
+Energy efficiency simply means using less energy to do the same task or produce the same result, and thereby eliminating energy waste. Energy-efficient buildings and homes use less energy to heat and cool. Energy-efficient appliances and electronics use less energy to run. Energy-efficient businesses use less energy to produce their goods. Simply put, energy efficiency reduces energy costs for consumers and improves the competitiveness of our businesses.
+Energy efficiency is also one of the easiest and most cost effective ways to reduce the environmental effects of consuming energy. It cleans the air we breathe by reducing the amount of carbon dioxide. The department is working with universities, businesses and the U.S. Department of Energy's National Laboratories to develop new, energy-efficient technologies while boosting the efficiency of current technologies on the market. Learn more about work being done in Missouri related to improving energy efficiency.
+
+--- SOURCE: https://dnr.mo.gov/energy/efficiency/missouri-home-certification ---
+Missouri Home Energy Certification (MHEC) encourages Missourians to reduce energy usage by making improvements or upgrades to their homes. MHEC is designed to promote energy efficient homes through clear and meaningful recognition. It is intended to help homeowners convey the invested value of the energy efficient features of their home to potential buyers. The criteria for recognition have been determined by using nationally recognized home energy assessment tools. Among them are the Home Energy Score (HEScore), Home Energy Rating System (HERS), ENERGY STAR®, Pearl Certification and the International Energy Conservation Code.
+Applications may be submitted through the Green Building Registry® and must be submitted by a Certified Home Energy Auditor (HEA) currently certified by the department's Division of Energy.
+- Missouri Home Energy Certification Webinar, Aug. 3, 2015
+- Missouri Home Energy Certification Program Guidelines - PUB3050
+- Missouri Home Energy Certification Program - Frequently Asked Questions for Homeowners - PUB2879
+- Missouri Home Energy Certification Program - Frequently Asked Questions for Auditors - PUB2880
+- Renew Missouri Homes - Pearl
+- Sample of Gold Certificate
+- Sample of Silver Certificate
+
+--- SOURCE: https://dnr.mo.gov/energy/efficiency/home-tools ---
+Home energy efficiency is using less energy for heating, cooling, and other tasks by making improvements inside and outside your home. These improvements lead to lower bills, help make your home more comfortable and reduced environmental impacts.
+There are many ways to improve your homes energy efficiency. Some improvements are inexpensive and may be implemented easily. Some may only take a minute or two of your time and will positively impact your wallet, and the environment. Learn more about steps you can take to do it yourself, or improvements that may required a qualified professional. The information below is made possible by the U.S. Department of Energy (DOE), the ENERGY STAR® program and other agencies.
+General Information
+- Building Energy Codes Program - DOE
+- Cost Savings Calculators - PUB2964
+- Efficient Home Design - ENERGY STAR®
+- Energy Saver - DOE
+- Service and Product Provider Directory - ENERGY STAR®
+- Home Energy Checklist - DOE
+- Home Performance Assessment - ENERGY STAR®
+- Saving Energy and Money with Building Energy Codes in the United States - DOE
+- Show-Me Green Sales Tax Holiday - Missouri Department of Revenue
+- Summer Cooling Tips - PUB2842
+- Winter Heating Cost Information and Heating Tips - PUB2843
+- Tax Credits and Rebates - DOE
+Specific Improvements
+- A Guide to Energy-Efficient Heating and Cooling - ENERGY STAR®
+- Appliances and Electronics - DOE
+- Central Air Conditioning - DOE
+- Consumer Guide to Energy-Efficient Lighting - DOE
+- Duct Sealing - ENERGY STAR®
+- Energy-Efficient Landscaping - DOE
+- Energy-Efficient Products - ENERGY STAR®
+- Geothermal Heat Pumps - DOE
+- Guide to Home Ventilation - DOE
+- Home Heating Systems - DOE
+- Homeowner's Guide to Solar - DOE
+- Insulation - DOE
+- Moisture Control - DOE
+- Purchasing Energy-Efficient Light Bulbs - DOE
+- Selecting a New Water Heater - DOE
+- Small Space Heaters - DOE
+- Small Wind Economics - Windustry
+- Solar Energy Contacts - PUB2841
+- Whole-House Ventilation - DOE
+- Update or Replace Windows - DOE
+
+--- SOURCE: https://dnr.mo.gov/energy/landscape/sources/solar ---
+Solar energy comes directly from the sun. The most common way to capture this energy is through solar panels. Photovoltaic solar panels convert sunlight directly into electricity for homes, businesses and communities. Thermal solar panels use the sun’s heat for water and space heating.
+In 2023, solar power made up about 3.9% of all electricity produced in the United States.
+Solar in Missouri
+In Missouri, solar provided 2.06% of the state’s electricity in 2023. Almost 80% of this came from small-scale systems, such as solar arrays installed on rooftops.
+Beginning in January 2025, large utility-scale solar systems began producing more electricity than small-scale systems for the first time. Utility-scale solar now makes more than twice as much electricity as small-scale systems and Missouri utilities are expected to continue growing their solar capacity. A recent example is Ameren Missouri’s new Reform Renewable Energy Center project, which has plans to incorporate energy storage capabilities along with solar generation.
+Some reasons for this growth in utility-scale solar is due to higher energy needs, utility sustainability targets and portfolio diversity goals. In addition, solar construction is relatively low-cost and quick compared to other energy infrastructure needs.
+Tips for Residential Solar
+Solar panels can help lower energy costs and reduce environmental impacts from energy consumption. If you are interested in installing solar panels, consider the following:
+- Energy efficiency: Before considering a solar energy system, look for cost-effective ways to reduce your energy consumption so you can save money on your electric bill. By reducing your energy consumption, you might be able to install a smaller, less-costly solar energy system. A home energy audit can identify energy efficiency measures.
+- Shop around: Get quotes from multiple solar businesses. The Missouri Solar Energy Industries Association lists member businesses that you can consider. Be cautious of sales pitches that pressure you into quick action.
+- Payback time: Consider how long it will take to pay back the cost of a solar energy system. Compare your typical electricity usage to the expected production of a solar energy system and your electric utility’s rates. The National Renewable Energy Laboratory’s PVWatts® Calculator is a free tool that estimates solar photovoltaic system performance. Be wary of any sales pitches that claim an automatic decrease in utility rates or promise unrealistic savings. And since solar energy systems require sunshine, keep in mind that a solar energy system may not offset all your energy consumption.
+- Utility company policies: Be aware of your utility’s policies related to solar energy. You will have to work with your electric utility before connecting solar panels to the local grid. Net Metering, a technology that continuously measures electrical flow to or from an individual customer, is typically required by utilities before connecting a distributed energy resource to the grid. Ameren Missouri, Evergy and Liberty-Empire are regulated by the Missouri Public Service Commission. Municipal utilities are regulated by their local governments, and rural electric cooperatives are controlled by their member-owners (i.e., customers).
+- Government Incentives and Grants: Be wary of any sales pitches that claim the government will pay for your solar panels. A federal Residential Renewable Energy Tax Credit may be able to offset part of the cost of a solar system. Your electric utility may have incentives for solar panels. In addition, the Environmental Improvement and Energy Resources Authority (EIERA) is setting up a program for solar financing using Solar for All funding. Independently verify the details of any alleged government programs before committing.
+The department can offer general advice regarding solar energy systems, but it cannot recommend particular businesses. Visit the U.S. Department of Energy, BBB St. Louis, Federal Trade Commission and Missouri Solar Energy Industries Association for additional tips when considering solar energy systems.
+For consumer protection concerns, contact the Missouri Attorney General, the Federal Trade Commission or the Missouri Solar Energy Industries Association.
+More Information
+- Renewable Energy Standard (RES) Certification
+- Solar Energy Contacts - PUB2841
+- Energy Financial Assistance Opportunities - Funding opportunities for solar installation and accessibility
