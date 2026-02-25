@@ -1,18 +1,21 @@
 import asyncio
+import os
+import pandas as pd
+from urllib.parse import urlparse
+import json
 from crawl4ai import AsyncWebCrawler, CrawlerRunConfig
 from crawl4ai.deep_crawling import BestFirstCrawlingStrategy
 from crawl4ai.deep_crawling.scorers import KeywordRelevanceScorer
 from crawl4ai.deep_crawling.filters import FilterChain, SEOFilter, ContentRelevanceFilter, URLPatternFilter
 from crawl4ai.content_scraping_strategy import LXMLWebScrapingStrategy
-# Note: LXML is usually default, but good to keep explicit if needed
-import pandas as pd
-import json
 
 
-file_path = '/Users/kaleblamphiear/Downloads/CAPSTONE/Relevant URLs.xlsx'
+
+# load URLs from Excel file
+file_path = os.path.join("..", "Relevant URLs.xlsx")
 url_list = pd.read_excel(file_path, header=None)[0].dropna().astype(str).tolist()
 url_list = [url for url in url_list if url.startswith('http')]
-url_test = url_list[:2]
+url_test = url_list[:100]
 
 
 async def main():
@@ -23,7 +26,8 @@ async def main():
     )
     #Define the Filters
     seo_filter = SEOFilter(threshold=0.5, 
-                           keywords=["rebates", "incentive", "grant", "funding", "assistance", "opportunity", "application", "eligibility"]  # Keywords to look for in SEO metadata
+                           keywords=["rebate", "incentive", "grant", "funding",
+                                      "assistance", "opportunity", "application", "eligibility"]  # Keywords to look for in SEO metadata
     )
 
     strategy = BestFirstCrawlingStrategy(
@@ -55,7 +59,7 @@ async def main():
                 print(f"Error crawling {url}: {e}")
         
         print("\n" + "="*60)
-        print("🚀 CRAWL LOG")
+        print("CRAWL LOG")
         print("="*60)
 
         for res in batch_result:
@@ -81,15 +85,28 @@ async def main():
                 print(scraped_text)
                 print("-" * 35)
                 
-                # Save scraped text to a file
-                safe_url = url.replace("https://", "").replace("http://", "").replace("/", "_").replace("?", "_").replace("=", "_")
-                filename = f"scraped_{safe_url[:50]}.md"
-                with open(filename, "w", encoding="utf-8") as f:
+                # Define the output directory
+                output_dir = "scraped_data"
+                if not os.path.exists(output_dir):
+                    os.makedirs(output_dir)
+
+                # --- Inside your scraping loop ---
+
+                # 1. Extract the domain (e.g., "https://blog.example.com/post" -> "blog.example.com")
+                domain = urlparse(url).netloc
+                # Replace dots with underscores to keep filenames clean (optional)
+                safe_domain = domain.replace(".", "_")
+                filename = f"{safe_domain}.md"
+                file_path = os.path.join(output_dir, filename)
+
+                # 2. Use append mode ("a") to add to the existing file instead of overwriting it
+                with open(file_path, "a", encoding="utf-8") as f:
+                 # Add a header so you know where one page ends and the next begins
+                    f.write(f"\n\n--- SOURCE: {url} ---\n\n")
                     f.write(scraped_text)
-                print(f"💾 Saved full scraped text to: {filename}")
-            else:
-                error = getattr(res, 'error_message', 'Unknown Error')
-                print(f"Depth: N/A  | Score: 0.00 | ❌ {url} - {error}")
+
+                print(f"Appended content from {url} to: {file_path}")
+                
 
     # 5. Analyze the results
     if not results:
@@ -97,7 +114,7 @@ async def main():
         return
 
     print("\n" + "="*60)
-    print("📊 FINAL SUMMARY")
+    print(" FINAL SUMMARY")
     print("="*60)
     print(f"Crawled {len(results)} high-value pages total")
     
