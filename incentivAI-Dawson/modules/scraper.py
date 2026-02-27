@@ -8,15 +8,15 @@ import sys
 # Windows-safe event loop
 if sys.platform.startswith("win"):
     asyncio.set_event_loop_policy(asyncio.WindowsProactorEventLoopPolicy())
-
+#Grab the logger for logging errors and info throughout the scraping process
 logger = get_logger()
-
+# removes html 
 def clean_html(html):
     html = re.sub(r"<script.*?>.*?</script>", "", html, flags=re.DOTALL)
     html = re.sub(r"<style.*?>.*?</style>", "", html, flags=re.DOTALL)
     text = re.sub(r"\s+", " ", html)
     return text.strip()
-
+# crawler function that uses crawl4ai to scrape the page
 async def async_scrape(url, timeout=30):
     config = CrawlerRunConfig(scraping_strategy=LXMLWebScrapingStrategy())
     try:
@@ -31,7 +31,6 @@ async def async_scrape(url, timeout=30):
     except Exception as e:
         logger.error(f"Scraping failed for {url}: {e}")
     return None
-
 def scrape_url(url, truncation_length=1000):
     try:
         html = asyncio.run(async_scrape(url))
@@ -49,7 +48,7 @@ if __name__ == "__main__":
         "https://beachesenergy.com/my-account/energy-rebates",
         "https://cpi1.gpfulfillment.com/"
     ]
-
+    #Testing urls
     loop = asyncio.ProactorEventLoop()
     asyncio.set_event_loop(loop)
     results = loop.run_until_complete(scrape_urls(urls))
