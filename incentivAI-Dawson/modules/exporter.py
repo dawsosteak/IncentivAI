@@ -2,14 +2,15 @@ import pandas as pd
 import tempfile
 
 def export_to_csv(results):
+    #Create a list of rows for the DataFrame
     rows = []
-
+    #Loop through each entry in the results and extract program details
     for entry in results:
         utility = entry.get("utility_company")
         source_url = entry.get("source_url")
         timestamp = entry.get("extraction_timestamp")
         programs = entry.get("programs", [])
-
+        #If there are no programs, add a row with None values for program details
         if not programs:
             rows.append({
                 "utility_company": utility,
@@ -23,6 +24,7 @@ def export_to_csv(results):
                 "source_url": source_url,
                 "extraction_timestamp": timestamp
             })
+            #Repeat for each program if there are multiple programs for the utility company
         else:
             for p in programs:
                 rows.append({
@@ -37,7 +39,7 @@ def export_to_csv(results):
                     "source_url": source_url,
                     "extraction_timestamp": timestamp
                 })
-
+    #Create a DataFrame from the list of rows and save it to a temporary CSV file
     df = pd.DataFrame(rows)
     tmp = tempfile.NamedTemporaryFile(delete=False, suffix=".csv")
     df.to_csv(tmp.name, index=False)

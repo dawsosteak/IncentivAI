@@ -4,7 +4,7 @@ from modules.llm_agent import call_ollama
 from utils.logger import get_logger
 
 logger = get_logger()
-
+#Building the structure of what to extract and how to format it, with rules for how to handle missing data and multiple programs
 SCHEMA_TEMPLATE = """
 Return ONLY valid JSON.
 
@@ -30,7 +30,7 @@ Rules:
 - No markdown.
 - No explanation.
 """
-
+#give the prompt to the agent, this is what we can change and write different prompts to test
 def build_prompt(text):
     return f"""
 Extract energy-related programs and incentives.
@@ -43,7 +43,7 @@ Do not fabricate financial data.
 
 {SCHEMA_TEMPLATE}
 """
-
+# Process the text with retries
 def process_text(text, url, temperature):
     prompt = build_prompt(text)
 
