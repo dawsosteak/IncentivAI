@@ -2,218 +2,218 @@
 
 --- SOURCE: https://www.bcapcodes.org/tools/ica-2009/mississippi-incremental-cost ---
 
-[Skip to content](https://bcapcodes.org/incremental-cost-analysis/mississippi-incremental-cost/#home-content)
-[ ![The Building Codes Assistance Project](https://bcapcodes.org/wp-content/uploads/2024/01/cropped-logo_longer1.png) ](https://bcapcodes.org/)
+Skip to content
+ !The Building Codes Assistance Project 
 Menu
-  * [SunShot Initiative](https://bcapcodes.org/beyond-code-portal/sunshot/)
-  * [Tools](https://bcapcodes.org/tools/)
-    * [Incremental Cost](https://bcapcodes.org/?page_id=893)
-    * [Policy Action](https://bcapcodes.org/policy-action-toolkit/)
-    * [Implementation](https://bcapcodes.org/compliance-portal-implementation/)
-    * [Code Builder](https://bcapcodes.org/code-builder/)
-      * [Residential](https://bcapcodes.org/residential-2/)
-      * [Commercial](https://bcapcodes.org/commercial-2/)
-      * [BCAP Newsletter](https://bcapcodes.org/bcap-newsletter/)
-      * [The Decoder](https://bcapcodes.org/the-decoder/)
-      * [Upcoming Events](https://bcapcodes.org/upcoming-events/)
-      * [Energy Code Champion](https://bcapcodes.org/?page_id=645)
-  * [Code Status](https://bcapcodes.org/code-status/)
-    * [Commercial](https://bcapcodes.org/commercial/)
-    * [Residential](https://bcapcodes.org/?page_id=164)
-    * [Local Adoptions](https://bcapcodes.org/?page_id=160)
-    * [International](https://bcapcodes.org/country/)
-  * [About](https://bcapcodes.org/who-we-are/)
-    * [Our Staff](https://bcapcodes.org/our-staff/)
-    * [What We Do](https://bcapcodes.org/who-we-are/what-we-do/)
-    * [Why Energy Codes Matter](https://bcapcodes.org/why-energy-codes-matter/)
-  * [Contact Us](https://bcapcodes.org/contact-us/)
-  * [Energy](https://bcapcodes.org/category/energy/)
-    * [Batteries](https://bcapcodes.org/category/batteries/)
-      * [Sodium-ion](https://bcapcodes.org/category/sodium-ion/)
-      * [Lithium-ion](https://bcapcodes.org/category/lithium-ion/)
-    * [Energy efficiency](https://bcapcodes.org/category/energy-efficiency/)
-    * [Energy cost](https://bcapcodes.org/category/energy-cost/)
+  * SunShot Initiative
+  * Tools
+    * Incremental Cost
+    * Policy Action
+    * Implementation
+    * Code Builder
+      * Residential
+      * Commercial
+      * BCAP Newsletter
+      * The Decoder
+      * Upcoming Events
+      * Energy Code Champion
+  * Code Status
+    * Commercial
+    * Residential
+    * Local Adoptions
+    * International
+  * About
+    * Our Staff
+    * What We Do
+    * Why Energy Codes Matter
+  * Contact Us
+  * Energy
+    * Batteries
+      * Sodium-ion
+      * Lithium-ion
+    * Energy efficiency
+    * Energy cost
 
 
 # True Cost of the 2009 IECC for New Homes in Mississippi
 [True Cost of the 2009 IECC for New Homes in Mississippi](https://bcapcodes.org/wp-content/uploads/2015/12/Mississippi-Incremental-Cost.pdf)
 This fact sheet provides background on the costs of building new homes in Mississippi to the 2009 IECC and demonstrates how quickly would-be homebuyers would break even on the added investment.
-![mg author box](https://bcapcodes.org/wp-content/uploads/2023/11/mg_new.png)
-[Maureen Guttman](https://bcapcodes.org/author/admin37109/)
+!mg author box
+Maureen Guttman
 AIA  
 President  
 Washington, DC
   * Important links
-  * [About Us](https://bcapcodes.org/who-we-are/)
-  * [Help](https://bcapcodes.org/contact-us/)
-  * [Contact](https://bcapcodes.org/contact-us/)
-  * [Privacy Policy](https://bcapcodes.org/privacy-policy/)
+  * About Us
+  * Help
+  * Contact
+  * Privacy Policy
 
 
   * **State Codes**
-  * [Ohio Codes](https://bcapcodes.org/code-status/state/ohio/)
-  * [California Codes](https://bcapcodes.org/code-status/state/california/)
-  * [Alabama Codes](https://bcapcodes.org/code-status/state/alabama/)
-  * [Arkansas Codes](https://bcapcodes.org/code-status/state/arkansas/)
-  * [Florida Codes](https://bcapcodes.org/code-status/state/florida/)
+  * Ohio Codes
+  * California Codes
+  * Alabama Codes
+  * Arkansas Codes
+  * Florida Codes
 
 
   * **Code Builder**
-  * [Residential ](https://bcapcodes.org/residential-2/)
-  * [Commercial ](https://bcapcodes.org/commercial-2/)
-  * [The Decoder](https://bcapcodes.org/the-decoder/)
-  * [Energy Code Champion](https://bcapcodes.org/)
+  * Residential 
+  * Commercial 
+  * The Decoder
+  * Energy Code Champion
 
 
 ![](https://bcapcodes.org/wp-content/uploads/2024/08/logo-removebg-preview.png)
   * Follow BCAP On Social Media
-  * [![facebook](https://bcapcodes.org/incremental-cost-analysis/mississippi-incremental-cost/)](https://www.facebook.com/buildingcodesassistanceproject/)![](https://bcapcodes.org/incremental-cost-analysis/mississippi-incremental-cost/)[![linkedin](https://bcapcodes.org/incremental-cost-analysis/mississippi-incremental-cost/)](https://www.linkedin.com/company/building-codes-assistance-project)
+  * !facebook![](https://bcapcodes.org/incremental-cost-analysis/mississippi-incremental-cost/)!linkedin
 
 
 The Building Codes Assistance Project 
-: [Copyright Building Codes Assitance Project ](https://bcapcodes.org/ "AccessPress Lite")
+: Copyright Building Codes Assitance Project 
 
 
 --- SOURCE: https://www.bcapcodes.org ---
 
-[Skip to content](https://bcapcodes.org/#home-content)
-[ ![The Building Codes Assistance Project](https://bcapcodes.org/wp-content/uploads/2024/01/cropped-logo_longer1.png) ](https://bcapcodes.org/)
+Skip to content
+ !The Building Codes Assistance Project 
 Menu
-  * [SunShot Initiative](https://bcapcodes.org/beyond-code-portal/sunshot/)
-  * [Tools](https://bcapcodes.org/tools/)
-    * [Incremental Cost](https://bcapcodes.org/?page_id=893)
-    * [Policy Action](https://bcapcodes.org/policy-action-toolkit/)
-    * [Implementation](https://bcapcodes.org/compliance-portal-implementation/)
-    * [Code Builder](https://bcapcodes.org/code-builder/)
-      * [Residential](https://bcapcodes.org/residential-2/)
-      * [Commercial](https://bcapcodes.org/commercial-2/)
-      * [BCAP Newsletter](https://bcapcodes.org/bcap-newsletter/)
-      * [The Decoder](https://bcapcodes.org/the-decoder/)
-      * [Upcoming Events](https://bcapcodes.org/upcoming-events/)
-      * [Energy Code Champion](https://bcapcodes.org/?page_id=645)
-  * [Code Status](https://bcapcodes.org/code-status/)
-    * [Commercial](https://bcapcodes.org/commercial/)
-    * [Residential](https://bcapcodes.org/?page_id=164)
-    * [Local Adoptions](https://bcapcodes.org/?page_id=160)
-    * [International](https://bcapcodes.org/country/)
-  * [About](https://bcapcodes.org/who-we-are/)
-    * [Our Staff](https://bcapcodes.org/our-staff/)
-    * [What We Do](https://bcapcodes.org/who-we-are/what-we-do/)
-    * [Why Energy Codes Matter](https://bcapcodes.org/why-energy-codes-matter/)
-  * [Contact Us](https://bcapcodes.org/contact-us/)
-  * [Energy](https://bcapcodes.org/category/energy/)
-    * [Batteries](https://bcapcodes.org/category/batteries/)
-      * [Sodium-ion](https://bcapcodes.org/category/sodium-ion/)
-      * [Lithium-ion](https://bcapcodes.org/category/lithium-ion/)
-    * [Energy efficiency](https://bcapcodes.org/category/energy-efficiency/)
-    * [Energy cost](https://bcapcodes.org/category/energy-cost/)
+  * SunShot Initiative
+  * Tools
+    * Incremental Cost
+    * Policy Action
+    * Implementation
+    * Code Builder
+      * Residential
+      * Commercial
+      * BCAP Newsletter
+      * The Decoder
+      * Upcoming Events
+      * Energy Code Champion
+  * Code Status
+    * Commercial
+    * Residential
+    * Local Adoptions
+    * International
+  * About
+    * Our Staff
+    * What We Do
+    * Why Energy Codes Matter
+  * Contact Us
+  * Energy
+    * Batteries
+      * Sodium-ion
+      * Lithium-ion
+    * Energy efficiency
+    * Energy cost
 
 
 ## getting started
 Begin your journey into the world of energy codes. Discover insights into key stakeholders, explore the benefits of energy-efficient construction, and learn the history and fundamentals of building codes in the U.S. Start building smarter, today.”
-![getting started](https://bcapcodes.org/wp-content/uploads/2024/06/getting-started-new.png)
+!getting started
 ## Code status maps
-These maps provide a snapshot of [**residential**](https://bcapcodes.org/tools/code-builder/residential/) and [**commercial**](https://bcapcodes.org/code-status/commercial/) building energy code adoption and implementation status in each state.
-![code front map](https://bcapcodes.org/wp-content/uploads/2024/06/code-front-map-e1459813589526.png)
-New feature: [View all state commercial and residential codes as a table.](https://bcapcodes.org/code-status/state/)
+These maps provide a snapshot of **residential** and **commercial** building energy code adoption and implementation status in each state.
+!code front map
+New feature: View all state commercial and residential codes as a table.
 ## state information
 Select a State Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware District Of Columbia Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming
-## [consumer portal](https://bcapcodes.org/consumer-portal/)
+## consumer portal
 Your guide to residential energy codes, co-hosted by Consumers Union.
-## [beyond code](https://bcapcodes.org/beyond-code-portal/)
+## beyond code
 Standards and regulations that go beyond minimum requirements.
-## [EXISTING BUILDINGS](https://bcapcodes.org/existing/)
+## EXISTING BUILDINGS
 Your guide to residential energy codes, co-hosted by Consumers Union.
-## [POLICY ACTION TOOLKIT](https://bcapcodes.org/policy-action-toolkit/)
+## POLICY ACTION TOOLKIT
 Your guide to residential energy codes, co-hosted by Consumers Union.
-## [COMPLIANCE PORTAL](https://bcapcodes.org/compliance-portal/)
+## COMPLIANCE PORTAL
 Stay up-to-date with materials from BCAP, IMT, and DOE.
 ## FEATURED RESOURCE
-[ ![Happy family](https://bcapcodes.org/) ](https://bcapcodes.org/survey/homebuyer-demand-for-energy-codes/)
-###  [ Homebuyer Demand for Energy Codes ](https://bcapcodes.org/survey/homebuyer-demand-for-energy-codes/)
+ !Happy family 
+###   Homebuyer Demand for Energy Codes 
 Consumer demand for energy efficiency is a topic energy code advocates need to understand. We want to know the answers to questions like “do consumers believe in conserving energy through increasing energy efficiency in their homes?”
 ## FEATURED NEWS
-[ ![Code stringency graph](https://bcapcodes.org/wp-content/uploads/2023/08/code-thru-2050.png) ](https://bcapcodes.org/newsletter/drumroll-please-2018-iecc/)
-###  [ Drumroll, Please: Results of the 2018 IECC Are In… ](https://bcapcodes.org/newsletter/drumroll-please-2018-iecc/)
+ !Code stringency graph 
+###   Drumroll, Please: Results of the 2018 IECC Are In… 
 by Maureen Guttman, AIA The votes have been counted and while some folks will be happy with the results, others are very disappointed. No, we’re not talking about the presidential election, but about the Online Governmental
 ## Follow BCAP on social media:
-[ ![facebook](https://bcapcodes.org/wp-content/uploads/2024/06/facebook.png) ](https://www.facebook.com/buildingcodesassistanceproject)
-[ ![linkedin](https://bcapcodes.org/wp-content/uploads/2024/06/linkedin.png) ](https://www.linkedin.com/company/building-codes-assistance-project)
-[ ![](https://bcapcodes.org/wp-content/uploads/2024/06/twitter.png) ](https://x.com/BCAPOCEAN)
+ !facebook 
+ !linkedin 
+ ! 
 ## Recent Posts
-###  [ Green Building Standards in the U.S. vs Canada – Key Differences in 2025 Codes ](https://bcapcodes.org/zero-net-energy/green-building-standards-us-vs-canada/)
-###  [ What Is Green Building? 2025 Beginner’s Guide for Homeowners & Builders ](https://bcapcodes.org/zero-net-energy/what-is-green-building-2025/)
-###  [ Natron’s Collapse Shocks U.S. Battery Ambitions — But China’s Sodium-Ion Revolution Is Just Beginning ](https://bcapcodes.org/sodium-ion/natron-us-battery-ambitions/)
-###  [ Mississippi Electrical Code 2023 ](https://bcapcodes.org/mississippi/electrical-code-2023/)
-###  [ Mississippi Fire Code 2024 ](https://bcapcodes.org/mississippi/fire-code-2024/)
-###  [ Mississippi Residential Code 2024 ](https://bcapcodes.org/mississippi/residential-code-2024/)
+###   Green Building Standards in the U.S. vs Canada – Key Differences in 2025 Codes 
+###   What Is Green Building? 2025 Beginner’s Guide for Homeowners & Builders 
+###   Natron’s Collapse Shocks U.S. Battery Ambitions — But China’s Sodium-Ion Revolution Is Just Beginning 
+###   Mississippi Electrical Code 2023 
+###   Mississippi Fire Code 2024 
+###   Mississippi Residential Code 2024 
 ## Upcoming news
 no events 
-## [View all upcoming events](https://bcapcodes.org/upcoming-events/)
+## View all upcoming events
   * Important links
-  * [About Us](https://bcapcodes.org/who-we-are/)
-  * [Help](https://bcapcodes.org/contact-us/)
-  * [Contact](https://bcapcodes.org/contact-us/)
-  * [Privacy Policy](https://bcapcodes.org/privacy-policy/)
+  * About Us
+  * Help
+  * Contact
+  * Privacy Policy
 
 
   * **State Codes**
-  * [Ohio Codes](https://bcapcodes.org/code-status/state/ohio/)
-  * [California Codes](https://bcapcodes.org/code-status/state/california/)
-  * [Alabama Codes](https://bcapcodes.org/code-status/state/alabama/)
-  * [Arkansas Codes](https://bcapcodes.org/code-status/state/arkansas/)
-  * [Florida Codes](https://bcapcodes.org/code-status/state/florida/)
+  * Ohio Codes
+  * California Codes
+  * Alabama Codes
+  * Arkansas Codes
+  * Florida Codes
 
 
   * **Code Builder**
-  * [Residential ](https://bcapcodes.org/residential-2/)
-  * [Commercial ](https://bcapcodes.org/commercial-2/)
-  * [The Decoder](https://bcapcodes.org/the-decoder/)
-  * [Energy Code Champion](https://bcapcodes.org/)
+  * Residential 
+  * Commercial 
+  * The Decoder
+  * Energy Code Champion
 
 
 ![](https://bcapcodes.org/)
   * Follow BCAP On Social Media
-  * [![facebook](https://bcapcodes.org/)](https://www.facebook.com/buildingcodesassistanceproject/)![](https://bcapcodes.org/)[![linkedin](https://bcapcodes.org/)](https://www.linkedin.com/company/building-codes-assistance-project)
+  * !facebook![](https://bcapcodes.org/)!linkedin
 
 
 The Building Codes Assistance Project 
-: [Copyright Building Codes Assitance Project ](https://bcapcodes.org/ "AccessPress Lite")
+: Copyright Building Codes Assitance Project 
 
 
 --- SOURCE: https://www.bcapcodes.org/policy-action-toolkit/energy-code-reform ---
 
 [Skip to content](https://bcapcodes.org/energy-code-reform/#home-content)
-[ ![The Building Codes Assistance Project](https://bcapcodes.org/wp-content/uploads/2024/01/cropped-logo_longer1.png) ](https://bcapcodes.org/)
+ !The Building Codes Assistance Project 
 Menu
-  * [SunShot Initiative](https://bcapcodes.org/beyond-code-portal/sunshot/)
-  * [Tools](https://bcapcodes.org/tools/)
-    * [Incremental Cost](https://bcapcodes.org/?page_id=893)
-    * [Policy Action](https://bcapcodes.org/policy-action-toolkit/)
-    * [Implementation](https://bcapcodes.org/compliance-portal-implementation/)
-    * [Code Builder](https://bcapcodes.org/code-builder/)
-      * [Residential](https://bcapcodes.org/residential-2/)
-      * [Commercial](https://bcapcodes.org/commercial-2/)
-      * [BCAP Newsletter](https://bcapcodes.org/bcap-newsletter/)
-      * [The Decoder](https://bcapcodes.org/the-decoder/)
-      * [Upcoming Events](https://bcapcodes.org/upcoming-events/)
-      * [Energy Code Champion](https://bcapcodes.org/?page_id=645)
-  * [Code Status](https://bcapcodes.org/code-status/)
-    * [Commercial](https://bcapcodes.org/commercial/)
-    * [Residential](https://bcapcodes.org/?page_id=164)
-    * [Local Adoptions](https://bcapcodes.org/?page_id=160)
-    * [International](https://bcapcodes.org/country/)
-  * [About](https://bcapcodes.org/who-we-are/)
-    * [Our Staff](https://bcapcodes.org/our-staff/)
-    * [What We Do](https://bcapcodes.org/who-we-are/what-we-do/)
-    * [Why Energy Codes Matter](https://bcapcodes.org/why-energy-codes-matter/)
-  * [Contact Us](https://bcapcodes.org/contact-us/)
-  * [Energy](https://bcapcodes.org/category/energy/)
-    * [Batteries](https://bcapcodes.org/category/batteries/)
-      * [Sodium-ion](https://bcapcodes.org/category/sodium-ion/)
-      * [Lithium-ion](https://bcapcodes.org/category/lithium-ion/)
-    * [Energy efficiency](https://bcapcodes.org/category/energy-efficiency/)
-    * [Energy cost](https://bcapcodes.org/category/energy-cost/)
+  * SunShot Initiative
+  * Tools
+    * Incremental Cost
+    * Policy Action
+    * Implementation
+    * Code Builder
+      * Residential
+      * Commercial
+      * BCAP Newsletter
+      * The Decoder
+      * Upcoming Events
+      * Energy Code Champion
+  * Code Status
+    * Commercial
+    * Residential
+    * Local Adoptions
+    * International
+  * About
+    * Our Staff
+    * What We Do
+    * Why Energy Codes Matter
+  * Contact Us
+  * Energy
+    * Batteries
+      * Sodium-ion
+      * Lithium-ion
+    * Energy efficiency
+    * Energy cost
 
 
 # Energy Code Reform
@@ -259,7 +259,7 @@ City and county jurisdictions have adopted a variety of energy codes for both re
 * * *
 ##### Local Government Building Standards
 While most states are empowered to adopt energy codes statewide, “home rule” states have limited ability to impose building requirements on municipalities. In these cases, local governments can adopt their own codes. On a local level, “greening of government” initiatives continue to demonstrate how legislative and local government actions can substantially raise the energy code standard in publicly funded buildings.
-  * [Pima County in Arizona](http://webcms.pima.gov/government/development_services/building_and_site_development/) is taking this approach (and thereby impacting a large portion of the state’s overall building stock).
+  * Pima County in Arizona is taking this approach (and thereby impacting a large portion of the state’s overall building stock).
   * Effective July 1, 2013, Phoenix AZ has adopted the 2012 IECC with [city amendments](https://www.phoenix.gov/pddsite/Documents/iecc_amend.pdf). The new code also provides minimum health and safety standards for the construction of buildings in Phoenix.
 
 
@@ -267,10 +267,10 @@ While most states are empowered to adopt energy codes statewide, “home rule”
 ##### State Government Buildings
 In the absence of statewide energy codes, a few states have mandated application of an energy code for their government buildings. These facilities often are highly visible and symbolic, and they present a good opportunity to achieve cost-effective energy savings. Since a 20%-30% return on energy efficiency investments in state buildings is common, a number of states have developed policies that either require or encourage energy improvements in government buildings. This strategy not only improves a significant portion of the local building stock in many areas, but showcases the application and results of what can be achieved throughout the remainder of the market.
   * [Illinois SB 2686](http://www.ilga.gov/legislation/94/SB/PDF/09400SB2868enr.pdf)
-  * The revised [Code of Washington Chapter 39.35D](http://apps.leg.wa.gov/rcw/default.aspx?cite=39.35d&full=true) requires that state-assisted major building projects be built to a high-performance or a green building standard.
-  * [Public Building Requirements | ACEEE](http://database.aceee.org/state/public-building-requirements)
-  * [Energy Efficiency Requirements in Public Buildings | NCSL](http://www.ncsl.org/research/energy/energy-efficiency-requirements-for-public-buildings.aspx)
-  * [As of January 5, 2016, the current federal standard for commercial buildings is based on ASHRAE Standard 90.1-2013](https://www.energycodes.gov/energy-efficiency-standards-federal-buildings). This rule implements provisions of the Energy Conservation and Production Act (ECPA) that require DOE to update baseline federal energy efficiency performance standards for the construction of new Federal commercial and multi-family high-rise residential buildings. This final rule was published in the [federal register](https://www.gpo.gov/fdsys/pkg/FR-2015-11-06/pdf/2015-28078.pdf) on November 6, 2015.
+  * The revised Code of Washington Chapter 39.35D requires that state-assisted major building projects be built to a high-performance or a green building standard.
+  * Public Building Requirements | ACEEE
+  * Energy Efficiency Requirements in Public Buildings | NCSL
+  * As of January 5, 2016, the current federal standard for commercial buildings is based on ASHRAE Standard 90.1-2013. This rule implements provisions of the Energy Conservation and Production Act (ECPA) that require DOE to update baseline federal energy efficiency performance standards for the construction of new Federal commercial and multi-family high-rise residential buildings. This final rule was published in the [federal register](https://www.gpo.gov/fdsys/pkg/FR-2015-11-06/pdf/2015-28078.pdf) on November 6, 2015.
 
 
 * * *
@@ -283,10 +283,10 @@ The US Green Building Council developed guidelines to define sustainable buildin
   * [Arizona Senate Bill 1046](http://www.azleg.gov/legtext/52leg/2r/bills/sb1046p.pdf) would require the governor’s energy office, in consultation with persons responsible for building systems, to adopt and publish energy conservation standards for construction of all new capital projects, including buildings designed and constructed by school districts, community college districts and universities. These standards would be consistent with the recommended energy conservation standards of ASHRAE 90.1 and the IECC.
   * [Pennsylvania Senate Bill 615](http://www.legis.state.pa.us/cfdocs/billinfo/BillInfo.cfm?syear=2015&sind=0&body=S&type=B&bn=615) would require the design, construction and renovation of certain state-owned or state-leased buildings to comply with specified energy and environmental building standards.
   * [Massachusetts Executive Order No. 484](http://www.mass.gov/anf/docs/dcam/dlforms/energy/energy-eo484-final.pdf) sets aggressive targets for facilities owned and operated by the Commonwealth of Massachusetts.
-  * The South Carolina legislature passed [House Bill 3034](http://www.scstatehouse.gov/sess117_2007-2008/bills/3034.htm) requiring that all state-owned and state-funded construction greater than 10,000 ft2 and any major renovation projects of greater than fifty percent of total building space or value achieve LEED-NC Silver certification or comparable standard. With a focus on energy efficiency, the legislation specifically requires a minimum of four credits earned in Energy & Atmosphere Credit 1, “Optimize Energy Performance.”
+  * The South Carolina legislature passed House Bill 3034 requiring that all state-owned and state-funded construction greater than 10,000 ft2 and any major renovation projects of greater than fifty percent of total building space or value achieve LEED-NC Silver certification or comparable standard. With a focus on energy efficiency, the legislation specifically requires a minimum of four credits earned in Energy & Atmosphere Credit 1, “Optimize Energy Performance.”
   * [New Mexico Executive Order 2006-001](http://www.emnrd.state.nm.us/ecmd/Documents/EO_2006_001.pdf) requires all new state buildings and major renovations meet The 2030 Challenge’s call for a 50 percent reduction in fossil-fuel energy consumption from what traditional buildings use by using a LEED based system.
-  * Seattle, WA [City Council Bill 115524](http://clerk.ci.seattle.wa.us/~scripts/nph-brs.exe?d=CBOR&s1=122054.ordn.&Sect6=HITOFF&l=20&p=1&u=/~public/cbor2.htm&r=1&f=G) amended the Land Use Code to allow a developer to build at a higher density than is normally allowed under the code, so long as the developer can certify that the building will be rated LEED Silver or its equivalent. The amendment applies only to buildings in downtown commercial districts.
-  * The District of Columbia City Council has enacted [legislation](http://dcra.dc.gov/page/green-building-act-gba) requiring all new government buildings to go green. By 2012, all new buildings larger than 50,000 square feet – public or private – must conform to green standards.
+  * Seattle, WA City Council Bill 115524 amended the Land Use Code to allow a developer to build at a higher density than is normally allowed under the code, so long as the developer can certify that the building will be rated LEED Silver or its equivalent. The amendment applies only to buildings in downtown commercial districts.
+  * The District of Columbia City Council has enacted legislation requiring all new government buildings to go green. By 2012, all new buildings larger than 50,000 square feet – public or private – must conform to green standards.
 
 
 * * *
@@ -303,12 +303,12 @@ Several states have enacted legislation that encourages the construction of high
 * * *
 ##### Link Voluntary Programs to Code
 A growing number of states have implemented voluntary programs to compliment code compliance programs.
-_[Home Energy Rating System HERS](http://www.resnet.us/energy-rating)_  
+_Home Energy Rating System HERS_  
 Voluntary programs for building energy ratings, such as the Home Energy Rating Systems (HERS) established by most states, encourage builders to go beyond the minimum standards set by the codes. These systems rate homes according to their energy efficiency, allowing lenders to take energy cost savings into account when underwriting mortgage loans.
-  * The New Mexico Legislature approved [Senate Bill 543](http://www.nmlegis.gov/sessions/07%20Regular/bills/senate/SB0543.html), creating a residential green building tax credit that requires a sufficient HERS rating of 60 or higher for buildings to qualify.
+  * The New Mexico Legislature approved Senate Bill 543, creating a residential green building tax credit that requires a sufficient HERS rating of 60 or higher for buildings to qualify.
 
 
-_[ENERGY STAR](https://www.energystar.gov/)_  
+_ENERGY STAR_  
 The U.S. Environmental Protection Agency outlines criteria for ENERGY STAR certification of homes and commercial buildings. ENERGY STAR homes are typically 30 percent more energy efficient than a home built to the model energy codes. Stakeholders can go beyond codes and lock in greater energy savings through ENERGY STAR certification. This approach has been used in tandem with codes to ensure that equipment installed in homes is energy-efficient.
   * [Virginia Executive Order 48, “Energy Efficiency in State Government”](http://www.responsiblepurchasing.org/UserFiles/File/Virginia%20Executive%20Order%2048.pdf), sets out to reduce non-renewable energy purchases and increase overall energy savings. As part of instituting the energy saving goals, the order instructs all state agencies and institutions constructing state-owned facilities over 5,000 gross square feet in size, and renovations of such buildings valued at 50% of the assessed building value, shall be designed and constructed consistent with the energy performance standards at least as stringent as LEED or EPA’s ENERGY STAR rating. In addition, the order instructs the Commonwealth to encourage the private sector to adopt energy-efficient building standards by giving preference when leasing facilities for state use to facilities meeting LEED or ENERGY STAR.
 
@@ -320,10 +320,10 @@ To stay current with product improvements and design advances that capture energ
 ##### Add Strengthening Amendments
 States have the opportunity to amend the national model code to improve or strengthen the efficiency requirements and save additional energy. These types of amendments may include enhancements that increase building envelope R- and U-values, encourage higher HVAC equipment efficiencies and lighting efficiency, and promote green elements such as water conservation and efficient building materials usage. States are often ahead of the country on areas such as efficiency and can provide national leadership by improving the model code. This not only delivers additional benefits to the state: codes in states such as Florida, Oregon, Washington, and California have contributed to the development of the national model code.
 State and city energy offices, building departments, and code officials are encouraged to participate in the code development process by sharing their local code amendments that exceed the national model code. Demonstrating experience with advanced code requirements helps provide verified energy performance results to justify needed improvements to the model energy code for the rest of the country. This active participation allows codes to stay in step with building sector advances and become more efficient over time while encouraging better building design practices.
-  * [North Carolina Senate Bill 668](http://www.ncleg.net/sessions/2007/bills/senate/html/s668v6.html) required all major facility projects of public agencies shall be designed, constructed, and certified to at least thirty percent (30%) greater energy efficiency than the standard under ASHRAE 90.1-2004. For major renovations a twenty percent (20%) greater energy efficiency standard than ASHRAE 90.1-2004 shall be used.
-  * [California Assembly Bill 802](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201520160AB802) requires the Energy Commission, in consultation with the Public Utilities Commission, to make all reasonable adjustments to its energy demand forecasts to account for its findings of market conditions and existing baselines, and in making those adjustments, authorizes the commission to consider the results from specified programs.
-  * Massachusetts [Executive Order 484](http://www.mass.gov/anf/property-mgmt-and-construction/facilities-mgmt-and-maintenance/energy-and-sustainability/leading-by-exmple-clean-engy-and-effic-bldgs-eo484.html), “Leading by Example – Clean Energy and Efficient Buildings”, instructed all agencies involved in the construction and major renovation projects of over 20,000 square feet to meet LEED certification as well as energy performance 20% better than the Massachusetts Energy Code, independent third- party commissioning, and outdoor water reduction requirements.
-  * The [Chicago Energy Conservation Code](https://www.cityofchicago.org/city/en/depts/bldgs/supp_info/chicago-energy-conservation-code.html) prohibits black roofs and requires increasingly high solar reflectance for roofs through 2008 when roofs must conform to the EPA ENERGY STAR 0.65 reflectance requirement.
+  * North Carolina Senate Bill 668 required all major facility projects of public agencies shall be designed, constructed, and certified to at least thirty percent (30%) greater energy efficiency than the standard under ASHRAE 90.1-2004. For major renovations a twenty percent (20%) greater energy efficiency standard than ASHRAE 90.1-2004 shall be used.
+  * California Assembly Bill 802 requires the Energy Commission, in consultation with the Public Utilities Commission, to make all reasonable adjustments to its energy demand forecasts to account for its findings of market conditions and existing baselines, and in making those adjustments, authorizes the commission to consider the results from specified programs.
+  * Massachusetts Executive Order 484, “Leading by Example – Clean Energy and Efficient Buildings”, instructed all agencies involved in the construction and major renovation projects of over 20,000 square feet to meet LEED certification as well as energy performance 20% better than the Massachusetts Energy Code, independent third- party commissioning, and outdoor water reduction requirements.
+  * The Chicago Energy Conservation Code prohibits black roofs and requires increasingly high solar reflectance for roofs through 2008 when roofs must conform to the EPA ENERGY STAR 0.65 reflectance requirement.
 
 
 * * *
@@ -338,21 +338,21 @@ Just as states can provide leadership for the country, local jurisdictions are o
   * Resourceful material usage
 
 
-[Sustainable Design and Green Building Toolkit for Local Governments](https://www.epa.gov/smartgrowth/sustainable-design-and-green-building-toolkit-local-governments)  
+Sustainable Design and Green Building Toolkit for Local Governments  
 US Environmental Protection Agency
 * * *
 ##### Expedited permitting process at a statewide or local level
 Local jurisdictions and states aiming for greater gains in energy efficiency can capitalize on consumer and builder preferences for sustainable home designs. Local jurisdictions have the power to prioritize plan review for homes that have the most energy efficiency potential. In turn, homebuilders are rewarded with quicker sales and given positive market signals for building the most efficient buildings on the market.
-  * The provision [HRS § 46-19.6](http://www.capitol.hawaii.gov/hrscurrent/Vol02_Ch0046-0115/HRS0046/HRS_0046-0019_0006.htm) in Hawaii law streamlines building permit applications that feature home designs with a LEED silver or equivalent rating.
-  * The Municipal Code of Santa Monica [Ordinance 8.108.050](http://www.smgov.net/departments/council/agendas/2012/20120228/s2012%200228%207-A-1.htm) allows for priority plan check processing for building projects that are registered with the United States Green Building Council for certification under the LEED Green Building Rating System.
+  * The provision HRS § 46-19.6 in Hawaii law streamlines building permit applications that feature home designs with a LEED silver or equivalent rating.
+  * The Municipal Code of Santa Monica Ordinance 8.108.050 allows for priority plan check processing for building projects that are registered with the United States Green Building Council for certification under the LEED Green Building Rating System.
 
 
 * * *
 ##### Point of Sale / Time of Transfer
 Energy codes generally apply to new construction as well as to major renovations of existing buildings. It is becoming apparent that energy codes are not widely enforced in existing buildings, consequently neglecting a significant opportunity for energy improvements. However, there are portions of the current energy code that are relatively easy to implement in existing buildings (outside of major renovations) and deliver cost-effective energy savings. Some states and cities have made progress on improving the energy efficiency of their existing building stock through “point of sale” or “time of transfer” requirements. Generally, these ordinances target buildings when they change ownership and require the property owner to make some basic energy efficiency improvements or meet set standards before sale. Legislation applicable to rental properties also offers another opportunity to improve the energy efficiency of the existing housing stock. Point-of-sale legislation is a recent but promising strategy to effectively leverage energy codes to achieve energy and carbon reduction.
   * Nevada [Senate Bill 437](https://www.leg.state.nv.us/Session/74th2007/Bills/SB/SB437_EN.pdf) requires the Office of Energy to establish a program for evaluating energy consumption of residential property in the state. The requirement that the evaluation be conducted upon the sale of any such property remains, although the provision is self-regulating and realtors are not required to play a role or have any responsibility.
-  * In Davis, California a building owner must show the building to be compliant with the [City of Davis Building Code](http://qcode.us/codes/davis/view.php?topic=8-8_10&showAll=1&frames=on) prior to sale or transfer of the building. The owner must make the building code compliant within 90 days of sale/transfer.
-  * The Ann Arbor, Michigan Municipal Code, [Section 528 of Chapter 105](https://www.municode.com/library/mi/ann_arbor/codes/code_of_ordinances?nodeId=TITVIIIBURE_CH105HOCO_8_528BAWIREHO), requires minimum energy efficiency/weatherization standards for all rental dwellings, dwelling units, rooming units and premises in the City of Ann Arbor.
+  * In Davis, California a building owner must show the building to be compliant with the City of Davis Building Code prior to sale or transfer of the building. The owner must make the building code compliant within 90 days of sale/transfer.
+  * The Ann Arbor, Michigan Municipal Code, Section 528 of Chapter 105, requires minimum energy efficiency/weatherization standards for all rental dwellings, dwelling units, rooming units and premises in the City of Ann Arbor.
 
 
 * * *
@@ -363,46 +363,46 @@ States can requires new residential buyers to receive information on how home me
 
 * * *
 ##### Linking Building Cost with LEED Requirements
-  * Connecticut [Public Act 07-242](https://www.cga.ct.gov/2007/act/pa/2007pa-00242-r00hb-07432-pa.htm) (signed into law June 4, 2007) requires all new construction of public and private buildings costing $5 million or more (after January 1, 2009) and renovations costing $2 million or more (after January 1, 2010) to meet LEED-Silver standards or their equivalent (residential buildings with four units or fewer are exempt). It also contains provisions for energy-efficiency tax credits, bonds, and loans for various ENERGY STAR-qualified household appliances and heating units.
+  * Connecticut Public Act 07-242 (signed into law June 4, 2007) requires all new construction of public and private buildings costing $5 million or more (after January 1, 2009) and renovations costing $2 million or more (after January 1, 2010) to meet LEED-Silver standards or their equivalent (residential buildings with four units or fewer are exempt). It also contains provisions for energy-efficiency tax credits, bonds, and loans for various ENERGY STAR-qualified household appliances and heating units.
 
 
 * * *
 [Back to top](https://bcapcodes.org/energy-code-reform/#top)
 #### Related pages:
-  * ##### [Connecting with Stakeholders](https://www.bcapcodes.org/policy-action-toolkit/connecting-with-stakeholders/)
+  * ##### Connecting with Stakeholders
 Each state approaches the energy code adoption process differently. In most states, codes are adopted through the state congress and pass through both the house and senate sides. No matter who is making the decisions on energy codes, making your voice heard is invaluable to the adoption process.
-  * ##### [Energy Codes and ARRA](https://www.bcapcodes.org/policy-action-toolkit/energy-codes-and-arra/)
+  * ##### Energy Codes and ARRA
 The American Recovery and Reinvestment Act of 2009 (Recovery Act) provided two opportunities for states to receive stimulus funds linked to building energy codes: Energy Efficiency and Conservation Block Grants and State Energy Programs (SEPs).
-  * ##### [Making the Case for Building Energy Codes](https://www.bcapcodes.org/policy-action-toolkit/making-the-case/)
+  * ##### Making the Case for Building Energy Codes
 Find sample support letters, sample press releases, outreach materials, and consumer resources here.
-  * ##### [Public Buildings Policy](https://www.bcapcodes.org/policy-action-toolkit/public-buildings/)
+  * ##### Public Buildings Policy
 This page depicts state-level policies for public buildings across the United States.
-  * ##### [Understanding the Legislative Process](https://www.bcapcodes.org/policy-action-toolkit/legislative-process/)
+  * ##### Understanding the Legislative Process
 How do states adopt energy codes? Most use either a regulatory process, a legislative process, or a combination of the two. However, some states are home rule, adopting and enforcing their codes at the local level.
-  * ##### [Where to Begin: Types of Energy Codes](https://www.bcapcodes.org/policy-action-toolkit/where-to-begin/)
+  * ##### Where to Begin: Types of Energy Codes
 Selecting the most current national model energy code (the 2015 IECC or ASHRAE 90.1-2013) ensures that code reflects changes in technology and design that offer increased energy efficiency.
 
 
   * Important links
-  * [About Us](https://bcapcodes.org/who-we-are/)
-  * [Help](https://bcapcodes.org/contact-us/)
-  * [Contact](https://bcapcodes.org/contact-us/)
-  * [Privacy Policy](https://bcapcodes.org/privacy-policy/)
+  * About Us
+  * Help
+  * Contact
+  * Privacy Policy
 
 
   * **State Codes**
-  * [Ohio Codes](https://bcapcodes.org/code-status/state/ohio/)
-  * [California Codes](https://bcapcodes.org/code-status/state/california/)
-  * [Alabama Codes](https://bcapcodes.org/code-status/state/alabama/)
-  * [Arkansas Codes](https://bcapcodes.org/code-status/state/arkansas/)
-  * [Florida Codes](https://bcapcodes.org/code-status/state/florida/)
+  * Ohio Codes
+  * California Codes
+  * Alabama Codes
+  * Arkansas Codes
+  * Florida Codes
 
 
   * **Code Builder**
-  * [Residential ](https://bcapcodes.org/residential-2/)
-  * [Commercial ](https://bcapcodes.org/commercial-2/)
-  * [The Decoder](https://bcapcodes.org/the-decoder/)
-  * [Energy Code Champion](https://bcapcodes.org/)
+  * Residential 
+  * Commercial 
+  * The Decoder
+  * Energy Code Champion
 
 
 ![](https://bcapcodes.org/energy-code-reform/)
@@ -411,189 +411,189 @@ Selecting the most current national model energy code (the 2015 IECC or ASHRAE 9
 
 
 The Building Codes Assistance Project 
-: [Copyright Building Codes Assitance Project ](https://bcapcodes.org/ "AccessPress Lite")
+: Copyright Building Codes Assitance Project 
 
 
 --- SOURCE: https://www.bcapcodes.org/contact-us ---
 
-[Skip to content](https://bcapcodes.org/contact-us/#home-content)
-[ ![The Building Codes Assistance Project](https://bcapcodes.org/wp-content/uploads/2024/01/cropped-logo_longer1.png) ](https://bcapcodes.org/)
+Skip to content
+ !The Building Codes Assistance Project 
 Menu
-  * [SunShot Initiative](https://bcapcodes.org/beyond-code-portal/sunshot/)
-  * [Tools](https://bcapcodes.org/tools/)
-    * [Incremental Cost](https://bcapcodes.org/?page_id=893)
-    * [Policy Action](https://bcapcodes.org/policy-action-toolkit/)
-    * [Implementation](https://bcapcodes.org/compliance-portal-implementation/)
-    * [Code Builder](https://bcapcodes.org/code-builder/)
-      * [Residential](https://bcapcodes.org/residential-2/)
-      * [Commercial](https://bcapcodes.org/commercial-2/)
-      * [BCAP Newsletter](https://bcapcodes.org/bcap-newsletter/)
-      * [The Decoder](https://bcapcodes.org/the-decoder/)
-      * [Upcoming Events](https://bcapcodes.org/upcoming-events/)
-      * [Energy Code Champion](https://bcapcodes.org/?page_id=645)
-  * [Code Status](https://bcapcodes.org/code-status/)
-    * [Commercial](https://bcapcodes.org/commercial/)
-    * [Residential](https://bcapcodes.org/?page_id=164)
-    * [Local Adoptions](https://bcapcodes.org/?page_id=160)
-    * [International](https://bcapcodes.org/country/)
-  * [About](https://bcapcodes.org/who-we-are/)
-    * [Our Staff](https://bcapcodes.org/our-staff/)
-    * [What We Do](https://bcapcodes.org/who-we-are/what-we-do/)
-    * [Why Energy Codes Matter](https://bcapcodes.org/why-energy-codes-matter/)
-  * [Contact Us](https://bcapcodes.org/contact-us/)
-  * [Energy](https://bcapcodes.org/category/energy/)
-    * [Batteries](https://bcapcodes.org/category/batteries/)
-      * [Sodium-ion](https://bcapcodes.org/category/sodium-ion/)
-      * [Lithium-ion](https://bcapcodes.org/category/lithium-ion/)
-    * [Energy efficiency](https://bcapcodes.org/category/energy-efficiency/)
-    * [Energy cost](https://bcapcodes.org/category/energy-cost/)
+  * SunShot Initiative
+  * Tools
+    * Incremental Cost
+    * Policy Action
+    * Implementation
+    * Code Builder
+      * Residential
+      * Commercial
+      * BCAP Newsletter
+      * The Decoder
+      * Upcoming Events
+      * Energy Code Champion
+  * Code Status
+    * Commercial
+    * Residential
+    * Local Adoptions
+    * International
+  * About
+    * Our Staff
+    * What We Do
+    * Why Energy Codes Matter
+  * Contact Us
+  * Energy
+    * Batteries
+      * Sodium-ion
+      * Lithium-ion
+    * Energy efficiency
+    * Energy cost
 
 
 # Contact Us
-Whether you are looking for more information on energy codes and related topics, have a question for [our staff](https://www.bcapcodes.org/who-we-are/our-staff/), or want to comment on our website, please feel free to contact the **Building Codes Assistance Project**.
+Whether you are looking for more information on energy codes and related topics, have a question for our staff, or want to comment on our website, please feel free to contact the **Building Codes Assistance Project**.
 * * *
 ##### 1850 M Street NW Suite 610  
 Washington, DC 20036
 ##### admin@bcapcodes.org
 * * *
-[![Facebook](https://www.bcapcodes.org/wp-content/uploads/2023/08/facebook.png)](https://www.facebook.com/buildingcodesassistanceproject/)
-[![Linkedin](https://www.bcapcodes.org/wp-content/uploads/2023/08/linkedin.png)](https://www.linkedin.com/company/building-codes-assistance-project)
-[![Twitter](https://www.bcapcodes.org/wp-content/uploads/2023/08/twitter.png)](https://twitter.com/bcapcodes)
+!Facebook
+!Linkedin
+!Twitter
   * Important links
-  * [About Us](https://bcapcodes.org/who-we-are/)
-  * [Help](https://bcapcodes.org/contact-us/)
-  * [Contact](https://bcapcodes.org/contact-us/)
-  * [Privacy Policy](https://bcapcodes.org/privacy-policy/)
+  * About Us
+  * Help
+  * Contact
+  * Privacy Policy
 
 
   * **State Codes**
-  * [Ohio Codes](https://bcapcodes.org/code-status/state/ohio/)
-  * [California Codes](https://bcapcodes.org/code-status/state/california/)
-  * [Alabama Codes](https://bcapcodes.org/code-status/state/alabama/)
-  * [Arkansas Codes](https://bcapcodes.org/code-status/state/arkansas/)
-  * [Florida Codes](https://bcapcodes.org/code-status/state/florida/)
+  * Ohio Codes
+  * California Codes
+  * Alabama Codes
+  * Arkansas Codes
+  * Florida Codes
 
 
   * **Code Builder**
-  * [Residential ](https://bcapcodes.org/residential-2/)
-  * [Commercial ](https://bcapcodes.org/commercial-2/)
-  * [The Decoder](https://bcapcodes.org/the-decoder/)
-  * [Energy Code Champion](https://bcapcodes.org/)
+  * Residential 
+  * Commercial 
+  * The Decoder
+  * Energy Code Champion
 
 
 ![](https://bcapcodes.org/wp-content/uploads/2024/08/logo-removebg-preview.png)
   * Follow BCAP On Social Media
-  * [![facebook](https://bcapcodes.org/wp-content/uploads/2024/06/facebook.png)](https://www.facebook.com/buildingcodesassistanceproject/)![](https://bcapcodes.org/wp-content/uploads/2024/06/twitter.png)[![linkedin](https://bcapcodes.org/wp-content/uploads/2024/06/linkedin.png)](https://www.linkedin.com/company/building-codes-assistance-project)
+  * !facebook![](https://bcapcodes.org/wp-content/uploads/2024/06/twitter.png)!linkedin
 
 
 The Building Codes Assistance Project 
-: [Copyright Building Codes Assitance Project ](https://bcapcodes.org/ "AccessPress Lite")
+: Copyright Building Codes Assitance Project 
 
 
 --- SOURCE: https://www.bcapcodes.org/tools/code-builder ---
 
-[Skip to content](https://bcapcodes.org/code-builder/#home-content)
-[ ![The Building Codes Assistance Project](https://bcapcodes.org/wp-content/uploads/2024/01/cropped-logo_longer1.png) ](https://bcapcodes.org/)
+Skip to content
+ !The Building Codes Assistance Project 
 Menu
-  * [SunShot Initiative](https://bcapcodes.org/beyond-code-portal/sunshot/)
-  * [Tools](https://bcapcodes.org/tools/)
-    * [Incremental Cost](https://bcapcodes.org/?page_id=893)
-    * [Policy Action](https://bcapcodes.org/policy-action-toolkit/)
-    * [Implementation](https://bcapcodes.org/compliance-portal-implementation/)
-    * [Code Builder](https://bcapcodes.org/code-builder/)
-      * [Residential](https://bcapcodes.org/residential-2/)
-      * [Commercial](https://bcapcodes.org/commercial-2/)
-      * [BCAP Newsletter](https://bcapcodes.org/bcap-newsletter/)
-      * [The Decoder](https://bcapcodes.org/the-decoder/)
-      * [Upcoming Events](https://bcapcodes.org/upcoming-events/)
-      * [Energy Code Champion](https://bcapcodes.org/?page_id=645)
-  * [Code Status](https://bcapcodes.org/code-status/)
-    * [Commercial](https://bcapcodes.org/commercial/)
-    * [Residential](https://bcapcodes.org/?page_id=164)
-    * [Local Adoptions](https://bcapcodes.org/?page_id=160)
-    * [International](https://bcapcodes.org/country/)
-  * [About](https://bcapcodes.org/who-we-are/)
-    * [Our Staff](https://bcapcodes.org/our-staff/)
-    * [What We Do](https://bcapcodes.org/who-we-are/what-we-do/)
-    * [Why Energy Codes Matter](https://bcapcodes.org/why-energy-codes-matter/)
-  * [Contact Us](https://bcapcodes.org/contact-us/)
-  * [Energy](https://bcapcodes.org/category/energy/)
-    * [Batteries](https://bcapcodes.org/category/batteries/)
-      * [Sodium-ion](https://bcapcodes.org/category/sodium-ion/)
-      * [Lithium-ion](https://bcapcodes.org/category/lithium-ion/)
-    * [Energy efficiency](https://bcapcodes.org/category/energy-efficiency/)
-    * [Energy cost](https://bcapcodes.org/category/energy-cost/)
+  * SunShot Initiative
+  * Tools
+    * Incremental Cost
+    * Policy Action
+    * Implementation
+    * Code Builder
+      * Residential
+      * Commercial
+      * BCAP Newsletter
+      * The Decoder
+      * Upcoming Events
+      * Energy Code Champion
+  * Code Status
+    * Commercial
+    * Residential
+    * Local Adoptions
+    * International
+  * About
+    * Our Staff
+    * What We Do
+    * Why Energy Codes Matter
+  * Contact Us
+  * Energy
+    * Batteries
+      * Sodium-ion
+      * Lithium-ion
+    * Energy efficiency
+    * Energy cost
 
 
 # Commercial and Residential Code Builder
 These pages explain how each material component of the energy code fits into the overall organization of a home or building. Click on either of the items below to learn how these component work, both individually and together, to make our built environment more energy efficient.
-#### [Commercial Code Builder](https://www.bcapcodes.org/tools/code-builder/commercial/)
+#### Commercial Code Builder
 [](https://www.bcapcodes.org/tools/code-builder/residential/)
-#### [Residential Code Builder](https://www.bcapcodes.org/tools/code-builder/residential/)
+#### Residential Code Builder
   * Important links
-  * [About Us](https://bcapcodes.org/who-we-are/)
-  * [Help](https://bcapcodes.org/contact-us/)
-  * [Contact](https://bcapcodes.org/contact-us/)
-  * [Privacy Policy](https://bcapcodes.org/privacy-policy/)
+  * About Us
+  * Help
+  * Contact
+  * Privacy Policy
 
 
   * **State Codes**
-  * [Ohio Codes](https://bcapcodes.org/code-status/state/ohio/)
-  * [California Codes](https://bcapcodes.org/code-status/state/california/)
-  * [Alabama Codes](https://bcapcodes.org/code-status/state/alabama/)
-  * [Arkansas Codes](https://bcapcodes.org/code-status/state/arkansas/)
-  * [Florida Codes](https://bcapcodes.org/code-status/state/florida/)
+  * Ohio Codes
+  * California Codes
+  * Alabama Codes
+  * Arkansas Codes
+  * Florida Codes
 
 
   * **Code Builder**
-  * [Residential ](https://bcapcodes.org/residential-2/)
-  * [Commercial ](https://bcapcodes.org/commercial-2/)
-  * [The Decoder](https://bcapcodes.org/the-decoder/)
-  * [Energy Code Champion](https://bcapcodes.org/)
+  * Residential 
+  * Commercial 
+  * The Decoder
+  * Energy Code Champion
 
 
 ![](https://bcapcodes.org/wp-content/uploads/2024/08/logo-removebg-preview.png)
   * Follow BCAP On Social Media
-  * [![facebook](https://bcapcodes.org/wp-content/uploads/2024/06/facebook.png)](https://www.facebook.com/buildingcodesassistanceproject/)![](https://bcapcodes.org/wp-content/uploads/2024/06/twitter.png)[![linkedin](https://bcapcodes.org/wp-content/uploads/2024/06/linkedin.png)](https://www.linkedin.com/company/building-codes-assistance-project)
+  * !facebook![](https://bcapcodes.org/wp-content/uploads/2024/06/twitter.png)!linkedin
 
 
 The Building Codes Assistance Project 
-: [Copyright Building Codes Assitance Project ](https://bcapcodes.org/ "AccessPress Lite")
+: Copyright Building Codes Assitance Project 
 
 
 --- SOURCE: https://www.bcapcodes.org/consumer-portal ---
 
-[Skip to content](https://bcapcodes.org/consumer-portal/#home-content)
-[ ![The Building Codes Assistance Project](https://bcapcodes.org/wp-content/uploads/2024/01/cropped-logo_longer1.png) ](https://bcapcodes.org/)
+Skip to content
+ !The Building Codes Assistance Project 
 Menu
-  * [SunShot Initiative](https://bcapcodes.org/beyond-code-portal/sunshot/)
-  * [Tools](https://bcapcodes.org/tools/)
-    * [Incremental Cost](https://bcapcodes.org/?page_id=893)
-    * [Policy Action](https://bcapcodes.org/policy-action-toolkit/)
-    * [Implementation](https://bcapcodes.org/compliance-portal-implementation/)
-    * [Code Builder](https://bcapcodes.org/code-builder/)
-      * [Residential](https://bcapcodes.org/residential-2/)
-      * [Commercial](https://bcapcodes.org/commercial-2/)
-      * [BCAP Newsletter](https://bcapcodes.org/bcap-newsletter/)
-      * [The Decoder](https://bcapcodes.org/the-decoder/)
-      * [Upcoming Events](https://bcapcodes.org/upcoming-events/)
-      * [Energy Code Champion](https://bcapcodes.org/?page_id=645)
-  * [Code Status](https://bcapcodes.org/code-status/)
-    * [Commercial](https://bcapcodes.org/commercial/)
-    * [Residential](https://bcapcodes.org/?page_id=164)
-    * [Local Adoptions](https://bcapcodes.org/?page_id=160)
-    * [International](https://bcapcodes.org/country/)
-  * [About](https://bcapcodes.org/who-we-are/)
-    * [Our Staff](https://bcapcodes.org/our-staff/)
-    * [What We Do](https://bcapcodes.org/who-we-are/what-we-do/)
-    * [Why Energy Codes Matter](https://bcapcodes.org/why-energy-codes-matter/)
-  * [Contact Us](https://bcapcodes.org/contact-us/)
-  * [Energy](https://bcapcodes.org/category/energy/)
-    * [Batteries](https://bcapcodes.org/category/batteries/)
-      * [Sodium-ion](https://bcapcodes.org/category/sodium-ion/)
-      * [Lithium-ion](https://bcapcodes.org/category/lithium-ion/)
-    * [Energy efficiency](https://bcapcodes.org/category/energy-efficiency/)
-    * [Energy cost](https://bcapcodes.org/category/energy-cost/)
+  * SunShot Initiative
+  * Tools
+    * Incremental Cost
+    * Policy Action
+    * Implementation
+    * Code Builder
+      * Residential
+      * Commercial
+      * BCAP Newsletter
+      * The Decoder
+      * Upcoming Events
+      * Energy Code Champion
+  * Code Status
+    * Commercial
+    * Residential
+    * Local Adoptions
+    * International
+  * About
+    * Our Staff
+    * What We Do
+    * Why Energy Codes Matter
+  * Contact Us
+  * Energy
+    * Batteries
+      * Sodium-ion
+      * Lithium-ion
+    * Energy efficiency
+    * Energy cost
 
 
 # Consumer Portal
@@ -612,9 +612,9 @@ Residential and commercial buildings consume over 40% of energy used in the Unit
 
 
 ##### **Homebuyer Demand for Energy Codes**
-[Four different consumer surveys](https://www.bcapcodes.org/homebuyer-demand-for-energy-codes/) reveal that homeowners across America think about energy codes and energy efficiency when buying a new home. You can read the full reports of each of these surveys at the following links:
-  * [What Home Buyers Really Want](http://www.nahb.org/generic.aspx?sectionID=734&genericContentID=206669&channelID=311)
-  * [Energy Codes Messaging Test: Evaluation by Region](https://www.bcapcodes.org/consumer-portal/energy-code-messaging-test/)
+Four different consumer surveys reveal that homeowners across America think about energy codes and energy efficiency when buying a new home. You can read the full reports of each of these surveys at the following links:
+  * What Home Buyers Really Want
+  * Energy Codes Messaging Test: Evaluation by Region
   * [Idaho Homeowner Energy Code Survey](http://www.idahoenergycode.com/sites/idahoenergycode.com/files/resources/pdf/BPA%20Grant%20Idaho%20Energy%20Code%20Survey%2031May2014.pdf)
   * [2015 Public Opinion Survey](http://www.ndare.org/vertical/sites/%7BE50B81F9-F226-4A80-AE75-3CBA3D28BCB4%7D/uploads/ND_Alliance_for_Renewable_Energy_Report_%28REVISED_Mar_5_2015%29.pdf)
 
@@ -622,18 +622,18 @@ Residential and commercial buildings consume over 40% of energy used in the Unit
 #####  **_Take Action!_**  
 Spread the word on energy codes to your government official.
 Elected officials need to hear from you! They listen to their constituents. Below are some materials to help you:
-  * [Questions for Your Real Estate Agent and Home Inspector](https://www.bcapcodes.org/consumer-portal/realtor-questions/)
-  * [Energy Code Awareness (PowerPoint)](https://www.bcapcodes.org/wp-content/uploads/2023/08/energy-code-awareness.ppt)
-  * [Why Energy Codes Matter](https://www.bcapcodes.org/why-energy-codes-matter-resources-for-advocates-consumers-and-policymakers/)
+  * Questions for Your Real Estate Agent and Home Inspector
+  * Energy Code Awareness (PowerPoint)
+  * Why Energy Codes Matter
 
 
-##### [Energy Code Checklist](https://www.bcapcodes.org/consumer-portal/checklist/)
+##### Energy Code Checklist
 Take a quick look to see if a home meets efficiency standards. [This resource is also available in Spanish](https://www.bcapcodes.org/wp-content/uploads/2023/08/national-consumer-checklist_spanish.pdf).
-##### [Interactive Energy Code Guide](https://www.bcapcodes.org/consumer-portal/code-guide/)
+##### Interactive Energy Code Guide
 Check out the features of a home that meets code.
-##### [Find Your Energy Code](https://www.bcapcodes.org/consumer-portal/find-your-energy-code/)
+##### Find Your Energy Code
 A step-by-step guide to finding out the energy code in your location.
-##### [State-specific Resources](https://www.bcapcodes.org/consumer-portal/state-resources/)
+##### State-specific Resources
 Materials for consumers in AL, AK, ID, IL, KY, MI, MO, NE, PA, and TX.
 All of your links must be assigned at least to one category to be displayed
 86% of homeowners want to know a home’s energy operating costs before they buy or rent.  
@@ -641,239 +641,239 @@ All of your links must be assigned at least to one category to be displayed
 77% of homeowners think that homebuilders should not make less efficient homes at the consumer’s expense. 
 * * *
 ##### Consumer Portal News
-  * [Homebuyer Demand for Energy Codes](https://www.bcapcodes.org/homebuyer-demand-for-energy-codes/) December 4, 2015
-  * [Happy Energy Action Month!](https://www.bcapcodes.org/happy-energy-action-month/) October 16, 2014
-  * [More Evidence Debunking The Myth That Buyers Won’t Pay More For Energy Efficiency](https://www.bcapcodes.org/debunking-the-myth-energy-efficiency/) September 25, 2014
-  * [Omaha Residents Want Better Energy Codes](https://www.bcapcodes.org/omaha-residents-want-better-energy-codes/) July 17, 2013
-  * [BCAP Promotes Consumer Awareness Campaign In Capitol Briefing](https://www.bcapcodes.org/bcap-promotes-consumer-awareness-campaign-in-capitol-briefing/) February 20, 2013
+  * Homebuyer Demand for Energy Codes December 4, 2015
+  * Happy Energy Action Month! October 16, 2014
+  * More Evidence Debunking The Myth That Buyers Won’t Pay More For Energy Efficiency September 25, 2014
+  * Omaha Residents Want Better Energy Codes July 17, 2013
+  * BCAP Promotes Consumer Awareness Campaign In Capitol Briefing February 20, 2013
 
 
 * * *
 ##### About the Consumer Campaign
 The Consumer Outreach Campaign was launched by BCAP and Consumers Union in 2011 to educate the public on the impact of home energy use, the role of energy codes in addressing home energy performance, and what you can do to save energy and money.
-Our primary goal is to educate and engage everyone in support of energy codes. You have a right to a home that meets national standards for energy efficiency. [Read more about the Consumer Campaign](https://www.bcapcodes.org/consumer-portal/about/).
-In June 2015, Consumers Union [reaffirmed their support](http://consumersunion.org/research/consumers-union-letter-supporting-energy-codes-and-efficiency-to-the-house-energy-and-commerce-committee/) for energy codes by urging the Energy and Commerce Committee to support code compliance efforts.
+Our primary goal is to educate and engage everyone in support of energy codes. You have a right to a home that meets national standards for energy efficiency. Read more about the Consumer Campaign.
+In June 2015, Consumers Union reaffirmed their support for energy codes by urging the Energy and Commerce Committee to support code compliance efforts.
 * * *
 ##### Questions or comments about your state or our campaign? Contact us.
   * Important links
-  * [About Us](https://bcapcodes.org/who-we-are/)
-  * [Help](https://bcapcodes.org/contact-us/)
-  * [Contact](https://bcapcodes.org/contact-us/)
-  * [Privacy Policy](https://bcapcodes.org/privacy-policy/)
+  * About Us
+  * Help
+  * Contact
+  * Privacy Policy
 
 
   * **State Codes**
-  * [Ohio Codes](https://bcapcodes.org/code-status/state/ohio/)
-  * [California Codes](https://bcapcodes.org/code-status/state/california/)
-  * [Alabama Codes](https://bcapcodes.org/code-status/state/alabama/)
-  * [Arkansas Codes](https://bcapcodes.org/code-status/state/arkansas/)
-  * [Florida Codes](https://bcapcodes.org/code-status/state/florida/)
+  * Ohio Codes
+  * California Codes
+  * Alabama Codes
+  * Arkansas Codes
+  * Florida Codes
 
 
   * **Code Builder**
-  * [Residential ](https://bcapcodes.org/residential-2/)
-  * [Commercial ](https://bcapcodes.org/commercial-2/)
-  * [The Decoder](https://bcapcodes.org/the-decoder/)
-  * [Energy Code Champion](https://bcapcodes.org/)
+  * Residential 
+  * Commercial 
+  * The Decoder
+  * Energy Code Champion
 
 
 ![](https://bcapcodes.org/consumer-portal/)
   * Follow BCAP On Social Media
-  * [![facebook](https://bcapcodes.org/consumer-portal/)](https://www.facebook.com/buildingcodesassistanceproject/)![](https://bcapcodes.org/consumer-portal/)[![linkedin](https://bcapcodes.org/consumer-portal/)](https://www.linkedin.com/company/building-codes-assistance-project)
+  * !facebook![](https://bcapcodes.org/consumer-portal/)!linkedin
 
 
 The Building Codes Assistance Project 
-: [Copyright Building Codes Assitance Project ](https://bcapcodes.org/ "AccessPress Lite")
+: Copyright Building Codes Assitance Project 
 
 
 --- SOURCE: https://www.bcapcodes.org/tools/code-builder/commercial ---
 
-[Skip to content](https://bcapcodes.org/commercial/#home-content)
-[ ![The Building Codes Assistance Project](https://bcapcodes.org/wp-content/uploads/2024/01/cropped-logo_longer1.png) ](https://bcapcodes.org/)
+Skip to content
+ !The Building Codes Assistance Project 
 Menu
-  * [SunShot Initiative](https://bcapcodes.org/beyond-code-portal/sunshot/)
-  * [Tools](https://bcapcodes.org/tools/)
-    * [Incremental Cost](https://bcapcodes.org/?page_id=893)
-    * [Policy Action](https://bcapcodes.org/policy-action-toolkit/)
-    * [Implementation](https://bcapcodes.org/compliance-portal-implementation/)
-    * [Code Builder](https://bcapcodes.org/code-builder/)
-      * [Residential](https://bcapcodes.org/residential-2/)
-      * [Commercial](https://bcapcodes.org/commercial-2/)
-      * [BCAP Newsletter](https://bcapcodes.org/bcap-newsletter/)
-      * [The Decoder](https://bcapcodes.org/the-decoder/)
-      * [Upcoming Events](https://bcapcodes.org/upcoming-events/)
-      * [Energy Code Champion](https://bcapcodes.org/?page_id=645)
-  * [Code Status](https://bcapcodes.org/code-status/)
-    * [Commercial](https://bcapcodes.org/commercial/)
-    * [Residential](https://bcapcodes.org/?page_id=164)
-    * [Local Adoptions](https://bcapcodes.org/?page_id=160)
-    * [International](https://bcapcodes.org/country/)
-  * [About](https://bcapcodes.org/who-we-are/)
-    * [Our Staff](https://bcapcodes.org/our-staff/)
-    * [What We Do](https://bcapcodes.org/who-we-are/what-we-do/)
-    * [Why Energy Codes Matter](https://bcapcodes.org/why-energy-codes-matter/)
-  * [Contact Us](https://bcapcodes.org/contact-us/)
-  * [Energy](https://bcapcodes.org/category/energy/)
-    * [Batteries](https://bcapcodes.org/category/batteries/)
-      * [Sodium-ion](https://bcapcodes.org/category/sodium-ion/)
-      * [Lithium-ion](https://bcapcodes.org/category/lithium-ion/)
-    * [Energy efficiency](https://bcapcodes.org/category/energy-efficiency/)
-    * [Energy cost](https://bcapcodes.org/category/energy-cost/)
+  * SunShot Initiative
+  * Tools
+    * Incremental Cost
+    * Policy Action
+    * Implementation
+    * Code Builder
+      * Residential
+      * Commercial
+      * BCAP Newsletter
+      * The Decoder
+      * Upcoming Events
+      * Energy Code Champion
+  * Code Status
+    * Commercial
+    * Residential
+    * Local Adoptions
+    * International
+  * About
+    * Our Staff
+    * What We Do
+    * Why Energy Codes Matter
+  * Contact Us
+  * Energy
+    * Batteries
+      * Sodium-ion
+      * Lithium-ion
+    * Energy efficiency
+    * Energy cost
 
 
 # Commercial Code Status
   * Important links
-  * [About Us](https://bcapcodes.org/who-we-are/)
-  * [Help](https://bcapcodes.org/contact-us/)
-  * [Contact](https://bcapcodes.org/contact-us/)
-  * [Privacy Policy](https://bcapcodes.org/privacy-policy/)
+  * About Us
+  * Help
+  * Contact
+  * Privacy Policy
 
 
   * **State Codes**
-  * [Ohio Codes](https://bcapcodes.org/code-status/state/ohio/)
-  * [California Codes](https://bcapcodes.org/code-status/state/california/)
-  * [Alabama Codes](https://bcapcodes.org/code-status/state/alabama/)
-  * [Arkansas Codes](https://bcapcodes.org/code-status/state/arkansas/)
-  * [Florida Codes](https://bcapcodes.org/code-status/state/florida/)
+  * Ohio Codes
+  * California Codes
+  * Alabama Codes
+  * Arkansas Codes
+  * Florida Codes
 
 
   * **Code Builder**
-  * [Residential ](https://bcapcodes.org/residential-2/)
-  * [Commercial ](https://bcapcodes.org/commercial-2/)
-  * [The Decoder](https://bcapcodes.org/the-decoder/)
-  * [Energy Code Champion](https://bcapcodes.org/)
+  * Residential 
+  * Commercial 
+  * The Decoder
+  * Energy Code Champion
 
 
 ![](https://bcapcodes.org/wp-content/uploads/2024/08/logo-removebg-preview.png)
   * Follow BCAP On Social Media
-  * [![facebook](https://bcapcodes.org/wp-content/uploads/2024/06/facebook.png)](https://www.facebook.com/buildingcodesassistanceproject/)![](https://bcapcodes.org/wp-content/uploads/2024/06/twitter.png)[![linkedin](https://bcapcodes.org/wp-content/uploads/2024/06/linkedin.png)](https://www.linkedin.com/company/building-codes-assistance-project)
+  * !facebook![](https://bcapcodes.org/wp-content/uploads/2024/06/twitter.png)!linkedin
 
 
 The Building Codes Assistance Project 
-: [Copyright Building Codes Assitance Project ](https://bcapcodes.org/ "AccessPress Lite")
+: Copyright Building Codes Assitance Project 
 
 
 --- SOURCE: https://www.bcapcodes.org/policy-action-toolkit ---
 
-[Skip to content](https://bcapcodes.org/policy-action-toolkit/#home-content)
-[ ![The Building Codes Assistance Project](https://bcapcodes.org/wp-content/uploads/2024/01/cropped-logo_longer1.png) ](https://bcapcodes.org/)
+Skip to content
+ !The Building Codes Assistance Project 
 Menu
-  * [SunShot Initiative](https://bcapcodes.org/beyond-code-portal/sunshot/)
-  * [Tools](https://bcapcodes.org/tools/)
-    * [Incremental Cost](https://bcapcodes.org/?page_id=893)
-    * [Policy Action](https://bcapcodes.org/policy-action-toolkit/)
-    * [Implementation](https://bcapcodes.org/compliance-portal-implementation/)
-    * [Code Builder](https://bcapcodes.org/code-builder/)
-      * [Residential](https://bcapcodes.org/residential-2/)
-      * [Commercial](https://bcapcodes.org/commercial-2/)
-      * [BCAP Newsletter](https://bcapcodes.org/bcap-newsletter/)
-      * [The Decoder](https://bcapcodes.org/the-decoder/)
-      * [Upcoming Events](https://bcapcodes.org/upcoming-events/)
-      * [Energy Code Champion](https://bcapcodes.org/?page_id=645)
-  * [Code Status](https://bcapcodes.org/code-status/)
-    * [Commercial](https://bcapcodes.org/commercial/)
-    * [Residential](https://bcapcodes.org/?page_id=164)
-    * [Local Adoptions](https://bcapcodes.org/?page_id=160)
-    * [International](https://bcapcodes.org/country/)
-  * [About](https://bcapcodes.org/who-we-are/)
-    * [Our Staff](https://bcapcodes.org/our-staff/)
-    * [What We Do](https://bcapcodes.org/who-we-are/what-we-do/)
-    * [Why Energy Codes Matter](https://bcapcodes.org/why-energy-codes-matter/)
-  * [Contact Us](https://bcapcodes.org/contact-us/)
-  * [Energy](https://bcapcodes.org/category/energy/)
-    * [Batteries](https://bcapcodes.org/category/batteries/)
-      * [Sodium-ion](https://bcapcodes.org/category/sodium-ion/)
-      * [Lithium-ion](https://bcapcodes.org/category/lithium-ion/)
-    * [Energy efficiency](https://bcapcodes.org/category/energy-efficiency/)
-    * [Energy cost](https://bcapcodes.org/category/energy-cost/)
+  * SunShot Initiative
+  * Tools
+    * Incremental Cost
+    * Policy Action
+    * Implementation
+    * Code Builder
+      * Residential
+      * Commercial
+      * BCAP Newsletter
+      * The Decoder
+      * Upcoming Events
+      * Energy Code Champion
+  * Code Status
+    * Commercial
+    * Residential
+    * Local Adoptions
+    * International
+  * About
+    * Our Staff
+    * What We Do
+    * Why Energy Codes Matter
+  * Contact Us
+  * Energy
+    * Batteries
+      * Sodium-ion
+      * Lithium-ion
+    * Energy efficiency
+    * Energy cost
 
 
 # Policy Action Toolkit
 Building codes establish the minimum standards of acceptable building practice, so _energy codes_ define the least efficient buildings that can be constructed. Concerns about energy ranging from cost to carbon emissions have led states and municipalities to identify energy codes as an cost-effective policy to use in achieving various goals. Codes can become a viable piece of a broad state plan when milestones for improved efficiency are established.
 States and local jurisdictions that are interested in adopting new (or updating existing) code legislation can benefit by reviewing actions others have taken. Samples of existing laws from states and cities around the country can be found on the [Policy Action for Energy Code Reform Page](https://www.bcapcodes.org/policy-action-toolkit/energy-code-reform/).
-While the pieces of legislation featured in this section are among the best practices in the country, they may need to be adjusted for your particular state or jurisdiction. Many can be strengthened or tailored to fit the needs of your area. If your jurisdiction writes a bill that could be used as a model by others, [please let us know!](https://www.bcapcodes.org/contact-us/)
-  * ##### [Connecting with Stakeholders](https://www.bcapcodes.org/policy-action-toolkit/connecting-with-stakeholders/)
+While the pieces of legislation featured in this section are among the best practices in the country, they may need to be adjusted for your particular state or jurisdiction. Many can be strengthened or tailored to fit the needs of your area. If your jurisdiction writes a bill that could be used as a model by others, please let us know!
+  * ##### Connecting with Stakeholders
 Each state approaches the energy code adoption process differently. In most states, codes are adopted through the state congress and pass through both the house and senate sides. No matter who is making the decisions on energy codes, making your voice heard is invaluable to the adoption process.
   * ##### [Energy Code Reform](https://www.bcapcodes.org/policy-action-toolkit/energy-code-reform/)
 Setting state-level expectations for improving efficiency can provide a common goal for a state’s government and code community to work toward and can ensure support for codes within state government as a valuable part of high-level strategy. We have categorized energy code policy actions into four different levels.
-  * ##### [Energy Codes and ARRA](https://www.bcapcodes.org/policy-action-toolkit/energy-codes-and-arra/)
+  * ##### Energy Codes and ARRA
 The American Recovery and Reinvestment Act of 2009 (Recovery Act) provided two opportunities for states to receive stimulus funds linked to building energy codes: Energy Efficiency and Conservation Block Grants and State Energy Programs (SEPs).
 
 
-  * ##### [Making the Case for Building Energy Codes](https://www.bcapcodes.org/policy-action-toolkit/making-the-case/)
+  * ##### Making the Case for Building Energy Codes
 Find sample support letters, sample press releases, outreach materials, and consumer resources here.
-  * ##### [Public Buildings Policy](https://www.bcapcodes.org/policy-action-toolkit/public-buildings/)
+  * ##### Public Buildings Policy
 This page depicts state-level policies for public buildings across the United States.
-  * ##### [Understanding the Legislative Process](https://www.bcapcodes.org/policy-action-toolkit/legislative-process/)
+  * ##### Understanding the Legislative Process
 How do states adopt energy codes? Most use either a regulatory process, a legislative process, or a combination of the two. However, some states are home rule, adopting and enforcing their codes at the local level.
-  * ##### [Where to Begin: Types of Energy Codes](https://www.bcapcodes.org/policy-action-toolkit/where-to-begin/)
+  * ##### Where to Begin: Types of Energy Codes
 Selecting the most current national model energy code (the 2015 IECC or ASHRAE 90.1-2013) ensures that code reflects changes in technology and design that offer increased energy efficiency.
 
 
   * Important links
-  * [About Us](https://bcapcodes.org/who-we-are/)
-  * [Help](https://bcapcodes.org/contact-us/)
-  * [Contact](https://bcapcodes.org/contact-us/)
-  * [Privacy Policy](https://bcapcodes.org/privacy-policy/)
+  * About Us
+  * Help
+  * Contact
+  * Privacy Policy
 
 
   * **State Codes**
-  * [Ohio Codes](https://bcapcodes.org/code-status/state/ohio/)
-  * [California Codes](https://bcapcodes.org/code-status/state/california/)
-  * [Alabama Codes](https://bcapcodes.org/code-status/state/alabama/)
-  * [Arkansas Codes](https://bcapcodes.org/code-status/state/arkansas/)
-  * [Florida Codes](https://bcapcodes.org/code-status/state/florida/)
+  * Ohio Codes
+  * California Codes
+  * Alabama Codes
+  * Arkansas Codes
+  * Florida Codes
 
 
   * **Code Builder**
-  * [Residential ](https://bcapcodes.org/residential-2/)
-  * [Commercial ](https://bcapcodes.org/commercial-2/)
-  * [The Decoder](https://bcapcodes.org/the-decoder/)
-  * [Energy Code Champion](https://bcapcodes.org/)
+  * Residential 
+  * Commercial 
+  * The Decoder
+  * Energy Code Champion
 
 
 ![](https://bcapcodes.org/wp-content/uploads/2024/08/logo-removebg-preview.png)
   * Follow BCAP On Social Media
-  * [![facebook](https://bcapcodes.org/wp-content/uploads/2024/06/facebook.png)](https://www.facebook.com/buildingcodesassistanceproject/)![](https://bcapcodes.org/wp-content/uploads/2024/06/twitter.png)[![linkedin](https://bcapcodes.org/wp-content/uploads/2024/06/linkedin.png)](https://www.linkedin.com/company/building-codes-assistance-project)
+  * !facebook![](https://bcapcodes.org/wp-content/uploads/2024/06/twitter.png)!linkedin
 
 
 The Building Codes Assistance Project 
-: [Copyright Building Codes Assitance Project ](https://bcapcodes.org/ "AccessPress Lite")
+: Copyright Building Codes Assitance Project 
 
 
 --- SOURCE: https://www.bcapcodes.org/code-status/country/taiwan ---
 
-[Skip to content](https://bcapcodes.org/taiwan/#home-content)
-[ ![The Building Codes Assistance Project](https://bcapcodes.org/wp-content/uploads/2024/01/cropped-logo_longer1.png) ](https://bcapcodes.org/)
+Skip to content
+ !The Building Codes Assistance Project 
 Menu
-  * [SunShot Initiative](https://bcapcodes.org/beyond-code-portal/sunshot/)
-  * [Tools](https://bcapcodes.org/tools/)
-    * [Incremental Cost](https://bcapcodes.org/?page_id=893)
-    * [Policy Action](https://bcapcodes.org/policy-action-toolkit/)
-    * [Implementation](https://bcapcodes.org/compliance-portal-implementation/)
-    * [Code Builder](https://bcapcodes.org/code-builder/)
-      * [Residential](https://bcapcodes.org/residential-2/)
-      * [Commercial](https://bcapcodes.org/commercial-2/)
-      * [BCAP Newsletter](https://bcapcodes.org/bcap-newsletter/)
-      * [The Decoder](https://bcapcodes.org/the-decoder/)
-      * [Upcoming Events](https://bcapcodes.org/upcoming-events/)
-      * [Energy Code Champion](https://bcapcodes.org/?page_id=645)
-  * [Code Status](https://bcapcodes.org/code-status/)
-    * [Commercial](https://bcapcodes.org/commercial/)
-    * [Residential](https://bcapcodes.org/?page_id=164)
-    * [Local Adoptions](https://bcapcodes.org/?page_id=160)
-    * [International](https://bcapcodes.org/country/)
-  * [About](https://bcapcodes.org/who-we-are/)
-    * [Our Staff](https://bcapcodes.org/our-staff/)
-    * [What We Do](https://bcapcodes.org/who-we-are/what-we-do/)
-    * [Why Energy Codes Matter](https://bcapcodes.org/why-energy-codes-matter/)
-  * [Contact Us](https://bcapcodes.org/contact-us/)
-  * [Energy](https://bcapcodes.org/category/energy/)
-    * [Batteries](https://bcapcodes.org/category/batteries/)
-      * [Sodium-ion](https://bcapcodes.org/category/sodium-ion/)
-      * [Lithium-ion](https://bcapcodes.org/category/lithium-ion/)
-    * [Energy efficiency](https://bcapcodes.org/category/energy-efficiency/)
-    * [Energy cost](https://bcapcodes.org/category/energy-cost/)
+  * SunShot Initiative
+  * Tools
+    * Incremental Cost
+    * Policy Action
+    * Implementation
+    * Code Builder
+      * Residential
+      * Commercial
+      * BCAP Newsletter
+      * The Decoder
+      * Upcoming Events
+      * Energy Code Champion
+  * Code Status
+    * Commercial
+    * Residential
+    * Local Adoptions
+    * International
+  * About
+    * Our Staff
+    * What We Do
+    * Why Energy Codes Matter
+  * Contact Us
+  * Energy
+    * Batteries
+      * Sodium-ion
+      * Lithium-ion
+    * Energy efficiency
+    * Energy cost
 
 
 # Taiwan Current Building Codes
@@ -928,11 +928,11 @@ Administered by the **Architecture and Building Research Institute (ABRI)** unde
 
 These frameworks ensure that **building energy codes are periodically revised** , with upcoming drafts expected to include **whole-building energy modeling** , **renewable integration** , and **operational carbon reporting**.
 ##### Helpful Links
-  * [Bureau of Energy, Ministry of Economic Affairs](http://www.moeaboe.gov.tw/ECW/english/home/English.aspx)
-  * [Taiwan Green Building Council](http://www.taiwangbc.org.tw/en/)
-  * [Taiwan’s Green Building Renovation](http://twgbqanda.com/english/e_tgbr.php?Type=2&menu=e_tgbr_class&pic_dir_list=0)
+  * Bureau of Energy, Ministry of Economic Affairs
+  * Taiwan Green Building Council
+  * Taiwan’s Green Building Renovation
   * [Energy Efficiency Building Standards in Taiwan](http://www.asiabusinesscouncil.org/docs/BEE/papers/BEE_Policy_Taiwan.pdf)
-  * [Taiwan Green Trade Project Office](http://www.greentrade.org.tw/en/index-en)
+  * Taiwan Green Trade Project Office
 
 
 ### History and Evolution of Taiwan’s Building Codes
@@ -954,102 +954,102 @@ In 2009, Taiwan’s [Energy Saving Measures for the Built Environment](http://ww
 
 
 #### Other International Code Status Pages
-  * [Australia](https://www.bcapcodes.org/code-status/country/australia/)
-  * [Austria](https://www.bcapcodes.org/code-status/country/austria/)
-  * [Brunei Darussalam](https://www.bcapcodes.org/code-status/country/brunei-darussalam/)
-  * [Canada](https://www.bcapcodes.org/code-status/country/canada/)
-  * [Chile](https://www.bcapcodes.org/code-status/country/chile/)
-  * [China](https://www.bcapcodes.org/code-status/country/china/)
-  * [Denmark](https://www.bcapcodes.org/code-status/country/denmark/)
-  * [France](https://www.bcapcodes.org/code-status/country/france/)
-  * [Germany](https://www.bcapcodes.org/code-status/country/germany/)
-  * [Hong Kong](https://www.bcapcodes.org/code-status/country/hong-kong/)
-  * [India](https://www.bcapcodes.org/code-status/country/india/)
-  * [Indonesia](https://www.bcapcodes.org/code-status/country/indonesia/)
-  * [Ireland](https://www.bcapcodes.org/code-status/country/ireland/)
-  * [Israel](https://www.bcapcodes.org/code-status/country/israel/)
-  * [Italy](https://www.bcapcodes.org/code-status/country/italy/)
-  * [Japan](https://www.bcapcodes.org/code-status/country/japan/)
-  * [Jordan](https://www.bcapcodes.org/code-status/country/jordan/)
-  * [Malaysia](https://www.bcapcodes.org/code-status/country/malaysia/)
-  * [Mexico](https://www.bcapcodes.org/code-status/country/mexico/)
-  * [Netherlands](https://www.bcapcodes.org/code-status/country/netherlands/)
-  * [New Zealand](https://www.bcapcodes.org/code-status/country/new-zealand/)
-  * [Peru](https://www.bcapcodes.org/code-status/country/peru/)
-  * [Portugal](https://www.bcapcodes.org/code-status/country/portugal/)
-  * [Russia](https://www.bcapcodes.org/code-status/country/russia/)
-  * [Singapore](https://www.bcapcodes.org/code-status/country/singapore/)
-  * [South Korea](https://www.bcapcodes.org/code-status/country/south-korea/)
-  * [Thailand](https://www.bcapcodes.org/code-status/country/thailand/)
-  * [Ukraine](https://www.bcapcodes.org/code-status/country/ukraine/)
-  * [United Kingdom](https://www.bcapcodes.org/code-status/country/united-kingdom/)
-  * [Vietnam](https://www.bcapcodes.org/code-status/country/vietnam/)
+  * Australia
+  * Austria
+  * Brunei Darussalam
+  * Canada
+  * Chile
+  * China
+  * Denmark
+  * France
+  * Germany
+  * Hong Kong
+  * India
+  * Indonesia
+  * Ireland
+  * Israel
+  * Italy
+  * Japan
+  * Jordan
+  * Malaysia
+  * Mexico
+  * Netherlands
+  * New Zealand
+  * Peru
+  * Portugal
+  * Russia
+  * Singapore
+  * South Korea
+  * Thailand
+  * Ukraine
+  * United Kingdom
+  * Vietnam
 
 
   * Important links
-  * [About Us](https://bcapcodes.org/who-we-are/)
-  * [Help](https://bcapcodes.org/contact-us/)
-  * [Contact](https://bcapcodes.org/contact-us/)
-  * [Privacy Policy](https://bcapcodes.org/privacy-policy/)
+  * About Us
+  * Help
+  * Contact
+  * Privacy Policy
 
 
   * **State Codes**
-  * [Ohio Codes](https://bcapcodes.org/code-status/state/ohio/)
-  * [California Codes](https://bcapcodes.org/code-status/state/california/)
-  * [Alabama Codes](https://bcapcodes.org/code-status/state/alabama/)
-  * [Arkansas Codes](https://bcapcodes.org/code-status/state/arkansas/)
-  * [Florida Codes](https://bcapcodes.org/code-status/state/florida/)
+  * Ohio Codes
+  * California Codes
+  * Alabama Codes
+  * Arkansas Codes
+  * Florida Codes
 
 
   * **Code Builder**
-  * [Residential ](https://bcapcodes.org/residential-2/)
-  * [Commercial ](https://bcapcodes.org/commercial-2/)
-  * [The Decoder](https://bcapcodes.org/the-decoder/)
-  * [Energy Code Champion](https://bcapcodes.org/)
+  * Residential 
+  * Commercial 
+  * The Decoder
+  * Energy Code Champion
 
 
 ![](https://bcapcodes.org/taiwan/)
   * Follow BCAP On Social Media
-  * [![facebook](https://bcapcodes.org/taiwan/)](https://www.facebook.com/buildingcodesassistanceproject/)![](https://bcapcodes.org/taiwan/)[![linkedin](https://bcapcodes.org/taiwan/)](https://www.linkedin.com/company/building-codes-assistance-project)
+  * !facebook![](https://bcapcodes.org/taiwan/)!linkedin
 
 
 The Building Codes Assistance Project 
-: [Copyright Building Codes Assitance Project ](https://bcapcodes.org/ "AccessPress Lite")
+: Copyright Building Codes Assitance Project 
 
 
 --- SOURCE: https://www.bcapcodes.org/code-status/country/indonesia ---
 
-[Skip to content](https://bcapcodes.org/code-status/country/indonesia/#home-content)
-[ ![The Building Codes Assistance Project](https://bcapcodes.org/wp-content/uploads/2024/01/cropped-logo_longer1.png) ](https://bcapcodes.org/)
+Skip to content
+ !The Building Codes Assistance Project 
 Menu
-  * [SunShot Initiative](https://bcapcodes.org/beyond-code-portal/sunshot/)
-  * [Tools](https://bcapcodes.org/tools/)
-    * [Incremental Cost](https://bcapcodes.org/?page_id=893)
-    * [Policy Action](https://bcapcodes.org/policy-action-toolkit/)
-    * [Implementation](https://bcapcodes.org/compliance-portal-implementation/)
-    * [Code Builder](https://bcapcodes.org/code-builder/)
-      * [Residential](https://bcapcodes.org/residential-2/)
-      * [Commercial](https://bcapcodes.org/commercial-2/)
-      * [BCAP Newsletter](https://bcapcodes.org/bcap-newsletter/)
-      * [The Decoder](https://bcapcodes.org/the-decoder/)
-      * [Upcoming Events](https://bcapcodes.org/upcoming-events/)
-      * [Energy Code Champion](https://bcapcodes.org/?page_id=645)
-  * [Code Status](https://bcapcodes.org/code-status/)
-    * [Commercial](https://bcapcodes.org/commercial/)
-    * [Residential](https://bcapcodes.org/?page_id=164)
-    * [Local Adoptions](https://bcapcodes.org/?page_id=160)
-    * [International](https://bcapcodes.org/country/)
-  * [About](https://bcapcodes.org/who-we-are/)
-    * [Our Staff](https://bcapcodes.org/our-staff/)
-    * [What We Do](https://bcapcodes.org/who-we-are/what-we-do/)
-    * [Why Energy Codes Matter](https://bcapcodes.org/why-energy-codes-matter/)
-  * [Contact Us](https://bcapcodes.org/contact-us/)
-  * [Energy](https://bcapcodes.org/category/energy/)
-    * [Batteries](https://bcapcodes.org/category/batteries/)
-      * [Sodium-ion](https://bcapcodes.org/category/sodium-ion/)
-      * [Lithium-ion](https://bcapcodes.org/category/lithium-ion/)
-    * [Energy efficiency](https://bcapcodes.org/category/energy-efficiency/)
-    * [Energy cost](https://bcapcodes.org/category/energy-cost/)
+  * SunShot Initiative
+  * Tools
+    * Incremental Cost
+    * Policy Action
+    * Implementation
+    * Code Builder
+      * Residential
+      * Commercial
+      * BCAP Newsletter
+      * The Decoder
+      * Upcoming Events
+      * Energy Code Champion
+  * Code Status
+    * Commercial
+    * Residential
+    * Local Adoptions
+    * International
+  * About
+    * Our Staff
+    * What We Do
+    * Why Energy Codes Matter
+  * Contact Us
+  * Energy
+    * Batteries
+      * Sodium-ion
+      * Lithium-ion
+    * Energy efficiency
+    * Energy cost
 
 
 # Indonesia
@@ -1062,11 +1062,11 @@ Menu
 
 
 Indonesia has four energy standards for buildings (Standar Nasional Indonesia/SNI), which cover the building envelope, air conditioning, lighting and building energy auditing.
-![indonesia building codes](https://bcapcodes.org/wp-content/uploads/2023/08/building-598975_1280-1024x681.jpg)  
-Source: [GBPN](http://www.gbpn.org/beet-3/country-infosheets/indonesia)
+!indonesia building codes  
+Source: GBPN
 Indonesia already has strong national policies on energy efficiency. The next step is to establish complete, mandatory codes that will set strict guidelines for efficiency in buildings. Updating the commercial code and establishing residential codes will lead to greater compliance and efficiency in buildings, and is the easiest way to achieve the goals set out in the Energy Efficiency Plan. The codes can be rolled into the National Building Code (which currently outlines seismic design standards but discusses lighting and ventilation) or created as separate entities.
 **Indonesia Seismic Resistance Design Standard For Buildings**  
-These are structural codes for buildings based on seismic codes; unknown to what extent the code covers energy efficiency. The [Seismic Resistance Design Standard for Buildings (SNI 03-1726-2012)](http://sisni.bsn.go.id/index.php?/sni_main/sni/detail_sni_eng/14568) is Indonesia’s national building code and is implemented regionally. It is mainly concerned with codes based on loads that can withstand seismic forces. However, it is important to note that the code gives control over standards for lighting and ventilation to local governments.
+These are structural codes for buildings based on seismic codes; unknown to what extent the code covers energy efficiency. The Seismic Resistance Design Standard for Buildings (SNI 03-1726-2012) is Indonesia’s national building code and is implemented regionally. It is mainly concerned with codes based on loads that can withstand seismic forces. However, it is important to note that the code gives control over standards for lighting and ventilation to local governments.
 Discover more
 Building material
 Building Materials
@@ -1075,7 +1075,7 @@ Building Materials
   * Ministry of Energy and Mineral Resources
   * [Law on Energy (2007)](http://www.esdm.go.id/prokum/uu/2007/uu-30-2007-en.pdf)  
 The 2007 Law on Energy, which was approved by the legislative and executive branches of Indonesian government, gives the government the power to manage all of the country’s energy use. This is meant to improve the energy security of the country, make sure that all sectors use energy efficiently, and promote the use of sustainable energy.
-  * [Green Building Council Indonesia](http://www.gbcindonesia.org/)
+  * Green Building Council Indonesia
 
 
 * * *
@@ -1083,107 +1083,107 @@ The 2007 Law on Energy, which was approved by the legislative and executive bran
 In 2005, Indonesia launched an update to its National Master Plan for Energy Conservation (RIKEN), which set the goal of decreasing energy intensity by at least 1% per year until 2025. The master plan was first passed in 1995, establishing the need for further implementation of specific energy conservation programs and energy audits and reports.
 As an ASEAN member, Indonesia adopted voluntary commercial energy codes in 1992. The code applied to building envelope, lighting, and HVAC. Unfortunately, it was believed that the codes were not understood or adhered to by builders and designers in Indonesia. USAID believed that if the codes were enforced, Indonesia could have attained a 20% energy savings.
 The Indonesian National Standard SNI 03-6389-2000 adapted the 1983 Singapore’s Handbook on Energy Conservation and limited the Overall Thermal Transfer Value (OTTV) of the building envelope to 45 Watt/m2. In 2008, the Singapore’s Building and Construction Authority (BCA) shifted to Envelope Thermal Transfer Value (ETTV) value of 50 Watt/m2, while SNI 03-6389-2011 continues to use OTTV.  
-(Source: [Calculation for Various Building’s Shapes, Orientations, Envelope Building Materials: Comparison and Analysis](https://www.researchgate.net/publication/294120763_OTTV_SNI_03-6389-2011_and_ETTV_BCA_2008_Calculation_for_Various_Building%27s_Shapes_Orientations_Envelope_Building_Materials_Comparison_and_Analysis))
+(Source: Calculation for Various Building’s Shapes, Orientations, Envelope Building Materials: Comparison and Analysis)
 #### Other International Code Status Pages
-  * [Australia](https://www.bcapcodes.org/code-status/country/australia/)
-  * [Austria](https://www.bcapcodes.org/code-status/country/austria/)
-  * [Brunei Darussalam](https://www.bcapcodes.org/code-status/country/brunei-darussalam/)
-  * [Canada](https://www.bcapcodes.org/code-status/country/canada/)
-  * [Chile](https://www.bcapcodes.org/code-status/country/chile/)
-  * [China](https://www.bcapcodes.org/code-status/country/china/)
-  * [Denmark](https://www.bcapcodes.org/code-status/country/denmark/)
-  * [France](https://www.bcapcodes.org/code-status/country/france/)
-  * [Germany](https://www.bcapcodes.org/code-status/country/germany/)
-  * [Hong Kong](https://www.bcapcodes.org/code-status/country/hong-kong/)
-  * [India](https://www.bcapcodes.org/code-status/country/india/)
-  * [Ireland](https://www.bcapcodes.org/code-status/country/ireland/)
-  * [Israel](https://www.bcapcodes.org/code-status/country/israel/)
-  * [Italy](https://www.bcapcodes.org/code-status/country/italy/)
-  * [Japan](https://www.bcapcodes.org/code-status/country/japan/)
-  * [Jordan](https://www.bcapcodes.org/code-status/country/jordan/)
-  * [Malaysia](https://www.bcapcodes.org/code-status/country/malaysia/)
-  * [Mexico](https://www.bcapcodes.org/code-status/country/mexico/)
-  * [Netherlands](https://www.bcapcodes.org/code-status/country/netherlands/)
-  * [New Zealand](https://www.bcapcodes.org/code-status/country/new-zealand/)
-  * [Peru](https://www.bcapcodes.org/code-status/country/peru/)
-  * [Portugal](https://www.bcapcodes.org/code-status/country/portugal/)
-  * [Russia](https://www.bcapcodes.org/code-status/country/russia/)
-  * [Singapore](https://www.bcapcodes.org/code-status/country/singapore/)
-  * [South Korea](https://www.bcapcodes.org/code-status/country/south-korea/)
-  * [Taiwan](https://www.bcapcodes.org/code-status/country/taiwan/)
-  * [Thailand](https://www.bcapcodes.org/code-status/country/thailand/)
-  * [Ukraine](https://www.bcapcodes.org/code-status/country/ukraine/)
-  * [United Kingdom](https://www.bcapcodes.org/code-status/country/united-kingdom/)
-  * [Vietnam](https://www.bcapcodes.org/code-status/country/vietnam/)
+  * Australia
+  * Austria
+  * Brunei Darussalam
+  * Canada
+  * Chile
+  * China
+  * Denmark
+  * France
+  * Germany
+  * Hong Kong
+  * India
+  * Ireland
+  * Israel
+  * Italy
+  * Japan
+  * Jordan
+  * Malaysia
+  * Mexico
+  * Netherlands
+  * New Zealand
+  * Peru
+  * Portugal
+  * Russia
+  * Singapore
+  * South Korea
+  * Taiwan
+  * Thailand
+  * Ukraine
+  * United Kingdom
+  * Vietnam
 
 
-![authorbox](https://bcapcodes.org/code-status/country/indonesia/)
-[Cosimina](https://bcapcodes.org/author/vaibhavsharma/)
+!authorbox
+Cosimina
 Cosimina has been a member of BCAP for over a decade, actively contributing to the organization’s nationally acclaimed initiatives aimed at assisting states and local authorities in the establishment and enforcement of robust and efficient building energy codes. Her involvement spans across advocacy, technical guidance, outreach programs, and the formation of strategic coalitions.
   * Important links
-  * [About Us](https://bcapcodes.org/who-we-are/)
-  * [Help](https://bcapcodes.org/contact-us/)
-  * [Contact](https://bcapcodes.org/contact-us/)
-  * [Privacy Policy](https://bcapcodes.org/privacy-policy/)
+  * About Us
+  * Help
+  * Contact
+  * Privacy Policy
 
 
   * **State Codes**
-  * [Ohio Codes](https://bcapcodes.org/code-status/state/ohio/)
-  * [California Codes](https://bcapcodes.org/code-status/state/california/)
-  * [Alabama Codes](https://bcapcodes.org/code-status/state/alabama/)
-  * [Arkansas Codes](https://bcapcodes.org/code-status/state/arkansas/)
-  * [Florida Codes](https://bcapcodes.org/code-status/state/florida/)
+  * Ohio Codes
+  * California Codes
+  * Alabama Codes
+  * Arkansas Codes
+  * Florida Codes
 
 
   * **Code Builder**
-  * [Residential ](https://bcapcodes.org/residential-2/)
-  * [Commercial ](https://bcapcodes.org/commercial-2/)
-  * [The Decoder](https://bcapcodes.org/the-decoder/)
-  * [Energy Code Champion](https://bcapcodes.org/)
+  * Residential 
+  * Commercial 
+  * The Decoder
+  * Energy Code Champion
 
 
 ![](https://bcapcodes.org/code-status/country/indonesia/)
   * Follow BCAP On Social Media
-  * [![facebook](https://bcapcodes.org/code-status/country/indonesia/)](https://www.facebook.com/buildingcodesassistanceproject/)![](https://bcapcodes.org/code-status/country/indonesia/)[![linkedin](https://bcapcodes.org/code-status/country/indonesia/)](https://www.linkedin.com/company/building-codes-assistance-project)
+  * !facebook![](https://bcapcodes.org/code-status/country/indonesia/)!linkedin
 
 
 The Building Codes Assistance Project 
-: [Copyright Building Codes Assitance Project ](https://bcapcodes.org/ "AccessPress Lite")
+: Copyright Building Codes Assitance Project 
 
 
 --- SOURCE: https://www.bcapcodes.org/tools/code-builder/residential/fenestration ---
 
-[Skip to content](https://bcapcodes.org/tools/code-builder/commercial/fenestration/#home-content)
-[ ![The Building Codes Assistance Project](https://bcapcodes.org/wp-content/uploads/2024/01/cropped-logo_longer1.png) ](https://bcapcodes.org/)
+Skip to content
+ !The Building Codes Assistance Project 
 Menu
-  * [SunShot Initiative](https://bcapcodes.org/beyond-code-portal/sunshot/)
-  * [Tools](https://bcapcodes.org/tools/)
-    * [Incremental Cost](https://bcapcodes.org/?page_id=893)
-    * [Policy Action](https://bcapcodes.org/policy-action-toolkit/)
-    * [Implementation](https://bcapcodes.org/compliance-portal-implementation/)
-    * [Code Builder](https://bcapcodes.org/code-builder/)
-      * [Residential](https://bcapcodes.org/residential-2/)
-      * [Commercial](https://bcapcodes.org/commercial-2/)
-      * [BCAP Newsletter](https://bcapcodes.org/bcap-newsletter/)
-      * [The Decoder](https://bcapcodes.org/the-decoder/)
-      * [Upcoming Events](https://bcapcodes.org/upcoming-events/)
-      * [Energy Code Champion](https://bcapcodes.org/?page_id=645)
-  * [Code Status](https://bcapcodes.org/code-status/)
-    * [Commercial](https://bcapcodes.org/commercial/)
-    * [Residential](https://bcapcodes.org/?page_id=164)
-    * [Local Adoptions](https://bcapcodes.org/?page_id=160)
-    * [International](https://bcapcodes.org/country/)
-  * [About](https://bcapcodes.org/who-we-are/)
-    * [Our Staff](https://bcapcodes.org/our-staff/)
-    * [What We Do](https://bcapcodes.org/who-we-are/what-we-do/)
-    * [Why Energy Codes Matter](https://bcapcodes.org/why-energy-codes-matter/)
-  * [Contact Us](https://bcapcodes.org/contact-us/)
-  * [Energy](https://bcapcodes.org/category/energy/)
-    * [Batteries](https://bcapcodes.org/category/batteries/)
-      * [Sodium-ion](https://bcapcodes.org/category/sodium-ion/)
-      * [Lithium-ion](https://bcapcodes.org/category/lithium-ion/)
-    * [Energy efficiency](https://bcapcodes.org/category/energy-efficiency/)
-    * [Energy cost](https://bcapcodes.org/category/energy-cost/)
+  * SunShot Initiative
+  * Tools
+    * Incremental Cost
+    * Policy Action
+    * Implementation
+    * Code Builder
+      * Residential
+      * Commercial
+      * BCAP Newsletter
+      * The Decoder
+      * Upcoming Events
+      * Energy Code Champion
+  * Code Status
+    * Commercial
+    * Residential
+    * Local Adoptions
+    * International
+  * About
+    * Our Staff
+    * What We Do
+    * Why Energy Codes Matter
+  * Contact Us
+  * Energy
+    * Batteries
+      * Sodium-ion
+      * Lithium-ion
+    * Energy efficiency
+    * Energy cost
 
 
 # Commercial Fenestration
@@ -1204,100 +1204,100 @@ Today, high performance windows, doors, and skylights provide myriad benefits, i
 
 #### Terms to Know
 **U-value:** A measure (Btu/h-ft2-°F) of how well a material or series of materials conducts heat. U-factors for window and door assemblies are the reciprocal of the assembly R-value. The smaller the number, the less the heat flow. Window U-factors typically range from 0.2 to 1.2, while the U-factors of other building assemblies (e.g. walls, floors) typically range from 0.02 to 0.10 when insulated. Using efficient windows decreases the energy consumption of the structure and helps the project comply with the code.
-**SHGC:** Solar heat gain coefficient (SHGC) is the glazing’s effectiveness in rejecting solar heat gain. SHGC is part of a system for rating window performance used by the National Fenestration Rating Council (NFRC). SHGC is gradually replacing the older index, shading coefficient (SC), in product literature and design standards. If you are using glass whose performance is listed in terms of SC, you may convert to SHGC by multiplying the SC value by 0.87. The solar heat gain coefficient (SHGC) for your window may be found on the [National Fenestration Rating Council (NFRC) label](http://www.nfrc.org/WindowRatings/The-NFRC-Label.html) affixed by the window manufacturer prior to sale.
+**SHGC:** Solar heat gain coefficient (SHGC) is the glazing’s effectiveness in rejecting solar heat gain. SHGC is part of a system for rating window performance used by the National Fenestration Rating Council (NFRC). SHGC is gradually replacing the older index, shading coefficient (SC), in product literature and design standards. If you are using glass whose performance is listed in terms of SC, you may convert to SHGC by multiplying the SC value by 0.87. The solar heat gain coefficient (SHGC) for your window may be found on the National Fenestration Rating Council (NFRC) label affixed by the window manufacturer prior to sale.
 See entire the Building Energy Codes Program glossary
 #### Commercial windows and COM _check_
 In collaboration with the National Fenestration Rating Council (NFRC), NFRC certified products are now linked from a Component Modeling Approach (CMA) database. This new feature allows users to provide valid and certified fenestration thermal properties in order to improve compliance. Read below to learn about how to verify energy code compliance for commercial site-built windows.
 **Commercial fenestration has been identified as one of the most non-compliant provisions in the energy code.** One reason is that many commercial window assemblies are site-built. Widely informing the design community about this requirement through regular trainings and at the beginning of each permitting process can help improve the compliance rate.
-For site-built windows, under the 2009 and 2012 IECC, a NFRC Label Certificate must be provided for all windows on a given project. NFRC’s commercial window energy rating process enables manufacturers to combine frame, spacer, and glazing components into project-specific, final window products—listing U-factor and SHGC as the NFRC and the IECC require. Visit [NFRC’s website](http://cmast.nfrc.org/Project/CertificateFind.aspx) to access the label certificates or ask the manufacturer (often the frame manufacturer) to provide the label certificate. The U-factor and SHGC values on the label certificate should be compared to the specifications on the building plans. Projects lacking these certificates must use the IECC default tables for U-factor and SHGC values (table 303.1.3-1, 2 & 3).
+For site-built windows, under the 2009 and 2012 IECC, a NFRC Label Certificate must be provided for all windows on a given project. NFRC’s commercial window energy rating process enables manufacturers to combine frame, spacer, and glazing components into project-specific, final window products—listing U-factor and SHGC as the NFRC and the IECC require. Visit NFRC’s website to access the label certificates or ask the manufacturer (often the frame manufacturer) to provide the label certificate. The U-factor and SHGC values on the label certificate should be compared to the specifications on the building plans. Projects lacking these certificates must use the IECC default tables for U-factor and SHGC values (table 303.1.3-1, 2 & 3).
 #### Resources
   * [Energy Performance Ratings for Windows Doors and Skylights](http://energy.gov/energysaver/energy-performance-ratings-windows-doors-and-skylights)
-  * [Efficient Windows Collaborative](http://www.efficientwindows.org/)
-  * [LBNL Publications on Windows](https://buildings.lbl.gov/publications?f\[search\]=window)
+  * Efficient Windows Collaborative
+  * LBNL Publications on Windows
   * Windows for High-Performance Commercial Buildings
-  * [Glazing and Energy Codes](http://www.glassguides.com/2012/04/glazing-and-energy-codes/)
+  * Glazing and Energy Codes
   * Maximum Air Infiltration Rate for Fenestration Assemblies
 
 
 ##### See also:
-  * [Commercial Air Sealing](https://www.bcapcodes.org/tools/code-builder/commercial/air-sealing/)
-  * [Commercial Ducts](https://www.bcapcodes.org/tools/code-builder/commercial/ducts/)
-  * [Commercial HVAC](https://www.bcapcodes.org/tools/code-builder/commercial/hvac/)
-  * [Commercial Insulation](https://www.bcapcodes.org/tools/code-builder/commercial/insulation/)
-  * [Commercial Lighting](https://www.bcapcodes.org/tools/code-builder/commercial/lighting/)
-  * [Commercial Ventilation](https://www.bcapcodes.org/tools/code-builder/commercial/ventilation/)
-  * [Commercial Water Heating](https://www.bcapcodes.org/tools/code-builder/commercial/water-heating/)
+  * Commercial Air Sealing
+  * Commercial Ducts
+  * Commercial HVAC
+  * Commercial Insulation
+  * Commercial Lighting
+  * Commercial Ventilation
+  * Commercial Water Heating
 
 
 * * *
 ![](https://www.bcapcodes.org/wp-content/uploads/2023/08/nfrclabel.jpg)
-![authorbox](https://bcapcodes.org/tools/code-builder/commercial/fenestration/)
-[Cosimina](https://bcapcodes.org/author/vaibhavsharma/)
+!authorbox
+Cosimina
 Cosimina has been a member of BCAP for over a decade, actively contributing to the organization’s nationally acclaimed initiatives aimed at assisting states and local authorities in the establishment and enforcement of robust and efficient building energy codes. Her involvement spans across advocacy, technical guidance, outreach programs, and the formation of strategic coalitions.
   * Important links
-  * [About Us](https://bcapcodes.org/who-we-are/)
-  * [Help](https://bcapcodes.org/contact-us/)
-  * [Contact](https://bcapcodes.org/contact-us/)
-  * [Privacy Policy](https://bcapcodes.org/privacy-policy/)
+  * About Us
+  * Help
+  * Contact
+  * Privacy Policy
 
 
   * **State Codes**
-  * [Ohio Codes](https://bcapcodes.org/code-status/state/ohio/)
-  * [California Codes](https://bcapcodes.org/code-status/state/california/)
-  * [Alabama Codes](https://bcapcodes.org/code-status/state/alabama/)
-  * [Arkansas Codes](https://bcapcodes.org/code-status/state/arkansas/)
-  * [Florida Codes](https://bcapcodes.org/code-status/state/florida/)
+  * Ohio Codes
+  * California Codes
+  * Alabama Codes
+  * Arkansas Codes
+  * Florida Codes
 
 
   * **Code Builder**
-  * [Residential ](https://bcapcodes.org/residential-2/)
-  * [Commercial ](https://bcapcodes.org/commercial-2/)
-  * [The Decoder](https://bcapcodes.org/the-decoder/)
-  * [Energy Code Champion](https://bcapcodes.org/)
+  * Residential 
+  * Commercial 
+  * The Decoder
+  * Energy Code Champion
 
 
 ![](https://bcapcodes.org/tools/code-builder/commercial/fenestration/)
   * Follow BCAP On Social Media
-  * [![facebook](https://bcapcodes.org/tools/code-builder/commercial/fenestration/)](https://www.facebook.com/buildingcodesassistanceproject/)![](https://bcapcodes.org/tools/code-builder/commercial/fenestration/)[![linkedin](https://bcapcodes.org/tools/code-builder/commercial/fenestration/)](https://www.linkedin.com/company/building-codes-assistance-project)
+  * !facebook![](https://bcapcodes.org/tools/code-builder/commercial/fenestration/)!linkedin
 
 
 The Building Codes Assistance Project 
-: [Copyright Building Codes Assitance Project ](https://bcapcodes.org/ "AccessPress Lite")
+: Copyright Building Codes Assitance Project 
 
 
 --- SOURCE: https://www.bcapcodes.org/tools/code-builder/residential/insulation ---
 
-[Skip to content](https://bcapcodes.org/insulation/#home-content)
-[ ![The Building Codes Assistance Project](https://bcapcodes.org/wp-content/uploads/2024/01/cropped-logo_longer1.png) ](https://bcapcodes.org/)
+Skip to content
+ !The Building Codes Assistance Project 
 Menu
-  * [SunShot Initiative](https://bcapcodes.org/beyond-code-portal/sunshot/)
-  * [Tools](https://bcapcodes.org/tools/)
-    * [Incremental Cost](https://bcapcodes.org/?page_id=893)
-    * [Policy Action](https://bcapcodes.org/policy-action-toolkit/)
-    * [Implementation](https://bcapcodes.org/compliance-portal-implementation/)
-    * [Code Builder](https://bcapcodes.org/code-builder/)
-      * [Residential](https://bcapcodes.org/residential-2/)
-      * [Commercial](https://bcapcodes.org/commercial-2/)
-      * [BCAP Newsletter](https://bcapcodes.org/bcap-newsletter/)
-      * [The Decoder](https://bcapcodes.org/the-decoder/)
-      * [Upcoming Events](https://bcapcodes.org/upcoming-events/)
-      * [Energy Code Champion](https://bcapcodes.org/?page_id=645)
-  * [Code Status](https://bcapcodes.org/code-status/)
-    * [Commercial](https://bcapcodes.org/commercial/)
-    * [Residential](https://bcapcodes.org/?page_id=164)
-    * [Local Adoptions](https://bcapcodes.org/?page_id=160)
-    * [International](https://bcapcodes.org/country/)
-  * [About](https://bcapcodes.org/who-we-are/)
-    * [Our Staff](https://bcapcodes.org/our-staff/)
-    * [What We Do](https://bcapcodes.org/who-we-are/what-we-do/)
-    * [Why Energy Codes Matter](https://bcapcodes.org/why-energy-codes-matter/)
-  * [Contact Us](https://bcapcodes.org/contact-us/)
-  * [Energy](https://bcapcodes.org/category/energy/)
-    * [Batteries](https://bcapcodes.org/category/batteries/)
-      * [Sodium-ion](https://bcapcodes.org/category/sodium-ion/)
-      * [Lithium-ion](https://bcapcodes.org/category/lithium-ion/)
-    * [Energy efficiency](https://bcapcodes.org/category/energy-efficiency/)
-    * [Energy cost](https://bcapcodes.org/category/energy-cost/)
+  * SunShot Initiative
+  * Tools
+    * Incremental Cost
+    * Policy Action
+    * Implementation
+    * Code Builder
+      * Residential
+      * Commercial
+      * BCAP Newsletter
+      * The Decoder
+      * Upcoming Events
+      * Energy Code Champion
+  * Code Status
+    * Commercial
+    * Residential
+    * Local Adoptions
+    * International
+  * About
+    * Our Staff
+    * What We Do
+    * Why Energy Codes Matter
+  * Contact Us
+  * Energy
+    * Batteries
+      * Sodium-ion
+      * Lithium-ion
+    * Energy efficiency
+    * Energy cost
 
 
 # Commercial Insulation
@@ -1311,43 +1311,43 @@ There are many new and innovative insulation products not specified by the model
 **From the 2012 IECC Proposals:**  
 Expand insulation options by adding r-value choices that don’t force the use of specific types of insulation. By slightly altering r-values of insulation builders and architects will be able to better choose the insulation that meets optimal energy and cost savings.
 ##### See also:
-  * [Commercial Air Sealing](https://www.bcapcodes.org/tools/code-builder/commercial/air-sealing/)
-  * [Commercial Ducts](https://www.bcapcodes.org/tools/code-builder/commercial/ducts/)
-  * [Commercial Fenestration](https://www.bcapcodes.org/tools/code-builder/commercial/fenestration/)
-  * [Commercial HVAC](https://www.bcapcodes.org/tools/code-builder/commercial/hvac/)
-  * [Commercial Lighting](https://www.bcapcodes.org/tools/code-builder/commercial/lighting/)
-  * [Commercial Ventilation](https://www.bcapcodes.org/tools/code-builder/commercial/ventilation/)
-  * [Commercial Water Heating](https://www.bcapcodes.org/tools/code-builder/commercial/water-heating/)
+  * Commercial Air Sealing
+  * Commercial Ducts
+  * Commercial Fenestration
+  * Commercial HVAC
+  * Commercial Lighting
+  * Commercial Ventilation
+  * Commercial Water Heating
 
 
 * * *
 _Images courtesy of Building Energy Codes Resource Center and Headwaters Energy and Finance_
   * Important links
-  * [About Us](https://bcapcodes.org/who-we-are/)
-  * [Help](https://bcapcodes.org/contact-us/)
-  * [Contact](https://bcapcodes.org/contact-us/)
-  * [Privacy Policy](https://bcapcodes.org/privacy-policy/)
+  * About Us
+  * Help
+  * Contact
+  * Privacy Policy
 
 
   * **State Codes**
-  * [Ohio Codes](https://bcapcodes.org/code-status/state/ohio/)
-  * [California Codes](https://bcapcodes.org/code-status/state/california/)
-  * [Alabama Codes](https://bcapcodes.org/code-status/state/alabama/)
-  * [Arkansas Codes](https://bcapcodes.org/code-status/state/arkansas/)
-  * [Florida Codes](https://bcapcodes.org/code-status/state/florida/)
+  * Ohio Codes
+  * California Codes
+  * Alabama Codes
+  * Arkansas Codes
+  * Florida Codes
 
 
   * **Code Builder**
-  * [Residential ](https://bcapcodes.org/residential-2/)
-  * [Commercial ](https://bcapcodes.org/commercial-2/)
-  * [The Decoder](https://bcapcodes.org/the-decoder/)
-  * [Energy Code Champion](https://bcapcodes.org/)
+  * Residential 
+  * Commercial 
+  * The Decoder
+  * Energy Code Champion
 
 
 ![](https://bcapcodes.org/wp-content/uploads/2024/08/logo-removebg-preview.png)
   * Follow BCAP On Social Media
-  * [![facebook](https://bcapcodes.org/wp-content/uploads/2024/06/facebook.png)](https://www.facebook.com/buildingcodesassistanceproject/)![](https://bcapcodes.org/wp-content/uploads/2024/06/twitter.png)[![linkedin](https://bcapcodes.org/wp-content/uploads/2024/06/linkedin.png)](https://www.linkedin.com/company/building-codes-assistance-project)
+  * !facebook![](https://bcapcodes.org/wp-content/uploads/2024/06/twitter.png)!linkedin
 
 
 The Building Codes Assistance Project 
-: [Copyright Building Codes Assitance Project ](https://bcapcodes.org/ "AccessPress Lite")
+: Copyright Building Codes Assitance Project 

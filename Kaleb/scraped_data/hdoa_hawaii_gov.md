@@ -2,21 +2,21 @@
 
 --- SOURCE: https://hdoa.hawaii.gov/qad/measurement-standards-branch ---
 
-[Skip to Content](https://dab.hawaii.gov/qad/measurement-standards-branch/#main) [Skip to Navigation](https://dab.hawaii.gov/qad/measurement-standards-branch/#navigation) [Skip to Footer](https://dab.hawaii.gov/qad/measurement-standards-branch/#footer)
-  * [廣東話](https://dab.hawaii.gov/qad/measurement-standards-branch/#language_text_cantonese)
-  * [Chuukese](https://dab.hawaii.gov/qad/measurement-standards-branch/#language_text_chuukese)
-  * [ʻŌlelo Hawaiʻi](https://dab.hawaii.gov/qad/measurement-standards-branch/#language_text_hawaiian)
-  * [Ilokano](https://dab.hawaii.gov/qad/measurement-standards-branch/#language_text_ilokano)
-  * [日本語](https://dab.hawaii.gov/qad/measurement-standards-branch/#language_text_japanese)
-  * [한국어](https://dab.hawaii.gov/qad/measurement-standards-branch/#language_text_korean)
-  * [国语](https://dab.hawaii.gov/qad/measurement-standards-branch/#language_text_mandarin)
-  * [Marshallese](https://dab.hawaii.gov/qad/measurement-standards-branch/#language_text_marshallese)
-  * [Samoan](https://dab.hawaii.gov/qad/measurement-standards-branch/#language_text_samoan)
-  * [Español](https://dab.hawaii.gov/qad/measurement-standards-branch/#language_text_spanish)
-  * [Tagalog](https://dab.hawaii.gov/qad/measurement-standards-branch/#language_text_tagalog)
-  * [ภาษาไทย](https://dab.hawaii.gov/qad/measurement-standards-branch/#language_text_thai)
-  * [Tiếng Việt](https://dab.hawaii.gov/qad/measurement-standards-branch/#language_text_vietnamese)
-  * [Visayan](https://dab.hawaii.gov/qad/measurement-standards-branch/#language_text_visayancebuano)
+Skip to Content Skip to Navigation Skip to Footer
+  * 廣東話
+  * Chuukese
+  * ʻŌlelo Hawaiʻi
+  * Ilokano
+  * 日本語
+  * 한국어
+  * 国语
+  * Marshallese
+  * Samoan
+  * Español
+  * Tagalog
+  * ภาษาไทย
+  * Tiếng Việt
+  * Visayan
 
 
 x
@@ -42,34 +42,34 @@ Kailangan ba ninyo ng tulong sa ibang lengguwahe? Ikukuha namin kayo ng libreng 
 และบอกเราว่าคุณพูดภาษาอะไร
 Bạn có cần giúp đỡ bằng ngôn ngữ khác không ? Chúng tôi se yêu cầu một người thông dịch viên miễn phí cho bạn. Gọi  (808) 483-7100 nói cho chúng tôi biết bạn dùng ngôn ngữ nào.
 Gakinahanglan ka ba ug tabang sa imong pinulongan? Amo kang mahatagan ug libre nga maghuhubad. Tawag sa  (808) 483-7100 aron magpahibalo kung unsa ang imong sinulti-han.
-[Hawaii.gov](https://portal.ehawaii.gov/ "Link to Hawaii.gov")
-[Government Directory](https://portal.ehawaii.gov/government/departments-and-agencies/ "Link to Government Directory")
-[ ![Quality Assurance Division logo](https://dab.hawaii.gov/qad/files/2014/03/hdoa-logo.png) ](https://dab.hawaii.gov/qad)
+Hawaii.gov
+Government Directory
+ !Quality Assurance Division logo 
 State of Hawaii
-# [Quality Assurance Division](https://dab.hawaii.gov/qad)
+# Quality Assurance Division
 Search this site Search 
-[![Follow the State of Hawaii Quality Assurance Division on X](https://dab.hawaii.gov/qad/wp-content/themes/hic_state_template_parent/img/header/social/icon-x-twitter.png)](https://twitter.com/hdoapio)[](https://dab.hawaii.gov/qad/feed/)[](https://www.facebook.com/pages/Hawaii-Department-of-Agriculture/274025339276783)[](https://www.youtube.com/channel/UCu8ne-a4cg_kW3G-95P27KA)
-  * [DAB](https://dab.hawaii.gov)
-  * [Administrative Rules](https://dab.hawaii.gov/admin-rules/)
-  * [Meetings & Reports](https://dab.hawaii.gov/meetings-reports/)
-  * [Organization](https://dab.hawaii.gov/organization/)
+!Follow the State of Hawaii Quality Assurance Division on X[](https://dab.hawaii.gov/qad/feed/)[](https://www.facebook.com/pages/Hawaii-Department-of-Agriculture/274025339276783)[](https://www.youtube.com/channel/UCu8ne-a4cg_kW3G-95P27KA)
+  * DAB
+  * Administrative Rules
+  * Meetings & Reports
+  * Organization
   * [Forms](https://dab.hawaii.gov/forms/)
-  * [Agricultural Resources](https://dab.hawaii.gov/divisions/agricultural-resources/)
+  * Agricultural Resources
 
 
-[Home](https://dab.hawaii.gov/qad/) » Measurement Standards Branch
+Home » Measurement Standards Branch
 ## Measurement Standards Branch
 Assures accuracy of measurement, packaging, labeling and pricing of commercial goods to prevent unfair practices.
 Have you ever wondered whether you’ve received the pound of papayas or the gallon of gasoline that you’ve paid for? How do you know that the premium gasoline that you’ve purchased is really 92 octane? You can be certain that you are getting what you’ve paid for because the men and women of the Hawai‘i Department of Agriculture and Biosecurity’s Measurement Standards Branch are looking out for you. The branch works to minimize losses to both the buyer and seller in transactions of goods or services based on a measurement process or quality standards enforced by the branch.
 The Measurement Standards Branch receives technical assistance and advice from the federal government through the National Institute of Standards and Technology. However, it is the responsibility of the branch to establish and enforce the measurement standards laws that assure equity, discourage unfair competition and promote consumer confidence in the marketplace. These laws can be found in Chapter 486, Hawaii Revised Statutes.
 The Measurement Standards Branch enforces several labeling laws pertaining to specific types of commodities.
 **Hawai‘i-grown Coffee Labeling Law**
-One of these laws, formerly called the “Kona coffee law”, was amended during the 2023 and 2024 legislative sessions and is now called the “Hawai‘i-grown coffee law.” The 2024[ coffee law](https://dab.hawaii.gov/qad/commodities-branch/60-2/) became effective on July 3, 2024 and enforceable on July 1, 2024.
+One of these laws, formerly called the “Kona coffee law”, was amended during the 2023 and 2024 legislative sessions and is now called the “Hawai‘i-grown coffee law.” The 2024 coffee law became effective on July 3, 2024 and enforceable on July 1, 2024.
 **Macadamia Nut Labeling Law  
 **Effective Jan. 1, 2026, new labeling requirements became effective which strengthens truth-in-labeling laws and provides consumers with clarity on the origin of macadamia nuts contained in the products. The law requires packagers of macadamia nuts that are not grown in Hawai‘i to clearly print on the package “ _This package contains macadamia nuts that were_  _not grown in Hawaiʻi.”_ ([Act 199, Hawai‘i State Legislature 2024](https://www.capitol.hawaii.gov/sessions/session2024/bills/GM1300_.PDF))
 **______________**
-The Measurement Standards Branch has two sections that work together to enforce the law. They are the [Standards and Technical Services Section](https://dab.hawaii.gov/qad/measurement-standards-branch/standards-and-technical-services/) and the [Standards and Trade Practices Enforcement Section.](https://dab.hawaii.gov/qad/measurement-standards-branch/standards-and-trade-practices-enforcement/)
-[DMS Kids Page](https://www.cdfa.ca.gov/DMS/KidsPage/KidsIndex.htm)
+The Measurement Standards Branch has two sections that work together to enforce the law. They are the Standards and Technical Services Section and the Standards and Trade Practices Enforcement Section.
+DMS Kids Page
 **For more information, contact:**
 **MEASUREMENT STANDARDS BRANCH  
 Hawai‘i Department of Agriculture and Biosecurity  
@@ -79,37 +79,37 @@ Honolulu, HI 96819-3100
 Email: ****dab.ms@hawaii.gov****  
 Phone: (808) 832-0690**
 ### QUALITY ASSURANCE DIVISION
-  * [Quality Assurance Division](https://dab.hawaii.gov/qad/)
-  * [Commodities Branch](https://dab.hawaii.gov/qad/commodities-branch/)
-  * [Measurement Standards Branch](https://dab.hawaii.gov/qad/measurement-standards-branch/)
-  * [Contact](https://dab.hawaii.gov/qad/contact/)
+  * Quality Assurance Division
+  * Commodities Branch
+  * Measurement Standards Branch
+  * Contact
 
 
 ### COMMODITIES BRANCH
   * [Food Safety Information](https://dab.hawaii.gov/qad/commodities-branch/food-safety-information/)
-  * [Commodities Grade Standards for Fruits and Vegetables](https://dab.hawaii.gov/qad/commodities-branch/commodities-grade-standards-for-fruits-and-vegetables/)
-  * [Labeling Law for Hawaii-Grown Roasted and Instant Coffee](https://dab.hawaii.gov/qad/commodities-branch/60-2/)
+  * Commodities Grade Standards for Fruits and Vegetables
+  * Labeling Law for Hawaii-Grown Roasted and Instant Coffee
 
 
 ### MEASUREMENT STANDARDS BRANCH
-  * [Standards and Technical Services](https://dab.hawaii.gov/qad/measurement-standards-branch/standards-and-technical-services/)
-  * [Standards and Trade Practices Enforcement](https://dab.hawaii.gov/qad/measurement-standards-branch/standards-and-trade-practices-enforcement/)
+  * Standards and Technical Services
+  * Standards and Trade Practices Enforcement
 
 
 ## About Us
-  * [Contact Us](https://dab.hawaii.gov/contact)
+  * Contact Us
 
 
 ## Policies
-  * [Terms of Use](https://portal.ehawaii.gov/terms-of-use.html)
-  * [Accessibility](https://portal.ehawaii.gov/accessibility.html)
-  * [Privacy Policy](https://portal.ehawaii.gov/privacy-policy.html)
+  * Terms of Use
+  * Accessibility
+  * Privacy Policy
 
 
   * 808 973-9560
   * contact email
 
 
-![State of Hawaii Seal. Adopted 1959. Ua Mau ke Ea o ka ʻĀina i ka Pono](https://dab.hawaii.gov/qad/wp-content/themes/hic_state_template_parent/images/design/footer/footer-seal.png)
-[Powered by eHawaii.gov](http://portal.ehawaii.gov)
+!State of Hawaii Seal. Adopted 1959. Ua Mau ke Ea o ka ʻĀina i ka Pono
+Powered by eHawaii.gov
 Copyright © 2026, State of Hawaii. All rights reserved. 

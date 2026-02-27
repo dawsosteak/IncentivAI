@@ -2,80 +2,80 @@
 
 --- SOURCE: https://tax.hawaii.gov ---
 
-[Skip to main content](https://tax.hawaii.gov/#main-content)
-[![State of Hawaii, Department of Taxation, Ka 'Oihana 'Auhau](https://tax.hawaii.gov/wp-content/uploads/2025/12/Alt-DoTax-Logo.png)](https://tax.hawaii.gov/)
-  * [HAWAII TAX ONLINE](https://hitax.hawaii.gov/)
-  * [✉ CONTACT US](https://tax.hawaii.gov/contact/)
+Skip to main content
+!State of Hawaii, Department of Taxation, Ka 'Oihana 'Auhau
+  * HAWAII TAX ONLINE
+  * ✉ CONTACT US
 
 
-  * [E-Services](https://tax.hawaii.gov/eservices/)
+  * E-Services
   * [Forms & Publications](https://tax.hawaii.gov/forms/)
-  * [News](https://tax.hawaii.gov/)
-    * [Tax Announcements](https://tax.hawaii.gov/news/announce/)
-    * [News Releases](https://tax.hawaii.gov/news/a2_1media/)
-    * [Pending Offers in Compromise](https://tax.hawaii.gov/news/a9_8compromise/)
-    * [Hawaii Tax News (Archives)](https://tax.hawaii.gov/news/a2_b2_3htnsum/)
-  * [Resources](https://tax.hawaii.gov/)
-    * [Law & Guidance](https://tax.hawaii.gov/legal/)
-    * [Frequently Asked Questions (FAQs)](https://tax.hawaii.gov/faq/)
+  * News
+    * Tax Announcements
+    * News Releases
+    * Pending Offers in Compromise
+    * Hawaii Tax News (Archives)
+  * Resources
+    * Law & Guidance
+    * Frequently Asked Questions (FAQs)
     * [Hawaii Tax Information](https://tax.hawaii.gov/geninfo/)
-    * [How-to Videos](https://tax.hawaii.gov/videos/)
-    * [Useful Links](https://tax.hawaii.gov/useful/)
-    * [ADA Notice](https://tax.hawaii.gov/ada-notice/)
-  * [ ![Department of Taxation](https://tax.hawaii.gov/wp-content/themes/Divi/images/logo.png) ](https://tax.hawaii.gov/)
-  * [Reports & Data](https://tax.hawaii.gov/)
-    * [Annual Reports](https://tax.hawaii.gov/stats/a5_1annual/)
-    * [Monthly Reports](https://tax.hawaii.gov/stats/a5_3txcolrpt/)
-    * [Data Dashboard](https://tax.hawaii.gov/data-dashboard/)
-    * [Council on Revenues](https://tax.hawaii.gov/useful/a9_1cor/)
-    * [Tax Review Commission](https://tax.hawaii.gov/stats/tax-review-commission/)
-    * [Tax Research Insights](https://tax.hawaii.gov/blog/)
-  * [Divisions and Offices](https://tax.hawaii.gov/)
-    * [Taxpayer Advocate](https://tax.hawaii.gov/assistance/advocate/)
-    * [Administrative Appeals Office](https://tax.hawaii.gov/appeals/)
-    * [Tax Registration Section](https://tax.hawaii.gov/eservices/registration-section/)
-    * [Tax Collection Services](https://tax.hawaii.gov/collections/)
-  * [Careers](https://tax.hawaii.gov/about/jobs/)
+    * How-to Videos
+    * Useful Links
+    * ADA Notice
+  *  !Department of Taxation 
+  * Reports & Data
+    * Annual Reports
+    * Monthly Reports
+    * Data Dashboard
+    * Council on Revenues
+    * Tax Review Commission
+    * Tax Research Insights
+  * Divisions and Offices
+    * Taxpayer Advocate
+    * Administrative Appeals Office
+    * Tax Registration Section
+    * Tax Collection Services
+  * Careers
 
 
 Select Page
-  * [E-Services](https://tax.hawaii.gov/eservices/)
+  * E-Services
   * [Forms & Publications](https://tax.hawaii.gov/forms/)
-  * [News](https://tax.hawaii.gov/)
-    * [Tax Announcements](https://tax.hawaii.gov/news/announce/)
-    * [News Releases](https://tax.hawaii.gov/news/a2_1media/)
-    * [Pending Offers in Compromise](https://tax.hawaii.gov/news/a9_8compromise/)
-    * [Hawaii Tax News (Archives)](https://tax.hawaii.gov/news/a2_b2_3htnsum/)
-  * [Resources](https://tax.hawaii.gov/)
-    * [Law & Guidance](https://tax.hawaii.gov/legal/)
-    * [Frequently Asked Questions (FAQs)](https://tax.hawaii.gov/faq/)
+  * News
+    * Tax Announcements
+    * News Releases
+    * Pending Offers in Compromise
+    * Hawaii Tax News (Archives)
+  * Resources
+    * Law & Guidance
+    * Frequently Asked Questions (FAQs)
     * [Hawaii Tax Information](https://tax.hawaii.gov/geninfo/)
-    * [How-to Videos](https://tax.hawaii.gov/videos/)
-    * [Useful Links](https://tax.hawaii.gov/useful/)
-    * [ADA Notice](https://tax.hawaii.gov/ada-notice/)
-  * [Reports & Data](https://tax.hawaii.gov/)
-    * [Annual Reports](https://tax.hawaii.gov/stats/a5_1annual/)
-    * [Monthly Reports](https://tax.hawaii.gov/stats/a5_3txcolrpt/)
-    * [Data Dashboard](https://tax.hawaii.gov/data-dashboard/)
-    * [Council on Revenues](https://tax.hawaii.gov/useful/a9_1cor/)
-    * [Tax Review Commission](https://tax.hawaii.gov/stats/tax-review-commission/)
-    * [Tax Research Insights](https://tax.hawaii.gov/blog/)
-  * [Divisions and Offices](https://tax.hawaii.gov/)
-    * [Taxpayer Advocate](https://tax.hawaii.gov/assistance/advocate/)
-    * [Administrative Appeals Office](https://tax.hawaii.gov/appeals/)
-    * [Tax Registration Section](https://tax.hawaii.gov/eservices/registration-section/)
-    * [Tax Collection Services](https://tax.hawaii.gov/collections/)
-  * [Careers](https://tax.hawaii.gov/about/jobs/)
-  * [HAWAII TAX ONLINE](https://hitax.hawaii.gov/)
-  * [✉ CONTACT US](https://tax.hawaii.gov/contact/)
+    * How-to Videos
+    * Useful Links
+    * ADA Notice
+  * Reports & Data
+    * Annual Reports
+    * Monthly Reports
+    * Data Dashboard
+    * Council on Revenues
+    * Tax Review Commission
+    * Tax Research Insights
+  * Divisions and Offices
+    * Taxpayer Advocate
+    * Administrative Appeals Office
+    * Tax Registration Section
+    * Tax Collection Services
+  * Careers
+  * HAWAII TAX ONLINE
+  * ✉ CONTACT US
 
 
 # **How Can We Help**
-  * [File and Pay Your Taxes](https://hitax.hawaii.gov/_/)
+  * File and Pay Your Taxes
   * [Calendar of Important Deadlines](https://files.hawaii.gov/tax/images/CY-2026-DoTax-Calendar-of-Due-Dates.pdf)
   * [Forms and Instructions](https://tax.hawaii.gov/forms)
-  * [Check Your Refund Status](https://tax.hawaii.gov/wheres-my-refund)
-  * [Law & Guidance](https://tax.hawaii.gov/legal)
+  * Check Your Refund Status
+  * Law & Guidance
   * [Hawaii Tax Information](https://tax.hawaii.gov/geninfo)
   * [Tax Year Information – 2025](https://tax.hawaii.gov/tax-year-information)
 
@@ -99,21 +99,21 @@ Select Page
 
 # **Important Resources**
 ![](https://tax.hawaii.gov/wp-content/uploads/2023/07/HTO-Logo.png)
-[File and Pay your Taxes Online ▸](https://hitax.hawaii.gov/)
+File and Pay your Taxes Online ▸
 
 [Calendar of Important Deadlines ▸](https://files.hawaii.gov/tax/images/CY-2025-DoTax-Calendar-of-Due-Dates.pdf)
 
-[Check your Refund Status ▸](https://tax.hawaii.gov/wheres-my-refund)
+Check your Refund Status ▸
 ![](https://tax.hawaii.gov/wp-content/uploads/2025/01/clipboard-list-check-regular.png)
-[2026 Employer Payroll Updates ▸](https://tax.hawaii.gov/payrollupdate)
+2026 Employer Payroll Updates ▸
 # **News and Announcements**
   * #### News Release 2026-01
 [Release PDF](https://files.hawaii.gov/tax/news/media/2026-01-16_Travel_Lodging_Exercise_Gym_and_Their_Agents_Charged_with_Criminal_Tax_Violations.pdf) – Travel Lodging, Exercise Gym and Their Agents Charged with Criminal Tax Violations 
   * #### News Release 2026-02
 [Release PDF](https://files.hawaii.gov/tax/news/media/2026-01-20_Tax_Filing_Tips_for_the_2026_Tax_Season.pdf) – Tax Filing Tips for the 2026 Tax Season 
-  * #### [Council on Revenues](https://tax.hawaii.gov/useful/a9_1cor)
+  * #### Council on Revenues
 Tuesday, March 10, 2026 2:00 P.M.
-  * #### [Tax Review Commission](https://tax.hawaii.gov/stats/tax-review-commission)
+  * #### Tax Review Commission
 [Agenda](https://files.hawaii.gov/tax/stats/trc/mins2025/2026trc02-17.pdf) – Tuesday, February 17, 2026 at 2:00 P.M.
 
 
@@ -123,19 +123,19 @@ Persons authorized under agreements to collect rent (third party rent collectors
 Visit the [Rental Collection Agreement Information](https://tax.hawaii.gov/rca/) page for more information.
   * #### Pass-Through Entity Taxation
 For taxable years beginning after December 31, 2022, partnerships and S corporations may elect to pay Hawai’i income taxes at the entity level. Eligible members of an electing pass-through entity (PTE) may claim a Hawai’i income tax credit for the pro rata share of PTE taxes paid.
-Visit the [Pass-Through Entity Taxation](https://tax.hawaii.gov/pte) page for more information.
+Visit the Pass-Through Entity Taxation page for more information.
 
 
 # **Tools & Resources**
 ### Tax License Search
 Use this page to search for your Hawaii Tax license(s) and status(es).
-[Search Tax Licenses ▸](https://hitax.hawaii.gov/?Link=LicenseSearch)
+Search Tax Licenses ▸
 ### report tax violations
 To ensure that all sectors of Hawaii’s economy, especially those that transact business in cash, pay their fair share of taxes.
-[Report Tax Fraud/Cheats ▸](https://tax.hawaii.gov/geninfo/ses_contact)
+Report Tax Fraud/Cheats ▸
 ### online certificate of vendor compliance (hce)
 Expedites your ability to furnish proof of compliance with the requirements of 103D-310(c), HRS
-[Hawaii Compliance Express ▸](https://vendors.ehawaii.gov/hce/splash/welcome.html;jsessionid=7E6DD60EAECBFFDC64C71DB12DD02B20.prodapp1)
+Hawaii Compliance Express ▸
 ### Protect Your Information
 Helpful tips and reminders to prevent you from getting scammed and to protect your information.
 [Tips and Reminders ▸](https://tax.hawaii.gov/protect-your-information)
@@ -144,18 +144,18 @@ This page provides information on how to register as a Verified Practitioner und
 [How to Register ▸](https://tax.hawaii.gov/eservices/registration-section)
 ### Collections Services
 Tax Collection Services is charged with the recovery of taxes. Got a Collections issue or question?
-[Have a Question? ▸](https://tax.hawaii.gov/collections)
+Have a Question? ▸
 # **Reports & Data**
 ### Data Dashboards
-[![data dashboard](https://tax.hawaii.gov/wp-content/uploads/2023/07/DataDashboardsSample-300x192-1.png)](https://tax.hawaii.gov/data-dashboard)Download and interact with data from DOTAX’s official reports.
-[Data Dashboards ▸](https://tax.hawaii.gov/data-dashboard)
+!data dashboardDownload and interact with data from DOTAX’s official reports.
+Data Dashboards ▸
 ### Tax Research Insights
-[![tax research insights](https://tax.hawaii.gov/wp-content/uploads/2023/07/blog07_tax-credit-impact-diminis-300x192-1.png)](https://tax.hawaii.gov/blog)View posts that highlight interesting finds by the authors of the Department’s annual research reports.
-[Tax Research Insights ▸](https://tax.hawaii.gov/blog)
+!tax research insightsView posts that highlight interesting finds by the authors of the Department’s annual research reports.
+Tax Research Insights ▸
 ### Reports
-[![annual and monthly reports](https://tax.hawaii.gov/wp-content/uploads/2023/07/ReportsSample-1-300x192-1.png)](https://tax.hawaii.gov/stats/a5_1annual)View the department’s annual and monthly tax reports.
-[Annual Reports ▸](https://tax.hawaii.gov/stats/a5_1annual)  
-[Monthly Reports ▸](https://tax.hawaii.gov/stats/a5_3txcolrpt)
+!annual and monthly reportsView the department’s annual and monthly tax reports.
+Annual Reports ▸  
+Monthly Reports ▸
 ## Subscribe To Our Notifications
 Join our mailing list to receive the latest news and updates from our team.
 SUBSCRIBE!
@@ -199,13 +199,13 @@ SUBSCRIBE!
 830 Punchbowl Street, Honolulu, HI 96813-5094
 
 #### Information
-[Contact Us](https://tax.hawaii.gov/contact/)  
+Contact Us  
 taxpayer.services@hawaii.gov  
 808-587-4242
 
 #### Policies
-[Terms of Use](https://portal.ehawaii.gov/page/terms-of-use/)  
-[Accessibility](https://tax.hawaii.gov/accessibility/)  
-[ADA Notice](https://tax.hawaii.gov/ada-notice/)  
-[Privacy Policy](https://portal.ehawaii.gov/page/privacy-policy/)
-![DoTax Logo](https://tax.hawaii.gov/wp-content/uploads/2023/07/DoTax-Logo.png)Copyright © 2025, State of Hawaii. All rights reserved.
+Terms of Use  
+Accessibility  
+ADA Notice  
+Privacy Policy
+!DoTax LogoCopyright © 2025, State of Hawaii. All rights reserved.

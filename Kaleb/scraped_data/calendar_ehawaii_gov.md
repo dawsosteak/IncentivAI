@@ -2,14 +2,14 @@
 
 --- SOURCE: https://calendar.ehawaii.gov/calendar ---
 
-[Skip to content](https://calendar.ehawaii.gov/calendar/#main-content)
-[Hawaii.gov](https://portal.ehawaii.gov/) [](https://oip.hawaii.gov)
-  * [Home](https://calendar.ehawaii.gov/calendar/)
-  * [Help](https://calendar.ehawaii.gov/calendar/help.html)
+Skip to content
+Hawaii.gov [](https://oip.hawaii.gov)
+  * Home
+  * Help
   * [Admin Login](https://calendar.ehawaii.gov/calendar/login.html)
 
 
-#  ![State of Hawaii](https://calendar.ehawaii.gov/calendar/static/img/logo-2x.png)Public Meetings
+#  !State of HawaiiPublic Meetings
 Search, browse, and learn about public meetings & events in the State of Hawaii
 Calendar All Department of Accounting and General Services Access Hawaii Access Hawaii Committee Act 156 Task Force on Parentage Laws Automotive Services Division Building Code Council Subcommittee of Building Officials Calendar - DAGS - LAND SURVEY DIVISION Campaign Spending Commission Capitol Management Committee Task Force Committee on Public-Private Competition for Government Services Community Council on Purchases of Health and Human Services Elections Commission Information Privacy & Security Council Inouye/Mink Commemorative Works of Art Design Selection Committee IT Steering Committee King Kamehameha Celebration Commission Office of Elections Board of Registration Reapportionment Commission Statewide Elections Accessibility Needs Advisory Committee Procurement Policy Board Procurement Policy Board Nominating Committee Prompt Payment Task Force Stadium Authority State Foundation on Culture and the Arts State of Hawaii 911 Board Department of Agriculture Advisory Committee on Pesticides Advisory Committee on Plants and Animals Agribusiness Development Corporation Board of Agriculture and Biosecurity Honokaa-Paauilo Irrigation System Water User Advisory Board Meat Task Force Molokai- Irrigation System Water User Advisory Board Department of Attorney General Commission to Promote Uniform Legislation Hawaii Anti-Trafficking Task Force Hawaii Correctional Systems Oversight Commission Hawaii Criminal Justice Data Center Juvenile Justice Information Committee  Law Enforcement Officer Independent Review Board Law Enforcement Standards Board Violent Firearms Crime Coalition Department of Budget and Finance Defender Council Employees' Retirement System Financial Administrative Division Hawaii Employer-Union Health Benefits Trust Fund Sequestration Impact Response Team Department of Business, Economic Development & Tourism Hawaii Green Infrastructure Authority Barbers Point Naval Air Station Redevelopment Commission Board on Geographic Names Business Revitalization Task Force Community Economic Development Program Community-Based Economic Development (CBED) Advisory Council DUAL USE TECHNOLOGY TASK FORCE Energy Building Codes Committee Environmental Advisory Council Festival of Pacific Arts & Culture (FESTPAC) Commission Greenhouse Gas Emissions Reduction Task Force Greenhouse Gas Sequestration Task Force Hawaii Aerospace Advisory Committee Hawaii Community Development Authority Hawaii Economic Development Task Force Hawaii Housing Finance and Development Corp. Hawaii Interagency Council for Transit-Oriented Development Hawaii Refinery Task Force Hawaii State Energy Office Hawaii Strategic Development Corporation Hawaii Technology Development Corporation Hawaii Center for Advanced Transportation Technologies Hawaii Television & Film Development Board Hawaii Tourism Authority Housing and Community Development Corporation of Hawaii Land Use Commission Natural Energy Laboratory of Hawaii Authority Office of Planning Carbon Farming Task Force Marine and Coastal Zone Advocacy Council (MACZAC) Pacific International Space Center for Exploration Systems (PISCES) Photovoltaic Working Group Rental Housing Trust Fund Advisory Committee Sister State Committee Small Business Regulatory Review Board Small Business Regulatory Review Board Working Group Small Business Utilization Council Starlight Reserve Committee State Planning Act Update Task Force State Planning Act Update Task Force Strategic Industries Division Department of Commerce and Consumer Affairs Electronic Insurance Notices and Documents Working Group Board of Acupuncture Board of Barbering & Cosmetology Board of Dentistry Board of Electricians & Plumbers Board of Massage Therapy Board of Naturopathic Medicine Board of Nursing Board of Pharmacy Board of Physical Therapy Board of Private Detectives and Guards Board of Professional Engineers, Architects, Surveyors, and Landscape Architects Board of Psychology Board of Public Accountancy Board of Speech Pathology & Audiology Broadband Assistance Advisory Council Cable Advisory Committee CALENDAR - DCCA - RSH Condominium Property Regime Task Force Construction Site Inspection Task Force Continuing Education Advisory Committee Contractors License Board DCCA Midwives Advisory Committee Dispensing Opticians Program Educational Events Elevator Mechanics Licensing Board Formulary Accessibility Working Group Hawaii Board of Chiropractic Hawaii Board of Optometry Hawaii Board of Veterinary Medicine Hawaii Hurricane Relief Fund-Board of Directors Hawaii Joint Underwriting Plan Hawaii Medical Board Hawaii State Boxing Commission Health Insurance Exchange Task Force HEMIC Oversight Council Insurance Division-Rate Schedule Hearing Insurance Division—Hawaii Administrative Rules Insurance Recoupment Working Group Mandated Benefits Advisory Task Force Marriage and Family Therapist Advisory Committee Mortgage Foreclosure Task Force Motor Vehicle Industry Licensing Board Motor Vehicle Repair Industry Board Nurse Aide Certification Program Occupational Therapy Advisory Committee Patient Rights and Responsibilities Task Force Pest Control Board Planned Community Association Oversight Task Force Professional & Vocational Licensing Division Public Utilities Commission Real Estate Appraiser Program Real Estate Commission Respiratory Therapist Advisory Committee Social Worker Program Veterinary Technician Program Department of Defense Advisory Board on Veterans Services Civil Defense Advisory Council Hawaii Emergency Management Agency Homeland Security Training Opportunities Office of Veterans' Services Department of Education Act 51- Committee on Weights Adult Education and Community Advisory Council Advisory Commission on Gender Equity in Sports Board of Education Early Learning Council Hawaii Public Schools Financial Literacy Task Force - SCR 97, 2015 Hawaii School-to-Work Executive Council Hawaii Teacher Standards Board Interstate Compact on Educational Opportunity for Military Children, Hawaii State Council Performance Standards Review Commission Public Charter School Commission School Facilities Authority Department of Hawaiian Home Lands Hawaiian Homes Commission Department of Health Solid & Hazardous Waste Branch 21st Century Data Governance Taskforce Act 136 Act 201 Working Group Advisory Commission on Drug Abuse and Controlled Substances Board of Certification of Operating Personnel in wastewater Treatment Plants Board of Certification of Public Water System Operators Board of Directors of the Hawaii Health Systems Corporation Board of Health Cesspool Conversion Working Group Child and Adolescent Mental Health Division Childhood Obesity Task Force Diamond Head Service area board on Mental Health and Substance Abuse Disability Communication Access Board DOH Act 169 Dual Use of Cannabis Task Force Drinking Water Rule Amendments Drug Product Selection Board (Food & Drug Branch) Early Language Working Group Early Lung Cancer Screening Task Force Electric Vehicle Battery Working Group Environmental Health, Hazard Evaluation and Emergency Response Fuel Tank Advisory Committee Hawaii Early Intervention Coordinating Council Hawaii Service Area Board on Mental Health and Substance Abuse Hawaii Trauma Advisory Council Healthy Hawaii Initiative Advisory Group Involuntary Hospitalization Task Force Kalihi-Palama Service area board on Mental Health and Substance Abuse Kauai Service Area Board on Mental Health and Substance Abuse Leeward Oahu Service area board on Mental Health and Substance Abuse Long Term Care Financing Temporary Board of Trustees Maui Service Area Board on Mental Health and Substance Abuse Medical Use of Cannabis Outstanding Issues Working Group Oahu Service Area Board on Mental Oahu Service Area Board on Mental Health and Substance Abuse Obesity Task Force Office of Health Care Assurance Office of Language Access Our Care, Our Choice Act Advisory Council Policy Advisory Board for Elder Affairs Preventive Health Services Block Grant Advisory Committee Radiological Technology Board (Noise and Radiation) Relating to Health and Involuntary Hospitalization Task Force Relating to Health Task Force Reproductive Rights Protection Committee SCR 16 Community Health Worker Professional Standards Task Force State Council on Mental Health State Emergency Medical Services Advisory Committee State Health Planning and Development Agency Certificate Of Need Review Panel Hawaii County Subarea Health Planning Council Hawaii Health Data Center Steering Committee Honolulu Subarea Health Planning Council Kauai County Subarea Health Planning Council Maui County Subarea Health Planning Council Oahuwide Certificate of Need Review Committee Statewide Health Coordinating Council Tri-Isle Subarea Health Planning Council West Oahu/Windward Oahu Subarea Health Planning Council State Neurotrauma Advisory Board State Planning Council on Development Disabilities State Traumatic Brain Injury Advisory Board Syringe Exchange Oversight Committee Tobacco Prevention & Control Trust Fund Advisory Board Transition of the Oahu Regional Health Care System into the DOH Trauma-Informed Care Task Force ACT 209 Windward Oahu Service area board on Mental Health and Substance Abuse Department of Human Resources Development Commission on Salaries Deferred Compensation Plan Board of Trustee Merit Appeals Board Department of Human Services Drug Use Review (DUR) Board EPSDT Advisory Board Financial Assistance Advisory Council Hawaii Interagency Council on Homeless Hawaii Public Housing Authority Hawaii State Committee on Blind Vendors Hawaii State LGBTQ+ Commission Juvenile Justice State Advisory Council Med-QUEST Healthcare Advisory Committee State Commission on Fatherhood State Independent Living Council State Rehab Council Working Group on State Civil Identification Card (Act 243 (2015))  Department of Labor and Industrial Relations Civil Rights Commission Disability Compensation Division Employment Security Appeals Referees' Office Hawaii Agriculture Workforce Advisory Board Hawaii Commission for National and Community Service as part of the Office of Community Services Hawaii Healthcare Workforce Advisory Board Hawaii Labor Relations Board Hawaii Occupational Safety and Health Hawaii Retirement Savings Board Hoisting Machine Operators Advisory Board Labor and Industrial Relations Appeals Board Research & Statistics Office State Apprenticeship Council State Fire Council Unemployment Insurance Division Wage Standards Division Workers Compensation Working Group Workforce Development Council Workforce Development Division Department of Land and Natural Resources Aha Moku Advisory Committee ACT 90 Working Group Ahihi Kina'u/Keoneo'io NARS Advisory Group Board of Land and Natural Resources Board of Land and Natural Resources Public Hearings Climate Change Mitigation and Adaptation Commission Commission on Water Resource Management Diamond Head Citizen's Advisory Committee DOBOR Maunalua Bay Recreation Advisory Committee Endangered Species Recovery Committee Game Management Advisory Commission Hawaii Association of Conservation Districts Olinda-Kula Soil and Water Conservation District Central Maui Soil and Water Conservation District East Kauai Soil and Water Conservation District Hamakua Soil & Water Conservation District Hana Soil and Water Conservation District Ka'u Soil and Water Conservation District Kona Soil and Water Conservation District Mauna Kea Soil and Water Conservation District Molokai-Lanai Soil and Water Conservation District Puna Soil and Water Conservation District South Oahu Soil and Water Conservation District Waiakea Soil and Water Conservation District West Kauai Soil and Water Conservation District West Maui Soil and Water Conservation District West Oahu Soil and Water Conservation District Windward Oahu Soil and Water Conservation District Hawaii Drought Council Hawaii Historic Places Review Board Hawaii Invasive Species Council Hawaii Island Na Ala Hele Advisory Council Hawaii Ocean Council Hawaii State Parks Projects  Historic Preservation Review Board Island Burial Councils Hawaii Island Burial Council Kauai/Niihau Island Burial Council Maui and Lanai Island Burial Council Oahu Island Burial Council Kahana Planning Council Kahoolawe Island Reserve Commission Kaneohe Bay Regional Council Kauai Island Na Ala Hele Advisory Council Kokee State Park Advisory Council Lanai Island Na Ala Hele Advisory Council Legacy Land Conservation Commission Maui Island Na Ala Hele Advisory Council Mauna Kea Stewardship and Oversight Authority Molokai Island Burial Council Natural Area Reserves Commission Oahu Island Na Ala Hele Advisory Council Public Land Development Corporation  State Forest Stewardship Advisory Committee State Forest Stewardship Program State Na Ala Hele Advisory Council Department of Public Safety ACT 116 (13) Working Group Act 215 Task Force Corrections Population Management Commission Crime Victim Compensation Commission Hawaii Correctional Industries Advisory Committee Hawaii Sex Offender Management Team HCI Advisory Committee Reentry Commission Statewide Automated Victim Information & Notification Service Governance Committee Uniform Controlled Substance Special Fund  Department of Taxation Administrative Rules Board of Review Council on Revenues Natural Disaster Claim Commission Tax Review Commission Department of Transportation  Aloha Tower Development Corporation Commission on Transportation Complete Streets Task Force Governor's Highway Safety Council Hawaii Impaired Driving Task Force Ignition Interlock Implementation Task Force Land Matters Maui Metropolitan Planning Organization Medical Advisory Board Red Light Running Committee Safe Routes to Schools Advisory Committee West Maui Transportation Access Plan Hawaii State Restrictive Housing Legislative Working Group Hawaii Stock Exchange Work Group  Judiciary Judiciary Salary Commission Oahu Civil Defense Agency Honolulu Local Emergency Planning Committee Oahu Metropolitan Planning Organization Certification Review Action Committee OahuMPO-Citizen Advisory Committee OahuMPO-Policy Board OahuMPO-Technical Advisory Committee OAHU WORKFORCE DEVELOPMENT BOARD Office of Enterprise Technology Services Data Sharing and Governance Working Group Data Task Force IT Consolidation Working Group Office of Hawaiian Affairs Native Hawaiian Historic Preservation Council Native Hawaiian Justice Task Force Native Hawaiian Roll Commission Office of Hawaiian Affairs Budget & Finance Committee Office of Hawaiian Affairs Commission on Salaries Office of Hawaiian Affairs Investment & Land Management Committee OHA Beneficiary Advocacy and Empowerment OHA Board of Trustees OHA Resource Management PLT Working Group Taro Security and Purity Task Force Office of Information Practices (OIP) Office of the Auditor State-County Functions Working Group (Transient Accommodations Tax) Office of the Governor ACA State Innovation Waiver Task Force Boards and Commissions Build Beyond Barriers Working Group Council of Neighbor Island Advisors Hawaii Interagency Council on Homelessness (HICH) Highway Safety Council Interdepartmental Council Office of Wellness and Resilience Office of the Lieutenant Governor Elections Appointment Panel Hawaii State Commission on the Status of Women The Legislature Home for Life Task Force State Ethics Commission University of Hawaii Affirmative Consent Task Force Board of Regents Broadband Working Group - Act 231, SLH22 Dark Night Skies Protection Advisory Committee Hawaii Commission for National and Community Service Hawaii Medical Education Council (HMEC) Hawaii State Center for Nursing Long Term Care Commission Mauna Kea Management Board Research Corporation of the University of Hawaii St. Board for Career & Technical Education Coordinating Advisory Council St. Postsecondary Education Commission University of Hawaii - West Oahu, Center for Labor Education and Research Western Interstate Commission for Higher Education Type to search...
 Keyword (Optional)
@@ -19,71 +19,71 @@ Start year 2022 2023 2024 2025 2026 2027 2028 2029 2030
 End Month
 January February March April May June July August September October November December
 End year 2022 2023 2024 2025 2026 2027 2028 2029 2030
-[Reset search filters](https://calendar.ehawaii.gov/calendar/)
+Reset search filters
 ## Upcoming meetings
 February 24, 2026Tuesday  
 --- 
 
 Tuesday, 02/24/2026 - 09:00 AM
-     Calendar: [Commission on Water Resource Management](javascript:void\(0\))  
+     Calendar: Commission on Water Resource Management)  
 Title: 2/24/26 Monthly Water Commission Meeting  
 Location: DLNR Boardroom, Kalanimoku Bldg. 1151 Punchbowl St., Rm. 132, Honolulu 96813/Online via Zoom; Meeting ID 820 4463 3311  
-Actions: [View details](javascript:void\(0\)) 
+Actions: View details) 
 
 Tuesday, 02/24/2026 - 09:00 AM
-     Calendar: [Board of Agriculture and Biosecurity](javascript:void\(0\))  
+     Calendar: Board of Agriculture and Biosecurity)  
 Title: Board of Agriculture and Biosecurity Meeting - AMENDED  
 Location: Virtual Videoconference Meeting - ZOOM Webinar & In-person Dept. of Agriculture and Biosecurity/Plant Quarantine, 1849 Auiki Street, Honolulu, HI 96819  
-Actions: [View details](javascript:void\(0\)) 
+Actions: View details) 
 
 Tuesday, 02/24/2026 - 09:00 AM
-     Calendar: [Advisory Commission on Drug Abuse and Controlled Substances](javascript:void\(0\))  
+     Calendar: Advisory Commission on Drug Abuse and Controlled Substances)  
 Title: Hawaii Advisory Commission on Drug Abuse and Controlled Substances (HACDACS) - February 24, 2026, Meeting  
 Location: Zoom Meeting and In-Person Meeting at Kapolei State Office Building (Kakuhihewa) at Room 360 Conference Room  
-Actions: [View details](javascript:void\(0\)) 
+Actions: View details) 
 
 Tuesday, 02/24/2026 - 09:00 AM
-     Calendar: [Deferred Compensation Plan Board of Trustee](javascript:void\(0\))  
+     Calendar: Deferred Compensation Plan Board of Trustee)  
 Title: Meeting of the Deferred Compensation Plan Board of Trustees  
 Location: Department of Human Resources Development, 14th Floor Merit Appeals Board Conference Room, 235 S. Beretania Street, State Office Tower, Honolulu, Hawaii 96813  
-Actions: [View details](javascript:void\(0\)) 
+Actions: View details) 
 
 Tuesday, 02/24/2026 - 09:30 AM
-     Calendar: [Hawaii Service Area Board on Mental Health and Substance Abuse](javascript:void\(0\))  
+     Calendar: Hawaii Service Area Board on Mental Health and Substance Abuse)  
 Title: Hawaii Service Area Board on Mental Health and Substance Abuse - February 24, 2026  
 Location: Hybrid meeting via Zoom AND In-person at 355 Kino'ole Street, Suite 102, Hilo, Hawaii 96720  
-Actions: [View details](javascript:void\(0\)) 
+Actions: View details) 
 
 Tuesday, 02/24/2026 - 10:00 AM
-     Calendar: [State Rehab Council](javascript:void\(0\))  
+     Calendar: State Rehab Council)  
 Title: Quarterly State Rehabilitation Council Meeting  
 Location: 1901 Bachelot Street, Honolulu, Hawaii 96817  
-Actions: [View details](javascript:void\(0\)) 
+Actions: View details) 
 
 Tuesday, 02/24/2026 - 10:00 AM
-     Calendar: [Safe Routes to Schools Advisory Committee](javascript:void\(0\))  
+     Calendar: Safe Routes to Schools Advisory Committee)  
 Title: Safe Routes to School Advisory Committee Monthly Meeting - Tuesday, Feb. 24  
 Location: 869 Punchbowl Street, 5th Floor Conference Room, Honolulu, HI 96816  
-Actions: [View details](javascript:void\(0\)) 
+Actions: View details) 
 
 Tuesday, 02/24/2026 - 12:30 PM
-     Calendar: [West Oahu Soil and Water Conservation District](javascript:void\(0\))  
+     Calendar: West Oahu Soil and Water Conservation District)  
 Title: February West O'ahu Soil and Water Conservation District Meeting  
 Location: 92-1770 Kunia Road, Kunia HI 96759  
-Actions: [View details](javascript:void\(0\))  
+Actions: View details)  
 February 25, 2026Wednesday 
 
 Wednesday, 02/25/2026 - 09:00 AM
-     Calendar: [Maui and Lanai Island Burial Council](javascript:void\(0\))  
+     Calendar: Maui and Lanai Island Burial Council)  
 Title: Maui Lānaʻi Island Burial Council  
 Location: Department of Land and Natural Resources Maui District Office Complex Conference Room 130 Mahalani Street Wailuku, HI 96793; Via Teams  
-Actions: [View details](javascript:void\(0\)) 
+Actions: View details) 
 
 Wednesday, 02/25/2026 - 09:00 AM
-     Calendar: [Hawaii Early Intervention Coordinating Council](javascript:void\(0\))  
+     Calendar: Hawaii Early Intervention Coordinating Council)  
 Title: HEICC Quarterly Meeting  
 Location: via Zoom Or in person at 1010 Richard street Suite 811 Honolulu Hawaii 96813  
-Actions: [View details](javascript:void\(0\))  
+Actions: View details)  
 * * *
 Load more  
 ---  
@@ -119,7 +119,7 @@ Today
 Clear  
 Shortcuts
 Today This Week This Month This Year
-February [2026](javascript:void\(0\);)
+February 2026;)
 **Status** ×
 Event has been saved. 
 **Status** ×
@@ -134,7 +134,7 @@ Are you sure you want to remove this event?
 Cancel OK
 ##### Instructions
 ×
-Please go to [eHawaii Account Services](https://lala.ehawaii.gov/lala/account/enterDetails.lala) and create a user account for yourself or your department/board. 
+Please go to eHawaii Account Services and create a user account for yourself or your department/board. 
 After you have successfully created an account, send an email to info@ehawaii.gov and include the following: 
   * your contact information
   * username of your account
@@ -145,11 +145,11 @@ You will receive an email when your user account is updated.
 For more information, contact us at (808) 695-4620.
 Close
 * * *
-  * [Accessibility ](http://portal.ehawaii.gov/accessibility.html)
+  * Accessibility 
   * [Feedback ](http://portal.ehawaii.gov/feedback.html?applicationId=59)
-  * [Privacy ](https://portal.ehawaii.gov/page/privacy-policy/)
-  * [RSS ](https://calendar.ehawaii.gov/calendar/rss.html)
-  * [Terms ](https://portal.ehawaii.gov/page/terms-of-use/)
+  * Privacy 
+  * RSS 
+  * Terms 
 
 
 Copyright © 2000-2026, State of Hawaii
@@ -158,7 +158,7 @@ Emergency or Continued meetings
 For emergency or continued meetings, please read the **[Office of Information Practices’ guidance](https://oip.hawaii.gov/calendar-guidance/) first**, then contact **hawaiistatecalendarissue@ehawaii.gov**. 
 Accessible Content
 Website accessibility should be ensured for all individuals and all content should adhere to the State's Accessibility Policy. If you need assistance, please contact the Disability Communications and Access Board at **(808) 586-8121** or dcab@doh.hawaii.gov . 
-**By adding a meeting/event, you hereby accept responsibility for ensuring all content, including attachments, are accessible according to the W3C[Web Content Accessibility Guidelines ](https://www.w3.org/TR/WCAG20/).**
+**By adding a meeting/event, you hereby accept responsibility for ensuring all content, including attachments, are accessible according to the W3CWeb Content Accessibility Guidelines .**
 Sunshine Law Meetings
 All Sunshine Law Meetings must include a physical location in the 'Location' field. 
 Confirm
@@ -166,10 +166,10 @@ Confirm
 
 --- SOURCE: https://calendar.ehawaii.gov/calendar/help.html ---
 
-[Skip to content](https://calendar.ehawaii.gov/calendar/help.html#main-content)
-[Hawaii.gov](https://portal.ehawaii.gov/) [](https://oip.hawaii.gov)
-  * [Home](https://calendar.ehawaii.gov/calendar/)
-  * [Help](https://calendar.ehawaii.gov/calendar/help.html)
+Skip to content
+Hawaii.gov [](https://oip.hawaii.gov)
+  * Home
+  * Help
   * [Admin Login](https://calendar.ehawaii.gov/calendar/login.html)
 
 
@@ -184,7 +184,7 @@ Government agency users, please [login](https://calendar.ehawaii.gov/calendar/lo
 Trouble using the calendar? Reach out to our technical support team: 
 
 Phone
-     (808) 695-4620[(808) 695-4620](tel:+1-808-695-4620) 
+     (808) 695-4620(808) 695-4620 
 
 Email
     help@ehawaii.gov 
@@ -194,11 +194,11 @@ Online
 
 Live help chat is available Monday-Friday, 7:45 AM–4:30 PM HST (except state holidays). 
 * * *
-  * [Accessibility ](http://portal.ehawaii.gov/accessibility.html)
+  * Accessibility 
   * [Feedback ](http://portal.ehawaii.gov/feedback.html?applicationId=59)
-  * [Privacy ](https://portal.ehawaii.gov/page/privacy-policy/)
-  * [RSS ](https://calendar.ehawaii.gov/calendar/rss.html)
-  * [Terms ](https://portal.ehawaii.gov/page/terms-of-use/)
+  * Privacy 
+  * RSS 
+  * Terms 
 
 
 Copyright © 2000-2026, State of Hawaii
@@ -208,9 +208,9 @@ Copyright © 2000-2026, State of Hawaii
 --- SOURCE: https://calendar.ehawaii.gov/calendar/login.html ---
 
 [Skip to content](https://calendar.ehawaii.gov/calendar/login.html#main-content)
-[Hawaii.gov](https://portal.ehawaii.gov/) [](https://oip.hawaii.gov)
-  * [Home](https://calendar.ehawaii.gov/calendar/)
-  * [Help](https://calendar.ehawaii.gov/calendar/help.html)
+Hawaii.gov [](https://oip.hawaii.gov)
+  * Home
+  * Help
   * [Admin Login](https://calendar.ehawaii.gov/calendar/login.html)
 
 
@@ -225,18 +225,18 @@ Please **log in** and select your assigned calendar(s) to post a public meeting 
 Need access or having trouble? 
 Login and view the Help page to get started. 
 Emergency or continued meetings 
-Please [**read OIP's guidance**](https://oip.hawaii.gov/calendar-guidance/) **first** , then login and follow the instructions shown on the Help screen. 
+Please **read OIP's guidance** **first** , then login and follow the instructions shown on the Help screen. 
 Log in to access protected services.
 If you don't have an _eHawaii.gov_ or _myHawaii Single Sign On (SSO)_ account, you can sign up on the myHawaii login page. After your initial login, you may need to enter additional information.
 Go to SSO login
 ## _Why the change?_
-eHawaii Account services is joining the State's move to a single login experience. Learn more about [myHawaii](https://my.hawaii.gov/what-is-myhawaii/).
+eHawaii Account services is joining the State's move to a single login experience. Learn more about myHawaii.
 * * *
-  * [Accessibility ](http://portal.ehawaii.gov/accessibility.html)
+  * Accessibility 
   * [Feedback ](http://portal.ehawaii.gov/feedback.html?applicationId=59)
-  * [Privacy ](https://portal.ehawaii.gov/page/privacy-policy/)
-  * [RSS ](https://calendar.ehawaii.gov/calendar/rss.html)
-  * [Terms ](https://portal.ehawaii.gov/page/terms-of-use/)
+  * Privacy 
+  * RSS 
+  * Terms 
 
 
 Copyright © 2000-2026, State of Hawaii
@@ -244,10 +244,10 @@ Copyright © 2000-2026, State of Hawaii
 
 --- SOURCE: https://calendar.ehawaii.gov/calendar/rss.html ---
 
-[Skip to content](https://calendar.ehawaii.gov/calendar/rss.html#main-content)
-[Hawaii.gov](https://portal.ehawaii.gov/) [](https://oip.hawaii.gov)
-  * [Home](https://calendar.ehawaii.gov/calendar/)
-  * [Help](https://calendar.ehawaii.gov/calendar/help.html)
+Skip to content
+Hawaii.gov [](https://oip.hawaii.gov)
+  * Home
+  * Help
   * [Admin Login](https://calendar.ehawaii.gov/calendar/login.html)
 
 
@@ -684,11 +684,11 @@ Copyright © 2000-2026, State of Hawaii
 
 
 * * *
-  * [Accessibility ](http://portal.ehawaii.gov/accessibility.html)
+  * Accessibility 
   * [Feedback ](http://portal.ehawaii.gov/feedback.html?applicationId=59)
-  * [Privacy ](https://portal.ehawaii.gov/page/privacy-policy/)
-  * [RSS ](https://calendar.ehawaii.gov/calendar/rss.html)
-  * [Terms ](https://portal.ehawaii.gov/page/terms-of-use/)
+  * Privacy 
+  * RSS 
+  * Terms 
 
 
 Copyright © 2000-2026, State of Hawaii

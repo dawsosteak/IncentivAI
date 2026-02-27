@@ -2,215 +2,215 @@
 
 --- SOURCE: http://cleanairfleets.org/programs/alt-fuels-colorado ---
 
-[![](https://raqc.org/wp-content/uploads/2018/03/logo.png)](https://raqc.org/)
+![](https://raqc.org/)
 
 Search for:
-  * [About](https://raqc.org/about/)
-    * [Board Members](https://raqc.org/board-members/)
-    * [Staff Members](https://raqc.org/staff-members/)
-    * [News](https://raqc.org/news/)
+  * About
+    * Board Members
+    * Staff Members
+    * News
   * [Our Programs](https://raqc.org/programs)
-  * [Local Government](https://raqc.org/localgov/)
-    * [Frequently Asked Questions](https://raqc.org/localgovernment-faq)
-    * [Local Policies and Control Strategies](https://raqc.org/local-government-strategies)
-    * [Funding Opportunities](https://raqc.org/localgovernment-funding)
-    * [Local Government Portal](https://raqc.org/local-government-portal)
-  * [AQ Planning](https://raqc.org/aq-planning/)
-    * [State Implementation Plans](https://raqc.org/state-implementation-plans/)
-      * [SIP – Ozone (2015 8-Hour Standard)](https://raqc.org/sip/ozone-2015-8-hour-standard/)
-      * [SIP – Ozone (2008 8-Hour Standard)](https://raqc.org/sip/ozone-2008-8-hour-standard/)
-    * [Air Pollution Control Strategies](https://raqc.org/air_pollution_control_strategies/)
-      * [RAQC Control Strategy Blueprint](https://raqc.org/control-strategy-blueprint-2025/)
-    * [Air Quality Planning Technical Analysis and Data](https://raqc.org/aq-analysis-and-data)
-      * [Current 8-Hour Ozone Summary](https://raqc.org/current-8-hour-ozone-summary/)
-      * [SIP – Emissions Analysis and Ozone Modeling](https://raqc.org/sip/modeling-emissions-inventories)
-  * [Calendar](https://raqc.org/events/)
-  * [Meetings](https://raqc.org/meetings/)
-    * [Board Meetings](https://raqc.org/board-meetings/)
-    * [Committees](https://raqc.org/subcommittees)
+  * Local Government
+    * Frequently Asked Questions
+    * Local Policies and Control Strategies
+    * Funding Opportunities
+    * Local Government Portal
+  * AQ Planning
+    * State Implementation Plans
+      * SIP – Ozone (2015 8-Hour Standard)
+      * SIP – Ozone (2008 8-Hour Standard)
+    * Air Pollution Control Strategies
+      * RAQC Control Strategy Blueprint
+    * Air Quality Planning Technical Analysis and Data
+      * Current 8-Hour Ozone Summary
+      * SIP – Emissions Analysis and Ozone Modeling
+  * Calendar
+  * Meetings
+    * Board Meetings
+    * Committees
       * [Control Strategy Committee (CSC)](https://raqc.org/control-strategy-committee-Information/)
-      * [CSC Work Group: Indirect Sources WG](https://raqc.org/subcommittee/control-strategy-committee-indirect-sources-work-group/)
-      * [CSC Work Group: Oil & Gas Technical](https://raqc.org/subcommittee/oil-gas-technical-work-group)
+      * CSC Work Group: Indirect Sources WG
+      * CSC Work Group: Oil & Gas Technical
       * [Legislative Committee](https://raqc.org/legislative-committee-information/)
       * [Operations Committee](https://raqc.org/subcommittee/operations-committee-meeting-information/)
-  * [Resources](https://raqc.org/resources/)
-    * [Glossary](https://raqc.org/glossary/)
-    * [Reports](https://raqc.org/reports/)
-  * [Donate](https://donorbox.org/raqc-clean-air-fund)
+  * Resources
+    * Glossary
+    * Reports
+  * Donate
 
 
-  * [About](https://raqc.org/about/)
-    * [Board Members](https://raqc.org/board-members/)
-    * [Staff Members](https://raqc.org/staff-members/)
-    * [News](https://raqc.org/news/)
+  * About
+    * Board Members
+    * Staff Members
+    * News
   * [Our Programs](https://raqc.org/programs)
-  * [Local Government](https://raqc.org/localgov/)
-    * [Frequently Asked Questions](https://raqc.org/localgovernment-faq)
-    * [Local Policies and Control Strategies](https://raqc.org/local-government-strategies)
-    * [Funding Opportunities](https://raqc.org/localgovernment-funding)
-    * [Local Government Portal](https://raqc.org/local-government-portal)
-  * [AQ Planning](https://raqc.org/aq-planning/)
-    * [State Implementation Plans](https://raqc.org/state-implementation-plans/)
-      * [SIP – Ozone (2015 8-Hour Standard)](https://raqc.org/sip/ozone-2015-8-hour-standard/)
-      * [SIP – Ozone (2008 8-Hour Standard)](https://raqc.org/sip/ozone-2008-8-hour-standard/)
-    * [Air Pollution Control Strategies](https://raqc.org/air_pollution_control_strategies/)
-      * [RAQC Control Strategy Blueprint](https://raqc.org/control-strategy-blueprint-2025/)
-    * [Air Quality Planning Technical Analysis and Data](https://raqc.org/aq-analysis-and-data)
-      * [Current 8-Hour Ozone Summary](https://raqc.org/current-8-hour-ozone-summary/)
-      * [SIP – Emissions Analysis and Ozone Modeling](https://raqc.org/sip/modeling-emissions-inventories)
-  * [Calendar](https://raqc.org/events/)
-  * [Meetings](https://raqc.org/meetings/)
-    * [Board Meetings](https://raqc.org/board-meetings/)
-    * [Committees](https://raqc.org/subcommittees)
+  * Local Government
+    * Frequently Asked Questions
+    * Local Policies and Control Strategies
+    * Funding Opportunities
+    * Local Government Portal
+  * AQ Planning
+    * State Implementation Plans
+      * SIP – Ozone (2015 8-Hour Standard)
+      * SIP – Ozone (2008 8-Hour Standard)
+    * Air Pollution Control Strategies
+      * RAQC Control Strategy Blueprint
+    * Air Quality Planning Technical Analysis and Data
+      * Current 8-Hour Ozone Summary
+      * SIP – Emissions Analysis and Ozone Modeling
+  * Calendar
+  * Meetings
+    * Board Meetings
+    * Committees
       * [Control Strategy Committee (CSC)](https://raqc.org/control-strategy-committee-Information/)
-      * [CSC Work Group: Indirect Sources WG](https://raqc.org/subcommittee/control-strategy-committee-indirect-sources-work-group/)
-      * [CSC Work Group: Oil & Gas Technical](https://raqc.org/subcommittee/oil-gas-technical-work-group)
+      * CSC Work Group: Indirect Sources WG
+      * CSC Work Group: Oil & Gas Technical
       * [Legislative Committee](https://raqc.org/legislative-committee-information/)
       * [Operations Committee](https://raqc.org/subcommittee/operations-committee-meeting-information/)
-  * [Resources](https://raqc.org/resources/)
-    * [Glossary](https://raqc.org/glossary/)
-    * [Reports](https://raqc.org/reports/)
-  * [Donate](https://donorbox.org/raqc-clean-air-fund)
+  * Resources
+    * Glossary
+    * Reports
+  * Donate
 
 
-[![Advisory](https://www.colorado.gov/airquality/psi/adv.png)](https://www.colorado.gov/airquality/advisory.aspx)
+!Advisory
 # No Results Found
 The page you requested could not be found. Try refining your search, or use the navigation above to locate the post.
 ![](https://raqc.org/wp-content/uploads/2018/03/logo.png)
-  * [About](https://raqc.org/about/)
+  * About
   * [Our Programs](https://raqc.org/programs)
-  * [Local Government](https://raqc.org/localgov/)
-  * [AQ Planning](https://raqc.org/aq-planning-old)
-  * [Calendar](https://raqc.org/events/)
-  * [Meetings](https://raqc.org/meetings/)
-  * [Resources](https://raqc.org/resources/)
-  * [Current Air Quality](https://www.colorado.gov/airquality/advisory.aspx)
-  * [Contact](https://raqc.org/contact/)
+  * Local Government
+  * AQ Planning
+  * Calendar
+  * Meetings
+  * Resources
+  * Current Air Quality
+  * Contact
 
 
-  * [About](https://raqc.org/about/)
+  * About
   * [Our Programs](https://raqc.org/programs)
-  * [Local Government](https://raqc.org/localgov/)
-  * [AQ Planning](https://raqc.org/aq-planning-old)
-  * [Calendar](https://raqc.org/events/)
-  * [Meetings](https://raqc.org/meetings/)
-  * [Resources](https://raqc.org/resources/)
-  * [Current Air Quality](https://www.colorado.gov/airquality/advisory.aspx)
-  * [Contact](https://raqc.org/contact/)
+  * Local Government
+  * AQ Planning
+  * Calendar
+  * Meetings
+  * Resources
+  * Current Air Quality
+  * Contact
 
 
-[![](https://raqc.org/wp-content/uploads/2024/09/footer-signup-alerts-1.png)](https://simplestepsbetterair.org/signup/)
+![](https://simplestepsbetterair.org/signup/)
 Last updated: 
-  * [Follow](https://www.facebook.com/RegionalAirQualityCouncil "Follow on Facebook")
-  * [Follow](https://www.linkedin.com/company/regionalairqualitycouncil/ "Follow on LinkedIn")
+  * Follow
+  * Follow
 
 
-© 2005-2025 Regional Air Quality Council 1445 Market Street #260 Denver, CO 80202 P: 303.629.5450 F: 303.629.5822 [Privacy Policy](https://raqc.org/privacy-policy/)
+© 2005-2025 Regional Air Quality Council 1445 Market Street #260 Denver, CO 80202 P: 303.629.5450 F: 303.629.5822 Privacy Policy
 
 
 --- SOURCE: http://cleanairfleets.org/programs/charge-ahead-colorado ---
 
-[![](https://raqc.org/wp-content/uploads/2018/03/logo.png)](https://raqc.org/)
+![](https://raqc.org/)
 
 Search for:
-  * [About](https://raqc.org/about/)
-    * [Board Members](https://raqc.org/board-members/)
-    * [Staff Members](https://raqc.org/staff-members/)
-    * [News](https://raqc.org/news/)
+  * About
+    * Board Members
+    * Staff Members
+    * News
   * [Our Programs](https://raqc.org/programs)
-  * [Local Government](https://raqc.org/localgov/)
-    * [Frequently Asked Questions](https://raqc.org/localgovernment-faq)
-    * [Local Policies and Control Strategies](https://raqc.org/local-government-strategies)
-    * [Funding Opportunities](https://raqc.org/localgovernment-funding)
-    * [Local Government Portal](https://raqc.org/local-government-portal)
-  * [AQ Planning](https://raqc.org/aq-planning/)
-    * [State Implementation Plans](https://raqc.org/state-implementation-plans/)
-      * [SIP – Ozone (2015 8-Hour Standard)](https://raqc.org/sip/ozone-2015-8-hour-standard/)
-      * [SIP – Ozone (2008 8-Hour Standard)](https://raqc.org/sip/ozone-2008-8-hour-standard/)
-    * [Air Pollution Control Strategies](https://raqc.org/air_pollution_control_strategies/)
-      * [RAQC Control Strategy Blueprint](https://raqc.org/control-strategy-blueprint-2025/)
-    * [Air Quality Planning Technical Analysis and Data](https://raqc.org/aq-analysis-and-data)
-      * [Current 8-Hour Ozone Summary](https://raqc.org/current-8-hour-ozone-summary/)
-      * [SIP – Emissions Analysis and Ozone Modeling](https://raqc.org/sip/modeling-emissions-inventories)
-  * [Calendar](https://raqc.org/events/)
-  * [Meetings](https://raqc.org/meetings/)
-    * [Board Meetings](https://raqc.org/board-meetings/)
-    * [Committees](https://raqc.org/subcommittees)
+  * Local Government
+    * Frequently Asked Questions
+    * Local Policies and Control Strategies
+    * Funding Opportunities
+    * Local Government Portal
+  * AQ Planning
+    * State Implementation Plans
+      * SIP – Ozone (2015 8-Hour Standard)
+      * SIP – Ozone (2008 8-Hour Standard)
+    * Air Pollution Control Strategies
+      * RAQC Control Strategy Blueprint
+    * Air Quality Planning Technical Analysis and Data
+      * Current 8-Hour Ozone Summary
+      * SIP – Emissions Analysis and Ozone Modeling
+  * Calendar
+  * Meetings
+    * Board Meetings
+    * Committees
       * [Control Strategy Committee (CSC)](https://raqc.org/control-strategy-committee-Information/)
-      * [CSC Work Group: Indirect Sources WG](https://raqc.org/subcommittee/control-strategy-committee-indirect-sources-work-group/)
-      * [CSC Work Group: Oil & Gas Technical](https://raqc.org/subcommittee/oil-gas-technical-work-group)
+      * CSC Work Group: Indirect Sources WG
+      * CSC Work Group: Oil & Gas Technical
       * [Legislative Committee](https://raqc.org/legislative-committee-information/)
       * [Operations Committee](https://raqc.org/subcommittee/operations-committee-meeting-information/)
-  * [Resources](https://raqc.org/resources/)
-    * [Glossary](https://raqc.org/glossary/)
-    * [Reports](https://raqc.org/reports/)
-  * [Donate](https://donorbox.org/raqc-clean-air-fund)
+  * Resources
+    * Glossary
+    * Reports
+  * Donate
 
 
-  * [About](https://raqc.org/about/)
-    * [Board Members](https://raqc.org/board-members/)
-    * [Staff Members](https://raqc.org/staff-members/)
-    * [News](https://raqc.org/news/)
+  * About
+    * Board Members
+    * Staff Members
+    * News
   * [Our Programs](https://raqc.org/programs)
-  * [Local Government](https://raqc.org/localgov/)
-    * [Frequently Asked Questions](https://raqc.org/localgovernment-faq)
-    * [Local Policies and Control Strategies](https://raqc.org/local-government-strategies)
-    * [Funding Opportunities](https://raqc.org/localgovernment-funding)
-    * [Local Government Portal](https://raqc.org/local-government-portal)
-  * [AQ Planning](https://raqc.org/aq-planning/)
-    * [State Implementation Plans](https://raqc.org/state-implementation-plans/)
-      * [SIP – Ozone (2015 8-Hour Standard)](https://raqc.org/sip/ozone-2015-8-hour-standard/)
-      * [SIP – Ozone (2008 8-Hour Standard)](https://raqc.org/sip/ozone-2008-8-hour-standard/)
-    * [Air Pollution Control Strategies](https://raqc.org/air_pollution_control_strategies/)
-      * [RAQC Control Strategy Blueprint](https://raqc.org/control-strategy-blueprint-2025/)
-    * [Air Quality Planning Technical Analysis and Data](https://raqc.org/aq-analysis-and-data)
-      * [Current 8-Hour Ozone Summary](https://raqc.org/current-8-hour-ozone-summary/)
-      * [SIP – Emissions Analysis and Ozone Modeling](https://raqc.org/sip/modeling-emissions-inventories)
-  * [Calendar](https://raqc.org/events/)
-  * [Meetings](https://raqc.org/meetings/)
-    * [Board Meetings](https://raqc.org/board-meetings/)
-    * [Committees](https://raqc.org/subcommittees)
+  * Local Government
+    * Frequently Asked Questions
+    * Local Policies and Control Strategies
+    * Funding Opportunities
+    * Local Government Portal
+  * AQ Planning
+    * State Implementation Plans
+      * SIP – Ozone (2015 8-Hour Standard)
+      * SIP – Ozone (2008 8-Hour Standard)
+    * Air Pollution Control Strategies
+      * RAQC Control Strategy Blueprint
+    * Air Quality Planning Technical Analysis and Data
+      * Current 8-Hour Ozone Summary
+      * SIP – Emissions Analysis and Ozone Modeling
+  * Calendar
+  * Meetings
+    * Board Meetings
+    * Committees
       * [Control Strategy Committee (CSC)](https://raqc.org/control-strategy-committee-Information/)
-      * [CSC Work Group: Indirect Sources WG](https://raqc.org/subcommittee/control-strategy-committee-indirect-sources-work-group/)
-      * [CSC Work Group: Oil & Gas Technical](https://raqc.org/subcommittee/oil-gas-technical-work-group)
+      * CSC Work Group: Indirect Sources WG
+      * CSC Work Group: Oil & Gas Technical
       * [Legislative Committee](https://raqc.org/legislative-committee-information/)
       * [Operations Committee](https://raqc.org/subcommittee/operations-committee-meeting-information/)
-  * [Resources](https://raqc.org/resources/)
-    * [Glossary](https://raqc.org/glossary/)
-    * [Reports](https://raqc.org/reports/)
-  * [Donate](https://donorbox.org/raqc-clean-air-fund)
+  * Resources
+    * Glossary
+    * Reports
+  * Donate
 
 
-[![Advisory](https://www.colorado.gov/airquality/psi/adv.png)](https://www.colorado.gov/airquality/advisory.aspx)
+!Advisory
 # No Results Found
 The page you requested could not be found. Try refining your search, or use the navigation above to locate the post.
 ![](https://raqc.org/wp-content/uploads/2018/03/logo.png)
-  * [About](https://raqc.org/about/)
+  * About
   * [Our Programs](https://raqc.org/programs)
-  * [Local Government](https://raqc.org/localgov/)
-  * [AQ Planning](https://raqc.org/aq-planning-old)
-  * [Calendar](https://raqc.org/events/)
-  * [Meetings](https://raqc.org/meetings/)
-  * [Resources](https://raqc.org/resources/)
-  * [Current Air Quality](https://www.colorado.gov/airquality/advisory.aspx)
-  * [Contact](https://raqc.org/contact/)
+  * Local Government
+  * AQ Planning
+  * Calendar
+  * Meetings
+  * Resources
+  * Current Air Quality
+  * Contact
 
 
-  * [About](https://raqc.org/about/)
+  * About
   * [Our Programs](https://raqc.org/programs)
-  * [Local Government](https://raqc.org/localgov/)
-  * [AQ Planning](https://raqc.org/aq-planning-old)
-  * [Calendar](https://raqc.org/events/)
-  * [Meetings](https://raqc.org/meetings/)
-  * [Resources](https://raqc.org/resources/)
-  * [Current Air Quality](https://www.colorado.gov/airquality/advisory.aspx)
-  * [Contact](https://raqc.org/contact/)
+  * Local Government
+  * AQ Planning
+  * Calendar
+  * Meetings
+  * Resources
+  * Current Air Quality
+  * Contact
 
 
-[![](https://raqc.org/wp-content/uploads/2024/09/footer-signup-alerts-1.png)](https://simplestepsbetterair.org/signup/)
+![](https://simplestepsbetterair.org/signup/)
 Last updated: 
-  * [Follow](https://www.facebook.com/RegionalAirQualityCouncil "Follow on Facebook")
-  * [Follow](https://www.linkedin.com/company/regionalairqualitycouncil/ "Follow on LinkedIn")
+  * Follow
+  * Follow
 
 
-© 2005-2025 Regional Air Quality Council 1445 Market Street #260 Denver, CO 80202 P: 303.629.5450 F: 303.629.5822 [Privacy Policy](https://raqc.org/privacy-policy/)
+© 2005-2025 Regional Air Quality Council 1445 Market Street #260 Denver, CO 80202 P: 303.629.5450 F: 303.629.5822 Privacy Policy

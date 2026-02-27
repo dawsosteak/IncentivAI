@@ -3,11 +3,11 @@
 --- SOURCE: https://openarestaurant.commerceri.com/en ---
 
 Menu
-  * [Home](https://openarestaurant.commerceri.com/en/)
-  * [The Process](https://openarestaurant.commerceri.com/en/the-process/)
-  * [Resources](https://openarestaurant.commerceri.com/en/resources/)
-  * [FAQ](https://openarestaurant.commerceri.com/en/faqs/)
-  * [Contact](https://commerceri.com/your-business-advisor/?hsctatracking=e3277b15-c144-42e5-ba44-0fe4f2f3dbca%7cfa062102-2c8b-45b0-9d2d-00aa999eda8d)
+  * Home
+  * The Process
+  * Resources
+  * FAQ
+  * Contact
 
 
 ![](https://openarestaurant.commerceri.com/_resources/flash/homepage/hero3.jpg)
@@ -29,22 +29,22 @@ Owning a restaurant can be a rewarding, if not slightly terrifying endeavor. Thi
 Step Process
 You’ve got a great idea. Now make it a reality by turning it into a great restaurant in Rhode Island! We have mapped out the general steps involved in opening a restaurant. This will help you navigate and learn about the different steps necessary to start a restaurant. All restaurants have their unique challenges, it is our hope this map will give you guidance to make the process easier. Click on the map and each step to learn more about what’s involved with opening a restaurant!
 ![](https://openarestaurant.commerceri.com/images/stepsBG.jpg)
-[](https://openarestaurant.commerceri.com/pdf/Restaurant-Infographic-version7-English.pdf) [![Frequently Asked Questions](https://openarestaurant.commerceri.com/images/icon-faq.png)Frequently Asked Questions](https://openarestaurant.commerceri.com/en/faqs/)
-[ ![](https://openarestaurant.commerceri.com/_resources/common/images/articlethumbs/step1-icon.png) #1 Decide Whether to Open a Restaurant (Educate Yourself and Do Research) #1 Decide Whether to Open a Restaurant
+[](https://openarestaurant.commerceri.com/pdf/Restaurant-Infographic-version7-English.pdf) !Frequently Asked QuestionsFrequently Asked Questions
+ ! #1 Decide Whether to Open a Restaurant (Educate Yourself and Do Research) #1 Decide Whether to Open a Restaurant
   * Develop a Business Plan
   * Evaluate Your Business Plan
   * Evaluate Your Potential Location
   * Make Decision
 
-](https://openarestaurant.commerceri.com/en/decide-whether-to-open-a-restaurant/)
-[ ![](https://openarestaurant.commerceri.com/_resources/common/images/articlethumbs/step2-icon.png) #2 Location, Location, Location! (Selecting Your Location) #2 Location, Location, Location!
+
+ ! #2 Location, Location, Location! (Selecting Your Location) #2 Location, Location, Location!
   * Location Matters - Identify Location Specific Needs & Permits
   * Location Selection Check List
   * Develop Project Plan
   * Consider Hiring an Expert in This Area for Assistance
 
-](https://openarestaurant.commerceri.com/en/location-location-location/)
-[ ![](https://openarestaurant.commerceri.com/_resources/common/images/articlethumbs/step5-icon.png) #3 Choose Business Structure (Licensing Needs for Your Business Operation) #3 Choose Business Structure
+
+ ![ #3 Choose Business Structure (Licensing Needs for Your Business Operation) #3 Choose Business Structure
   * Register Your Business Structure
   * Apply for Municipal Licenses & Permits at the Local Level
   * Apply for a Federal Identification Number
@@ -52,21 +52,21 @@ You’ve got a great idea. Now make it a reality by turning it into a great rest
   * Consider hiring an expert for help
 
 ](https://openarestaurant.commerceri.com/en/choose-business-structure/)
-[ ![](https://openarestaurant.commerceri.com/_resources/common/images/articlethumbs/step3-icon.png) #4 Prepare Your Location (Location Specific Needs & Permits) #4 Prepare Your Location
+ ! #4 Prepare Your Location (Location Specific Needs & Permits) #4 Prepare Your Location
   * Municipal Review – (Land use & zoning permits, Construction permits)
   * Local Fire Code Plan Review
   * RI Health Dept. Food Business License
   * Consider hiring an expert for help
 
-](https://openarestaurant.commerceri.com/en/prepare-your-location/)
-[ ![](https://openarestaurant.commerceri.com/_resources/common/images/articlethumbs/step4-icon.png) #5 Final Preparation (Inspections and Approvals) #5 Final Preparation
+
+ ! #5 Final Preparation (Inspections and Approvals) #5 Final Preparation
   * Hire Employees
   * Final Inspections & Approvals
   * Establish a Banking Relationship with a Financial Institution
   * Set Reminders for Taxes, Inspections, License/Permit Renewals
 
-](https://openarestaurant.commerceri.com/en/final-preparation/)
-[ ![](https://openarestaurant.commerceri.com/_resources/common/images/articlethumbs/step6-icon.png) #6 Plan for Compliance & Success (Achieving Success!) #6 Plan for Compliance & Success
+
+ ! #6 Plan for Compliance & Success (Achieving Success!) #6 Plan for Compliance & Success
   * Ongoing Reporting, Filing, & Inspections
   * Employee Benefits
   * Employee Training
@@ -74,9 +74,9 @@ You’ve got a great idea. Now make it a reality by turning it into a great rest
   * Small Business Resources & Support
   * Marketing
 
-](https://openarestaurant.commerceri.com/en/plan-for-compliance-success/)
+
 Previous
-[ ![](https://openarestaurant.commerceri.com/_resources/common/images/articlethumbs/step6-icon.png) #6 Plan for Compliance & Success (Achieving Success!)
+ ! #6 Plan for Compliance & Success (Achieving Success!)
   * Ongoing Reporting, Filing, & Inspections
   * Employee Benefits
   * Employee Training
@@ -84,22 +84,22 @@ Previous
   * Small Business Resources & Support
   * Marketing
 
-](https://openarestaurant.commerceri.com/en/plan-for-compliance-success/)
-[ ![](https://openarestaurant.commerceri.com/_resources/common/images/articlethumbs/step1-icon.png) #1 Decide Whether to Open a Restaurant (Educate Yourself and Do Research)
+
+ ! #1 Decide Whether to Open a Restaurant (Educate Yourself and Do Research)
   * Develop a Business Plan
   * Evaluate Your Business Plan
   * Evaluate Your Potential Location
   * Make Decision
 
-](https://openarestaurant.commerceri.com/en/decide-whether-to-open-a-restaurant/)
-[ ![](https://openarestaurant.commerceri.com/_resources/common/images/articlethumbs/step2-icon.png) #2 Location, Location, Location! (Selecting Your Location)
+
+ ! #2 Location, Location, Location! (Selecting Your Location)
   * Location Matters - Identify Location Specific Needs & Permits
   * Location Selection Check List
   * Develop Project Plan
   * Consider Hiring an Expert in This Area for Assistance
 
-](https://openarestaurant.commerceri.com/en/location-location-location/)
-[ ![](https://openarestaurant.commerceri.com/_resources/common/images/articlethumbs/step5-icon.png) #3 Choose Business Structure (Licensing Needs for Your Business Operation)
+
+ ![ #3 Choose Business Structure (Licensing Needs for Your Business Operation)
   * Register Your Business Structure
   * Apply for Municipal Licenses & Permits at the Local Level
   * Apply for a Federal Identification Number
@@ -107,21 +107,21 @@ Previous
   * Consider hiring an expert for help
 
 ](https://openarestaurant.commerceri.com/en/choose-business-structure/)
-[ ![](https://openarestaurant.commerceri.com/_resources/common/images/articlethumbs/step3-icon.png) #4 Prepare Your Location (Location Specific Needs & Permits)
+ ! #4 Prepare Your Location (Location Specific Needs & Permits)
   * Municipal Review – (Land use & zoning permits, Construction permits)
   * Local Fire Code Plan Review
   * RI Health Dept. Food Business License
   * Consider hiring an expert for help
 
-](https://openarestaurant.commerceri.com/en/prepare-your-location/)
-[ ![](https://openarestaurant.commerceri.com/_resources/common/images/articlethumbs/step4-icon.png) #5 Final Preparation (Inspections and Approvals)
+
+ ! #5 Final Preparation (Inspections and Approvals)
   * Hire Employees
   * Final Inspections & Approvals
   * Establish a Banking Relationship with a Financial Institution
   * Set Reminders for Taxes, Inspections, License/Permit Renewals
 
-](https://openarestaurant.commerceri.com/en/final-preparation/)
-[ ![](https://openarestaurant.commerceri.com/_resources/common/images/articlethumbs/step6-icon.png) #6 Plan for Compliance & Success (Achieving Success!)
+
+ ! #6 Plan for Compliance & Success (Achieving Success!)
   * Ongoing Reporting, Filing, & Inspections
   * Employee Benefits
   * Employee Training
@@ -129,14 +129,14 @@ Previous
   * Small Business Resources & Support
   * Marketing
 
-](https://openarestaurant.commerceri.com/en/plan-for-compliance-success/)
-[ ![](https://openarestaurant.commerceri.com/_resources/common/images/articlethumbs/step1-icon.png) #1 Decide Whether to Open a Restaurant (Educate Yourself and Do Research)
+
+ ! #1 Decide Whether to Open a Restaurant (Educate Yourself and Do Research)
   * Develop a Business Plan
   * Evaluate Your Business Plan
   * Evaluate Your Potential Location
   * Make Decision
 
-](https://openarestaurant.commerceri.com/en/decide-whether-to-open-a-restaurant/)
+
 Next
   * 1
   * 2
@@ -146,7 +146,7 @@ Next
   * 6
 
 
-[Frequently Asked Questions ](https://openarestaurant.commerceri.com/en/faqs/)
+Frequently Asked Questions 
 ##  Open a Food Truck  
 in Rhode Island
 So, you want to open a food truck business – we put together a general outline of information and steps for starting and registering a Mobile Food Establishment (MFE) in Rhode Island. 
@@ -157,37 +157,37 @@ So, you want to open a food truck business – we put together a general outline
   * [](https://www.linkedin.com/company/commerce-ri/)
 
 
-[![Commerce RI](https://openarestaurant.commerceri.com/images/logo-white-2019.png)](https://commerceri.com/)
-| [Privacy Policy](https://www.ri.gov/policies/)
+!Commerce RI
+| Privacy Policy
 The information contained within this website is for general information and offered as a public service meant to give general guidance on some of the steps involved in the opening of a restaurant. The information presented in this website should not be used as a substitute for professional advice or guidance. We recommend seeking professional advice and assistance.
 We would also like to acknowledge that this website utilizes information from the following sources; U.S. Small Business Administration, Internal Revenue Service, Rhode Island Department of State, City of Seattle - Office of Economic Development and wiki How to Open a Restaurant.
-![Starting A Restaurant](https://openarestaurant.commerceri.com/images/logo-2019.png)
+!Starting A Restaurant
   *     * [](https://openarestaurant.commerceri.com/es/)
-  * [Return to Rhode Island Commerce](https://commerceri.com/)
+  * Return to Rhode Island Commerce
 
 
-  * [Home](https://openarestaurant.commerceri.com/en/)
-  * [The Process](https://openarestaurant.commerceri.com/en/the-process/)
-  * [Resources](https://openarestaurant.commerceri.com/en/resources/)
-  * [FAQ](https://openarestaurant.commerceri.com/en/faqs/)
-  * [Contact](https://commerceri.com/your-business-advisor/?hsctatracking=e3277b15-c144-42e5-ba44-0fe4f2f3dbca%7cfa062102-2c8b-45b0-9d2d-00aa999eda8d)
+  * Home
+  * The Process
+  * Resources
+  * FAQ
+  * Contact
 
-[menu](https://openarestaurant.commerceri.com/en/#menu)
+menu
 
 
 --- SOURCE: https://openarestaurant.commerceri.com/en/decide-whether-to-open-a-restaurant ---
 
 Menu
-  * [Home](https://openarestaurant.commerceri.com/en/)
-  * [The Process](https://openarestaurant.commerceri.com/en/the-process/)
-  * [Resources](https://openarestaurant.commerceri.com/en/resources/)
-  * [FAQ](https://openarestaurant.commerceri.com/en/faqs/)
-  * [Contact](https://commerceri.com/your-business-advisor/?hsctatracking=e3277b15-c144-42e5-ba44-0fe4f2f3dbca%7cfa062102-2c8b-45b0-9d2d-00aa999eda8d)
+  * Home
+  * The Process
+  * Resources
+  * FAQ
+  * Contact
 
 
 ![](https://openarestaurant.commerceri.com/_resources/common/images/pagethumbs/step1-pageImg.jpg)
 #  #1 Decide Whether to Open a Restaurant
-[Return to Process Steps](https://openarestaurant.commerceri.com/en/the-process/)
+Return to Process Steps
 ![](https://openarestaurant.commerceri.com/_resources/common/images/articlethumbs/step1-icon.png)   
   
 
@@ -274,9 +274,9 @@ At this point you have:
 
 
 If you have decided to open a restaurant, then let’s move on to the next step. If not, perhaps you need to modify your business plan or do more research to become more comfortable before moving forward. In any case, we recommend you review the following steps to become better equipped to achieve success.
-[ Next Step  ![](https://openarestaurant.commerceri.com/_resources/common/userfiles/image/step2-icon.png) 2 Location, Location, Location! ](https://openarestaurant.commerceri.com/en/location-location-location/)
-[Return to Process Steps](https://openarestaurant.commerceri.com/en/the-process/)
-  * [Home](https://openarestaurant.commerceri.com/en/)
+ Next Step  ! 2 Location, Location, Location! 
+Return to Process Steps
+  * Home
   * Decide Whether to Open a Restaurant
 
 
@@ -289,32 +289,32 @@ December 12, 2018
   * [](https://www.linkedin.com/company/commerce-ri/)
 
 
-[![Commerce RI](https://openarestaurant.commerceri.com/images/logo-white-2019.png)](https://commerceri.com/)
-| [Privacy Policy](https://www.ri.gov/policies/)
+!Commerce RI
+| Privacy Policy
 The information contained within this website is for general information and offered as a public service meant to give general guidance on some of the steps involved in the opening of a restaurant. The information presented in this website should not be used as a substitute for professional advice or guidance. We recommend seeking professional advice and assistance.
 We would also like to acknowledge that this website utilizes information from the following sources; U.S. Small Business Administration, Internal Revenue Service, Rhode Island Department of State, City of Seattle - Office of Economic Development and wiki How to Open a Restaurant.
-![Starting A Restaurant](https://openarestaurant.commerceri.com/images/logo-2019.png)
+!Starting A Restaurant
   *     * [](https://openarestaurant.commerceri.com/es/)
-  * [Return to Rhode Island Commerce](https://commerceri.com/)
+  * Return to Rhode Island Commerce
 
 
-  * [Home](https://openarestaurant.commerceri.com/en/)
-  * [The Process](https://openarestaurant.commerceri.com/en/the-process/)
-  * [Resources](https://openarestaurant.commerceri.com/en/resources/)
-  * [FAQ](https://openarestaurant.commerceri.com/en/faqs/)
-  * [Contact](https://commerceri.com/your-business-advisor/?hsctatracking=e3277b15-c144-42e5-ba44-0fe4f2f3dbca%7cfa062102-2c8b-45b0-9d2d-00aa999eda8d)
+  * Home
+  * The Process
+  * Resources
+  * FAQ
+  * Contact
 
-[menu](https://openarestaurant.commerceri.com/en/decide-whether-to-open-a-restaurant/#menu)
+menu
 
 
 --- SOURCE: https://openarestaurant.commerceri.com/en/resources ---
 
 Menu
-  * [Home](https://openarestaurant.commerceri.com/en/)
-  * [The Process](https://openarestaurant.commerceri.com/en/the-process/)
-  * [Resources](https://openarestaurant.commerceri.com/en/resources/)
-  * [FAQ](https://openarestaurant.commerceri.com/en/faqs/)
-  * [Contact](https://commerceri.com/your-business-advisor/?hsctatracking=e3277b15-c144-42e5-ba44-0fe4f2f3dbca%7cfa062102-2c8b-45b0-9d2d-00aa999eda8d)
+  * Home
+  * The Process
+  * Resources
+  * FAQ
+  * Contact
 
 
 ![](https://openarestaurant.commerceri.com/_resources/common/images/pagethumbs/resources_pageImg3.jpg)
@@ -427,37 +427,37 @@ Chambers of Commerce are associations designed to promot and protect the interes
   * [](https://www.linkedin.com/company/commerce-ri/)
 
 
-[![Commerce RI](https://openarestaurant.commerceri.com/images/logo-white-2019.png)](https://commerceri.com/)
-| [Privacy Policy](https://www.ri.gov/policies/)
+!Commerce RI
+| Privacy Policy
 The information contained within this website is for general information and offered as a public service meant to give general guidance on some of the steps involved in the opening of a restaurant. The information presented in this website should not be used as a substitute for professional advice or guidance. We recommend seeking professional advice and assistance.
 We would also like to acknowledge that this website utilizes information from the following sources; U.S. Small Business Administration, Internal Revenue Service, Rhode Island Department of State, City of Seattle - Office of Economic Development and wiki How to Open a Restaurant.
-![Starting A Restaurant](https://openarestaurant.commerceri.com/images/logo-2019.png)
+!Starting A Restaurant
   *     * [](https://openarestaurant.commerceri.com/es/)
-  * [Return to Rhode Island Commerce](https://commerceri.com/)
+  * Return to Rhode Island Commerce
 
 
-  * [Home](https://openarestaurant.commerceri.com/en/)
-  * [The Process](https://openarestaurant.commerceri.com/en/the-process/)
-  * [Resources](https://openarestaurant.commerceri.com/en/resources/)
-  * [FAQ](https://openarestaurant.commerceri.com/en/faqs/)
-  * [Contact](https://commerceri.com/your-business-advisor/?hsctatracking=e3277b15-c144-42e5-ba44-0fe4f2f3dbca%7cfa062102-2c8b-45b0-9d2d-00aa999eda8d)
+  * Home
+  * The Process
+  * Resources
+  * FAQ
+  * Contact
 
-[menu](https://openarestaurant.commerceri.com/en/resources/#menu)
+menu
 
 
 --- SOURCE: https://openarestaurant.commerceri.com/en/prepare-your-location ---
 
 Menu
-  * [Home](https://openarestaurant.commerceri.com/en/)
-  * [The Process](https://openarestaurant.commerceri.com/en/the-process/)
-  * [Resources](https://openarestaurant.commerceri.com/en/resources/)
-  * [FAQ](https://openarestaurant.commerceri.com/en/faqs/)
-  * [Contact](https://commerceri.com/your-business-advisor/?hsctatracking=e3277b15-c144-42e5-ba44-0fe4f2f3dbca%7cfa062102-2c8b-45b0-9d2d-00aa999eda8d)
+  * Home
+  * The Process
+  * Resources
+  * FAQ
+  * Contact
 
 
 ![](https://openarestaurant.commerceri.com/_resources/common/images/pagethumbs/step4-pageImg.jpg)
 #  #4 Prepare Your Location
-[Return to Process Steps](https://openarestaurant.commerceri.com/en/the-process/)
+Return to Process Steps
 ![](https://openarestaurant.commerceri.com/_resources/common/images/articlethumbs/step3-icon.png)   
   
 
@@ -495,7 +495,7 @@ Retail Food Business License types from the RI Department of Health, Center for 
 • [Food Service Restaurants Seats](https://health.ri.gov/applications/FoodServiceBusinessRetail.pdf)  
 • [Food Caterer/Commissary](https://health.ri.gov/applications/FoodServiceBusinessRetail.pdf)
 #### Guidance to get a Food Service license
-First, determine which application(s) you need to complete, depending on your business plan, you may need different applications like: Food Service Restaurant Seating, New Construction, Food Caterer/Commissary, Food Processor Retail/Wholesale, etc. Complete the appropriate application(s) along with the application fees. RIDOH applications can be obtained at the Health website by [clicking here.](http://www.health.ri.gov/licenses/detail.php?id=256#)
+First, determine which application(s) you need to complete, depending on your business plan, you may need different applications like: Food Service Restaurant Seating, New Construction, Food Caterer/Commissary, Food Processor Retail/Wholesale, etc. Complete the appropriate application(s) along with the application fees. RIDOH applications can be obtained at the Health website by clicking here.
 If there are renovations or new construction where the cost of renovations will exceed 50 percent (50%) of the value of the establishment, then a plan review by the RIDOH staff will be necessary. In this case, in addition to a **Food Service Restaurant Seating** application you also need to complete a **New Construction application** and submit plans along with an application fee and a plan review fee. _(See Supportive Documents below for other documents you may need to submit with the application.)_
 **Applications and fees can be submitted at:**   
 RI Department of Health  
@@ -547,9 +547,9 @@ _(Monday-Friday 8:30 a.m. – 4:30 p.m./Walk-ins 8:30 a.m. – 4:00 p.m.)_
 **The next step  
 **
 Once your completed application package has been reviewed and approved by RIDOH, you should prepare your establishment for a pre-operational/opening inspection. More on this in Step #5 (Final Preparation).
-RIDOH licenses will only be granted after the restaurant passes a health inspection. Therefore, it is important to understand the local requirements early in the process to ensure that any planned kitchen or dining room configuration will also be in accordance with the RIDOH, Center for Food Protection requirements. **[The Rhode Island Hospitality Association](https://www.rihospitality.org/)** can provide information about required permits, licenses, and food safety training certification. Keep in mind, where potentially hazardous food (foods that require time and/or temperature controls for safety) are used, you will need to employ at least one full-time, on-site **Manager Certified in Food Safety** licensed with the RIDOH, Center of Food Protection, prior to the inspection. As a reminder, at least one Manager Certified in Food Safety needs to be on the premises during food preparation and service. Obtaining the certification and license is a multi-step process. 
+RIDOH licenses will only be granted after the restaurant passes a health inspection. Therefore, it is important to understand the local requirements early in the process to ensure that any planned kitchen or dining room configuration will also be in accordance with the RIDOH, Center for Food Protection requirements. **The Rhode Island Hospitality Association** can provide information about required permits, licenses, and food safety training certification. Keep in mind, where potentially hazardous food (foods that require time and/or temperature controls for safety) are used, you will need to employ at least one full-time, on-site **Manager Certified in Food Safety** licensed with the RIDOH, Center of Food Protection, prior to the inspection. As a reminder, at least one Manager Certified in Food Safety needs to be on the premises during food preparation and service. Obtaining the certification and license is a multi-step process. 
 #### Obtaining Certification as Manager Certified in Food Safety:
-First, an individual would need to obtain training by successfully completing a food safety certification course that has been approved by the RIDOH in accordance with the**Rules and Regulations** pertaining to: [Certification of Managers in Food Safety 216-RICR-50-10-2](https://rules.sos.ri.gov/regulations/part/216-50-10-2), and pass an examination.
+First, an individual would need to obtain training by successfully completing a food safety certification course that has been approved by the RIDOH in accordance with the**Rules and Regulations** pertaining to: Certification of Managers in Food Safety 216-RICR-50-10-2, and pass an examination.
 Second, submit a RIDOH application for [Manager Certified in Food Safety](http://www.health.ri.gov/applications/FoodSafetyManager.pdf) along with the food safety course certificate of completion and required fee and any other necessary documents to:
 RI Department of Health  
 Center for Food Protection  
@@ -572,12 +572,12 @@ Link to RIDOH, **Center for Food Protection website** : <http://health.ri.gov/pr
 Link to RIDOH, **Center for Food Protection, Food Safety Resources Library:**  
 <http://health.ri.gov/food/about/resourcelibrary/>
 ### D. Consider Hiring an Expert for Help
-If you need to hire someone to assist with food safety requirements for your establishment or prepare a **Food Safety Operational Plan** , check resources at the RIDOH website for a list of [Food Safety Plan Development & Consulting services](http://www.health.ri.gov/licenses/detail.php?id=257#safetyplan).  
+If you need to hire someone to assist with food safety requirements for your establishment or prepare a **Food Safety Operational Plan** , check resources at the RIDOH website for a list of Food Safety Plan Development & Consulting services.  
 _[To get to webpage – click on link above, then go to the topic on**“Continuing Education/Training/Exams”** , under the heading **“Approved Food Safety Manager Training Programs”** and click on **“Food Safety Plan Development & Consulting Services”.]**_
-[ Next Step  ![](https://openarestaurant.commerceri.com/_resources/common/userfiles/image/step4-icon.png) 5 Final Preparation ](https://openarestaurant.commerceri.com/en/final-preparation/)
-[ ![](https://openarestaurant.commerceri.com/_resources/common/userfiles/image/step5-icon.png) 3 Choose Business Structure ](https://openarestaurant.commerceri.com/en/choose-business-structure/)
-[Return to Process Steps](https://openarestaurant.commerceri.com/en/the-process/)
-  * [Home](https://openarestaurant.commerceri.com/en/)
+ Next Step  ! 5 Final Preparation 
+ ! 3 Choose Business Structure 
+Return to Process Steps
+  * Home
   * Prepare Your Location
 
 
@@ -590,32 +590,32 @@ December 8, 2018
   * [](https://www.linkedin.com/company/commerce-ri/)
 
 
-[![Commerce RI](https://openarestaurant.commerceri.com/images/logo-white-2019.png)](https://commerceri.com/)
-| [Privacy Policy](https://www.ri.gov/policies/)
+!Commerce RI
+| Privacy Policy
 The information contained within this website is for general information and offered as a public service meant to give general guidance on some of the steps involved in the opening of a restaurant. The information presented in this website should not be used as a substitute for professional advice or guidance. We recommend seeking professional advice and assistance.
 We would also like to acknowledge that this website utilizes information from the following sources; U.S. Small Business Administration, Internal Revenue Service, Rhode Island Department of State, City of Seattle - Office of Economic Development and wiki How to Open a Restaurant.
-![Starting A Restaurant](https://openarestaurant.commerceri.com/images/logo-2019.png)
+!Starting A Restaurant
   *     * [](https://openarestaurant.commerceri.com/es/)
-  * [Return to Rhode Island Commerce](https://commerceri.com/)
+  * Return to Rhode Island Commerce
 
 
-  * [Home](https://openarestaurant.commerceri.com/en/)
-  * [The Process](https://openarestaurant.commerceri.com/en/the-process/)
-  * [Resources](https://openarestaurant.commerceri.com/en/resources/)
-  * [FAQ](https://openarestaurant.commerceri.com/en/faqs/)
-  * [Contact](https://commerceri.com/your-business-advisor/?hsctatracking=e3277b15-c144-42e5-ba44-0fe4f2f3dbca%7cfa062102-2c8b-45b0-9d2d-00aa999eda8d)
+  * Home
+  * The Process
+  * Resources
+  * FAQ
+  * Contact
 
-[menu](https://openarestaurant.commerceri.com/en/prepare-your-location/#menu)
+menu
 
 
 --- SOURCE: https://openarestaurant.commerceri.com/en/faqs ---
 
 Menu
-  * [Home](https://openarestaurant.commerceri.com/en/)
-  * [The Process](https://openarestaurant.commerceri.com/en/the-process/)
-  * [Resources](https://openarestaurant.commerceri.com/en/resources/)
-  * [FAQ](https://openarestaurant.commerceri.com/en/faqs/)
-  * [Contact](https://commerceri.com/your-business-advisor/?hsctatracking=e3277b15-c144-42e5-ba44-0fe4f2f3dbca%7cfa062102-2c8b-45b0-9d2d-00aa999eda8d)
+  * Home
+  * The Process
+  * Resources
+  * FAQ
+  * Contact
 
 
 ![](https://openarestaurant.commerceri.com/_resources/common/images/pagethumbs/faqs.jpg)
@@ -629,7 +629,7 @@ This will depend greatly on your restaurant concept. A coffee shop will be much 
 If you are the new owner of an existing business, you will need to contact both municipal and state agencies to apply for new permits/licenses. Although licenses may be transferable, some licenses/permits **may not be** transferable at the sale of the business. Existing permits issued to the previous owner must be cancelled and new permits need to be issued to the new owner.
 **How do I find more information about the different cities and towns in Rhode Island?**  
 DO YOUR RESEARCH!
-[This link](http://www.ri.gov/towns/) will give you information on all the cities and towns in Rhode Island. You’ll be able to link to municipal websites that provide information on zoning, permits and licenses. If you already know what town you’d like to locate, a visit to town hall could be helpful.
+This link will give you information on all the cities and towns in Rhode Island. You’ll be able to link to municipal websites that provide information on zoning, permits and licenses. If you already know what town you’d like to locate, a visit to town hall could be helpful.
 Local neighborhood organizations, the Chambers of Commerce and business associations can also provide insight into the local market.
 ## Permits and Licenses
 **What permits, and licenses do I need to open a restaurant?**  
@@ -665,13 +665,13 @@ Building permits are issued by the city or town your building is located so the 
 ## Dissolve/Close a Business
 **What do I need to do if I have to close or sell my business?**
 You should create a thorough plan to transfer ownership, sell, or close your business. Get qualified advice and know what to do to tie up loose ends.
-Closing your business can be a difficult choice to make. The Small Business Administration’s [counseling tool](https://www.sba.gov/tools/local-assistance) can connect you with local guidance in planning your exit strategy. It’s also helpful to seek advice from your lawyer and a business evaluation expert, along with other business professionals including accountants, bankers, and the IRS.
+Closing your business can be a difficult choice to make. The Small Business Administration’s counseling tool can connect you with local guidance in planning your exit strategy. It’s also helpful to seek advice from your lawyer and a business evaluation expert, along with other business professionals including accountants, bankers, and the IRS.
 Follow these steps to closing your business.
   1. Decide to close. Sole proprietors can decide on their own, but any type of partnership requires the co-owners to agree. Follow your articles of organization and document with a written agreement. 
   2. File dissolution documents. Failure to legally dissolve an LLC or corporation with any state you’re registered in will expose you to continued taxes and filing requirements. [Click here to visit the RI Department of State, Secretary Of State’s website to dissolve your business.](http://sos.ri.gov/divisions/Business-Portal/Forms/closing-your-business)
   3. Cancel registrations, permits, licenses, and business names. Protect your finances and reputation by canceling any of these that you no longer need, including your trade name.
   4. Comply with employment and labor laws. Reference the [Worker Adjustment and Retraining Notification Act (WARN)](https://www.doleta.gov/programs/factsht/warn.htm) for employee payment after closing, along with other federal and state laws.
-  5. Resolve financial obligations. Handle final returns for income tax and sales tax. Cancel your Employer Identification Number, notify federal and state tax agencies, and [follow this IRS checklist](https://www.irs.gov/businesses/small-businesses-self-employed/closing-a-business-checklist).
+  5. Resolve financial obligations. Handle final returns for income tax and sales tax. Cancel your Employer Identification Number, notify federal and state tax agencies, and follow this IRS checklist.
 
 
 Maintain records. You may be legally required to maintain tax and employment records, among other files. Common guidelines advise keeping records for anywhere from three to seven years.
@@ -686,19 +686,19 @@ Maintain records. You may be legally required to maintain tax and employment rec
   * [](https://www.linkedin.com/company/commerce-ri/)
 
 
-[![Commerce RI](https://openarestaurant.commerceri.com/images/logo-white-2019.png)](https://commerceri.com/)
-| [Privacy Policy](https://www.ri.gov/policies/)
+!Commerce RI
+| Privacy Policy
 The information contained within this website is for general information and offered as a public service meant to give general guidance on some of the steps involved in the opening of a restaurant. The information presented in this website should not be used as a substitute for professional advice or guidance. We recommend seeking professional advice and assistance.
 We would also like to acknowledge that this website utilizes information from the following sources; U.S. Small Business Administration, Internal Revenue Service, Rhode Island Department of State, City of Seattle - Office of Economic Development and wiki How to Open a Restaurant.
-![Starting A Restaurant](https://openarestaurant.commerceri.com/images/logo-2019.png)
+!Starting A Restaurant
   *     * [](https://openarestaurant.commerceri.com/es/)
-  * [Return to Rhode Island Commerce](https://commerceri.com/)
+  * Return to Rhode Island Commerce
 
 
-  * [Home](https://openarestaurant.commerceri.com/en/)
-  * [The Process](https://openarestaurant.commerceri.com/en/the-process/)
-  * [Resources](https://openarestaurant.commerceri.com/en/resources/)
-  * [FAQ](https://openarestaurant.commerceri.com/en/faqs/)
-  * [Contact](https://commerceri.com/your-business-advisor/?hsctatracking=e3277b15-c144-42e5-ba44-0fe4f2f3dbca%7cfa062102-2c8b-45b0-9d2d-00aa999eda8d)
+  * Home
+  * The Process
+  * Resources
+  * FAQ
+  * Contact
 
-[menu](https://openarestaurant.commerceri.com/en/faqs/#menu)
+menu

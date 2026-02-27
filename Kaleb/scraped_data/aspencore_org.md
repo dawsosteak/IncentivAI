@@ -2,48 +2,48 @@
 
 --- SOURCE: http://aspencore.org/grants/ ---
 
-**Call us** : [(970) 925-9775](tel:\(970\)%20925-9775) | [**Email Our Energy Concierge Team**](https://www.aspencore.org/energy-concierge#1204373734)
-[ How to Get Started ](https://www.aspencore.org/energy-concierge)
-[ Donate ](https://www.aspencore.org/donate)
-[![A yellow arrow and a yellow circle on a white background.](https://lirp.cdn-website.com/06c12080/dms3rep/multi/opt/NEW-2023_CORE-Logo-Type-1.1--282-29-1920w.png)](https://www.aspencore.org/)
+**Call us** : (970) 925-9775%20925-9775) | **Email Our Energy Concierge Team**
+ How to Get Started 
+ Donate 
+!A yellow arrow and a yellow circle on a white background.
   * [ Fund Your Project ](https://www.aspencore.org/grants)
-    * [ Savings Calculator ](https://www.aspencore.org/calculate-savings)
+    *  Savings Calculator 
     * [ Grants & Rebates ](https://www.aspencore.org/savings-finder)
       * [ Residential Rebates ](https://www.aspencore.org/residential-rebates)
-      * [ Commercial & Multifamily Funding ](https://www.aspencore.org/commercial-multifamily-funding)
+      *  Commercial & Multifamily Funding 
       * [ Eagle County Rebates ](https://www.aspencore.org/eagle-rebates)
-    * [ Community Priority Participants ](https://www.aspencore.org/community-priority-participants)
-    * [ Funding Criteria ](https://www.aspencore.org/funding-criteria)
+    *  Community Priority Participants 
+    *  Funding Criteria 
   * [ Services & Events ](https://www.aspencore.org/grants)
     * [ Events ](https://www.aspencore.org/grants)
-      * [ Green Expo ](https://www.aspencore.org/green-expo)
-    * [ Energy Concierge ](https://www.aspencore.org/energy-concierge)
-    * [ Energy Assessments ](https://www.aspencore.org/energy-assessments)
+      *  Green Expo 
+    *  Energy Concierge 
+    *  Energy Assessments 
     * [ Building Performance ](https://www.aspencore.org/grants)
-      * [ Benchmarking ](https://www.aspencore.org/benchmarking)
+      *  Benchmarking 
       * [ Building Performance Standards ](https://www.aspencore.org/building-performance-standards)
     * [ Building Performance Programs ](https://www.aspencore.org/grants)
-      * [ Aspen's Building IQ ](https://www.aspencore.org/building-iq)
+      *  Aspen's Building IQ 
       * [ Eagle County Building Performance ](https://www.aspencore.org/eagle-county-building-performance)
-    * [ Contractor Directory ](https://www.aspencore.org/contractors)
-    * [ Emissions Inventory ](https://www.aspencore.org/emissions-inventory)
-    * [ FAQs ](https://www.aspencore.org/faq)
+    *  Contractor Directory 
+    *  Emissions Inventory 
+    *  FAQs 
   * [ Partnerships ](https://www.aspencore.org/grants)
-    * [ Coal Basin Methane Project ](https://www.aspencore.org/coal-basin-methane-project)
-    * [ Regional Multifamily Energy Retrofit Collaborative ](https://www.aspencore.org/multifamily)
-    * [ Energy Partners ](https://www.aspencore.org/energy-partners)
-    * [ Government Partners ](https://www.aspencore.org/government-partners)
-  * [ About ](https://www.aspencore.org/about)
-    * [ Our Impact ](https://www.aspencore.org/impact)
-    * [ Careers ](https://www.aspencore.org/careers)
-    * [ Staff ](https://www.aspencore.org/about#Staff)
-    * [ Board Members ](https://www.aspencore.org/about#BoardMembers)
-    * [ Blogroom ](https://www.aspencore.org/blogroom)
-      * [ Hub Resources ](https://www.aspencore.org/blogroom#HubResources)
-    * [ CORE Newsletters ](https://www.aspencore.org/blogroom#CORENewsletters)
-  * [ Donate ](https://www.aspencore.org/donate)
-    * [ Ways to Give ](https://www.aspencore.org/ways-to-give)
-    * [ Business Sponsorships ](https://www.aspencore.org/business-sponsor)
+    *  Coal Basin Methane Project 
+    *  Regional Multifamily Energy Retrofit Collaborative 
+    *  Energy Partners 
+    *  Government Partners 
+  *  About 
+    *  Our Impact 
+    *  Careers 
+    *  Staff 
+    *  Board Members 
+    *  Blogroom 
+      *  Hub Resources 
+    *  CORE Newsletters 
+  *  Donate 
+    *  Ways to Give 
+    *  Business Sponsorships 
 
 
 * * *
@@ -51,7 +51,7 @@
 4 04
 The page you are looking for  
 can not be found
-[Return to Homepage](https://www.aspencore.org/)
+Return to Homepage
 ## Join the CORE Community
 Sign up for the CORE Community
 Newsletter and get the latest from CORE on grants, events, and energy-saving tips for your home or business!
@@ -62,15 +62,15 @@ Email:
 Thank you for signing up for CORE emails!
 Oops, there was an error signing you up.
 Please try again later or contact tabatha@aspencore.org.
-[![A yellow circle is floating in the air on a white background.](https://lirp.cdn-website.com/06c12080/dms3rep/multi/opt/NEW+2023_CORE+Logo-Type+1.1+%282%29-1920w.png)](https://www.aspencore.org/)
-[ ](https://linkedin.com/company/core-aspen) [ ](https://facebook.com/ResourceEfficiency) [ ](https://instagram.com/coreaspen/) [ ](https://youtube.com/@communityofficeforresource1670)
+!A yellow circle is floating in the air on a white background.
+       
 **About CORE**
 CORE is a 501(c)(3) nonprofit organization urgently reducing carbon emissions through optimizing efficiency, electrification, and resiliency of the built environment, while advancing innovative climate-saving solutions.   
 
 **Contact Us**
-[1-970-925-9775](tel:+1.970.925.9775)
-[129 Emma Rd Unit A-1, Basalt, CO 81621](tel:+1.970.925.9775)
-[PO Box 2449 | Basalt, CO 81621](tel:+1.970.925.9775)
-[Office Hours: Monday - Friday, 9 a.m. - 6 p.m.](tel:+1.970.925.9775)  
+1-970-925-9775
+129 Emma Rd Unit A-1, Basalt, CO 81621
+PO Box 2449 | Basalt, CO 81621
+Office Hours: Monday - Friday, 9 a.m. - 6 p.m.  
 
-[![A white background with a few lines on it](https://lirp.cdn-website.com/06c12080/dms3rep/multi/opt/Crowd_Logo_Final_RGB_White-1920w.png?dm-skip-opt=true)](http://www.denvercrowd.com)
+!A white background with a few lines on it

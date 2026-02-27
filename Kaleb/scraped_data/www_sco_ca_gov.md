@@ -2,6 +2,46 @@
 
 --- SOURCE: https://www.sco.ca.gov/ppsd_cpod.html ---
 
+Skip to Main Content
+ California State Controller's Office facebook   California State Controller's Office instagram   California State Controller's Office linked in   California State Controller's Office twitter   Language 
+ !State Controller Seal California State Controller's Office Malia M. Cohen 
+Menu
+Custom Google Search search
+Close
+  * Home
+  * About Us
+  * Public Services
+  * State and Local
+  * State Employees
+  * Publications
+  * News
+  * Contact Us
+
+
+  1. Home
+  2. State and Local
+  3. State Departments
+  4. California Personnel Office Directory (CPOD)
+
+
+# California Personnel Office Directory (CPOD)
+The California Personnel Office Directory (CPOD) contains general information (e.g., name, phone number, and email address) for personnel staff within the State of California employment. The CPOD also contains the physical address, mailing address, and agency code(s) for each state department and campus. For assistance with using the update form, or to report technical problems, please contact the Personnel/Payroll Services Division at WebmasterPPSD@sco.ca.gov.
+  * California Personnel Office Directory
+  * [California Personnel Office Directory Update Form](https://www.sco.ca.gov/scocontactus/updatefm.aspx)
+
+
+Contacts
+Divisions of the SCOEmail subscription directoryContact the webmasterAccessing public records
+Assistance
+Privacy policyAccessibilityFeedbackCOVID19.CA.gov
+Other links
+[Register to Vote](https://registertovote.ca.gov/)Adobe ReaderSave Our WaterCareer Opportunities
+Copyright © 
+Back to top
+
+
+--- SOURCE: https://www.sco.ca.gov/ppsd_cpod.html ---
+
 [Skip to Main Content](https://www.sco.ca.gov/ppsd_cpod.html#main-content)
 [ California State Controller's Office facebook ](https://www.facebook.com/CAController) [ California State Controller's Office instagram ](https://www.instagram.com/californiacontroller/) [ California State Controller's Office linked in ](https://www.linkedin.com/company/california-state-controllers) [ California State Controller's Office twitter ](https://twitter.com/CAController) [ Language ](https://www.sco.ca.gov/language.html)
 [ ![State Controller Seal](https://www.sco.ca.gov/Structural-Images/sco_seal_110.PNG) California State Controller's Office Malia M. Cohen ](https://www.sco.ca.gov/index.html)

@@ -2,41 +2,41 @@
 
 --- SOURCE: https://oip.hawaii.gov/laws-rules-opinions/uipa ---
 
-  * [Skip to Content](https://oip.hawaii.gov/laws-rules-opinions/uipa/#main)
-  * [Skip to Navigation](https://oip.hawaii.gov/laws-rules-opinions/uipa/#navigation)
-  * [Skip to Footer](https://oip.hawaii.gov/laws-rules-opinions/uipa/#footer)
+  * Skip to Content
+  * Skip to Navigation
+  * Skip to Footer
 
 
-[Hawaii.gov](http://portal.ehawaii.gov/ "Link to Hawaii.gov")
-[Accessibility](https://oip.hawaii.gov/accessibility-policy/ "Link to Accessibility Policy")
+Hawaii.gov
+Accessibility
 Text size: 
   * Smaller | Reset | Larger
 
 
-[Government Directory](http://portal.ehawaii.gov/government/departments-and-agencies/ "Link to Government Directory")
+Government Directory
 [ ![Office of Information Practices logo](https://oip.hawaii.gov/wp-content/themes/hic_state_template_parent/admin/images/seal/logo.png) ](https://oip.hawaii.gov)
 State of Hawaii
 # [Office of Information Practices](https://oip.hawaii.gov)
 Search this site Search button
-  * [Home](https://oip.hawaii.gov/)
-  * [News from OIP](https://oip.hawaii.gov/category/newsletter/)
-  * [Laws / Rules / Opinions](https://oip.hawaii.gov/laws-rules-opinions/)
-    * [UIPA](https://oip.hawaii.gov/laws-rules-opinions/uipa/)
-    * [Sunshine Law](https://oip.hawaii.gov/laws-rules-opinions/sunshine-law/)
-    * [Rules](https://oip.hawaii.gov/laws-rules-opinions/rules/)
-    * [Opinions](https://oip.hawaii.gov/laws-rules-opinions/opinions/)
-  * [Legislation](https://oip.hawaii.gov/legislation/)
-  * [Training](https://oip.hawaii.gov/training)
+  * Home
+  * News from OIP
+  * Laws / Rules / Opinions
+    * UIPA
+    * Sunshine Law
+    * Rules
+    * Opinions
+  * Legislation
+  * Training
   * [Forms](https://oip.hawaii.gov/forms/)
-  * [OIP Reports](https://oip.hawaii.gov/reports/)
-    * [Annual Reports](https://oip.hawaii.gov/reports/)
-    * [UIPA Record Request Log Reports](https://oip.hawaii.gov/uipa-record-request-log-reports/)
-    * [Special Reports](https://oip.hawaii.gov/special-reports/)
-  * [Records Report System (RRS)](https://oip.hawaii.gov/records-reports-system-rrs/)
-  * [State Calendar & Open Government Links](https://oip.hawaii.gov/related-links/)
+  * OIP Reports
+    * Annual Reports
+    * UIPA Record Request Log Reports
+    * Special Reports
+  * Records Report System (RRS)
+  * State Calendar & Open Government Links
 
 
-[Home](https://oip.hawaii.gov/) » [Laws / Rules / Opinions](https://oip.hawaii.gov/laws-rules-opinions/) » UIPA
+Home » Laws / Rules / Opinions » UIPA
 ## UIPA
 The Uniform Information Practices Act (Modified), chapter 92F, Hawaii Revised Statutes (“UIPA”), is Hawaii’s public records law. The Office of Information Practices (“OIP”) was created by the Legislature in 1988 to administer the UIPA.
 **The Law**[  
@@ -292,20 +292,20 @@ This chapter shall be applied and construed to promote its underlying purposes a
 (b) The agency shall give notice of the complaint to the office of information practices and the person who requested the decision for which the agency seeks judicial review by serving a copy of the complaint on each; provided that the office of information practices and the person who requested the decision shall not be required to participate in the proceeding; and provided further that the court shall proceed to review the decision pursuant to the rules applicable to a special proceeding, upon the expiration of time that an answer to the complaint would otherwise need to be filed under the rules of court by the office of information practices or the person upon whom the complaint was served. The office of information practices or the person who requested the decision may intervene in the proceeding.
 (c) Within thirty days of service of the complaint, the office of information practices shall file a certified copy of the record that it compiled to make its decision in the circuit court and mail a copy of the index to that record to the appealing agency. The circuit court’s review shall be limited to the record that was before the office of information practices when it rendered the decision, unless the circuit court finds that extraordinary circumstances justify discovery and admission of additional evidence. The circuit court shall uphold a decision of the office of information practices, unless the circuit court concludes that the decision was palpably erroneous. [L 2012, c 176, §1] 
 ## About Us
-  * [Contact](https://oip.hawaii.gov/contact/)
-  * [Site Map](https://oip.hawaii.gov/site-map/)
+  * Contact
+  * Site Map
 
 
 ## Policies
-  * [Terms of Use](https://portal.ehawaii.gov/terms-of-use.html)
-  * [Accessibility](https://oip.hawaii.gov/accessibility-policy/)
-  * [Privacy Policy](https://portal.ehawaii.gov/privacy-policy.html)
+  * Terms of Use
+  * Accessibility
+  * Privacy Policy
 
 
   * 808-586-1400
   * oip@hawaii.gov
 
 
-[Powered by eHawaii.gov](http://portal.ehawaii.gov)
+Powered by eHawaii.gov
 Copyright © 2026, State of Hawaii. All rights reserved. 
-[Statcounter](https://www.statcounter.com/)
+Statcounter

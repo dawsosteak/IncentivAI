@@ -2,50 +2,50 @@
 
 --- SOURCE: http://buildsagreen.org/ ---
 
-[ 0 ](https://www.buildsagreen.org/cart)
-[ Skip to Content ](https://www.buildsagreen.org/#page)
+ 0 
+ Skip to Content 
 [ ![Build San Antonio Green](https://images.squarespace-cdn.com/content/v1/628be4b2441f004cc1ba0ced/e506344e-d73c-4c23-b28b-7429db57c2cd/bsag+2021+logo+clear.png?format=1500w) ](https://www.buildsagreen.org/)
-[ About us ](https://www.buildsagreen.org/about-us)
-[ Green Building ](https://www.buildsagreen.org/green-building)
-[ Solar ](https://www.buildsagreen.org/solar)
-[ EV ](https://www.buildsagreen.org/pageev)
-[ Community ](https://www.buildsagreen.org/community-engagement)
-[ SOLARFEST ](https://www.buildsagreen.org/solarfest)
-[ Sparc Party ](https://www.buildsagreen.org/sparc-party)
-[ ](http://WWW.instagram.com/buildsagreen) [ ](http://www.facebook.com/buildsagreen)
+ About us 
+ Green Building 
+ Solar 
+ EV 
+ Community 
+ SOLARFEST 
+ Sparc Party 
+   
 Contact Us 
 Open Menu Close Menu
 Open Menu Close Menu
 [ ![Build San Antonio Green](https://images.squarespace-cdn.com/content/v1/628be4b2441f004cc1ba0ced/e506344e-d73c-4c23-b28b-7429db57c2cd/bsag+2021+logo+clear.png?format=1500w) ](https://www.buildsagreen.org/)
-[ About us ](https://www.buildsagreen.org/about-us)
-[ Green Building ](https://www.buildsagreen.org/green-building)
-[ Solar ](https://www.buildsagreen.org/solar)
-[ EV ](https://www.buildsagreen.org/pageev)
-[ Community ](https://www.buildsagreen.org/community-engagement)
-[ SOLARFEST ](https://www.buildsagreen.org/solarfest)
-[ Sparc Party ](https://www.buildsagreen.org/sparc-party)
-[ ](http://WWW.instagram.com/buildsagreen) [ ](http://www.facebook.com/buildsagreen)
+ About us 
+ Green Building 
+ Solar 
+ EV 
+ Community 
+ SOLARFEST 
+ Sparc Party 
+   
 Contact Us 
-[ About us  ](https://www.buildsagreen.org/about-us)
-[ Green Building  ](https://www.buildsagreen.org/green-building)
-[ Solar  ](https://www.buildsagreen.org/solar)
-[ EV  ](https://www.buildsagreen.org/pageev)
-[ Community  ](https://www.buildsagreen.org/community-engagement)
-[ SOLARFEST  ](https://www.buildsagreen.org/solarfest)
-[ Sparc Party  ](https://www.buildsagreen.org/sparc-party)
-[ ](http://WWW.instagram.com/buildsagreen)
-[ ](http://www.facebook.com/buildsagreen)
+ About us  
+ Green Building  
+ Solar  
+ EV  
+ Community  
+ SOLARFEST  
+ Sparc Party  
+ 
+ 
 Contact Us 
 **Our Mission at Build San Antonio Green is to protect and enhance the quality of life of the citizens of the metropolitan San Antonio Area by developing standards by which to certify newly constructed & existing structures to green standards, and to provide leadership, expertise, and education for the wise, efficient, and sustainable use of energy and resources.**
 ### BUILD SAN ANTONIO GREEN!
 ### WE ARE 
 ## WHAT WE DO
   * ![](https://images.squarespace-cdn.com/content/v1/628be4b2441f004cc1ba0ced/1655238305173-UYQGWPQXBPEHW1RYMX8Q/BSAG+LOGO+2022+SQ.jpg)
-[GREEN BUILDING](https://www.buildsagreen.org/green-building)
+GREEN BUILDING
   * ![](https://images.squarespace-cdn.com/content/v1/628be4b2441f004cc1ba0ced/1655238355398-EQX0PEWQHRMI0X4LUCU5/BSH+LOGO+2022+SQ+WEBSITE.jpg)
-[SOLAR](https://WWW.BRINGSOLARHOME.COM)
+SOLAR
   * ![](https://images.squarespace-cdn.com/content/v1/628be4b2441f004cc1ba0ced/1655238397840-GS4JVOAR76OO462M19QP/DRIVE+EV+HOME+LOGO+2022+SQ.jpg)
-[DRIVE EV HOME](https://WWW.DRIVEEVHOME.COM)
+DRIVE EV HOME
 
 
 # Our Results
@@ -68,9 +68,9 @@ Protecting our air from over
 WHICH IS THE EQUIVALENT OF REMOVING
 # **48,400 CARS**
 OFF OF SAN ANTONIO ROADS EACH YEAR
-[ ](http://WWW.instagram.com/buildsagreen)[ ](http://www.facebook.com/buildsagreen)
-#### SAN ANTONIO TX[ ](tel:12102247278)
-#### [210-224-7278](tel:12102247278)
+  
+#### SAN ANTONIO TX 
+#### 210-224-7278
 © 2026 Build San Antonio Green
 ## Subscribe
 Sign up with your email address to receive news and updates.
@@ -78,7 +78,7 @@ Email Address
 Sign Up
 We respect your privacy.
 Thank you!
-Build SA Green [Website Terms Of Use ](https://www.buildsagreen.org/new-page-1)
-[Internet Privacy Policy](https://www.buildsagreen.org/internet-privacy-policy)
+Build SA Green Website Terms Of Use 
+Internet Privacy Policy
 ­
 ­
