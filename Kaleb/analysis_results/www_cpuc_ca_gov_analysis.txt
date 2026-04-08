@@ -1,0 +1,91 @@
+
+
+--- SOURCE: https://www.cpuc.ca.gov/consumer-support/financial-assistance-savings-and-discounts ---
+
+# Financial Assistance, Savings, and Discounts
+## Program Details
+- **Concrete Rebate Amounts:** 
+  - $30/month for low-income households on their utility bills
+- **Eligibility Requirements:** 
+  - Low-income households
+- **Utility Information:**
+  - Utility Company Name: California Public Utilities Commission (CPUC)
+  - Utility Company Size: State agency
+
+## Program Details
+# California LifeLine
+## Program Details
+- **Concrete Rebate Amounts:** 
+  - Discounted home phone and cell phone services to qualified households
+- **Eligibility Requirements:** 
+  - Qualified households
+- **Utility Information:**
+  - Utility Company Name: California Public Utilities Commission (CPUC)
+  - Utility Company Size: State agency
+
+## Program Details
+# California Teleconnect Fund (CTF)
+## Program Details
+- **Concrete Rebate Amounts:** 
+  - 50% discount to qualifying K–12 schools, libraries, community colleges, government-owned hospitals and health clinics, community-based organizations, and community-based healthcare organizations
+- **Eligibility Requirements:** 
+  - Qualifying institutions or organizations
+- **Utility Information:**
+  - Utility Company Name: California Public Utilities Commission (CPUC)
+  - Utility Company Size: State agency
+
+## Program Details
+# Deaf and Disabled Telecommunications Program (DDTP)
+## Program Details
+- **Concrete Rebate Amounts:** 
+  - Assistive telecommunications equipment, speech-generating devices, and relay services to consumers with hearing, vision, speech, cognitive, and mobility disabilities
+- **Eligibility Requirements:** 
+  - Consumers with disabilities
+- **Utility Information:**
+  - Utility Company Name: California Public Utilities Commission (CPUC)
+  - Utility Company Size: State agency
+
+## Program Details
+# Low Income Home Energy Assistance Program (LIHEAP)
+## Program Details
+- **Concrete Rebate Amounts:** 
+  - Weatherization services and cash to help low-income customers pay their bills
+- **Eligibility Requirements:** 
+  - Low-income households
+- **Utility Information:**
+  - Utility Company Name: California Public Utilities Commission (CPUC)
+  - Utility Company Size: State agency
+
+
+--- SOURCE: https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/demand-side-management/energy-efficiency/energy-efficiency-evaluation ---
+
+The provided text is a webpage from the official website of the California Public Utilities Commission (CPUC). It appears to be a section on energy efficiency evaluation, specifically focused on the 2010-2012 program cycle.
+
+Here's an overview of the content:
+
+1. **Introduction**: The page introduces the importance of energy efficiency and the role of CPUC in promoting it.
+2. **Program Funding**: Provides information on funding for energy efficiency programs, including projected energy savings.
+3. **Program Reports**: Describes the monthly, quarterly, and annual reports submitted by utilities for their energy efficiency portfolios during the 2010-2012 program cycle.
+4. **Performance Metrics (PPMs) and Market Transformation Indicators (MTIs)**: Explains the development of PPMs and MTIs for the Statewide Programs of the 2010-2012 program cycle.
+5. **Workshops and Training**: Mentions several workshops held by CPUC, including ones on experimental design, market transformation metrics, and energy efficiency financing.
+6. **Consumer Support**: Links to various resources and services available to consumers, such as file a complaint, late bill assistance, power outage maps, and financial assistance.
+7. **Regulatory Services**: Provides information on CPUC's regulatory services, including proceedings and rulemaking.
+
+The webpage also includes links to other sections of the CPUC website, such as consumer support, regulatory services, and news updates.
+
+Overall, this webpage appears to be a comprehensive resource for stakeholders interested in energy efficiency evaluation, program funding, and consumer support.
+
+
+--- SOURCE: https://www.cpuc.ca.gov/consumer-support/financial-assistance-savings-and-discounts/liheap ---
+
+# Low Income Home Energy Assistance Program (LIHEAP)
+
+## Program Details
+- **Concrete Rebate Amounts:** 
+  - No concrete rebate amounts are explicitly stated in the document.
+## Eligibility
+- **Eligibility Requirements:** 
+  - Applicants must be low-income customers.
+## Utility Information
+- **Utility Company Name:** California Public Utilities Commission (CPUC)
+- **Utility Company Size:** State agency

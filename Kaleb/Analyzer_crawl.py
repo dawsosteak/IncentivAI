@@ -21,10 +21,9 @@ incentive, or grant program offered by a utility company or government entity.
 OUTPUT FORMATTING:
 You MUST format your output STRICTLY in Markdown. Use exact headers and bullet points as follows:
 
-# Utility Rebate Program Analysis
+# Program Name:[Extract Program Name]
 
 ## Program Details
-- **Program Name:** [Extract Program Name]
 - **Concrete Rebate Amounts:** 
   - [Amount 1]
   - [Amount 2]
@@ -41,6 +40,8 @@ You MUST format your output STRICTLY in Markdown. Use exact headers and bullet p
 - **Utility Company Size:** [Extract Utility Size]
 
 Do not include any other conversational text or preamble. Output ONLY the strict markdown structure.
+If information DOES NOT have rebate information, DON'T append to results.
+DO NOT INCLUDE ANY OTHER TEXT OR EXPLANATION. ONLY THE MARKDOWN STRUCTURE WITH THE RELEVANT INFORMATION.
 
 Document URL/Source: {source}
 Document Text:
