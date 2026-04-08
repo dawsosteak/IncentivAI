@@ -1,0 +1,17 @@
+[project]
+name = "incentivai"
+version = "0.1.0"
+description = "Utility incentive extraction using crawl4ai + Ollama"
+requires-python = ">=3.11"
+
+dependencies = [
+    "streamlit",
+    "pandas",
+    "requests>=2.26.0,<2.32.3",   # compatible with crawl4ai>=0.3.4,<0.3.73
+    "beautifulsoup4",
+    "crawl4ai>=0.3.73,<0.8.0",     # latest compatible crawl4ai that supports lxml>=5.3
+    "lxml>=5.3,<6",                # compatible with crawl4ai
+    "altair<5",
+    "openpyxl>=3.1.5",
+    "playwright>=1.58.0",
+]
