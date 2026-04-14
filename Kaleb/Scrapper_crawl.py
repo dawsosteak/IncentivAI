@@ -10,19 +10,20 @@ from crawl4ai.deep_crawling.filters import FilterChain, SEOFilter, ContentReleva
 from crawl4ai.content_scraping_strategy import LXMLWebScrapingStrategy
 
 # load URLs from Excel file
-file_path = os.path.join("..", "Relevant URLs.xlsx")
+base_dir = os.path.dirname(os.path.abspath(__file__))
+file_path = os.path.join(base_dir, "..", "Relevant URLs.xlsx")
 url_list = pd.read_excel(file_path, header=None)[0].dropna().astype(str).tolist()
 url_list = [url for url in url_list if url.startswith('http')]
-url_test = url_list[:100]
+url_test = url_list
 
 async def main():
     #Define the Scorer
     grant_scorer = KeywordRelevanceScorer(
         keywords=["incentive", "grant", "funding", "assistance", "opportunity", "application", "eligibility", "rebate"], 
-        weight=0.7
+        weight=0.8
     )
     #Define the Filters
-    seo_filter = SEOFilter(threshold=0.5, 
+    seo_filter = SEOFilter(threshold=0.3, 
                            keywords=["rebate", "incentive", "grant", "funding",
                                       "assistance", "opportunity", "application", "eligibility"]  # Keywords to look for in SEO metadata
     )
@@ -37,10 +38,20 @@ async def main():
         deep_crawl_strategy = strategy,
         scraping_strategy=LXMLWebScrapingStrategy(),
     )
-    from Analyzer_crawl import analyze_document
+    # from Analyzer_crawl import analyze_document
     results = []
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    progress_file = os.path.join(base_dir, "crawled_urls.txt")
+    crawled_urls = set()
+    if os.path.exists(progress_file):
+        with open(progress_file, "r") as f:
+            crawled_urls = set(line.strip() for line in f if line.strip())
+
+    urls_to_crawl = [url for url in url_test if url not in crawled_urls]
+    print(f"\nTotal URLs to process: {len(url_test)} | Already crawled: {len(crawled_urls)} | Remaining: {len(urls_to_crawl)}\n")
+
     async with AsyncWebCrawler() as crawler:
-        for url in url_test:
+        for url in urls_to_crawl:
             print(f"\n" + "="*60)
             print(f"Starting deep crawl for: {url}")
             print("="*60)
@@ -74,7 +85,7 @@ async def main():
                             scraped_text = str(r.html)
                         
                         # Define the output directory
-                        output_dir = "scraped_data"
+                        output_dir = os.path.join(base_dir, "scraped_data")
                         if not os.path.exists(output_dir):
                             os.makedirs(output_dir)
                         # Extract the domain to keep filenames clean
@@ -88,11 +99,16 @@ async def main():
                             f.write(scraped_text)
                         print(f"Saved content to: {file_path_out}")
                         
-                        # IMMEDIATELY ANALYZE
-                        if scraped_text.strip():
-                            analyze_document(url_r, scraped_text)
+                        # IMMEDIATELY ANALYZE (Commented out to run scraper separately)
+                        # if scraped_text.strip():
+                        #     analyze_document(url_r, scraped_text)
             except Exception as e:
                 print(f"Error crawling {url}: {e}")
+            
+            # --- SAVE PROGRESS ---
+            # Mark this URL as completed in the progress file
+            with open(progress_file, "a", encoding="utf-8") as f:
+                f.write(url + "\n")
     # 5. Analyze the results
     if not results:
         print("\nNo high-value pages were successfully crawled.")
