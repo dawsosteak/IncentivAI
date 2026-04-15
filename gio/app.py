@@ -4,6 +4,14 @@ import time
 
 import streamlit as st
 
+import os
+import sys
+
+# Ensure this folder is on sys.path so `main.py` and `modules/*` imports work
+_BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+if _BASE_DIR not in sys.path:
+    sys.path.insert(0, _BASE_DIR)
+
 from main import run_pipeline
 from config import (
     DEFAULT_TEMPERATURE,
@@ -12,13 +20,62 @@ from config import (
     CANCEL_BUTTON_LABEL,
 )
 
+
+def _streamlit_rerun():
+    """Streamlit 1.27+ exposes st.rerun(); older releases use experimental_rerun."""
+    rerun = getattr(st, "rerun", None)
+    if callable(rerun):
+        rerun()
+        return
+    experimental = getattr(st, "experimental_rerun", None)
+    if callable(experimental):
+        experimental()
+        return
+    raise RuntimeError(
+        "This Streamlit version does not support script reruns; "
+        "upgrade to at least streamlit 1.11."
+    )
+
+
 #browser tab name
 st.set_page_config(page_title="IncentivAI", layout="wide")
-#Title of the app
-st.title("IncentivAI – Utility Incentive Extractor")
 
 if "pipeline_running" not in st.session_state:
     st.session_state.pipeline_running = False
+if "pipeline_done" not in st.session_state:
+    st.session_state.pipeline_done = False
+if "pipeline_csv_path" not in st.session_state:
+    st.session_state.pipeline_csv_path = None
+if "pipeline_done_error" not in st.session_state:
+    st.session_state.pipeline_done_error = None
+if "pipeline_done_cancelled" not in st.session_state:
+    st.session_state.pipeline_done_cancelled = False
+
+#Title of the app
+st.title("IncentivAI – Utility Incentive Extractor")
+
+# Persisted result after background worker finishes (reliable across Streamlit reruns)
+if st.session_state.pipeline_done:
+    err = st.session_state.pipeline_done_error
+    path = st.session_state.pipeline_csv_path
+    cancelled = st.session_state.pipeline_done_cancelled
+    if err is not None:
+        st.error(f"Extraction failed: {err}")
+    elif path:
+        if cancelled:
+            st.warning(
+                "Extraction cancelled. Download contains partial results processed so far."
+            )
+        else:
+            st.success("Extraction complete.")
+        with open(path, "rb") as f:
+            st.download_button(
+                "Download CSV",
+                f,
+                file_name="incentives_output.csv",
+                key="download_csv_completed",
+            )
+    st.divider()
 
 # Sidebar
 st.sidebar.header("Configuration")
@@ -32,7 +89,10 @@ uploaded_file = None
 state_input = None
 #Get user input based on the selected mode
 if mode == "Upload Excel":
-    uploaded_file = st.sidebar.file_uploader("Upload Excel (.xlsx) with column 'URLS'", type=["xlsx"])
+    uploaded_file = st.sidebar.file_uploader(
+        "Upload Excel (.xlsx) with column 'URLs' or 'URLS' (or 'url')",
+        type=["xlsx"],
+    )
 else:
     state_input = st.sidebar.text_input("Enter State (e.g., California)")
 #variables we can set for scraping or looking forurls and doing
@@ -50,6 +110,11 @@ if run_button:
     elif mode == "Auto Search Utilities" and not state_input:
         st.error("Please enter a state.")
     else:
+        st.session_state.pipeline_done = False
+        st.session_state.pipeline_csv_path = None
+        st.session_state.pipeline_done_error = None
+        st.session_state.pipeline_done_cancelled = False
+
         excel_payload = None
         if mode == "Upload Excel":
             excel_payload = io.BytesIO(uploaded_file.getvalue())
@@ -115,22 +180,18 @@ if st.session_state.pipeline_running and st.session_state.get("job_ctx"):
 
     worker_thread = st.session_state.worker_thread
     if not worker_thread.is_alive():
-        st.session_state.pipeline_running = False
         err = ctx["result_holder"]["error"]
         output_file = ctx["result_holder"]["path"]
         cancelled = ctx["result_holder"]["cancelled"]
+        st.session_state.pipeline_running = False
         del st.session_state.job_ctx
         del st.session_state.worker_thread
 
-        if err is not None:
-            st.error(f"Extraction failed: {err}")
-        elif output_file:
-            if cancelled:
-                st.warning("Extraction cancelled. Download contains partial results processed so far.")
-            else:
-                st.success("Extraction complete.")
-            with open(output_file, "rb") as f:
-                st.download_button("Download CSV", f, file_name="incentives_output.csv")
+        st.session_state.pipeline_done = True
+        st.session_state.pipeline_csv_path = output_file
+        st.session_state.pipeline_done_error = err
+        st.session_state.pipeline_done_cancelled = cancelled
+        _streamlit_rerun()
     else:
         time.sleep(UI_POLL_INTERVAL_SEC)
-        st.rerun()
+        _streamlit_rerun()
