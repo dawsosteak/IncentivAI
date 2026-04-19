@@ -68,6 +68,8 @@ Leave this running. It listens on **`http://127.0.0.1:11434`** by default, which
 
 ```bash
 cd gio
+source .venv/bin/activate
+uv sync
 uv run streamlit run app.py
 ```
 
