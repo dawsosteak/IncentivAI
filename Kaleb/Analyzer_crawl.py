@@ -52,7 +52,7 @@ Document Text:
 prompt = ChatPromptTemplate.from_template(template)
 chain = prompt | model
 
-def analyze_document(url_source=None, content=None):
+def analyze_document(url_source=None, content=None, interactive=False):
     # Resolve the directories relative to the script's location
     base_dir = os.path.dirname(os.path.abspath(__file__))
     results_dir = os.path.join(base_dir, "analysis_results")
@@ -67,7 +67,7 @@ def analyze_document(url_source=None, content=None):
         if not safe_domain:
             safe_domain = "unknown_domain"
             
-        result_filename = f"{safe_domain}_analysis.txt"
+        result_filename = f"{safe_domain}_analysis.md"
         result_filepath = os.path.join(results_dir, result_filename)
         
         print(f"\n{'='*60}")
@@ -112,10 +112,28 @@ def analyze_document(url_source=None, content=None):
     
     for filepath in markdown_files:
         filename = os.path.basename(filepath)
-        safe_domain = filename.replace(".md", "")
-        result_filename = f"{safe_domain}_analysis.txt"
+        base_name = filename.replace(".md", "")
+        
+        # Extract the domain part by removing the 8-character hash if present
+        parts = base_name.rsplit('_', 1)
+        if len(parts) == 2 and len(parts[1]) == 8:
+            safe_domain = parts[0]
+        else:
+            safe_domain = base_name
+            
+        result_filename = f"{safe_domain}_analysis.md"
         result_filepath = os.path.join(results_dir, result_filename)
         
+        # Check if this specific file's analysis already exists in the domain's markdown file
+        if os.path.exists(result_filepath):
+            try:
+                with open(result_filepath, 'r', encoding='utf-8') as check_f:
+                    if f"--- SOURCE: {filename} ---" in check_f.read():
+                        print(f"\nSkipping {filename}: Analysis already exists in {result_filename}")
+                        continue
+            except Exception:
+                pass
+            
         print(f"\n{'='*60}")
         print(f"Analyzing {filename}...")
         print(f"{'='*60}")
@@ -144,12 +162,13 @@ def analyze_document(url_source=None, content=None):
             print(f"Saved analysis to: {result_filepath}")
             
             # Optional: Ask to continue or move to the next
-            user_input = input("Press Enter to analyze the next file (or type 'exit' to quit): ")
-            if user_input.lower() == 'exit':
-                break
+            if interactive:
+                user_input = input("Press Enter to analyze the next file (or type 'exit' to quit): ")
+                if user_input.lower() == 'exit':
+                    break
                 
         except Exception as e:
             print(f"Error processing {filename}: {e}")
 
 if __name__ == "__main__":
-    analyze_document()
+    analyze_document(interactive=True)

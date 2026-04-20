@@ -3,11 +3,72 @@ import os
 import pandas as pd
 from urllib.parse import urlparse
 import json
-from crawl4ai import AsyncWebCrawler, CrawlerRunConfig
+from crawl4ai import AsyncWebCrawler, CrawlerRunConfig, CacheMode
 from crawl4ai.deep_crawling import BestFirstCrawlingStrategy
 from crawl4ai.deep_crawling.scorers import KeywordRelevanceScorer
 from crawl4ai.deep_crawling.filters import FilterChain, SEOFilter, ContentRelevanceFilter, URLPatternFilter
 from crawl4ai.content_scraping_strategy import LXMLWebScrapingStrategy
+import aiohttp
+import io
+import pypdf
+from urllib.parse import urljoin
+from bs4 import BeautifulSoup
+
+async def process_auxiliary_files(html, base_url):
+    extracted_content = {}
+    try:
+        soup = BeautifulSoup(html, 'html.parser')
+        links = [a.get('href') for a in soup.find_all('a', href=True)]
+        
+        # Filter for PDF and Excel files, deduplicate
+        target_links = set()
+        for link in links:
+            url = urljoin(base_url, link).split('#')[0]
+            if url.lower().endswith(('.pdf', '.xls', '.xlsx')):
+                target_links.add(url)
+                
+        # Limit to 5 files to prevent overwhelming the scraper/analyzer
+        target_links = list(target_links)[:5]
+        
+        if not target_links:
+            return extracted_content
+
+        async with aiohttp.ClientSession() as session:
+            for url in target_links:
+                try:
+                    async with session.get(url, timeout=15) as resp:
+                        if resp.status == 200:
+                            # Restrict to 10MB to prevent memory issues
+                            if int(resp.headers.get('Content-Length', 0)) > 10 * 1024 * 1024:
+                                continue
+                            
+                            content = await resp.read()
+                            
+                            if url.lower().endswith('.pdf'):
+                                pdf = pypdf.PdfReader(io.BytesIO(content))
+                                text = "\n".join(page.extract_text() for page in pdf.pages if page.extract_text())
+                                if text.strip():
+                                    extracted_content[url] = text
+                                    
+                            elif url.lower().endswith(('.xls', '.xlsx')):
+                                dfs = pd.read_excel(io.BytesIO(content), sheet_name=None)
+                                text = ""
+                                for sheet, df in dfs.items():
+                                    try:
+                                        # Limit rows to 100 per table to avoid massive LLM fatigue
+                                        text += f"\n### Sheet: {sheet}\n{df.head(100).to_markdown(index=False)}\n"
+                                    except ImportError:
+                                        # Fallback if tabulate is not installed
+                                        text += f"\n### Sheet: {sheet}\n{df.head(100).to_csv(index=False)}\n"
+                                if text.strip():
+                                    extracted_content[url] = text
+                except Exception as e:
+                    print(f"Failed to extract {url}: {e}")
+                    
+    except Exception as e:
+        print(f"Error processing auxiliary links: {e}")
+        
+    return extracted_content
 
 # load URLs from Excel file
 base_dir = os.path.dirname(os.path.abspath(__file__))
@@ -37,6 +98,7 @@ async def main():
     config = CrawlerRunConfig(
         deep_crawl_strategy = strategy,
         scraping_strategy=LXMLWebScrapingStrategy(),
+        cache_mode=CacheMode.BYPASS,
     )
     # from Analyzer_crawl import analyze_document
     results = []
@@ -88,20 +150,36 @@ async def main():
                         output_dir = os.path.join(base_dir, "scraped_data")
                         if not os.path.exists(output_dir):
                             os.makedirs(output_dir)
-                        # Extract the domain to keep filenames clean
-                        domain = urlparse(url_r).netloc
-                        safe_domain = domain.replace(".", "_")
-                        filename = f"{safe_domain}.md"
+                            
+                        # Create a unique filename for each URL to avoid massive files and duplication
+                        import hashlib
+                        url_hash = hashlib.md5(url_r.encode('utf-8')).hexdigest()[:8]
+                        
+                        # Extract the filename or domain to keep filenames clean
+                        if url_r.startswith("file://"):
+                            safe_domain = os.path.basename(urlparse(url_r).path).replace(".html", "").replace(".htm", "")
+                        else:
+                            domain = urlparse(url_r).netloc
+                            safe_domain = domain.replace(".", "_")
+                            
+                        # Format: domain_hash.md
+                        filename = f"{safe_domain}_{url_hash}.md"
                         file_path_out = os.path.join(output_dir, filename)
-                        # Use append mode ("a") to add to the existing file
-                        with open(file_path_out, "a", encoding="utf-8") as f:
-                            f.write(f"\n\n--- SOURCE: {url_r} ---\n\n")
+                        
+                        # Extract auxiliary files (PDFs, Excels) found on the page
+                        aux_content = await process_auxiliary_files(getattr(r, 'html', ''), url_r)
+                        for aux_url, aux_text in aux_content.items():
+                            scraped_text += f"\n\n--- EMBEDDED FILE CONTENT: {aux_url} ---\n\n{aux_text}\n"
+                        
+                        # Use write mode ("w") instead of append ("a") to prevent duplication on multiple runs
+                        with open(file_path_out, "w", encoding="utf-8") as f:
+                            f.write(f"--- SOURCE: {url_r} ---\n\n")
                             f.write(scraped_text)
                         print(f"Saved content to: {file_path_out}")
                         
                         # IMMEDIATELY ANALYZE (Commented out to run scraper separately)
-                        # if scraped_text.strip():
-                        #     analyze_document(url_r, scraped_text)
+                        #if scraped_text.strip():
+                            #analyze_document(url_r, scraped_text)
             except Exception as e:
                 print(f"Error crawling {url}: {e}")
             
