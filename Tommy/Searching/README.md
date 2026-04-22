@@ -1,9 +1,9 @@
 # Clone and build V 0.5.4
+pip install openpyxl
 git clone https://github.com/karust/openserp.git
 
-cd Tommy\Searching
-
 # Run the server
+cd Tommy\Searching
 .\openserp.exe serve
 
 
