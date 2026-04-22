@@ -24,6 +24,8 @@ def run_pipeline(
     truncation_length,
     progress_callback=None,
     should_cancel=None,
+    use_deep_crawl=True,
+    deep_crawl_timeout_sec=120,
 ):
     ensure_ollama_running()
     #gets list of urls
@@ -51,7 +53,12 @@ def run_pipeline(
             flush=True,
         )
         try:
-            scraped_text = scrape_url(url, truncation_length)
+            scraped_text = scrape_url(
+                url,
+                truncation_length,
+                use_deep_crawl=use_deep_crawl,
+                deep_crawl_timeout_sec=deep_crawl_timeout_sec,
+            )
             if progress_callback:
                 progress_callback(
                     idx,
