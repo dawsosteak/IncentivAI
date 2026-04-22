@@ -1,10 +1,11 @@
 # Clone and build V 0.5.4
 git clone https://github.com/karust/openserp.git
-cd openserp
-go build -o openserp .
+
+cd Tommy\Searching
 
 # Run the server
-./openserp serve
+.\openserp.exe serve
+
 
 # searching 
-python states.py "Texas"
+python energy_search.py Texas
