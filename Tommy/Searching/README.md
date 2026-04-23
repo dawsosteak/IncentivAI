@@ -4,7 +4,7 @@ git clone https://github.com/karust/openserp.git
 
 # Run the server
 cd \openserp
-.\openserp.exe serve
+.\openserp serve
 
 or 
 
