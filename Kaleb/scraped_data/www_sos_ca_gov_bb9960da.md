@@ -1,0 +1,151 @@
+--- SOURCE: https://www.sos.ca.gov/business-programs/customer-alerts ---
+
+  * [Skip to Main Content](https://www.sos.ca.gov/business-programs/customer-alerts#main)
+  * [Skip to Footer](https://www.sos.ca.gov/business-programs/customer-alerts#footer)
+
+
+[ ![The Great Seal of the State of California](https://www.sos.ca.gov/packages/casos/themes/casos_theme/images/ca-seal.svg) California Secretary of State  Shirley N. Weber, Ph.D.  ](https://www.sos.ca.gov/ "California Secretary of State Home")
+View Search View Navigation
+|  | [×](javascript:void\(0\) "Clear search box")  
+---|---  
+search |   
+  * [Home](https://www.sos.ca.gov/)
+  * [About](https://www.sos.ca.gov/administration/)
+  * [Business](https://www.sos.ca.gov/business-programs/)
+  * [Notary & Apostille](https://www.sos.ca.gov/notary/)
+  * [Elections](https://www.sos.ca.gov/elections/)
+  * [VCA](https://www.sos.ca.gov/voters-choice-act/)
+  * [Campaign & Lobbying](https://www.sos.ca.gov/campaign-lobbying/)
+  * [State Archives](https://www.sos.ca.gov/archives/)
+  * [Registries](https://www.sos.ca.gov/registries/)
+  * [News](https://www.sos.ca.gov/administration/news-releases-and-advisories/)
+  * [Events](https://www.sos.ca.gov/administration/events/)
+  * [Contact](https://www.sos.ca.gov/contact-information/)
+
+
+  * [Home](https://www.sos.ca.gov/)
+  * [Business Programs](https://www.sos.ca.gov/business-programs)
+  * Customer Alerts
+
+
+# Customer Alerts
+## Disaster Recovery Assistance - Wildfires
+  * Click here to view the [Secretary of State Disaster Recovery Assistance Factsheet](https://www.sos.ca.gov/business-programs/customer-alerts/disaster-recovery-assistance)
+
+
+## Misleading Solicitations
+Find out what the state of California is doing to keep Californians safe and the protections the California Secretary of State has put in place to protect business records. The following is a list of confirmed scams against Californians and businesses in the State of California, and what you can do if you have been a victim of a scam:
+  * [Misleading Statement of Information Solicitations](https://www.sos.ca.gov/business-programs/customer-alerts/misleading-statement-information-solicitations) (Posted October 24, 2022)  
+Domestic and foreign corporations registered to do business in California are the latest targets of bogus direct mail solicitations on official-looking forms designed to scare them into using the non-governmental agency to file the obligatory Statement of Information with the California Secretary of State for nearly 10 times the required filing fee.
+  * [Fraudulent Certificates of Status are Circulating](https://www.sos.ca.gov/business-programs/customer-alerts/fraudulent-certificates-status-circulating) (Posted October 24, 2022)  
+A web-based private company offering e-commerce support services is convincing customers to purchase fraudulent certificates of status. A Certificate of Status can only be issued by the California Secretary of State. No private company is authorized to issue a Certificate of Status. 
+  * [Misleading Solicitations - Legal Protections](https://www.sos.ca.gov/business-programs/customer-alerts/misleading-solicitations-legal-protections) (Posted October 24, 2022)  
+As of January 1, 2018, AB 492 extends the law to caution Californians and businesses about misleading solicitations to obtain public records.
+
+
+## Fundraising and Phishing Scams
+  * [Attorney General Takes Action Against Veterans Charities](https://www.sos.ca.gov/business-programs/customer-alerts/veterans-charities "Customer Alert – Attorney General Takes Action Against Veterans Charities") (Posted July 23, 2018; Updated October 24, 2022)  
+On July 19, 2018, the California Attorney General, the Federal Trade Commission and other state Attorneys General announced enforcement actions have been taken against charities that conduct fundraising solicitations that falsely promise to help veterans and military service members. More information about this enforcement and education effort is available through the California Attorney General's press release.
+
+
+## Consumer Laws and Resources
+  * [Prevention and Detection](https://www.sos.ca.gov/business-programs/customer-alerts/prevention-detection): Business records are more secure on **biz** file Online with access management.
+  * [Stronger Laws to Prevent Fraudulent Solicitations](https://www.sos.ca.gov/business-programs/customer-alerts/statutes-2011-ab75): Effective January 1, 2012, there are new laws to prevent people from sending misleading solicitations to Californians.
+  * [California Secretary of State Business Identity Theft Resources](https://www.sos.ca.gov/business-programs/customer-alerts/alert-business-identity-theft): Tips on how you can detect and prevent business identity theft and what you should do if you become a victim.
+
+
+Last updated: October 24, 2022
+## [Business Entities](https://www.sos.ca.gov/business-programs/business-entities)
+  * Online Services 
+    * [Form a Business](https://bizfileonline.sos.ca.gov/)
+    * [File LLC Statement of Information](https://bizfileonline.sos.ca.gov/)
+    * [File Corporation Statement of Information](https://bizfileonline.sos.ca.gov/)
+    * [Business Search](https://bizfileonline.sos.ca.gov/)
+    * [Publicly Traded Disclosure Search](https://bizfileonline.sos.ca.gov/)
+    * [Current Processing Dates](https://www.sos.ca.gov/business-programs/business-entities/processing-dates/)
+  * [Service Options](https://www.sos.ca.gov/business-programs/business-entities/service-options/)
+  * [Name Reservations](https://www.sos.ca.gov/business-programs/business-entities/name-reservations/)
+  * [Forms, Samples & Fees](https://www.sos.ca.gov/business-programs/business-entities/forms/)
+  * [Statements of Information](https://www.sos.ca.gov/business-programs/business-entities/statements/)
+  * [Filing Tips](https://www.sos.ca.gov/business-programs/business-entities/filing-tips/)
+  * [Business Entities Records Request](https://bizfileonline.sos.ca.gov/)
+  * [Service of Process](https://www.sos.ca.gov/business-programs/business-entities/service-of-process/)
+  * [FAQs](https://www.sos.ca.gov/business-programs/business-entities/faqs/)
+  * [Contact Information](https://www.sos.ca.gov/business-programs/business-entities/contact/)
+  * Resources 
+    * [Business Resources](https://www.sos.ca.gov/business-programs/business-entities/resources/)
+    * [Tax Information](https://www.sos.ca.gov/business-programs/business-entities/tax-information/)
+    * [Starting A Business Checklist](https://www.sos.ca.gov/business-programs/business-entities/starting-business-checklist/)
+  * FTB Administration Terminations 
+    * [FTB Abatement and Voluntary Administrative Termination](https://www.sos.ca.gov/business-programs/business-entities/ftb-abatement/)
+    * [FTB Pending Administrative Termination Notice](https://www.sos.ca.gov/business-programs/business-entities/ftb-admin-notice/)
+  * [Customer Alerts](https://www.sos.ca.gov/business-programs/customer-alerts)
+
+
+## Related Links
+  * [Legislation](https://www.sos.ca.gov/business-programs/legislation/)
+  * [California Codes](http://leginfo.legislature.ca.gov/faces/codes.xhtml)
+  * [California Regulations](https://www.sos.ca.gov/administration/regulations/current-regulations/)
+
+
+_![Call Us](https://www.sos.ca.gov/application/files/3815/9681/5355/icon-call.svg)_
+## Call Us
+[(916) 653-6814](tel:9166536814)
+_![Receive Updates](https://www.sos.ca.gov/application/files/5615/9681/5355/icon-updates.svg)_
+## Receive Updates
+[Sign up for e-updates](https://visitor.r20.constantcontact.com/manage/optin?v=001mD8-WrHxKkJtq_d8ACgTG49fXSDgx5uBiT91-C1ejqYPoUkLY_ROK502nJXQNRcv-ONLp1372yy69JLhnvHxwM-PIw9e7v4xseQlc7hSQRk%3D)
+_![Write Us](https://www.sos.ca.gov/application/files/1415/9681/5356/icon-write.svg)_
+## Write Us
+[Agency Contacts](https://www.sos.ca.gov/contact-information)
+![Questions? Ask me.](https://theme.sos.ca.gov/img/askme.png)
+![Click me to Chat with Eureka](https://theme.sos.ca.gov/css/bear.png) 
+
+Agency 
+    
+  * [Home](https://www.sos.ca.gov/)
+  * [About](https://www.sos.ca.gov/administration/)
+  * [Business](https://www.sos.ca.gov/business-programs/)
+  * [Notary & Apostille](https://www.sos.ca.gov/notary/)
+  * [Elections](https://www.sos.ca.gov/elections/)
+  * [Campaign & Lobbying](https://www.sos.ca.gov/campaign-lobbying/)
+  * [State Archives](https://www.sos.ca.gov/archives/)
+  * [Registries](https://www.sos.ca.gov/registries/)
+  * [News](https://www.sos.ca.gov/administration/news-releases-and-advisories/)
+
+
+
+Resources 
+    
+  * [Career Opportunities](https://www.sos.ca.gov/administration/current-career-contracting-opportunities/career-opportunities/)
+  * [Site Maintenance](https://www.sos.ca.gov/site-maintenance/)
+  * [Language Access Complaint Form](https://www.sos.ca.gov/administration/language-access-complaint-form/)
+  * [Public Records Act Requests](https://www.sos.ca.gov/administration/guidelines-access-public-records)
+  * [Free Document Readers](https://www.sos.ca.gov/free-doc-readers/)
+  * [Sitemap](https://www.sos.ca.gov/sitemap/)
+  * [California Home Page](https://www.ca.gov/)
+
+
+
+California Secretary of State 
+    
+Shirley N. Weber, Ph.D., California Secretary of State 1500 11th Street Sacramento, California  95814 Office: [(916) 653-6814](tel:916653-6814 "Call Our Office") 
+
+Social Media 
+    
+  * [Facebook](https://www.facebook.com/CaliforniaSOS/)
+  * [Twitter](https://x.com/casosvote/)
+  * [Youtube](https://www.youtube.com/user/CaliforniaSOS/)
+  * [Snapchat](https://www.snapchat.com/add/californiasos/)
+  * [Instagram](https://www.instagram.com/CaliforniaSOS_/)
+
+
+  * [Privacy Policy](https://www.sos.ca.gov/administration/privacy-policy/)
+  * [Website Help](https://www.sos.ca.gov/website-help/)
+  * [Accessibility](https://www.sos.ca.gov/accessibility/)
+  * [Contact Us](https://www.sos.ca.gov/contact-information/)
+
+
+Copyright © 2026 California Secretary of State
+[Top of Page](https://www.sos.ca.gov/business-programs/customer-alerts#top)
+|   
+---|---

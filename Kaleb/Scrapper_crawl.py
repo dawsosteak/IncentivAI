@@ -1,18 +1,74 @@
 import asyncio
 import os
 import pandas as pd
-from urllib.parse import urlparse
+from urllib.parse import urlparse, urljoin
 import json
+from bs4 import BeautifulSoup
+import aiohttp
+import io
+import hashlib
+
 from crawl4ai import AsyncWebCrawler, CrawlerRunConfig, CacheMode
 from crawl4ai.deep_crawling import BestFirstCrawlingStrategy
 from crawl4ai.deep_crawling.scorers import KeywordRelevanceScorer
-from crawl4ai.deep_crawling.filters import FilterChain, SEOFilter, ContentRelevanceFilter, URLPatternFilter
+from crawl4ai.deep_crawling.filters import FilterChain, SEOFilter
 from crawl4ai.content_scraping_strategy import LXMLWebScrapingStrategy
-import aiohttp
-import io
-import pypdf
-from urllib.parse import urljoin
-from bs4 import BeautifulSoup
+from crawl4ai.processors.pdf import PDFCrawlerStrategy, PDFContentScrapingStrategy
+
+PDF_KEYWORDS = [
+    "incentive", "rebate", "grant", "funding", "assistance", 
+    "opportunity", "application", "eligibility", "program", 
+    "efficiency", "solar", "ev", "charger"
+]
+
+def _score_pdf_url(url: str) -> int:
+    lowered = url.lower()
+    score = 0
+    for kw in PDF_KEYWORDS:
+        if kw in lowered:
+            score += 2
+    bonus_terms = ["guide", "manual", "form", "terms"]
+    for kw in bonus_terms:
+        if kw in lowered:
+            score += 1
+    return score
+
+async def _scrape_pdf_with_crawl4ai(pdf_url: str):
+    print(f"    -> Scraping PDF gracefully via Crawl4AI: {pdf_url}")
+    pdf_scraping_strategy = PDFContentScrapingStrategy(
+        extract_images=False,
+        save_images_locally=False,
+        batch_size=4,
+    )
+    config = CrawlerRunConfig(scraping_strategy=pdf_scraping_strategy, cache_mode=CacheMode.BYPASS)
+    try:
+        async with AsyncWebCrawler(crawler_strategy=PDFCrawlerStrategy()) as crawler:
+            res = await asyncio.wait_for(crawler.arun(url=pdf_url, config=config), timeout=120)
+            
+            # Extract Text gracefully focusing on raw_markdown or standard markdown
+            md = getattr(res, "markdown", None)
+            extracted = ""
+            if md:
+                try:
+                    markdown_result = getattr(md, "_markdown_result", None)
+                    if markdown_result is not None:
+                        extracted = str(getattr(markdown_result, "fit_markdown", "") or "")
+                        if not extracted.strip():
+                            extracted = str(getattr(markdown_result, "raw_markdown", "") or "")
+                    if not extracted.strip():
+                        extracted = str(md)
+                except Exception:
+                    extracted = str(md)
+            if not extracted:
+                html = getattr(res, "html", None)
+                if html:
+                    extracted = str(html)
+                    
+            return extracted
+    except Exception as e:
+        print(f"    -> Failed to scrape PDF {pdf_url}: {e}")
+        return ""
+
 
 async def process_auxiliary_files(html, base_url):
     extracted_content = {}
@@ -20,51 +76,50 @@ async def process_auxiliary_files(html, base_url):
         soup = BeautifulSoup(html, 'html.parser')
         links = [a.get('href') for a in soup.find_all('a', href=True)]
         
-        # Filter for PDF and Excel files, deduplicate
-        target_links = set()
+        pdf_links = set()
+        excel_links = set()
+        
         for link in links:
             url = urljoin(base_url, link).split('#')[0]
-            if url.lower().endswith(('.pdf', '.xls', '.xlsx')):
-                target_links.add(url)
+            lowered = url.lower()
+            if lowered.endswith('.pdf'):
+                pdf_links.add(url)
+            elif lowered.endswith(('.xls', '.xlsx')):
+                excel_links.add(url)
                 
-        # Limit to 5 files to prevent overwhelming the scraper/analyzer
-        target_links = list(target_links)[:5]
+        # Top 3 PDFs based on scoring instead of arbitrary 5
+        ranked_pdfs = sorted(list(pdf_links), key=_score_pdf_url, reverse=True)[:3]
         
-        if not target_links:
-            return extracted_content
+        # Limit excel files strictly to 2 to avoid overwhelming output
+        target_excels = list(excel_links)[:2]
 
-        async with aiohttp.ClientSession() as session:
-            for url in target_links:
-                try:
-                    async with session.get(url, timeout=15) as resp:
-                        if resp.status == 200:
-                            # Restrict to 10MB to prevent memory issues
-                            if int(resp.headers.get('Content-Length', 0)) > 10 * 1024 * 1024:
-                                continue
-                            
-                            content = await resp.read()
-                            
-                            if url.lower().endswith('.pdf'):
-                                pdf = pypdf.PdfReader(io.BytesIO(content))
-                                text = "\n".join(page.extract_text() for page in pdf.pages if page.extract_text())
-                                if text.strip():
-                                    extracted_content[url] = text
-                                    
-                            elif url.lower().endswith(('.xls', '.xlsx')):
+        # 1. Scrape PDFs using Crawl4AI Strategy
+        for pdf_url in ranked_pdfs:
+            pdf_text = await _scrape_pdf_with_crawl4ai(pdf_url)
+            if pdf_text and pdf_text.strip():
+                extracted_content[pdf_url] = pdf_text
+
+        # 2. Scrape Excels using existing logic (Pandas)
+        if target_excels:
+            async with aiohttp.ClientSession() as session:
+                for url in target_excels:
+                    try:
+                        async with session.get(url, timeout=15) as resp:
+                            if resp.status == 200:
+                                if int(resp.headers.get('Content-Length', 0)) > 10 * 1024 * 1024:
+                                    continue
+                                content = await resp.read()
                                 dfs = pd.read_excel(io.BytesIO(content), sheet_name=None)
                                 text = ""
                                 for sheet, df in dfs.items():
                                     try:
-                                        # Limit rows to 100 per table to avoid massive LLM fatigue
                                         text += f"\n### Sheet: {sheet}\n{df.head(100).to_markdown(index=False)}\n"
                                     except ImportError:
-                                        # Fallback if tabulate is not installed
                                         text += f"\n### Sheet: {sheet}\n{df.head(100).to_csv(index=False)}\n"
                                 if text.strip():
                                     extracted_content[url] = text
-                except Exception as e:
-                    print(f"Failed to extract {url}: {e}")
-                    
+                    except Exception as e:
+                        print(f"    -> Failed to extract Excel {url}: {e}")
     except Exception as e:
         print(f"Error processing auxiliary links: {e}")
         
@@ -73,25 +128,30 @@ async def process_auxiliary_files(html, base_url):
 # load URLs from Excel file
 base_dir = os.path.dirname(os.path.abspath(__file__))
 file_path = os.path.join(base_dir, "..", "Relevant URLs.xlsx")
-url_list = pd.read_excel(file_path, header=None)[0].dropna().astype(str).tolist()
-url_list = [url for url in url_list if url.startswith('http')]
-url_test = url_list
+try:
+    url_list = pd.read_excel(file_path, header=None)[0].dropna().astype(str).tolist()
+    url_list = [url for url in url_list if url.startswith('http')]
+    url_test = url_list
+except Exception as e:
+    print(f"Could not load URLs from excel: {e}")
+    url_test = []
 
 async def main():
+    if not url_test:
+        return
+        
     #Define the Scorer
     grant_scorer = KeywordRelevanceScorer(
-        keywords=["incentive", "grant", "funding", "assistance", "opportunity", "application", "eligibility", "rebate"], 
+        keywords= PDF_KEYWORDS, 
         weight=0.8
     )
     #Define the Filters
     seo_filter = SEOFilter(threshold=0.3, 
-                           keywords=["rebate", "incentive", "grant", "funding",
-                                      "assistance", "opportunity", "application", "eligibility"]  # Keywords to look for in SEO metadata
+                           keywords= PDF_KEYWORDS  # Keywords to look for in SEO metadata
     )
     strategy = BestFirstCrawlingStrategy(
-        max_depth=2,
+        max_depth=3,
         include_external=False,
-        #check_robots_txt=False,
         url_scorer=grant_scorer,
         filter_chain=FilterChain([seo_filter]),
     )
@@ -100,7 +160,6 @@ async def main():
         scraping_strategy=LXMLWebScrapingStrategy(),
         cache_mode=CacheMode.BYPASS,
     )
-    # from Analyzer_crawl import analyze_document
     results = []
     base_dir = os.path.dirname(os.path.abspath(__file__))
     progress_file = os.path.join(base_dir, "crawled_urls.txt")
@@ -125,18 +184,15 @@ async def main():
                     url_r = getattr(r, 'url', 'Unknown URL')
                     metadata = getattr(r, 'metadata', {})
                     
-                    # Check for success and HTTP 200 OK
-                    status_code = getattr(r, 'status_code', 200) # Default to 200 if missing for some reason
+                    status_code = getattr(r, 'status_code', 200)
                     if getattr(r, 'success', False) and status_code == 200:
                         results.append(r)
                         score = metadata.get("score", 0)
                         depth = metadata.get("depth", 0)
                         print(f"Depth: {depth} | Score: {score:.2f} | ✅ Crawled: {url_r}")
                         
-                        # Output scraped information as requested by the user
                         scraped_text = ""
                         if hasattr(r, 'markdown') and r.markdown:
-                            # Try to use fit_markdown (core content) to reduce boilerplate links
                             try:
                                 scraped_text = str(r.markdown._markdown_result.fit_markdown)
                                 if not scraped_text.strip():
@@ -146,48 +202,36 @@ async def main():
                         elif hasattr(r, 'html') and r.html:
                             scraped_text = str(r.html)
                         
-                        # Define the output directory
                         output_dir = os.path.join(base_dir, "scraped_data")
                         if not os.path.exists(output_dir):
                             os.makedirs(output_dir)
                             
-                        # Create a unique filename for each URL to avoid massive files and duplication
-                        import hashlib
+                        # Extract auxiliary files (PDFs, Excels) found on the page
+                        aux_content = await process_auxiliary_files(getattr(r, 'html', ''), url_r)
+                        for aux_url, aux_text in aux_content.items():
+                            scraped_text += f"\n\n--- EMBEDDED FILE CONTENT: {aux_url} ---\n\n{aux_text}\n"
+
                         url_hash = hashlib.md5(url_r.encode('utf-8')).hexdigest()[:8]
-                        
-                        # Extract the filename or domain to keep filenames clean
                         if url_r.startswith("file://"):
                             safe_domain = os.path.basename(urlparse(url_r).path).replace(".html", "").replace(".htm", "")
                         else:
                             domain = urlparse(url_r).netloc
                             safe_domain = domain.replace(".", "_")
                             
-                        # Format: domain_hash.md
                         filename = f"{safe_domain}_{url_hash}.md"
                         file_path_out = os.path.join(output_dir, filename)
                         
-                        # Extract auxiliary files (PDFs, Excels) found on the page
-                        aux_content = await process_auxiliary_files(getattr(r, 'html', ''), url_r)
-                        for aux_url, aux_text in aux_content.items():
-                            scraped_text += f"\n\n--- EMBEDDED FILE CONTENT: {aux_url} ---\n\n{aux_text}\n"
-                        
-                        # Use write mode ("w") instead of append ("a") to prevent duplication on multiple runs
                         with open(file_path_out, "w", encoding="utf-8") as f:
                             f.write(f"--- SOURCE: {url_r} ---\n\n")
                             f.write(scraped_text)
                         print(f"Saved content to: {file_path_out}")
                         
-                        # IMMEDIATELY ANALYZE (Commented out to run scraper separately)
-                        #if scraped_text.strip():
-                            #analyze_document(url_r, scraped_text)
             except Exception as e:
                 print(f"Error crawling {url}: {e}")
             
-            # --- SAVE PROGRESS ---
-            # Mark this URL as completed in the progress file
             with open(progress_file, "a", encoding="utf-8") as f:
                 f.write(url + "\n")
-    # 5. Analyze the results
+
     if not results:
         print("\nNo high-value pages were successfully crawled.")
         return
@@ -198,7 +242,6 @@ async def main():
     
     avg_score = sum(getattr(r, 'metadata', {}).get('score', 0) for r in results) / len(results)
     print(f"Average relevance score: {avg_score:.2f}")
-    # Group by depth
     depth_counts = {}
     for r in results:
         d = getattr(r, 'metadata', {}).get('depth', 0)

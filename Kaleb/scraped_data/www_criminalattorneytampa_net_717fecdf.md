@@ -1,0 +1,194 @@
+--- SOURCE: https://www.criminalattorneytampa.net ---
+
+[× Close Video](https://www.criminalattorneytampa.net/)
+  * Call Today - Available 24/7: **813.228.7095** [Tap Here to Call Us ](tel:+1-813-228-7095)
+
+
+[![Logo of Hanlon Law](https://www.criminalattorneytampa.net/images/justia-criminalattorneytampa-net.png)Hanlon Law Home](https://www.criminalattorneytampa.net/ "Back to Home")
+[Contact Hanlon Law](https://www.criminalattorneytampa.net/contact-us.html)
+  * [Home](https://www.criminalattorneytampa.net/)
+  * [Our Firm](https://www.criminalattorneytampa.net/firm-overview.html)
+  * [Attorney Profiles](https://www.criminalattorneytampa.net/attorney-profiles.html)
+    * [William Hanlon ](https://www.criminalattorneytampa.net/william-hanlon.html)
+    * [Nick Chotos ](https://www.criminalattorneytampa.net/nick-chotos.html)
+    * [Blair Jackson ](https://www.criminalattorneytampa.net/blair-jackson.html)
+    * [Caleb Robinson ](https://www.criminalattorneytampa.net/caleb-robinson.html)
+  * [Practice Areas](https://www.criminalattorneytampa.net/criminal-defense.html)
+  * [Testimonials](https://www.criminalattorneytampa.net/testimonials.html)
+  * [Blog](https://www.criminalattorneytampa.net/blog/)
+  * [University Student?](https://www.criminalattorneytampa.net/college-campus-crimes.html)
+  * [Contact Us ](https://www.criminalattorneytampa.net/contact-us.html)
+  * [More](https://www.criminalattorneytampa.net/)
+    * [Home](https://www.criminalattorneytampa.net/)
+    * [Our Firm](https://www.criminalattorneytampa.net/firm-overview.html)
+    * [Attorney Profiles](https://www.criminalattorneytampa.net/attorney-profiles.html)
+    * [Practice Areas](https://www.criminalattorneytampa.net/criminal-defense.html)
+    * [Testimonials](https://www.criminalattorneytampa.net/testimonials.html)
+    * [Blog](https://www.criminalattorneytampa.net/blog/)
+    * [University Student?](https://www.criminalattorneytampa.net/college-campus-crimes.html)
+    * [Contact Us ](https://www.criminalattorneytampa.net/contact-us.html)
+
+
+![Criminal Defense Attorney in Tampa, Florida](https://www.criminalattorneytampa.net/images/slides/01/1300.jpg)
+**YOUR FUTURE** **IS ALL THAT** **MATTERS**
+[VIEW OUR OFFICE LOCATIONS](https://www.criminalattorneytampa.net/our-locations.html)
+[![play arrow](https://www.criminalattorneytampa.net/images/play-arrow.png) PLAY VIDEO](https://youtu.be/36nxn5Xg3cc)
+[![play arrow](https://www.criminalattorneytampa.net/images/play-arrow.png) PLAY VIDEO](https://youtu.be/36nxn5Xg3cc)
+![Expertise badge](https://www.criminalattorneytampa.net/jshared/img/icons/spinner.svg)
+![Avvo Rating badge](https://www.criminalattorneytampa.net/jshared/img/icons/spinner.svg)
+![Expertise Best Criminal Defense Attorneys in St. Petersburg](https://www.criminalattorneytampa.net/images/badges/01/05.png)
+![The National Trial Lawyers Top 100](https://www.criminalattorneytampa.net/images/badges/01/06.png)
+![Avvo Rating badge](https://www.criminalattorneytampa.net/images/badges/01/01.png)
+![NACDL badge](https://www.criminalattorneytampa.net/images/badges/01/02.png)
+![Expertise badge](https://www.criminalattorneytampa.net/images/badges/01/03.png)
+![Avvo Rating badge](https://www.criminalattorneytampa.net/images/badges/01/04.png)
+![Expertise Best Criminal Defense Attorneys in St. Petersburg](https://www.criminalattorneytampa.net/images/badges/01/05.png)
+![The National Trial Lawyers Top 100](https://www.criminalattorneytampa.net/images/badges/01/06.png)
+![Avvo Rating badge](https://www.criminalattorneytampa.net/jshared/img/icons/spinner.svg)
+![NACDL badge](https://www.criminalattorneytampa.net/jshared/img/icons/spinner.svg)
+![Expertise badge](https://www.criminalattorneytampa.net/jshared/img/icons/spinner.svg)
+![Avvo Rating badge](https://www.criminalattorneytampa.net/jshared/img/icons/spinner.svg)
+![Expertise Best Criminal Defense Attorneys in St. Petersburg](https://www.criminalattorneytampa.net/jshared/img/icons/spinner.svg)
+![The National Trial Lawyers Top 100](https://www.criminalattorneytampa.net/jshared/img/icons/spinner.svg)
+# Tampa Criminal Defense Attorney
+The Hanlon Law Firm
+![Tampa Criminal Defense Lawyer The Hanlon Law Firm](https://www.criminalattorneytampa.net/photos/will-hanlon-picture.jpg)
+## Criminal Defense Lawyer in Tampa, FL
+Having represented defendants in state and federal courts for over two decades, Attorney Will Hanlon has the legal knowledge and the courtroom skills to aggressively defend the rights of people who have been accused of a wide range of offenses under Florida and federal laws. When Hanlon Law accepts a case, we devote ourselves to exploring every possible way to protect a client’s future. Based in the Tampa area, criminal defense lawyer Will Hanlon knows how frightening it is to be accused of a crime, and he understands that a conviction may have consequences beyond any specific penalty that is imposed. Even after a sentence has been served, a criminal conviction may affect the defendant’s ability to hold a job, get an educational degree, or exercise rights like owning a firearm. If you need a [sex crime](https://www.criminalattorneytampa.net/sex-crimes.html) lawyer or are facing charges related to drug crimes, acts of domestic violence or other violent crimes, theft offenses, white collar crimes, or more, we are ready to fight for you to the fullest extent of the law.
+### Sex Crimes
+Under Florida law, there are three main categories of sex crimes: lewd or lascivious acts, sexual battery and rape, and unlawful sex with a minor. In determining how to charge a defendant in a certain case, the State considers the ages of the defendant and the alleged victim, as well as the type of sexual activity that supposedly occurred between them. The State has the burden of proving each and every element of a crime beyond a reasonable doubt. Depending on the charge, a defendant may face decades or even life in prison if they are convicted, so it is critical to explore every possible way to attack the charges.
+In some situations, the consent of the alleged victim or their closeness in age to the defendant may be a viable defense to a sex crime accusation, or at least it may provide a way to keep the defendant’s name off the sex offender registry. Many of these cases hinge on whether the defendant or the alleged victim presents a more convincing account of how events unfolded. The knowledgeable Tampa criminal defense lawyers can help gather evidence on your behalf and make sure that your voice is heard.
+### Drug Crimes
+The State of Florida criminalizes the possession, sale, and trafficking of certain controlled substances like [marijuana](https://www.criminalattorneytampa.net/marijuana.html), [methamphetamine](https://www.criminalattorneytampa.net/meth.html), cocaine, opiates, and [prescription drugs](https://www.criminalattorneytampa.net/prescription-fraud.html). (Under Florida’s recently enacted medical marijuana statute, a defendant may be able to defeat a state charge of illegal marijuana possession in some circumstances, but federal law does not recognize an exception for people who use cannabis for medical purposes).
+The penalty associated with a conviction of a [drug crime](https://www.criminalattorneytampa.net/drug-crimes.html) is largely dependent upon the amount of illegal drugs at issue, with larger quantities often leading to an inference that the defendant was selling or trafficking rather than merely possessing the drugs for their personal use.
+Since evidence that was improperly obtained is excluded from the jury’s consideration, a useful defense in a drug crime case may be that the police conducted an illegal search or seizure in violation of the defendant’s rights under the Fourth Amendment to the U.S. Constitution. Unless a certain exception applies, the police need a warrant supported by probable cause to search your property and take evidence from it, such as the drugs themselves. If they do not have a warrant, your attorney may be able to bring a motion to suppress the evidence obtained from the search. Without being able to use the drugs or other evidence, the State’s case is more likely to fail, or the charge may be reduced to a charge that carries lighter penalties.
+### Domestic Violence and Other Violent Crimes
+Accusations of domestic violence are taken very seriously in Florida. A conviction may result in harsh consequences that often include jail time, participation in an intervention program for batterers, the loss of the right to own a firearm or hold a concealed carry permit, expulsion from the family home, or deportation in situations involving foreign nationals. While the police typically act swiftly in arresting someone who is accused of domestic violence, the situation often turns out to be less straightforward than it appeared in the heat of the moment. Sometimes an alleged victim will make a false accusation to gain an advantage in a family law matter, for example, or the defendant may have been responding in self-defense to violent actions by the person making the accusation.
+We also provide representation against other charges of violent crimes, such as [aggravated assault](https://www.criminalattorneytampa.net/aggravated-assault.html), [homicide](https://www.criminalattorneytampa.net/homicide.html), or [weapons offenses](https://www.criminalattorneytampa.net/gun-crimes.html), all of which are treated severely under Florida laws. Minimum mandatory sentences often apply in these cases, and vigorous legal representation is critical to making sure that your rights are properly asserted. Too much is at stake in these situations to take chances or leave stones unturned. In many of these cases, the prosecution must prove a certain level of intent in addition to the fact that the defendant committed certain acts. This can be challenging to show if the defense can undermine the credibility of the prosecution’s witnesses, provide compelling testimony from other witnesses, or a combination. In other situations, a defense attorney may be able to establish an alibi, showing that the defendant could not have committed the alleged crime because they were not in the place where it was committed when it was committed. These are just some examples of ways to fight criminal charges, and the strategy in your case will depend on its specific details.
+### Consult an Aggressive Criminal Defense Attorney in the Tampa Area
+If you are facing criminal charges, you can expect that the prosecuting attorney will be carefully compiling a case against you. You deserve representation from a lawyer who will put just as much effort and ingenuity into protecting your future. To contact knowledgeable Tampa criminal defense attorney Will Hanlon, call us at 813-228-7095 or [contact us](https://www.criminalattorneytampa.net/contact-us.html) online. Hanlon Law is here to advocate for people throughout the Tampa Bay region who need a [domestic violence](https://www.criminalattorneytampa.net/domestic-violence-charges.html) attorney or representation against allegations of drug crimes, sex offenses, assault, theft, firearms offenses, or other charges.
+[Learn More](https://www.criminalattorneytampa.net/#text-container-01)
+#### Time is Of The Essence
+Hanlon Law knows that time is of the essence, we move quickly to protect your future.
+[Watch Video](https://www.youtube.com/watch?v=RpQ5BBa67rg)
+#### Experience
+With over 20 years of experience, we focus solely on Criminal Law and Injunctions.
+[Meet Our Attorneys](https://www.criminalattorneytampa.net/attorney-profiles.html)
+#### Client Relations
+“Mr. Hanlon has the confidence and experience you need when dealing with possible criminal charges.”
+[View Testimonials](https://www.criminalattorneytampa.net/testimonials.html)
+#### [Practice Areas](https://www.criminalattorneytampa.net/criminal-defense.html)
+  * [**Sex Crimes**](https://www.criminalattorneytampa.net/sex-crimes.html)
+  * [**Aggravated Assault**](https://www.criminalattorneytampa.net/aggravated-assault.html)
+  * [**Domestic Violence**](https://www.criminalattorneytampa.net/domestic-violence-charges.html)
+  * [**Drug Crimes**](https://www.criminalattorneytampa.net/drug-crimes.html)
+  * [**DUI Defense**](https://www.criminalattorneytampa.net/dwi-and-dui.html)
+  * [**Theft**](https://www.criminalattorneytampa.net/theft.html)
+  * [**Gun Crimes**](https://www.criminalattorneytampa.net/gun-crimes.html)
+  * [**White Collar Crimes**](https://www.criminalattorneytampa.net/white-collar-crimes.html)
+  * [**View More**](https://www.criminalattorneytampa.net/criminal-defense.html)
+
+
+#### Informational Videos
+[ **Criminal Defense** ](https://www.youtube.com/watch?v=RpQ5BBa67rg)
+[ **Sex Crimes** ](https://www.youtube.com/watch?v=zPSR-DELgZ0)
+[ **Drug Crimes** ](https://www.youtube.com/watch?v=E4ai1wVbG50)
+[ **DUI / DWI** ](https://www.youtube.com/watch?v=bHEpKFzH9vI)
+[View More](https://www.criminalattorneytampa.net/videos.html)
+#### Client Reviews
+★★★★★
+EXCELLENT DEFENSE ATTORNEY  
+I retained Mr. Hanlon for two cases... He handled both cases very quickly and without me present. The end result was all three charges on two separate cases were dismissed. I couldn't be more pleased with the service I received from Mr. Hanlon.  - Ashley
+★★★★★
+TOP NOTCH ATTORNEY  
+Excellent attorney! Will handled my petty theft case with the utmost professionalism and kept me informed of my options and choices every step of the way. The evidence was highly circumstantial and predatory, but luckily the whole case was null processed. I highly recommend Will because of his expertise and knowledge.  - Criminal Defense Client
+★★★★★
+SUCCESSFUL REDUCTION OF MY CHARGE  
+Mr. Hanlon was extremely professional in handling my DUI case. His office was very helpful in answering all my questions. I was so pleased when he reduced my charge from a DUI to Reckless Driving. It was a weight off my shoulders. I would highly recommend him for any DUI case based on his high success rate in reducing the charges. Thanks again Mr. Hanlon.  - Steve
+  * 1
+  * 2
+  * 3
+
+
+[View More](https://www.criminalattorneytampa.net/testimonials.html)
+[Submit a Law Firm Client Review](https://www.criminalattorneytampa.net/submit-a-law-firm-review-testimonial.html)
+## Child Abuse Lawyer in Tampa, FL
+As a [child abuse lawyer in Tampa, Florida](https://www.criminalattorneytampa.net/child-abuse.html), my passion and focus is advocating for children who have been abused or neglected. I understand the devastating impact that abuse can have on a child's physical, emotional, and mental wellbeing. My mission is to ensure that these children receive the justice and support they need to heal and move forward. Whether it's seeking compensation for medical expenses or fighting for custody of a child, I am dedicated to fighting for the best interests of my clients. I believe that every child deserves a safe and loving environment, and I am committed to making that a reality for my clients in Tampa and the surrounding communities. If you have been [wrongfully accused of aggravated child abuse](https://www.criminalattorneytampa.net/child-abuse.html), we are also here to help you with your case.
+## Student Legal Services Lawyer in Tampa, FL
+Hanlon Law’s [student legal services in Tampa, Florida](https://www.criminalattorneytampa.net/college-campus-crimes.html) provides reliable and affordable legal representation to college students facing legal issues. Our attorney team is dedicated to ensuring that students have access to quality legal services, regardless of their financial status. We understand that legal issues can cause stress and anxiety, which can negatively affect success in school. Therefore, we are committed to helping students navigate their legal challenges while protecting their rights and guiding them towards a successful outcome. We handle a variety of legal matters, including landlord disputes, employment issues, criminal charges, and much more. If you are a [student in need of legal assistance](https://www.criminalattorneytampa.net/college-campus-crimes.html), contact us today for a consultation.
+## Domestic Violence Lawyer in Tampa, FL
+At our [domestic violence charges law firm in Tampa, Florida](https://www.criminalattorneytampa.net/domestic-violence-charges.html), we understand that being charged with domestic violence can be a traumatizing and stressful experience. Our experienced criminal defense attorneys are dedicated to protecting our clients' rights and vigorously defending them against these challenging charges. We work closely with our clients to understand their specific situations and build a strong defense to achieve the best possible outcome. Our team understands the unique challenges of domestic violence cases, including the emotional toll they can take on everyone involved. We approach each case with empathy and understanding, working to achieve a positive resolution with minimal disruption to our clients' lives. If you are facing domestic violence charges in Tampa, Florida, our legal team is here to help you navigate this difficult time, and we will fight tirelessly on your behalf. If you or someone you know is a victim of domestic violence, [read this article](https://www.criminalattorneytampa.net/domestic-violence-charges.html) about how you can obtain a protective order.
+## Driving on a Suspended License Lawyer in Tampa, FL
+If you are [facing charges for driving on a suspended license in Tampa, Florida](https://www.criminalattorneytampa.net/driving-while-license-suspended.html), then you need a skilled and experienced attorney on your side. This offense can result in severe penalties, including fines, jail time, and a further suspension of your license. At our law firm, we understand the seriousness of these [license suspension charges](https://www.criminalattorneytampa.net/driving-while-license-suspended.html) and are prepared to fight tirelessly on your behalf. Our team of attorneys has years of experience representing clients facing these charges, and we are committed to using our knowledge and expertise to get the best possible outcome for you. We will work with you to understand the circumstances of your case, assess your legal options, and develop a robust defense strategy to protect your rights and your future. Contact us today to schedule a consultation and let us fight for you.
+## Drug Crime Lawyer in Tampa, FL
+As a leading [drug crime lawyer firm in Tampa, FL](https://www.criminalattorneytampa.net/drug-crimes.html), we understand the complexities and seriousness of drug-related offenses. We have years of experience in representing clients who have been charged with drug-related felonies and misdemeanors. We recognize that being [accused of a drug crime](https://www.criminalattorneytampa.net/drug-crimes.html) can bring a great deal of uncertainty and anxiety into your life. Our approach is to work closely with our clients to ensure that they receive the best possible legal defense. We offer compassionate and personal service, and we always keep our clients informed throughout the process. Our track record of success speaks for itself – if you are facing a drug-related offense in Tampa, FL, trust our team for the legal representation you need.
+## Cocaine Trafficking Lawyer in Tampa, FL
+As a [cocaine trafficking lawyer in Tampa, Florida](https://www.criminalattorneytampa.net/cocaine-trafficking.html), our priority is to defend those who have been charged with drug trafficking offenses. We understand that facing drug trafficking charges can be a stressful and overwhelming experience, with the potential for serious legal consequences. We have experience defending against [trafficking offenses involving cocaine](https://www.criminalattorneytampa.net/cocaine-trafficking-mandatory-minimums.html) and other drugs, and we work tirelessly to provide our clients with the strongest possible defense. We will explore every legal option available to help protect your rights and achieve the best possible outcome for your case. If you have been charged with cocaine trafficking in Tampa, Florida, don't hesitate to contact our team for a consultation.
+## Drug Trafficking Lawyer in Tampa, FL
+If you are facing [drug trafficking charges in Tampa](https://www.criminalattorneytampa.net/drug-trafficking.html), it is crucial to have an experienced and knowledgeable attorney on your side. Drug trafficking is a serious offense that can carry significant consequences, including lengthy prison sentences and high fines. At our law firm, we are dedicated to protecting the rights of our clients and ensuring that they receive fair and just treatment in the criminal justice system. Our attorneys have years of experience handling [drug trafficking cases](https://www.criminalattorneytampa.net/drug-crimes.html) and are well-versed in the complicated rules and regulations surrounding drug-related charges. We will work tirelessly to build a solid defense strategy for your case and fight for the best possible outcome. Contact our Tampa drug trafficking lawyers today to schedule a consultation and discuss your case in detail.
+## Marijuana Charges Lawyer in Tampa, FL
+If you are facing [marijuana charges in Tampa, Florida](https://www.criminalattorneytampa.net/marijuana.html), it is essential to find a reputable and experienced marijuana charges lawyer to represent you. The laws regarding marijuana possession, cultivation, and distribution can be confusing, and it is important to have a legal professional who knows the ins and outs of these complex regulations. Our [Tampa-based marijuana charges lawyers](https://www.criminalattorneytampa.net/drug-crimes.html) have successfully defended numerous clients facing charges ranging from possession to trafficking. We provide aggressive defense strategies tailored to each client's specific case and work tirelessly to protect our clients' rights and freedoms. Don't let a marijuana charge ruin your life - contact our team of experienced attorneys for a consultation today.
+## Meth Charges Lawyer in Tampa, FL
+At our law firm in Tampa, Florida, we understand the seriousness of [methamphetamine charges](https://www.criminalattorneytampa.net/meth.html) and the impact they can have on your life. Whether you are facing possession, sale, manufacturing, or trafficking charges, we are here to provide you with aggressive and effective legal representation. We have a proven track record of [defending clients against methamphetamine charges](https://www.criminalattorneytampa.net/drug-crimes.html) and helping them navigate the complexities of the legal system. Our legal team will carefully review your case and work tirelessly to build a strong defense strategy that is tailored to your unique situation. We will advocate for your rights and fight to minimize the consequences of your charges. Contact us today for a consultation and take the first step towards protecting your future.
+## Prescription Fraud Lawyer in Tampa, FL
+[Prescription fraud](https://www.criminalattorneytampa.net/prescription-fraud.html) is a serious charge that could lead to severe legal consequences, including fines, imprisonment, and damage to your professional reputation. As a prescription fraud lawyer in Tampa, Florida, our team has years of experience handling such cases successfully. We understand the complexity of these cases and provide a thorough and careful review of the evidence before crafting a winning defense strategy for our clients. Whether you are a doctor, pharmacist, or patient, we will passionately represent you in court and help protect your rights. Don't let a [prescription fraud charge](https://www.criminalattorneytampa.net/drug-crimes.html) ruin your life; contact us today for a free consultation to discuss your defense options.
+## DUI Lawyer in Tampa, FL
+If you are charged with [driving under the influence (DUI) in Tampa, Florida](https://www.criminalattorneytampa.net/dwi-and-dui.html), you need a competent attorney who can fight for your rights and protect your future. At our law firm, we specialize in DUI defense and are dedicated to helping you navigate the legal system. We understand the [severity of a DUI charge](https://www.criminalattorneytampa.net/dwi-and-dui.html) and the impact it can have on your personal and professional life. Our experienced attorneys will work diligently to build a strong defense and ensure your rights are protected throughout the process. We will explore every legal avenue to reduce or dismiss your charges, and we will always provide honest and open communication about the possible outcomes of your case. Contact us today for a free consultation and see how we can assist you with your DUI defense case.
+## Injunction Lawyer in Tampa, FL
+If you are looking for an experienced and reliable [injunction lawyer in Tampa, Florida](https://www.criminalattorneytampa.net/injunctions.html), look no further than our team at Hanlon Law. Our lawyers specialize in helping clients obtain and defend injunctions, also known as restraining orders, in a variety of circumstances. Whether you need [protection from stalking](https://www.criminalattorneytampa.net/domestic-violence-charges.html), domestic violence, or harassment, we can advise you on the best course of action to take and help you obtain the necessary court orders to keep you safe. We understand the sensitive and often emotional nature of these cases and will work closely with you to ensure that your rights and interests are protected. Call us today to schedule a consultation and learn more about how our injunction lawyers can assist you.
+## Leaving the Scene of an Accident Lawyer in Tampa, FL
+[Leaving the scene of an accident](https://www.criminalattorneytampa.net/leaving-the-scene-of-an-accident.html) is a serious crime in Tampa, Florida. If you are facing charges, you need an experienced lawyer on your side who can aggressively defend your rights and protect your interests. At our law firm, we specialize in representing clients who have been [accused of hit and run accidents](https://www.criminalattorneytampa.net/criminal-defense.html). Our skilled attorneys have extensive knowledge of the local courts, judges, and prosecutors, and will work tirelessly to build a strong case in your favor. We understand the stress and uncertainty surrounding hit and run cases, and we are committed to helping you navigate the legal system with confidence and peace of mind. Contact us today to schedule a free consultation and learn more about how we can help you.
+## Probation Violations Lawyer in Tampa, FL
+At our Tampa, Florida-based law firm, we understand the serious impact a [probation violation](https://www.criminalattorneytampa.net/probation-violations.html) can have on your life. Whether you've unintentionally failed to meet the terms of your probation or have been falsely accused, our experienced [probation violation lawyers](https://www.criminalattorneytampa.net/probation-violations.html) are here to defend your rights and help you navigate the legal system. We offer personalized attention to every client and focus on achieving the best possible outcome for your case. Whether it's negotiating with the prosecution or advocating on your behalf in court, we're here to fight for you every step of the way. Don't let a probation violation derail your future – contact us today for a consultation.
+## Reckless Driving Lawyer in Tampa, FL
+If you've been charged with [reckless driving in Tampa, Florida](https://www.criminalattorneytampa.net/reckless-driving.html), you need an experienced and aggressive lawyer on your side. At our law firm, we understand the serious consequences that can come with a reckless driving conviction, including fines, license suspension, and even jail time. Our team of knowledgeable attorneys has a proven track record of successfully defending clients facing [reckless driving charges](https://www.criminalattorneytampa.net/reckless-driving.html), and we are committed to fighting for your rights and securing the best possible outcome for your case. Don't risk your future - contact us today to schedule a consultation and take the first step towards protecting your freedom and your reputation.
+## Sex Crimes Lawyer in Tampa, FL
+As a [sex crime lawyer with experience working in Tampa, Florida](https://www.criminalattorneytampa.net/sex-crimes.html), I understand the severe consequences that can be associated with being charged with a sex crime. These types of charges not only carry the possibility of jail time and fines, but can also result in being placed on the sex offender registry for life, which can have a major impact on a person’s personal and professional life. That’s why it’s critical to have an experienced and knowledgeable sex crime lawyer at your side who will advocate for your rights and work tirelessly to achieve the best possible outcome for your case. If you’ve been [charged with a sex crime](https://www.criminalattorneytampa.net/sex-crimes.html) in Tampa, Florida, don’t delay – reach out to me today for a confidential consultation.
+## Criminal Process Lawyer in Tampa, FL
+At Hanlon Law, our lawyers are [experts in the criminal process in Tampa, Florida](https://www.criminalattorneytampa.net/the-criminal-process.html). We provide exceptional legal representation for clients facing a wide range of criminal charges in Tampa, Florida. Our team of experienced criminal defense attorneys is dedicated to protecting our clients' rights and achieving the best possible outcome for their case. From minor misdemeanors to complex felony charges, we have the knowledge, skills, and resources necessary to build a strong defense on your behalf. We understand the challenges and stress that come with [facing criminal charges](https://www.criminalattorneytampa.net/criminal-defense.html), which is why we work tirelessly to provide our clients with compassionate and focused representation. Whether you are facing charges for DUI, drug offenses, theft, assault, or any other criminal charge, contact The Criminal Process today for a free consultation.
+## Theft Charges Lawyer in Tampa, FL
+If you or someone you know is [facing theft charges in Tampa, Florida](https://www.criminalattorneytampa.net/theft.html), it's crucial to have a skilled and experienced theft charges lawyer by your side. At our law firm, we've represented countless clients facing various types of theft charges, including shoplifting, embezzlement, burglary, and robbery. We understand the severity of these [theft charges](https://www.criminalattorneytampa.net/theft.html) and the potential consequences that come with a conviction. That's why we work tirelessly to investigate the circumstances surrounding the allegations and build a strong defense on your behalf. We believe that everyone deserves a fair trial, and we'll fight aggressively to protect your rights and ensure the best possible outcome for your case. Contact us today for a consultation with a trusted theft charges lawyer in Tampa, Florida.
+## Violent Crimes Lawyer in Tampa, FL
+At our [violent crime law firm in Tampa, Florida](https://www.criminalattorneytampa.net/violent-crimes.html), we understand that being accused of a violent crime can be a terrifying experience. Our experienced attorneys have handled countless cases involving charges such as assault, battery, homicide, and domestic violence. We take a strategic and aggressive approach to every case, ensuring that we explore every option available to protect our clients' legal rights and freedoms. Our team is dedicated to providing personalized assistance to each of our clients, working tirelessly to build a strong defense that will help them achieve a positive outcome in their case. If you are [facing charges for a violent crime](https://www.criminalattorneytampa.net/violent-crimes.html) in Tampa, Florida, contact us today to learn how we can help you protect your future.
+## White Collar Crime Lawyer in Tampa, FL
+Our [white collar crime lawyers in Tampa, Florida](https://www.criminalattorneytampa.net/white-collar-crimes.html) are committed to protecting our clients' rights and fighting for their best interests. With extensive experience in defending individuals and companies accused of [white collar crimes](https://www.criminalattorneytampa.net/white-collar-crimes.html) such as securities fraud, embezzlement, and money laundering, our team has the skills and knowledge necessary to successfully navigate the legal system. We understand the serious consequences that come with a conviction of this nature and work tirelessly to minimize those consequences. If you are facing charges related to a white collar crime, don't hesitate to contact us today for a consultation.
+#### [Tampa Criminal Lawyer Blog](https://www.criminalattorneytampa.net/blog/)
+  * **[ Florida Appellate Court Clarifies Juvenile Probation Jurisdiction and Extensions](https://www.criminalattorneytampa.net/blog/florida-appellate-court-clarifies-juvenile-probation-jurisdiction-and-extensions/) ** Juvenile delinquency proceedings often present unique jurisdictional questions, particularly when courts modify or extend probation following…
+  * **[ Florida Appellate Court Examines Limits of Prosecutorial Authority](https://www.criminalattorneytampa.net/blog/florida-appellate-court-examines-limits-of-prosecutorial-authority/) ** Criminal prosecutions often raise complex questions about the scope of prosecutorial discretion and the constitutional protections afforded to…
+  * **[ Florida Court Discusses Grounds for Reducing Sentences in Drug Crime Cases](https://www.criminalattorneytampa.net/blog/florida-court-discusses-grounds-for-reducing-sentences-in-drug-crime-cases/) ** Sentence-reduction motions under federal law often require courts to balance evolving sentencing reforms with the finality of criminal judgments.…
+
+
+[More»](https://www.criminalattorneytampa.net/blog/ "Tampa Criminal Lawyer Blog")
+[Office Map](https://goo.gl/maps/MFVTL2JB7HE2)
+#### [Contact Us 24/7](https://www.criminalattorneytampa.net/contact-us.html)
+  1. 1 **25 Years of Experience**
+  2. 2 **Successful Track Record**
+  3. 3 **Protecting Your Future**
+
+
+Fill out the contact form or call us at **813.228.7095** or to schedule your consultation.
+Name (Required)  Email (Required)  Phone (Required) 
+Message  Contact Us Now 
+210 N Pierce St
+Tampa, FL 33602 US 
+Phone: 813.228.7095 Fax: 813.400.2372
+[![Facebook Icon](https://justatic.com/v/1/shared/images/icons/social/facebook-flat-64.png)](https://www.facebook.com/hanlonlaw "Facebook")[![Twitter Icon](https://justatic.com/v/1/shared/images/icons/social/twitter-flat-64.png)](https://twitter.com/wwhanlon "Twitter")[![LinkedIn Icon](https://justatic.com/v/1/shared/images/icons/social/linkedin-flat-64.png)](https://www.linkedin.com/in/will-hanlon-7572a6b1/ "LinkedIn")[![Justia Icon](https://justatic.com/v/1/shared/images/icons/social/justia-flat-64.png)](https://lawyers.justia.com/firm/hanlon-law-102860 "Justia")[![Instagram Icon](https://justatic.com/v/1/shared/images/icons/social/instagram-flat-64.png)](https://www.instagram.com/hanlonlawfirm/ "Instagram")
+We serve clients throughout Florida including those in the following localities: Hernando County including Spring Hill; Hillsborough County including Brandon, Riverview, and Tampa;  Pinellas County including Clearwater, Largo, Palm Harbor, Pinellas Park, Seminole, and St. Petersburg; and Pasco County including Dade City, Hudson, and New Port Richey. View More
+[Clearwater Criminal Defense Lawyer Hanlon Law Website](https://www.criminalattorneyclearwater.net/)  
+[St. Petersburg Criminal Lawyer Hanlon Law Website](https://www.stpetersburgcriminalattorney.net/)  
+[Sarasota Criminal Defense Lawyer Hanlon Law Website](https://www.sarasotadefenseattorney.com/)  
+[Bradenton Criminal Defense Lawyer Hanlon Law Website](https://www.criminalattorneybradenton.net/)  
+[Orlando Criminal Defense Lawyer Hanlon Law Website](https://www.criminalattorneyorlando.net/)  
+[Florida Expungement Lawyer Hanlon Law Website](https://www.floridaexpungementlawyer.com/)  
+[Tampa Sex Crimes Lawyer Hanlon Law Website](https://www.tampasexcrimesattorney.com/)
+  * [Home](https://www.criminalattorneytampa.net/)
+  * [Disclaimer](https://www.criminalattorneytampa.net/disclaimer.html)
+  * [Privacy Policy](https://www.criminalattorneytampa.net/privacy-policy.html)
+  * [Site Map](https://www.criminalattorneytampa.net/sitemap.html)
+  * [Contact Us](https://www.criminalattorneytampa.net/contact-us.html)
+
+
+Hanlon Law - Top Tampa Criminal Defense Attorney
+Please do not include any confidential or sensitive information in a contact form, text message, or voicemail. The contact form sends information by non-encrypted email, which is not secure. Submitting a contact form, sending a text message, making a phone call, or leaving a voicemail does not create an attorney-client relationship.
+Copyright © 2026, [ Hanlon Law](https://www.criminalattorneytampa.net/index.html)
+[Justia Law Firm Website Design](https://elevate.justia.com/websites/)

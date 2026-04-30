@@ -1,0 +1,127 @@
+--- SOURCE: https://www.criminalattorneytampa.net/traveling-to-meet-a-minor.html ---
+
+[× Close Video](https://www.criminalattorneytampa.net/traveling-to-meet-a-minor.html)
+  * Call Today - Available 24/7: **813.228.7095** [Tap Here to Call Us ](tel:+1-813-228-7095)
+
+
+[![Logo of Hanlon Law](https://www.criminalattorneytampa.net/images/justia-criminalattorneytampa-net.png)Hanlon Law Home](https://www.criminalattorneytampa.net/ "Back to Home")
+[Contact Hanlon Law](https://www.criminalattorneytampa.net/contact-us.html)
+  * [Home](https://www.criminalattorneytampa.net/)
+  * [Our Firm](https://www.criminalattorneytampa.net/firm-overview.html)
+  * [Attorney Profiles](https://www.criminalattorneytampa.net/attorney-profiles.html)
+    * [William Hanlon ](https://www.criminalattorneytampa.net/william-hanlon.html)
+    * [Nick Chotos ](https://www.criminalattorneytampa.net/nick-chotos.html)
+    * [Blair Jackson ](https://www.criminalattorneytampa.net/blair-jackson.html)
+    * [Caleb Robinson ](https://www.criminalattorneytampa.net/caleb-robinson.html)
+  * [Practice Areas](https://www.criminalattorneytampa.net/criminal-defense.html)
+  * [Testimonials](https://www.criminalattorneytampa.net/testimonials.html)
+  * [Blog](https://www.criminalattorneytampa.net/blog/)
+  * [University Student?](https://www.criminalattorneytampa.net/college-campus-crimes.html)
+  * [Contact Us ](https://www.criminalattorneytampa.net/contact-us.html)
+  * [More](https://www.criminalattorneytampa.net/traveling-to-meet-a-minor.html)
+    * [Home](https://www.criminalattorneytampa.net/)
+    * [Our Firm](https://www.criminalattorneytampa.net/firm-overview.html)
+    * [Attorney Profiles](https://www.criminalattorneytampa.net/attorney-profiles.html)
+    * [Practice Areas](https://www.criminalattorneytampa.net/criminal-defense.html)
+    * [Testimonials](https://www.criminalattorneytampa.net/testimonials.html)
+    * [Blog](https://www.criminalattorneytampa.net/blog/)
+    * [University Student?](https://www.criminalattorneytampa.net/college-campus-crimes.html)
+    * [Contact Us ](https://www.criminalattorneytampa.net/contact-us.html)
+
+
+![Attorney Will Hanlon](https://www.criminalattorneytampa.net/images/backpages/1300.jpg)
+**YOUR FUTURE** **IS ALL THAT** **MATTERS**
+[VIEW OUR OFFICE LOCATIONS](https://www.criminalattorneytampa.net/our-locations.html)
+![Expertise badge](https://www.criminalattorneytampa.net/jshared/img/icons/spinner.svg)
+![Avvo Rating badge](https://www.criminalattorneytampa.net/jshared/img/icons/spinner.svg)
+![Expertise Best Criminal Defense Attorneys in St. Petersburg](https://www.criminalattorneytampa.net/images/badges/01/05.png)
+![The National Trial Lawyers Top 100](https://www.criminalattorneytampa.net/images/badges/01/06.png)
+![Avvo Rating badge](https://www.criminalattorneytampa.net/images/badges/01/01.png)
+![NACDL badge](https://www.criminalattorneytampa.net/images/badges/01/02.png)
+![Expertise badge](https://www.criminalattorneytampa.net/images/badges/01/03.png)
+![Avvo Rating badge](https://www.criminalattorneytampa.net/images/badges/01/04.png)
+![Expertise Best Criminal Defense Attorneys in St. Petersburg](https://www.criminalattorneytampa.net/images/badges/01/05.png)
+![The National Trial Lawyers Top 100](https://www.criminalattorneytampa.net/images/badges/01/06.png)
+![Avvo Rating badge](https://www.criminalattorneytampa.net/jshared/img/icons/spinner.svg)
+![NACDL badge](https://www.criminalattorneytampa.net/jshared/img/icons/spinner.svg)
+![Expertise badge](https://www.criminalattorneytampa.net/jshared/img/icons/spinner.svg)
+![Avvo Rating badge](https://www.criminalattorneytampa.net/jshared/img/icons/spinner.svg)
+![Expertise Best Criminal Defense Attorneys in St. Petersburg](https://www.criminalattorneytampa.net/jshared/img/icons/spinner.svg)
+![The National Trial Lawyers Top 100](https://www.criminalattorneytampa.net/jshared/img/icons/spinner.svg)
+[ Home](https://www.criminalattorneytampa.net/)
+[ Criminal Charges Defense](https://www.criminalattorneytampa.net/criminal-defense.html)
+[ Tampa Sex Crimes Lawyer](https://www.criminalattorneytampa.net/sex-crimes.html)
+Tampa Traveling to Meet a Minor Lawyer
+# Tampa Traveling to Meet a Minor Lawyer
+## Traveling to Meet a Minor Attorney in Tampa, FL
+### Sex Crime Lawyer Representing Residents of Tampa
+The criminal act of “traveling to meet a minor” is a serious offense in Florida. As a second-degree felony, it is punishable by up to 15 years in state prison. However, simply being charged with this or any other crime is not tantamount to a finding of guilty. Depending upon the situation, the State may ultimately be unable to prove guilt beyond a reasonable doubt, or you may be able to assert an effective defense. Tampa [sex crime](https://www.criminalattorneytampa.net/sex-crimes.html) lawyer Will Hanlon has been defending people accused of many different types of sex crimes, drug crimes, and violent crimes for more than 20 years. He is here to help you understand the legal process and explore possible defenses under the facts of your particular case.
+Under Florida Statutes § 847.0135(4), it is unlawful to travel within the State of Florida for the purpose of engaging in unlawful sexual conduct with a child. It is also illegal to travel to Florida or from Florida for this purpose. An “attempt” to travel to meet a minor is also illegal, as is causing someone else to travel to meet a minor or even attempt to do so. It is not a requirement of the statute that the person whom the defendant seeks to meet is actually a minor, as long as the defendant believes that the person is a child based on information obtained from the internet or another electronic data transmission, such as a text message.
+### Defenses to the Crime of Traveling to Meet a Minor
+It is not unusual for law enforcement officers to set up “sting” operations in an attempt to combat the serious problem of pedophiles and child predators. Sometimes, however, the net is cast too widely, and innocent people who had no intent of engaging in criminal conduct get caught up in the operation. Although the mere fact that an undercover operative or law enforcement officer was involved in the detection or investigation of the alleged crime does not constitute a defense to the crime of traveling to meet a minor, the defense of entrapment may apply in some cases. Entrapment may be either subjective or objective, depending upon whether the police allegedly engaged in egregious conduct. In either case, the defendant must be able to offer proof to support the defense.
+Constitutional defenses such as a violation of due process or a failure to advise the defendant of their right to remain silent in custody may also assist a defendant with securing a reduction in the charges brought by the State or possibly having the charges dropped. It is critical that the defendant act quickly in determining any defenses that they may be able to assert because a conviction of the crime of traveling to meet a minor is considered a felony in the second degree in Florida. A second-degree felony is punishable by a term of imprisonment of up to 15 years and a fine of up to $10,000.
+### Schedule a Consultation with a Sex Crime Attorney in Tampa
+A conviction of any felony offense may create lifelong hardships for the defendant, and this is particularly true for sex crimes. A defendant convicted of traveling to meet a minor will probably spend the rest of their life as a registered sex offender, which not only is embarrassing but also has the potential to affect the defendant’s housing and employment opportunities for decades to come. This may happen even if the defendant never laid a hand on a minor and even if there in fact was no minor. Online sex sting operations are becoming increasingly common in the Tampa Bay region and elsewhere. If you have been arrested as part of such an operation or believe that you are under investigation, contact knowledgeable Tampa attorney Will Hanlon at Hanlon Law [online](https://www.criminalattorneytampa.net/contact-us.html) or at 813-228-7095 for a consultation. He can also help people who need a prostitution defensecriminalattorneytampa attorney or assistance in fighting other sex crime charges.
+#### [Contact Us](https://www.criminalattorneytampa.net/contact-us.html)
+Call today: **813.228.7095**
+Name (Required)  Email (Required)  Phone (Required) 
+Message  Contact Us Now 
+#### [Practice Areas](https://www.criminalattorneytampa.net/criminal-defense.html)
+  * **[Tampa Criminal Lawyer](https://www.criminalattorneytampa.net/)**
+  * **[Tampa Child Abuse Lawyer](https://www.criminalattorneytampa.net/child-abuse.html)**
+  * **[Tampa College Campus Crimes Lawyer](https://www.criminalattorneytampa.net/college-campus-crimes.html)**
+  * **[Tampa Domestic Violence Charges Lawyer](https://www.criminalattorneytampa.net/domestic-violence-charges.html)**
+  * **[Tampa Driving While License Suspended Lawyer](https://www.criminalattorneytampa.net/driving-while-license-suspended.html)**
+  * **[Tampa Drug Crimes Lawyer](https://www.criminalattorneytampa.net/drug-crimes.html)**
+  * **[Tampa DWI and DUI Lawyer](https://www.criminalattorneytampa.net/dwi-and-dui.html)**
+  * **[Tampa Injunctions Lawyer](https://www.criminalattorneytampa.net/injunctions.html)**
+  * **[Tampa Leaving the Scene of an Accident Lawyer](https://www.criminalattorneytampa.net/leaving-the-scene-of-an-accident.html)**
+  * **[Tampa Probation Violations Lawyer](https://www.criminalattorneytampa.net/probation-violations.html)**
+  * **[Tampa Reckless Driving Lawyer](https://www.criminalattorneytampa.net/reckless-driving.html)**
+  * **[Tampa Sex Crimes Lawyer](https://www.criminalattorneytampa.net/sex-crimes.html)**
+  * **[The Criminal Process](https://www.criminalattorneytampa.net/the-criminal-process.html)**
+  * **[Tampa Theft Lawyer](https://www.criminalattorneytampa.net/theft.html)**
+  * **[Tampa Violent Crimes Lawyer](https://www.criminalattorneytampa.net/violent-crimes.html)**
+  * **[Tampa White Collar Crimes Lawyer](https://www.criminalattorneytampa.net/white-collar-crimes.html)**
+
+
+#### Client Reviews
+★★★★★
+EXCELLENT DEFENSE ATTORNEY  
+I retained Mr. Hanlon for two cases... He handled both cases very quickly and without me present. The end result was all three charges on two separate cases were dismissed. I couldn't be more pleased with the service I received from Mr. Hanlon.  - Ashley
+★★★★★
+TOP NOTCH ATTORNEY  
+Excellent attorney! Will handled my petty theft case with the utmost professionalism and kept me informed of my options and choices every step of the way. The evidence was highly circumstantial and predatory, but luckily the whole case was null processed. I highly recommend Will because of his expertise and knowledge.  - Criminal Defense Client
+★★★★★
+SUCCESSFUL REDUCTION OF MY CHARGE  
+Mr. Hanlon was extremely professional in handling my DUI case. His office was very helpful in answering all my questions. I was so pleased when he reduced my charge from a DUI to Reckless Driving. It was a weight off my shoulders. I would highly recommend him for any DUI case based on his high success rate in reducing the charges. Thanks again Mr. Hanlon.  - Steve
+  * 1
+  * 2
+  * 3
+
+
+[View More](https://www.criminalattorneytampa.net/testimonials.html)
+[Submit a Law Firm Client Review](https://www.criminalattorneytampa.net/submit-a-law-firm-review-testimonial.html)
+210 N Pierce St
+Tampa, FL 33602 US 
+Phone: 813.228.7095 Fax: 813.400.2372
+[![Facebook Icon](https://justatic.com/v/1/shared/images/icons/social/facebook-flat-64.png)](https://www.facebook.com/hanlonlaw "Facebook")[![Twitter Icon](https://justatic.com/v/1/shared/images/icons/social/twitter-flat-64.png)](https://twitter.com/wwhanlon "Twitter")[![LinkedIn Icon](https://justatic.com/v/1/shared/images/icons/social/linkedin-flat-64.png)](https://www.linkedin.com/in/will-hanlon-7572a6b1/ "LinkedIn")[![Justia Icon](https://justatic.com/v/1/shared/images/icons/social/justia-flat-64.png)](https://lawyers.justia.com/firm/hanlon-law-102860 "Justia")[![Instagram Icon](https://justatic.com/v/1/shared/images/icons/social/instagram-flat-64.png)](https://www.instagram.com/hanlonlawfirm/ "Instagram")
+We serve clients throughout Florida including those in the following localities: Hernando County including Spring Hill; Hillsborough County including Brandon, Riverview, and Tampa;  Pinellas County including Clearwater, Largo, Palm Harbor, Pinellas Park, Seminole, and St. Petersburg; and Pasco County including Dade City, Hudson, and New Port Richey. View More
+[Clearwater Criminal Defense Lawyer Hanlon Law Website](https://www.criminalattorneyclearwater.net/)  
+[St. Petersburg Criminal Lawyer Hanlon Law Website](https://www.stpetersburgcriminalattorney.net/)  
+[Sarasota Criminal Defense Lawyer Hanlon Law Website](https://www.sarasotadefenseattorney.com/)  
+[Bradenton Criminal Defense Lawyer Hanlon Law Website](https://www.criminalattorneybradenton.net/)  
+[Orlando Criminal Defense Lawyer Hanlon Law Website](https://www.criminalattorneyorlando.net/)  
+[Florida Expungement Lawyer Hanlon Law Website](https://www.floridaexpungementlawyer.com/)  
+[Tampa Sex Crimes Lawyer Hanlon Law Website](https://www.tampasexcrimesattorney.com/)
+  * [Home](https://www.criminalattorneytampa.net/)
+  * [Disclaimer](https://www.criminalattorneytampa.net/disclaimer.html)
+  * [Privacy Policy](https://www.criminalattorneytampa.net/privacy-policy.html)
+  * [Site Map](https://www.criminalattorneytampa.net/sitemap.html)
+  * [Contact Us](https://www.criminalattorneytampa.net/contact-us.html)
+
+
+Traveling to Meet a Minor Allegations | Hanlon Law
+Please do not include any confidential or sensitive information in a contact form, text message, or voicemail. The contact form sends information by non-encrypted email, which is not secure. Submitting a contact form, sending a text message, making a phone call, or leaving a voicemail does not create an attorney-client relationship.
+Copyright © 2026, [ Hanlon Law](https://www.criminalattorneytampa.net/index.html)
+[Justia Law Firm Website Design](https://elevate.justia.com/websites/)

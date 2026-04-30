@@ -1,0 +1,986 @@
+--- SOURCE: https://www.pa.gov/agencies/dhs/about/councils-committees/maac ---
+
+[ Skip to agency navigation ](https://www.pa.gov/agencies/dhs/about/councils-committees/maac#agencynav)
+[ Skip to main content ](https://www.pa.gov/agencies/dhs/about/councils-committees/maac#content)
+![Commonwealth of Pennsylvania ; Home](https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/bannerimage.png)
+Official website
+Official website
+of the Commonwealth of Pennsylvania
+[ ![Commonwealth of Pennsylvania | Home](https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/CoPA%20Logo%20-%20Horizontal%20Lockup%201.svg) ](https://www.pa.gov/)
+Translate
+  * [ Services ](https://www.pa.gov/services)
+  * [ Agency Directory ](https://www.pa.gov/agencies)
+  * Your Government
+    * [The Governor ](https://www.pa.gov/governor)
+    * [Lt. Governor ](https://www.pa.gov/ltgovernor)
+    * [Legislation (opens in a new tab)](https://www.palegis.us/)
+    * [Courts (opens in a new tab)](https://www.pacourts.us/)
+    * [State House (opens in a new tab)](https://www.palegis.us/house)
+    * [State Senate (opens in a new tab)](https://www.palegis.us/senate)
+    * [Attorney General (opens in a new tab)](https://www.attorneygeneral.gov/)
+    * [Auditor General (opens in a new tab)](https://www.paauditor.gov/)
+    * [Treasurer (opens in a new tab)](https://www.patreasury.gov/)
+  * [ Visit PA (opens in a new tab)](https://visitpa.com/)
+  * [ News (opens in a new tab)](https://pacast.com/)
+
+
+## The .gov means it's official. 
+Local, state, and federal government websites often end in .gov. Commonwealth of Pennsylvania government websites and email systems use "pennsylvania.gov" or "pa.gov" at the end of the address. Before sharing sensitive or personal information, make sure you're on an official state website. 
+##  [Department of Human Services](https://www.pa.gov/agencies/dhs)
+  * [About ](https://www.pa.gov/agencies/dhs/about)
+    * [Benefits Explained ](https://www.pa.gov/agencies/dhs/about/benefits-explained)
+    * [Councils & Committees ](https://www.pa.gov/agencies/dhs/about/councils-committees)
+      * [Consumer Subcommittee ](https://www.pa.gov/agencies/dhs/about/councils-committees/consumer-subcommittee)
+      * [Developmental Disabilities Council ](https://www.pa.gov/agencies/dhs/about/councils-committees/developmental-disabilities-council)
+      * [Doula Advisory Board ](https://www.pa.gov/agencies/dhs/about/councils-committees/doula-advisory-board)
+      * [​Drug Utilization Review (DUR) Board ](https://www.pa.gov/agencies/dhs/about/councils-committees/drug-utilization-subcommittee)
+      * [ ​Fee-For-Service Subcommittee ](https://www.pa.gov/agencies/dhs/about/councils-committees/fee-for-service-subcommittee)
+      * [​HCBS Stakeholder Waiver and Planning Team ](https://www.pa.gov/agencies/dhs/about/councils-committees/hcbs-waiver-planning-team)
+      * [ ​Income Maintenance Advisory Committee ](https://www.pa.gov/agencies/dhs/about/councils-committees/income-maintenance-advisory-committee)
+      * [Low-Income Home Energy Assistance Program (LIHEAP) Advisory Committee ](https://www.pa.gov/agencies/dhs/about/councils-committees/liheap-advisory-committee)
+      * [​Long-Term Services and Supports Subcommittee ](https://www.pa.gov/agencies/dhs/about/councils-committees/long-term-services-subcommittee)
+      * [LTSS Subcommittee Minutes Archive ](https://www.pa.gov/agencies/dhs/about/councils-committees/mltss-minutes-archive)
+      * [Managed Care Delivery System Subcommittee of the Medical Assistance Advisory Committee ](https://www.pa.gov/agencies/dhs/about/councils-committees/managed-care-subcommittee)
+      * [​Managed Long-Term Services and Supports Subcommittee ](https://www.pa.gov/agencies/dhs/about/councils-committees/managed-long-term-subcommittee)
+      * [​Medical Assistance Advisory Committee (MAAC) ](https://www.pa.gov/agencies/dhs/about/councils-committees/maac)
+      * [​Pharmacy and Therapeutics (P&T) Committee ](https://www.pa.gov/agencies/dhs/about/councils-committees/pharmacy-committee)
+    * [​Dennis Marion Impact Award ](https://www.pa.gov/agencies/dhs/about/dennis-marion-impact-award)
+    * [DHS ​Budget Information ](https://www.pa.gov/agencies/dhs/about/budget-information)
+      * [Human Services Block Grant ](https://www.pa.gov/agencies/dhs/about/budget-information/block-grants)
+      * [County Human Services Plans ](https://www.pa.gov/agencies/dhs/about/budget-information/county-hs-plans-block-grant-reports)
+      * [​Human Services Development Fund ](https://www.pa.gov/agencies/dhs/about/budget-information/human-services-developmental-fund)
+    * [DHS Disclaimer ](https://www.pa.gov/agencies/dhs/about/dhs-disclaimer)
+    * [DHS Jobs ](https://www.pa.gov/agencies/dhs/about/dhs-jobs)
+  * [Contact ](https://www.pa.gov/agencies/dhs/contact)
+    * [DHS Feedback Form ](https://www.pa.gov/agencies/dhs/contact/feedback)
+    * [COMPASS ](https://www.pa.gov/agencies/dhs/contact/compass)
+    * [Child Support Contact ](https://www.pa.gov/agencies/dhs/contact/child-support-contact)
+    * [County Assistance Offices (CAO) ](https://www.pa.gov/agencies/dhs/contact/cao-information)
+    * [​County Mental Health/Intellectual Disabilities (MH/ID) Offices ](https://www.pa.gov/agencies/dhs/contact/county-mh-id-offices)
+    * [DHS Press Office ](https://www.pa.gov/agencies/dhs/contact/dhs-press-office)
+    * [Helpful Phone Numbers ](https://www.pa.gov/agencies/dhs/contact/helpful-phone-numbers)
+    * [Homeless Assistance Contacts ](https://www.pa.gov/agencies/dhs/contact/homeless-assistance-contacts)
+    * [HSDF County Contacts ](https://www.pa.gov/agencies/dhs/contact/hsdf-county-contacts)
+    * [Intellectual Disabilities Contacts ](https://www.pa.gov/agencies/dhs/contact/intellectual-disabilities-contacts)
+    * [Long-Term Care Contacts ](https://www.pa.gov/agencies/dhs/contact/long-term-care-contacts)
+    * [Newsletters and Listservs ](https://www.pa.gov/agencies/dhs/contact/newsletters-listservs)
+    * [Regional Child Development Offices ](https://www.pa.gov/agencies/dhs/contact/regional-child-development-offices)
+    * [Regional Intellectual Developmental Contacts ](https://www.pa.gov/agencies/dhs/contact/regional-intellectual-developmental-contacts)
+    * [Regional OCYF Offices ](https://www.pa.gov/agencies/dhs/contact/ocyf-regional-offices)
+    * [Regional OMHSAS Contacts ](https://www.pa.gov/agencies/dhs/contact/regional-omhsas-contacts)
+    * [Right To Know ](https://www.pa.gov/agencies/dhs/contact/right-to-know)
+    * [Text Messaging ](https://www.pa.gov/agencies/dhs/contact/text-messaging)
+    * [Mail Delay ](https://www.pa.gov/agencies/dhs/contact/mail-delay)
+  * [Departments & Offices ](https://www.pa.gov/agencies/dhs/departments-offices)
+    * [DHS Executive Leadership ](https://www.pa.gov/agencies/dhs/departments-offices/dhs-executive-leadership)
+    * [OA Info ](https://www.pa.gov/agencies/dhs/departments-offices/oa-info)
+      * [OA-Bureau of Program Integrity ](https://www.pa.gov/agencies/dhs/departments-offices/oa-info/oa-bureau-program-integrity)
+      * [OA-Bureau of Administrative Services ](https://www.pa.gov/agencies/dhs/departments-offices/oa-info/oa-bureau-administrative-services)
+      * [OA-Bureau of Procurement and Contract Management ](https://www.pa.gov/agencies/dhs/departments-offices/oa-info/oa-bureau-procurement-contract-management)
+      * [OA-Bureau of Equal Opportunity ](https://www.pa.gov/agencies/dhs/departments-offices/oa-info/oa-bureau-equal-opportunity)
+      * [OA-Bureau of Financial Operations ](https://www.pa.gov/agencies/dhs/departments-offices/oa-info/oa-bureau-financial-operations)
+      * [Language Services ](https://www.pa.gov/agencies/dhs/departments-offices/oa-info/language-services)
+      * [OA-Bureau of Hearings and Appeals ](https://www.pa.gov/agencies/dhs/departments-offices/oa-info/oa-bureau-hearings-appeals)
+      * [OMAP-Bureau of Program Integrity ](https://www.pa.gov/agencies/dhs/departments-offices/oa-info/omap-bureau-program-integrity)
+    * [OCYF Info ](https://www.pa.gov/agencies/dhs/departments-offices/ocyf-info)
+      * [OCYF-Bureau of Budget and Fiscal Support ](https://www.pa.gov/agencies/dhs/departments-offices/ocyf-info/ocyf-bureau-budget-fiscal-support)
+      * [OCYF-Bureau of Child and Family Services ](https://www.pa.gov/agencies/dhs/departments-offices/ocyf-info/ocyf-bureau-family-services)
+      * [OCYF-Bureau of Juvenile Justice Services ](https://www.pa.gov/agencies/dhs/departments-offices/ocyf-info/ocyf-bureau-juvenile-justice-services)
+      * [OCYF-Bureau of Policy Programs and Operations ](https://www.pa.gov/agencies/dhs/departments-offices/ocyf-info/ocyf-bureau-policy-programs-operations)
+      * [CWIS ](https://www.pa.gov/agencies/dhs/departments-offices/ocyf-info/cwis)
+      * [Child Youth and Family Service Plan ](https://www.pa.gov/agencies/dhs/departments-offices/ocyf-info/child-youth-family-service-plan)
+    * [OCDEL Info ](https://www.pa.gov/agencies/dhs/departments-offices/ocdel-info)
+      * [OCDEL-Bureau of Certification Services ](https://www.pa.gov/agencies/dhs/departments-offices/ocdel-info/ocdel-bureau-certification-services)
+      * [OCDEL-Bureau of Early Intervention Services and Family Supports ](https://www.pa.gov/agencies/dhs/departments-offices/ocdel-info/ocdel-bureau-early-intervention-services-and-family-supports)
+      * [OCDEL-Bureau of Policy and Professional Development ](https://www.pa.gov/agencies/dhs/departments-offices/ocdel-info/ocdel-bureau-policy-professional-development)
+      * [OCDEL-Operations and Monitoring ](https://www.pa.gov/agencies/dhs/departments-offices/ocdel-info/ocdel-operations-monitoring)
+    * [ODP Info ](https://www.pa.gov/agencies/dhs/departments-offices/odp-info)
+      * [ODP-Bureau of Autism Services ](https://www.pa.gov/agencies/dhs/departments-offices/odp-info/odp-bureau-autism-services)
+      * [ODP-Bureau of Financial Management and Program Support ](https://www.pa.gov/agencies/dhs/departments-offices/odp-info/odp-bureau-financial-management-program-support)
+      * [ODP-Bureau of Policy and Quality Management ](https://www.pa.gov/agencies/dhs/departments-offices/odp-info/odp-bureau-policy-quality-management)
+      * [ODP Bureau of Community Services ](https://www.pa.gov/agencies/dhs/departments-offices/odp-info/odp-bureau-community-services)
+      * [ODP-Bureau of State-Operated Facilities ](https://www.pa.gov/agencies/dhs/departments-offices/odp-info/odp-bureau-state-operated-facilities)
+      * [Performance-Based Contracting Residential Provider Directory ](https://www.pa.gov/agencies/dhs/departments-offices/odp-info/pbc-provider-directory)
+      * [Supports Coordination Organization Directory ](https://www.pa.gov/agencies/dhs/departments-offices/odp-info/pbc-sco-directory)
+    * [OIM Info ](https://www.pa.gov/agencies/dhs/departments-offices/oim-info)
+      * [OIM-Bureau of Child Support Enforcement ](https://www.pa.gov/agencies/dhs/departments-offices/oim-info/oim-bureau-child-support-enforcement)
+      * [OIM-Bureau of Employment Programs ](https://www.pa.gov/agencies/dhs/departments-offices/oim-info/oim-bureau-employment-programs)
+      * [OIM-Bureau of Operations ](https://www.pa.gov/agencies/dhs/departments-offices/oim-info/oim-bureau-operations)
+      * [OIM-Bureau of Policy ](https://www.pa.gov/agencies/dhs/departments-offices/oim-info/oim-bureau-policy)
+      * [OIM-Bureau of Program Evaluation ](https://www.pa.gov/agencies/dhs/departments-offices/oim-info/oim-bureau-program-evaluation)
+      * [OIM-Bureau of Program Support ](https://www.pa.gov/agencies/dhs/departments-offices/oim-info/oim-bureau-program-support)
+      * [Policy Handbooks and Manuals Archive ](https://www.pa.gov/agencies/dhs/departments-offices/oim-info/policy-handbook-manuals-archive)
+      * [OIM Ops Memos and Policy Clarification Archive ](https://www.pa.gov/agencies/dhs/departments-offices/oim-info/oim-ops-memo-pc-archive)
+      * [Recent OIM Ops Memos and Policy Clarifications ](https://www.pa.gov/agencies/dhs/departments-offices/oim-info/recent-oim-ops-memos-pcs)
+    * [OLTL Info ](https://www.pa.gov/agencies/dhs/departments-offices/oltl-info)
+      * [OLTL-Bureau of Coordinated and Integrated Services ](https://www.pa.gov/agencies/dhs/departments-offices/oltl-info/oltl-bureau-coordinated-integrated-services)
+      * [OLTL-Bureau of Fee-for-Service Programs ](https://www.pa.gov/agencies/dhs/departments-offices/oltl-info/oltl-bureau-fee-for-service-programs)
+      * [OLTL-Bureau of Finance ](https://www.pa.gov/agencies/dhs/departments-offices/oltl-info/oltl-bureau-finance)
+      * [OLTL-Bureau of Human Services Licensing ](https://www.pa.gov/agencies/dhs/departments-offices/oltl-info/oltl-bureau-human-services-licensing)
+      * [OLTL-Bureau of Policy Development and Communications Management ](https://www.pa.gov/agencies/dhs/departments-offices/oltl-info/oltl-bureau-policy-dev-comms-management)
+      * [OLTL-Bureau of Quality Assurance and Program Analytics ](https://www.pa.gov/agencies/dhs/departments-offices/oltl-info/oltl-bureau-quality-assurance-program-analytics)
+    * [OMAP Info ](https://www.pa.gov/agencies/dhs/departments-offices/omap-info)
+      * [OMAP-Bureau of Data Claims Management ](https://www.pa.gov/agencies/dhs/departments-offices/omap-info/omap-bureau-data-claims-management)
+      * [OMAP-Bureau of Fee-For-Service Programs ](https://www.pa.gov/agencies/dhs/departments-offices/omap-info/omap-bureau-fee-for-services-programs)
+      * [OMAP-Bureau of Fiscal Management ](https://www.pa.gov/agencies/dhs/departments-offices/omap-info/omap-bureau-fiscal-management)
+      * [OMAP-Bureau of Managed Care Operations ](https://www.pa.gov/agencies/dhs/departments-offices/omap-info/omap-bureau-managed-care-operations)
+      * [OMAP-Bureau of Policy Analysis Planning ](https://www.pa.gov/agencies/dhs/departments-offices/omap-info/omap-bureau-policy-analysis-planning)
+      * [Access Monitoring Plan ](https://www.pa.gov/agencies/dhs/departments-offices/omap-info/access-monitoring-plan)
+      * [What's New at OMAP ](https://www.pa.gov/agencies/dhs/departments-offices/omap-info/whats-new-at-omap)
+      * [eHealth Partnership ](https://www.pa.gov/agencies/dhs/departments-offices/omap-info/ehealth-partnership)
+      * [Pennsylvania HealthChoices Extranet ](https://www.pa.gov/agencies/dhs/departments-offices/omap-info/hc-extranet)
+    * [OMHSAS Info ](https://www.pa.gov/agencies/dhs/departments-offices/omhsas-info)
+      * [OMSHAS-Bureau of Childrens Behavioral Health Services ](https://www.pa.gov/agencies/dhs/departments-offices/omhsas-info/omshas-childrens-behavioral-health-services)
+      * [OMHSAS-Bureau of Community and Hospital Operations ](https://www.pa.gov/agencies/dhs/departments-offices/omhsas-info/omhsas-bureau-community-hospital-operations)
+      * [OMHSAS-Bureau of Financial Management and Administration ](https://www.pa.gov/agencies/dhs/departments-offices/omhsas-info/omhsas-bureau-financial-management-administration)
+      * [OMHSAS-Bureau of Policy Planning Program Development ](https://www.pa.gov/agencies/dhs/departments-offices/omhsas-info/omhsas-bureau-policy-planning-program-development)
+      * [OMHSAS-Bureau of Quality Management and Data Review ](https://www.pa.gov/agencies/dhs/departments-offices/omhsas-info/omhsas-bureau-quality-management-data-review)
+      * [OMHSAS-Medical Director ](https://www.pa.gov/agencies/dhs/departments-offices/omhsas-info/omhsas-medical-director)
+    * [DHS Facilities ](https://www.pa.gov/agencies/dhs/departments-offices/dhs-facilities)
+      * [State Centers ](https://www.pa.gov/agencies/dhs/departments-offices/dhs-facilities/state-centers)
+      * [State Hospitals ](https://www.pa.gov/agencies/dhs/departments-offices/dhs-facilities/state-hospitals)
+      * [Personal Care Home Field Offices ](https://www.pa.gov/agencies/dhs/departments-offices/dhs-facilities/pch-field-offices)
+      * [South Mountain Restoration Center ](https://www.pa.gov/agencies/dhs/departments-offices/dhs-facilities/south-mountain-restoration-center)
+  * [Programs and Services ](https://www.pa.gov/agencies/dhs/programs-services)
+    * [Apply for Benefits ](https://www.pa.gov/agencies/dhs/programs-services/apply-for-benefits)
+    * [Aging & Physical Disabilities ](https://www.pa.gov/agencies/dhs/resources/aging-physical-disabilities)
+    * [Behavioral Health ](https://www.pa.gov/agencies/dhs/programs-services/behavioral-health)
+    * [Early Learning & Child Care ](https://www.pa.gov/agencies/dhs/programs-services/early-learning-child-care)
+    * [Healthcare ](https://www.pa.gov/agencies/dhs/programs-services/healthcare)
+      * [Rural Health ](https://www.pa.gov/agencies/dhs/programs-services/healthcare/rural-health)
+      * [Maternal Health Strategic Action Plan ](https://www.pa.gov/agencies/dhs/programs-services/healthcare/maternal-health-strategic-action-plan)
+      * [Maternal Health Survey Summary ](https://www.pa.gov/agencies/dhs/programs-services/healthcare/maternal-health-survey-summary)
+    * [Food Assistance ](https://www.pa.gov/agencies/dhs/programs-services/food-assistance)
+    * [Housing & Utilities ](https://www.pa.gov/agencies/dhs/programs-services/housing-utilities)
+    * [Intellectual Disabilities & Autism ](https://www.pa.gov/agencies/dhs/programs-services/intellectual-disabilities)
+    * [Families & Children ](https://www.pa.gov/agencies/dhs/programs-services/families-children)
+    * [Employment & Training Programs ](https://www.pa.gov/agencies/dhs/programs-services/employment-and-training-programs)
+    * [Providers & Licensing ](https://www.pa.gov/agencies/dhs/programs-services/provider-licensing)
+  * [Resources & Information ](https://www.pa.gov/agencies/dhs/resources)
+    * [For Providers ](https://www.pa.gov/agencies/dhs/resources/for-providers)
+      * [1099 Information ](https://www.pa.gov/agencies/dhs/resources/for-providers/1099-information)
+      * [ACA Information for Providers ](https://www.pa.gov/agencies/dhs/resources/for-providers/aca-for-providers)
+      * [Act 62 Diagnostic ](https://www.pa.gov/agencies/dhs/resources/for-providers/act-62-diagnostic)
+      * [Budget Adjustment Factor ](https://www.pa.gov/agencies/dhs/resources/for-providers/budget-adjustment-factor)
+      * [Bulletin Search ](https://www.pa.gov/agencies/dhs/resources/for-providers/bulletin-search)
+      * [Burial and Cremation ](https://www.pa.gov/agencies/dhs/resources/for-providers/burial-and-cremation)
+      * [Child Care for Providers ](https://www.pa.gov/agencies/dhs/resources/for-providers/child-care-for-providers)
+      * [Child Welfare for Providers ](https://www.pa.gov/agencies/dhs/resources/for-providers/child-welfare-providers)
+      * [Credentialing Standards ](https://www.pa.gov/agencies/dhs/resources/for-providers/credentialing-standards)
+      * [Developmental Programs for Providers ](https://www.pa.gov/agencies/dhs/resources/for-providers/developmental-programs-for-providers)
+      * [Disproportionate Share Incentive Payments ](https://www.pa.gov/agencies/dhs/resources/for-providers/disproportionate-share-incentive-payments)
+      * [eHealth for Providers ](https://www.pa.gov/agencies/dhs/resources/for-providers/ehealth-providers)
+      * [Electronic Remittance Advice (ERA) ](https://www.pa.gov/agencies/dhs/resources/for-providers/electronic-remittance-advice)
+      * [External Resources ](https://www.pa.gov/agencies/dhs/resources/for-providers/external-resources)
+      * [Electronic Visit Verification (EVV) ](https://www.pa.gov/agencies/dhs/resources/for-providers/evv)
+      * [Employment Training Resources ](https://www.pa.gov/agencies/dhs/resources/for-providers/employment-training-resources)
+      * [FAQ-ACCESS EVS ](https://www.pa.gov/agencies/dhs/resources/for-providers/faq-access-evs)
+      * [FAQ-Assessment Program ](https://www.pa.gov/agencies/dhs/resources/for-providers/faq-assessment-programs)
+      * [FAQ-Checks Payment Remittance ](https://www.pa.gov/agencies/dhs/resources/for-providers/faq-checks-payment-remitttance)
+      * [FAQ-Claim Check ](https://www.pa.gov/agencies/dhs/resources/for-providers/faq-claim-check)
+      * [FAQ-Forms Invoices Handbooks ](https://www.pa.gov/agencies/dhs/resources/for-providers/faq-forms-invoices-handbooks)
+      * [Field Office Rate Setting ](https://www.pa.gov/agencies/dhs/resources/for-providers/field-office-rate-setting)
+      * [Form Search ](https://www.pa.gov/agencies/dhs/resources/for-providers/form-search)
+      * [HAI Payments ](https://www.pa.gov/agencies/dhs/resources/for-providers/hai-payments)
+      * [Health Care Quality Units ](https://www.pa.gov/agencies/dhs/resources/for-providers/health-care-quality-units)
+      * [Limited English Proficiency Services ](https://www.pa.gov/agencies/dhs/resources/for-providers/limited-english-proficiency-services)
+      * [Long-Term Care for Providers ](https://www.pa.gov/agencies/dhs/resources/for-providers/ltc-providers)
+      * [Medicaid/Medical Assistance Provider Quick Tips ](https://www.pa.gov/agencies/dhs/resources/for-providers/providers-quick-tips)
+      * [Medical Assistance for Providers ](https://www.pa.gov/agencies/dhs/resources/for-providers/ma-for-providers)
+      * [Medication Administration Training Program ](https://www.pa.gov/agencies/dhs/resources/for-providers/medication-administration-training-program)
+      * [Medication Side Effects ](https://www.pa.gov/agencies/dhs/resources/for-providers/medication-side-effects)
+      * [Mental Health for Providers ](https://www.pa.gov/agencies/dhs/resources/for-providers/mental-health-for-providers)
+      * [MDS CMS Data ](https://www.pa.gov/agencies/dhs/resources/for-providers/mds-cms-data)
+      * [Orientation Training Schedule for Prospective Operators of Child Care Facilities ](https://www.pa.gov/agencies/dhs/resources/for-providers/training-schedule-child-care-group-homes)
+      * [Pay for Performance (P4P) Incentive Payments ](https://www.pa.gov/agencies/dhs/resources/for-providers/pay-for-performance)
+      * [PROMISE ](https://www.pa.gov/agencies/dhs/resources/for-providers/promise)
+      * [Provider Enrollment Information ](https://www.pa.gov/agencies/dhs/resources/for-providers/provider-enrollment-information)
+      * [Provider Trainings ](https://www.pa.gov/agencies/dhs/resources/for-providers/provider-trainings)
+      * [RA Mailing Dates ](https://www.pa.gov/agencies/dhs/resources/for-providers/ra-mailing-dates)
+      * [TPL Web Portal ](https://www.pa.gov/agencies/dhs/resources/for-providers/tpl-web-portal)
+      * [Prior Authorization Portal ](https://www.pa.gov/agencies/dhs/resources/for-providers/prior-authorization-portal)
+    * [For Advocates ](https://www.pa.gov/agencies/dhs/resources/for-advocates)
+    * [For DHS Partners ](https://www.pa.gov/agencies/dhs/resources/for-dhs-partners)
+      * [COMPASS Partners.aspx ](https://www.pa.gov/agencies/dhs/resources/for-dhs-partners/compass-partners)
+      * [Contractor Partnership Program ](https://www.pa.gov/agencies/dhs/resources/for-dhs-partners/contractor-partnership-program)
+      * [Stakeholder Quality ](https://www.pa.gov/agencies/dhs/resources/for-dhs-partners/stakeholder-quality)
+    * [Additional Resources for Residents ](https://www.pa.gov/agencies/dhs/resources/for-residents)
+      * [Burial and Cremation ](https://www.pa.gov/agencies/dhs/resources/for-residents/burial-cremation)
+      * [Casualty Recovery ](https://www.pa.gov/agencies/dhs/resources/for-residents/casualty-recovery)
+      * [eHealth for Citizens ](https://www.pa.gov/agencies/dhs/resources/for-residents/ehealth-citizens)
+      * [Employment & Training Programs ](https://www.pa.gov/agencies/dhs/resources/for-residents/employment-training-programs)
+      * [Estate Recovery ](https://www.pa.gov/agencies/dhs/resources/for-residents/estate-recovery)
+      * [Guaranteed Income Pilot Projects ](https://www.pa.gov/agencies/dhs/resources/for-residents/guaranteed-income-pilot-projects)
+      * [Health Equity ](https://www.pa.gov/agencies/dhs/resources/for-residents/health-equity)
+      * [Homeless Assistance ](https://www.pa.gov/agencies/dhs/resources/for-residents/homeless-assistance)
+      * [Housing Resources ](https://www.pa.gov/agencies/dhs/resources/for-residents/housing-resources)
+      * [Legal Help ](https://www.pa.gov/agencies/dhs/resources/for-residents/legal-help)
+      * [Mass Care & Emergency Assistance ](https://www.pa.gov/agencies/dhs/resources/for-residents/masscare)
+      * [PA Navigate ](https://www.pa.gov/agencies/dhs/resources/for-residents/pa-navigate)
+      * [Perinatal and Parenting Support ](https://www.pa.gov/agencies/dhs/resources/for-residents/perinatal-parenting-support)
+      * [Semi-Annual Reporting ](https://www.pa.gov/agencies/dhs/resources/for-residents/semi-annual-reporting)
+      * [Student Assistance Program ](https://www.pa.gov/agencies/dhs/resources/for-residents/student-assistance-program)
+      * [Value Based Purchasing ](https://www.pa.gov/agencies/dhs/resources/for-residents/value-based-purchasing)
+    * [Adopt PA Kids ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids)
+      * [About the Adoption Process ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/adoption-process)
+      * [Adoption Assistance: Q&A ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/adoption-assistance)
+      * [Adoption Terminology ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/adoption-terminology)
+      * [Adoption & Fostering FAQ ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/faq)
+      * [Adoption & Fostering Forms ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/forms)
+      * [Adoption & Fostering Resources ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/resources)
+      * [Adoption & Fostering Support Services ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/support-services)
+      * [Become an Adoptive Parent ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/adoptive-parent)
+      * [Become a Foster Parent ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/foster-parent)
+      * [Case Advocacy ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/case-advocacy)
+      * [Contact SWAN ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/contact-swan)
+      * [Five Things You Should Know ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/five-things)
+      * [Waiting Kids ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/waiting-kids)
+      * [PA Adoption Exchange ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/pa-adoption-exchange)
+      * [Meet The Kids ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/meet-the-kids)
+      * [Post-Permanency Respite Services ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/respite-services)
+      * [Post Permanency Services ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/post-permanency-services)
+      * [​Pennsylvania Adoption Information Registry (PAIR) ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/pair)
+      * [Resource Centers ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/resource-centers)
+      * [Roles Responsibilities of CCYA Education Liaisons ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/roles-responsibilies-ccya-education-liaisons)
+      * [Search & Reunion ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/search-reunion)
+      * [SWAN ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/swan)
+      * [SWAN News ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/swan-news)
+      * [SWAN Events ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/swan-events)
+      * [Support Groups ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/support-groups)
+    * [​Affordable Care Act (ACA) ](https://www.pa.gov/agencies/dhs/resources/affordable-care-act)
+      * [American Rescue Plan Act Initiatives ](https://www.pa.gov/agencies/dhs/resources/affordable-care-act/american-rescue-plan-act-initiatives)
+      * [American Rescue Plan HCBS Public Comment ](https://www.pa.gov/agencies/dhs/resources/affordable-care-act/american-rescue-plan-hcbs-public-comment)
+      * [ARPA Act 2 of 2022 FAQ ](https://www.pa.gov/agencies/dhs/resources/affordable-care-act/arpa-act-2-2022-faq)
+    * [Aging & Physical Disabilities ](https://www.pa.gov/agencies/dhs/resources/aging-physical-disabilities)
+      * [Alternatives to Nursing Homes ](https://www.pa.gov/agencies/dhs/resources/aging-physical-disabilities/alternatives-to-nursing-homes)
+      * [Assistive Technology ](https://www.pa.gov/agencies/dhs/resources/aging-physical-disabilities/assistive-technology)
+      * [Consumer Directed Services ](https://www.pa.gov/agencies/dhs/resources/aging-physical-disabilities/consumer-directed-services)
+      * [Independent Enrollment Broker ](https://www.pa.gov/agencies/dhs/resources/aging-physical-disabilities/independent-enrollment-broker)
+      * [​Living Independence for the Elderly (LIFE) ](https://www.pa.gov/agencies/dhs/resources/aging-physical-disabilities/life)
+      * [Long-Term Care Services ](https://www.pa.gov/agencies/dhs/resources/aging-physical-disabilities/long-term-care-services)
+      * [MA and payment of Long-Term Care ](https://www.pa.gov/agencies/dhs/resources/aging-physical-disabilities/medicaid-payment-long-term-care)
+      * [Medicaid for Older People and People with Disabilities ](https://www.pa.gov/agencies/dhs/resources/aging-physical-disabilities/medicaid-older-people-and-people-with-disabilities)
+      * [Nursing Home Transition ](https://www.pa.gov/agencies/dhs/resources/aging-physical-disabilities/nursing-home-transition)
+      * [OBRA ](https://www.pa.gov/agencies/dhs/resources/aging-physical-disabilities/obra)
+      * [Personal Care Homes ](https://www.pa.gov/agencies/dhs/resources/aging-physical-disabilities/personal-care-homes)
+      * [Services for Persons with Disabilities ](https://www.pa.gov/agencies/dhs/resources/aging-physical-disabilities/services-for-persons-with-disabilities)
+      * [Sign Language Interpretation for Medical Appointments ](https://www.pa.gov/agencies/dhs/resources/aging-physical-disabilities/sign-language-interpretation-for-medical-appointments)
+    * [Cash Assistance ](https://www.pa.gov/agencies/dhs/resources/cash-assistance)
+      * [Diversion Program ](https://www.pa.gov/agencies/dhs/resources/cash-assistance/diversion-program)
+      * [Employment Training for TANF ](https://www.pa.gov/agencies/dhs/resources/cash-assistance/employment-training-tanf)
+      * [Apply for the State Blind Pension Program ](https://www.pa.gov/services/dhs/apply-for-the-state-blind-pension-program)
+      * [Temporary Assistance for Needy Families (TANF) ](https://www.pa.gov/agencies/dhs/resources/cash-assistance/tanf)
+    * [CHIP ](https://www.pa.gov/agencies/dhs/resources/chip)
+      * [About Chip ](https://www.pa.gov/agencies/dhs/resources/chip/about-chip)
+      * [CHIP Coverage ](https://www.pa.gov/agencies/dhs/resources/chip/chip-coverage)
+      * [CHIP Insurance Companies ](https://www.pa.gov/agencies/dhs/resources/chip/chip-insurance-companies)
+      * [CHIP Resources ](https://www.pa.gov/agencies/dhs/resources/chip/chip-resources)
+      * [CHIP FAQ ](https://www.pa.gov/agencies/dhs/resources/chip/faq-chip)
+      * [Eligibility and Benefits ](https://www.pa.gov/agencies/dhs/resources/chip/eligibility-and-benefits)
+      * [CHIP State Plan ](https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/docs/publications/documents/2023-medicaid-state-plan/chip-current-state-plan.pdf)
+    * [Children and Families Complex Needs Planning ](https://www.pa.gov/agencies/dhs/resources/children-families-complex-needs-planning)
+      * [Complex Needs Planning ](https://www.pa.gov/agencies/dhs/resources/children-families-complex-needs-planning/complex-needs-planning)
+      * [Children with Medically Complex Conditions ](https://www.pa.gov/agencies/dhs/resources/children-families-complex-needs-planning/children-with-medically-complex-conditions)
+      * [Personal Stories of Children with Medically Complex Conditions ](https://www.pa.gov/agencies/dhs/resources/children-families-complex-needs-planning/personal-stories-cmc)
+      * [Complex Behavioral Health Blueprint ](https://www.pa.gov/agencies/dhs/resources/children-families-complex-needs-planning/complex-behavioral-health-blueprint)
+      * [Pediatric Capacity Building Institute ](https://www.pa.gov/agencies/dhs/resources/children-families-complex-needs-planning/pediatric-capacity-building-institute)
+      * [Complex Needs Planning Suggested Resources ](https://www.pa.gov/agencies/dhs/resources/children-families-complex-needs-planning/complex-needs-planning-suggested-resources)
+    * [Choking Prevention ](https://www.pa.gov/agencies/dhs/resources/choking-prevention)
+    * [Clearances ](https://www.pa.gov/agencies/dhs/resources/clearances)
+    * [Data Dashboards & Reports ](https://www.pa.gov/agencies/dhs/resources/data-reports)
+      * [About Child Fatality Near Fatality Reports ](https://www.pa.gov/agencies/dhs/resources/data-reports/about-child-fatality-near-fatality-reports)
+      * [Child Abuse Reports ](https://www.pa.gov/agencies/dhs/resources/data-reports/child-abuse-reports)
+      * [​Child Fatality & Near Fatality Reports ](https://www.pa.gov/agencies/dhs/resources/data-reports/child-fatality-near-fatality-reports)
+      * [DHS Services Map ](https://www.pa.gov/agencies/dhs/resources/data-reports/dhs-services-map)
+      * [Early Learning Dashboards ](https://www.pa.gov/agencies/dhs/resources/data-reports/early-learning-dashboards)
+      * [Federal Poverty Income Guidelines ](https://www.pa.gov/agencies/dhs/resources/data-reports/federal-poverty-income-guidelines)
+      * [Highlighted Reports ](https://www.pa.gov/agencies/dhs/resources/data-reports/highlighted-reports)
+      * [OCYF Reports ](https://www.pa.gov/agencies/dhs/resources/data-reports/ocyf-reports)
+      * [OLTL Data Dashboard Archive ](https://www.pa.gov/agencies/dhs/resources/data-reports/oltl-data-dashboard-archive)
+      * [People Enrolled in DHS Benefits ](https://www.pa.gov/agencies/dhs/resources/data-reports/people-enrolled-in-dhs-benefits)
+      * [Personal Care Homes Monthly Report ](https://www.pa.gov/agencies/dhs/resources/data-reports/personal-care-homes-monthly-report)
+      * [Quarterly Summaries Child Abuse ](https://www.pa.gov/agencies/dhs/resources/data-reports/quarterly-summaries-child-abuse)
+      * [Quarterly Licensing Report ](https://www.pa.gov/agencies/dhs/resources/data-reports/quarterly-licensing-report)
+    * [Early Learning & Child Care ](https://www.pa.gov/agencies/dhs/resources/early-learning-child-care)
+      * [5 Steps to Selecting Child Care ](https://www.pa.gov/agencies/dhs/resources/early-learning-child-care/5-steps-selecting-child-care)
+      * [CCDF Executive Summary ](https://www.pa.gov/agencies/dhs/resources/early-learning-child-care/ccdf-executive-summary)
+      * [Child Care Works (CCW) ](https://www.pa.gov/agencies/dhs/resources/early-learning-child-care/child-care-works)
+      * [Child Health Services ](https://www.pa.gov/agencies/dhs/resources/early-learning-child-care/child-health-services)
+      * [Early Intervention Services ](https://www.pa.gov/agencies/dhs/resources/early-learning-child-care/early-intervention-services)
+      * [Early Learning Main ](https://www.pa.gov/agencies/dhs/resources/early-learning-child-care/early-learning-main)
+      * [Early Learning Federal Requirements Monitoring ](https://www.pa.gov/agencies/dhs/resources/early-learning-child-care/early-learning-federal-requirements-monitoring)
+      * [Early Learning Resources Centers (ELRC) ](https://www.pa.gov/agencies/dhs/resources/early-learning-child-care/elrc)
+      * [ECCS Prenatal to Three Project ](https://www.pa.gov/agencies/dhs/resources/early-learning-child-care/eccs-prenatal-three-project)
+      * [Education Stability by Child Welfare Services ](https://www.pa.gov/agencies/dhs/resources/early-learning-child-care/education-stability-child-welfare-services)
+      * [Head Start ](https://www.pa.gov/agencies/dhs/resources/early-learning-child-care/head-start)
+      * [Integrated Childrens Services ](https://www.pa.gov/agencies/dhs/resources/early-learning-child-care/integrated-childrens-services)
+      * [Infant Toddlers Families Waiver ](https://www.pa.gov/agencies/dhs/resources/early-learning-child-care/infant-toddler-families-waiver)
+    * [​Emergency Rental Assistance Program (ERAP) ](https://www.pa.gov/agencies/dhs/resources/erap)
+      * [ERAP Reports and Resources ](https://www.pa.gov/agencies/dhs/resources/erap/erap-reports-and-resources)
+    * [Ending Hunger ](https://www.pa.gov/agencies/dhs/resources/ending-hunger)
+      * [Food Pantries ](https://www.pa.gov/agencies/dhs/resources/ending-hunger/food-pantries)
+      * [Food Programs ](https://www.pa.gov/agencies/dhs/resources/ending-hunger/food-programs)
+      * [Food Programs For Children ](https://www.pa.gov/agencies/dhs/resources/ending-hunger/food-programs-for-children)
+      * [Food Programs For Older Adults ](https://www.pa.gov/agencies/dhs/resources/ending-hunger/food-programs-for-older-adults)
+    * [Enterprise Case Management (ECM) ](https://www.pa.gov/agencies/dhs/resources/ecm)
+      * [About ECM ](https://www.pa.gov/agencies/dhs/resources/ecm/about-ecm)
+      * [ECM Development ](https://www.pa.gov/agencies/dhs/resources/ecm/ecm-development)
+      * [Change & Training ](https://www.pa.gov/agencies/dhs/resources/ecm/change-training)
+      * [ECM Individuals Participants ](https://www.pa.gov/agencies/dhs/resources/ecm/ecm-individual-participants)
+      * [ECM Contact Information ](https://www.pa.gov/agencies/dhs/resources/ecm/ecm-contact-information)
+      * [ECM FAQ ](https://www.pa.gov/agencies/dhs/resources/ecm/faq-ecm)
+      * [ECM News ](https://www.pa.gov/agencies/dhs/resources/ecm/ecm-news)
+      * [ECM Stakeholders ](https://www.pa.gov/agencies/dhs/resources/ecm/ecm-stakeholders)
+      * [ECM Subsystems ](https://www.pa.gov/agencies/dhs/resources/ecm/ecm-subsystems)
+    * [Enterprise Licensing System ](https://www.pa.gov/agencies/dhs/resources/els)
+    * [Federal Cuts ](https://www.pa.gov/agencies/dhs/resources/federal-cuts)
+    * [Find a Facility or Provider ](https://www.pa.gov/agencies/dhs/resources/find-a-facility-or-provider)
+    * [Hearings and Appeals ](https://www.pa.gov/agencies/dhs/resources/hearings-and-appeals)
+      * [BHA Offices and Contact Information ](https://www.pa.gov/agencies/dhs/resources/hearings-and-appeals/bha-offices-contact-info)
+      * [Hearing and Appeals Process ](https://www.pa.gov/agencies/dhs/resources/hearings-and-appeals/hearing-appeals-process)
+    * [Home and Community Based Services ](https://www.pa.gov/agencies/dhs/resources/home-community-based-services-hcbs)
+      * [OLTL-HCBS Plans ](https://www.pa.gov/agencies/dhs/resources/home-community-based-services-hcbs/oltl-hcbs-plans)
+      * [HCBS Statewide Transition Plan ](https://www.pa.gov/agencies/dhs/resources/home-community-based-services-hcbs/hcbs-statewide-transition-plan)
+    * [Intellectual Disabilities & Autism ](https://www.pa.gov/agencies/dhs/resources/intellectual-disabilities-autism)
+      * [Autism Services ](https://www.pa.gov/agencies/dhs/resources/intellectual-disabilities-autism/autism-services)
+      * [Intellectual and Developmental Disability Services ](https://www.pa.gov/agencies/dhs/resources/intellectual-disabilities-autism/intellectual-disabilities-services)
+      * [Everyday Lives ](https://www.pa.gov/agencies/dhs/resources/intellectual-disabilities-autism/everyday-lives)
+      * [We Can Work ](https://www.pa.gov/agencies/dhs/resources/intellectual-disabilities-autism/we-can-work)
+      * [Lifesharing ](https://www.pa.gov/agencies/dhs/resources/intellectual-disabilities-autism/lifesharing)
+      * [Person/Family Directed Support Waiver (PFDS) Waiver ](https://www.pa.gov/agencies/dhs/resources/intellectual-disabilities-autism/pfds-waiver)
+    * [Juvenile Justice ](https://www.pa.gov/agencies/dhs/resources/juvenile-justice)
+      * [Pennsylvania Academic, Career and Technical Training (PACTT) Alliance ](https://www.pa.gov/agencies/dhs/resources/juvenile-justice/pactt)
+      * [​Prison Rape Elimination Act (PREA) ](https://www.pa.gov/agencies/dhs/resources/juvenile-justice/prison-rape-elimination-act)
+      * [Treatment Approaches and Planning ](https://www.pa.gov/agencies/dhs/resources/juvenile-justice/treatment-approaches-planning)
+      * [Youth Development Centers/Youth Forestry Camp ](https://www.pa.gov/agencies/dhs/resources/juvenile-justice/forestry-programs)
+    * [Keep Kids Safe ](https://www.pa.gov/agencies/dhs/resources/keep-kids-safe)
+      * [About Keep Kids Safe ](https://www.pa.gov/agencies/dhs/resources/keep-kids-safe/about-keep-kids-safe)
+      * [Child Abuse Clearances ](https://www.pa.gov/agencies/dhs/resources/keep-kids-safe/child-abuse-clearances)
+      * [Contact Keep Kids Safe ](https://www.pa.gov/agencies/dhs/resources/keep-kids-safe/contact-keep-kids-safe)
+      * [Family First ](https://www.pa.gov/agencies/dhs/resources/keep-kids-safe/family-first)
+      * [FAQ - Keep Kids Safe ](https://www.pa.gov/agencies/dhs/resources/keep-kids-safe/faq-kks)
+      * [Keep Kids Safe Media ](https://www.pa.gov/agencies/dhs/resources/keep-kids-safe/keep-kids-safe-media)
+      * [Mandated Reporter Training ](https://www.pa.gov/agencies/dhs/resources/keep-kids-safe/mandated-reporter-training)
+      * [Report Child Abuse ](https://www.pa.gov/agencies/dhs/resources/keep-kids-safe/report-child-abuse)
+      * [Resources ](https://www.pa.gov/agencies/dhs/resources/keep-kids-safe/resources)
+      * [Safe Sleep Resources ](https://www.pa.gov/agencies/dhs/resources/keep-kids-safe/sudden-unexpected-infant-death)
+    * [Keystones of Health ](https://www.pa.gov/agencies/dhs/resources/keystones-of-health)
+      * [Public Input Process 1115 ](https://www.pa.gov/agencies/dhs/resources/keystones-of-health/public-input-process-1115)
+    * [Licensing by DHS ](https://www.pa.gov/agencies/dhs/resources/licensing)
+      * [Children and Youth Residential Licensing ](https://www.pa.gov/agencies/dhs/resources/licensing/children-youth-residential-licensing)
+      * [Developmental Programs Licensing ](https://www.pa.gov/agencies/dhs/resources/licensing/developmental-programs-licensing)
+      * [Licensing Webinars ](https://www.pa.gov/agencies/dhs/resources/licensing/licensing-webinars)
+      * [Mental Health Programs Licensing ](https://www.pa.gov/agencies/dhs/resources/licensing/mental-health-programs-licensing)
+      * [PCH & ALR Licensing ](https://www.pa.gov/agencies/dhs/resources/licensing/pch-alr-licensing)
+    * [Low-Income Home Energy Assistance Program (LIHEAP) ](https://www.pa.gov/agencies/dhs/resources/liheap)
+      * [Information for LIHEAP Vendors ](https://www.pa.gov/agencies/dhs/resources/liheap/liheap-vendors)
+    * [Medicaid ](https://www.pa.gov/agencies/dhs/resources/medicaid)
+      * [1095-B Tax Form ](https://www.pa.gov/agencies/dhs/resources/medicaid/1095-b-tax-form)
+      * [ASL Interpretation Services for Medical Appointments ](https://www.pa.gov/agencies/dhs/resources/medicaid/asl-interpretation-services)
+      * [Behavioral HealthChoices ](https://www.pa.gov/agencies/dhs/resources/medicaid/bhc)
+      * [Breast and Cervical Cancer Prevention and Treatment (BCCPT) ](https://www.pa.gov/agencies/dhs/resources/medicaid/bccpt)
+      * [Community HealthChoices (CHC) ](https://www.pa.gov/agencies/dhs/resources/medicaid/chc)
+      * [Copay Help ](https://www.pa.gov/agencies/dhs/resources/medicaid/copay-help)
+      * [FAQ-Medicaid Citizenship ](https://www.pa.gov/agencies/dhs/resources/medicaid/faq-medicaid-citizenship)
+      * [Interoperability ](https://www.pa.gov/agencies/dhs/resources/medicaid/interoperability)
+      * [MA Providers Contact ](https://www.pa.gov/agencies/dhs/resources/medicaid/ma-providers-contact)
+      * [Managed Care Quality Strategy ](https://www.pa.gov/agencies/dhs/resources/medicaid/managed-care-quality-strategy)
+      * [Medicaid & CHIP Renewals Home ](https://www.pa.gov/agencies/dhs/resources/medicaid/medicaid-chip-renewals)
+      * [Medicaid General Eligibility ](https://www.pa.gov/agencies/dhs/resources/medicaid/medicaid-general-eligibility)
+      * [Medicaid for-Workers with Disabilities ](https://www.pa.gov/agencies/dhs/resources/medicaid/medicaid-workers-disabilities)
+      * [Medicaid State Plan ](https://www.pa.gov/agencies/dhs/resources/medicaid/medicaid-state-plan)
+      * [Physical HealthChoices Home ](https://www.pa.gov/agencies/dhs/resources/medicaid/hc)
+      * [Pregnancy and Family Planning ](https://www.pa.gov/agencies/dhs/resources/medicaid/pregnancy-family-planning)
+      * [Medicaid for Children with Special Needs ](https://www.pa.gov/agencies/dhs/resources/medicaid/medicaid-children-special-needs-ph95)
+      * [Medicaid Dental-Services ](https://www.pa.gov/agencies/dhs/resources/medicaid/dental-services)
+      * [MIPPA Documents ](https://www.pa.gov/agencies/dhs/resources/medicaid/mippa)
+      * [Pediatric Complex Care Resource Centers ](https://www.pa.gov/agencies/dhs/resources/medicaid/pediatric-complex-care-resource-centers)
+      * [Prescription Drug Coverage ](https://www.pa.gov/agencies/dhs/resources/medicaid/prescription-drug-coverage)
+      * [Post-Award Forum for the Section 1115 Demonstration: Medicaid Coverage for Former Foster Care Youth (FFCY) from a Different State and Substance Use Disorders (SUD) ](https://www.pa.gov/agencies/dhs/resources/medicaid/medicaid-coverage-former-foster-care-youth-different-state-substance-use-disorder-section-1115)
+      * [Statewide MCO Map ](https://www.pa.gov/agencies/dhs/resources/medicaid/statewide-mco-map)
+      * [Waivers ](https://www.pa.gov/agencies/dhs/resources/medicaid/waivers)
+    * [Mental Health & Substance Use Disorder ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder)
+      * [988 ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/988)
+      * [Act 65 of 2020 ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/act-65-of-2020)
+      * [Adult Mental Health Commission ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/adult-mental-health-commission)
+      * [Assertive Community Treatment (ACT)​ ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/assertive-community-treatment)
+      * [Behavioral Health Services for LGBTQI ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/lgbtqi-individuals)
+      * [CASSP ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/cassp)
+      * [CDP Clubhouses ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/cdp-clubhouses)
+      * [CDP Fairweather Lodge ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/cdp-fairweather-lodge)
+      * [Community Support Program ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/csp)
+      * [Compeer ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/compeer)
+      * [Consumer Driven Programs ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/consumer-driven-programs)
+      * [Crisis Intervention Services ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/crisis-intervention-services)
+      * [Crisis Intervention ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/crisis-intervention)
+      * [Disaster Human Services ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/disaster-human-services)
+      * [Drop-In Centers ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/drop-in-centers)
+      * [​Fetal Alcohol Spectrum Disorder (FASD) ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/fetal-alcohol-spectrum-disorder)
+      * [Find Services ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/find-services)
+      * [First Episode Psychosis ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/first-episode-psychosis)
+      * [Housing Financing Funding ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/housing-financing-funding)
+      * [Justice Related Services ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/justice-related-services)
+      * [Mental Health Planning Council ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/mental-health-planning-council)
+      * [​Mental Health Statistical Improvement Program (MHSIP) Survey ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/mhsip)
+      * [Older Adult Initiatives ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/older-adult-initiatives)
+      * [Olmstead Plan ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/olmstead-plan)
+      * [OMHSAS Behavioral Health Telehealth ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/omhsas-behavioral-health-telehealth)
+      * [PA Peer Support ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/pa-peer-support)
+      * [PA Recovery Housing ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/pa-recovery-housing)
+      * [Peer Support Providers ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/peer-support-providers)
+      * [Peer Support Services ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/peer-support-services)
+      * [Peer Support Training ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/peer-support-training)
+      * [Projects for Assistance in Transition from Homelessness (PATH) ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/path)
+      * [School Based Behavioral Health ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/school-based-behavioral-health)
+      * [Substance Use Disorder ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/substance-use-disorder)
+      * [SUD 1115 Waiver ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/sud-1115-waiver)
+      * [Suicide Prevention ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/suicide-prevention)
+      * [Supportive Housing ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/supportive-housing)
+      * [Veterans & Military Families ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/veterans-military-families)
+    * [Pharmacy Services ](https://www.pa.gov/agencies/dhs/resources/pharmacy-services)
+      * [340B ](https://www.pa.gov/agencies/dhs/resources/pharmacy-services/340b)
+      * [Clinical Guidelines ](https://www.pa.gov/agencies/dhs/resources/pharmacy-services/clinical-guidelines)
+      * [FFS Naloxone ](https://www.pa.gov/agencies/dhs/resources/pharmacy-services/ffs-naloxone)
+      * [Pharmacy Prior Authorization General Requirements ](https://www.pa.gov/agencies/dhs/resources/pharmacy-services/pharmacy-prior-authorization-general-requirements)
+      * [Pharmacy Services Fax Forms ](https://www.pa.gov/agencies/dhs/resources/pharmacy-services/pharmacy-services-fax-forms)
+      * [Preferred Drug List ](https://www.pa.gov/agencies/dhs/resources/pharmacy-services/preferred-drug-list)
+      * [Quantity Limits and Daily Dose Limits ](https://www.pa.gov/agencies/dhs/resources/pharmacy-services/quantity-limits-daily-dose-limits)
+      * [Special Pharmaceuticals ](https://www.pa.gov/agencies/dhs/resources/pharmacy-services/special-pharmaceuticals)
+      * [Specialty Pharmacy Program ](https://www.pa.gov/agencies/dhs/resources/pharmacy-services/specialty-pharmacy-program)
+      * [State MAC List ](https://www.pa.gov/agencies/dhs/resources/pharmacy-services/state-mac-list)
+    * [Policy Handbooks and Manuals ](https://www.pa.gov/agencies/dhs/resources/policy-handbooks-manuals)
+    * [Refugees In PA ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa)
+      * [About Refugees in PA ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/about-refugees-in-pa)
+      * [PA Refugee Service Contractors Directory ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/directory-service-contractors)
+      * [FAQs for Refugees in PA ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/faq-refugees)
+      * [Health Resources ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/health-resources-refugees)
+      * [Unaccompanied Refugee Minors Program ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/unaccompanied-refugee-minors)
+      * [Refugee Health Assessment ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/refugee-health-assessment)
+      * [Health Promotion Programs ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/refugee-health-promotion-programs)
+      * [Refugee Mental and Behavioral Health ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/refugee-mental-health)
+      * [Client Eligibility ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/refugee-client-eligibility)
+      * [​Resources for Cuban and Haitian Entrants ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/cuban-haitian-entrants)
+      * [Refugee Health Program ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/refugee-health-program)
+      * [Refugee Network Organizations ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/refugee-network-organizations)
+      * [​Citizenship Preparation ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/citizenship-prep)
+      * [Refugee Employment Training ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/refugee-employment-training)
+      * [Older Refugees ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/older-refugees)
+      * [Employing Refugees ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/employing-refugees)
+      * [​​Good Job Happy Family Program ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/gjhf)
+      * [Contact PA's Refugee Resettlement Program ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/refugee-contact)
+      * [Refugee Cash Assistance Program ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/refugee-cash-assistance-program)
+    * [Secret Safe ](https://www.pa.gov/agencies/dhs/resources/secret-safe)
+      * [Find A Safe Haven ](https://www.pa.gov/agencies/dhs/resources/secret-safe/find-a-safe-haven)
+      * [FAQ-Secret Safe ](https://www.pa.gov/agencies/dhs/resources/secret-safe/faq-secret-safe)
+    * [Summer EBT ](https://www.pa.gov/agencies/dhs/resources/summer-ebt)
+    * [Supplemental Nutrition Assistance Program (SNAP) ](https://www.pa.gov/agencies/dhs/resources/snap)
+      * [SNAP Work Requirements (PEERs) ](https://www.pa.gov/agencies/dhs/resources/snap/snap-work-requirements-abawds)
+      * [SNAP Work Requirements Through Education and Training ](https://www.pa.gov/agencies/dhs/resources/snap/snap-work-requirements-education-training)
+      * [SNAP Income Limits ](https://www.pa.gov/agencies/dhs/resources/snap/snap-income-limits)
+      * [Electronic Benefits Transfer (EBT) ](https://www.pa.gov/agencies/dhs/resources/snap/ebt)
+      * [SNAP Older Adults ](https://www.pa.gov/agencies/dhs/resources/snap/snap-older-adults)
+      * [SNAP for College Students ](https://www.pa.gov/agencies/dhs/resources/snap/snap-college-students)
+      * [SNAP College Employability Program ](https://www.pa.gov/agencies/dhs/resources/snap/snap-college-employability-programs)
+      * [SNAP for Farmers Markets ](https://www.pa.gov/agencies/dhs/resources/snap/snap-for-farmers-markets)
+      * [Employment Training for SNAP ](https://www.pa.gov/agencies/dhs/resources/snap/snap-employment-training)
+      * [SNAP Mass Grant ](https://www.pa.gov/agencies/dhs/resources/snap/snap-mass-grant)
+      * [SNAP Online Purchasing ](https://www.pa.gov/agencies/dhs/resources/snap/snap-online-purchasing)
+      * [SNAP Online Purchasing FAQ ](https://www.pa.gov/agencies/dhs/resources/snap/snap-online-purchasing-faq)
+      * [SNAP Quality Control ](https://www.pa.gov/agencies/dhs/resources/snap/snap-quality-control)
+      * [SNAP Policies & Procedures ](https://www.pa.gov/agencies/dhs/resources/snap/snap-policies-procedures)
+      * [Noncitizen Eligibility ](https://www.pa.gov/agencies/dhs/resources/snap/noncitizen-eligibility)
+      * [SNAP Data ](https://www.pa.gov/agencies/dhs/resources/snap/snap-data)
+      * [SNAP Toolkit ](https://www.pa.gov/agencies/dhs/resources/snap/snap-toolkit)
+      * [SNAP Nutrition Education ](https://www.pa.gov/agencies/dhs/resources/snap/snap-nutrition-education)
+      * [Other Food Assistance Resources ](https://www.pa.gov/agencies/dhs/resources/snap/other-food-assistance-resources)
+      * [Heating and Shelter Utility Allowance ](https://www.pa.gov/agencies/dhs/resources/snap/hsua)
+  * [Report Abuse ](https://www.pa.gov/agencies/dhs/report-abuse)
+    * [Adult Protective Services ](https://www.pa.gov/agencies/dhs/report-abuse/adult-protective-services)
+      * [APS Media Toolkit ](https://www.pa.gov/agencies/dhs/report-abuse/adult-protective-services/aps-media-toolkit)
+  * [Report Fraud ](https://www.pa.gov/agencies/dhs/report-fraud)
+    * [Scams ](https://www.pa.gov/agencies/dhs/report-fraud/scams)
+    * [Fraud, abuse, and misuse prevention ](https://www.pa.gov/agencies/dhs/report-fraud/fraud-abuse-misuse-prevention)
+    * [Medicaid Fraud and Abuse ](https://www.pa.gov/agencies/dhs/report-fraud/medicaid-fraud-abuse)
+    * [Medicaid Provider Compliance Hotline ](https://www.pa.gov/agencies/dhs/report-fraud/medicaid-provider-compliance-hotline)
+    * [Medicaid Fraud Compliance Websites ](https://www.pa.gov/agencies/dhs/report-fraud/medicaid-fraud-compliance-websites)
+    * [Medicheck List ](https://www.pa.gov/agencies/dhs/report-fraud/medicheck-list)
+    * [RAC Providers Review ](https://www.pa.gov/agencies/dhs/report-fraud/rac-providers-review)
+    * [Credit Balance Self Review ](https://www.pa.gov/agencies/dhs/report-fraud/credit-balance-self-review)
+    * [Medicaid Provider Self Audit Protocol ](https://www.pa.gov/agencies/dhs/report-fraud/medicaid-provider-self-audit-protocol)
+    * [MIC Initiative ](https://www.pa.gov/agencies/dhs/report-fraud/mic-initiative)
+    * [Post and Prepayment Review ](https://www.pa.gov/agencies/dhs/report-fraud/post-prepayment-review)
+    * [CAP Guidelines ](https://www.pa.gov/agencies/dhs/report-fraud/cap-guidelines)
+  * [Search DHS ](https://www.pa.gov/agencies/dhs/dhs-search)
+    * [Search DHS Publications ](https://www.pa.gov/agencies/dhs/dhs-search/dhs-publications)
+  * [Newsroom ](https://www.pa.gov/agencies/dhs/newsroom)
+    * [ Shapiro Administration Announces Child Care Recruitment and Retention Grant for Harrisburg Child Care Center, Supporting Child Care Workers & Families ](https://www.pa.gov/agencies/dhs/newsroom/shapiro-administration-announces-child-care-recruitment-and-rete)
+  * [HIPAA: Your Privacy Rights ](https://www.pa.gov/agencies/dhs/hipaa-privacy)
+    * [HIPAA Definition ](https://www.pa.gov/agencies/dhs/hipaa-privacy/hipaa-definition)
+    * [Aviso de Privacidad ](https://www.pa.gov/agencies/dhs/hipaa-privacy/aviso-de-privacidad)
+
+
+  1. [ Agencies ](https://www.pa.gov/agencies)
+  2. [ Department of Human Services ](https://www.pa.gov/agencies/dhs)
+  3. [ About ](https://www.pa.gov/agencies/dhs/about)
+  4. [ Councils & Committees ](https://www.pa.gov/agencies/dhs/about/councils-committees)
+  5. ​Medical Assistance Advisory Committee (MAAC)
+
+
+Councils & Committees
+# ​Medical Assistance Advisory Committee (MAAC)
+The mission of the MAAC is to provide the Department of Human Services with advice about access to and delivery of quality health care services in an efficient, economical, and responsive manner to low-income individuals and families. 
+**All meetings are scheduled from 10 a.m. to 12 p.m**
+![Doctors wooden table with tablet stethoscope and other medical items.](https://s7d9.scene7.com/is/image/statepa/medical-desktop-1200x900?ts=1736359336765&dpr=off)
+## 2026 Meeting Schedule  
+
+Committee Meetings are held via the GoTo Webinar platform. To register, please use the unique link for each meeting. After registration is complete, participants will receive an email invite. Please follow directions on the email invite to add the meeting to your calendar. Participants are encouraged to register for the entire year in advance.
+  * [View the Medical Assistance Advisory Committee (MAAC) Operating Guidelines(opens in a new tab)](https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/providers/pharmacy-services/documents/medical-assistance-advisory-committee-operating-guidelines.pdf)
+  * [View the MAAC Members](https://www.pa.gov/agencies/dhs/about/councils-committees/maac#members)
+  * [Contact the MAAC](https://www.pa.gov/agencies/dhs/about/councils-committees/maac#contact)
+  * [View archived meeting information from previous years(opens in a new tab)](http://listserv.dhs.pa.gov/Scripts/wa.exe?A0=maac-meeting-minutes)
+
+
+## 2026 Scheduled MAAC Meeting Dates
+### January 22, 2026
+  * **Time** : 10:00 AM – 12:00 PM
+  * **Dial-in:** (562) 247-8422
+  * **Access Code:** 493-424-013
+
+
+[ Register for the 1/22/26 Meeting ](https://attendee.gotowebinar.com/register/5572804769154406741)
+**Meeting Documents:**
+  * [CART Captions](https://2020archive.1capapp.com/event/pa-dhs)
+  * [Agenda(opens in a new tab)](https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/about/dhs-information/documents/informationforadvocatesandstakeholders/maac/01-22-26-maac-agenda.pdf)
+  * [GLP-1 Receptor Agonists Prior Authorization Guideline Revisions(opens in a new tab)](https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/about/dhs-information/documents/informationforadvocatesandstakeholders/maac/glp-1-receptor-agonists-maac-20260122.pdf)
+  * [OMAP(opens in a new tab)](https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/about/dhs-information/documents/informationforadvocatesandstakeholders/maac/01-22-2026-omap-maac-presentation.pdf)
+  * [OLTL(opens in a new tab)](https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/about/dhs-information/documents/informationforadvocatesandstakeholders/maac/01-22-2026-oltl-maac-presentation.pdf)
+  * [ODP(opens in a new tab)](https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/about/dhs-information/documents/informationforadvocatesandstakeholders/maac/01-22-2026-odp-maac-presentation.pdf)
+  * [OMHSAS(opens in a new tab)](https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/about/dhs-information/documents/informationforadvocatesandstakeholders/maac/01-22-2026-omhsas-maac-presentation.pdf)
+  * [Meeting Transcript(opens in a new tab)](https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/about/dhs-information/documents/informationforadvocatesandstakeholders/maac/01-22-2026-maac-meeting-transcript.pdf)
+
+
+### **February 26, 2026**
+  * **Time:** 10:00 AM – 12:00 PM
+  * **Dial-in:** (631) 992-3221
+  * **Access Code:** 785-302-229 
+
+
+[ Register for the 2/26/26 Meeting ](https://attendee.gotowebinar.com/register/167356017868983129)
+**Meeting Documents:**
+  * [CART Captions](https://2020archive.1capapp.com/event/pa-dhs)
+  * [Agenda(opens in a new tab)](https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/about/dhs-information/documents/informationforadvocatesandstakeholders/maac/02-26-26-maac-agenda.pdf)
+  * [Prior Authorization Guideline Briefing Document for Public Comment(opens in a new tab)](https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/about/dhs-information/documents/informationforadvocatesandstakeholders/maac/sickle-cell-agents-maac-202602-final.pdf)
+  * [Pharmacy feedback document from the January meeting on the GLP-1 Prior Authorization Guideline revisions(opens in a new tab)](https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/about/dhs-information/documents/informationforadvocatesandstakeholders/maac/maac-feedback-02-2026-from-01-2026.pdf)
+  * [OMAP(opens in a new tab)](https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/about/dhs-information/documents/informationforadvocatesandstakeholders/maac/02-26-26-maac-omap-presentation.pdf)
+  * [ODP(opens in a new tab)](https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/about/dhs-information/documents/informationforadvocatesandstakeholders/maac/02-26-26-maac-odp-presentation.pdf)
+  * [Meeting Transcript(opens in a new tab)](https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/about/dhs-information/documents/informationforadvocatesandstakeholders/maac/02-26-2026-meeting-transcript-final.pdf)
+
+
+### **March 26, 2026 (hybrid meeting)**
+  * **Time:** 10:00 AM – 12:00 PM
+  * **Location:  
+**Keystone Building – Forest Room  
+400 North St.  
+Harrisburg, PA 17120  
+  
+
+  * **Dial-in:** (415) 655-0060
+  * **Access Code:** 815-479-878
+
+
+[ Register for the 3/26/26 Meeting ](https://attendee.gotowebinar.com/register/5209380991803393117)
+**Meeting Documents:**
+  * [CART Captions](https://2020archive.1capapp.com/event/pa-dhs)
+  * [Agenda(opens in a new tab)](https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/about/dhs-information/documents/informationforadvocatesandstakeholders/maac/03-26-26-maac-agenda.pdf)
+  * [Pharmacy Feedback Document for Sickle Cell Anemia Agents(opens in a new tab)](https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/about/dhs-information/documents/informationforadvocatesandstakeholders/maac/pharmacy-feedback-document-for-sickle-cell-anemia-agents.pdf)
+  * [DHS HR1(opens in a new tab)](https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/about/dhs-information/documents/informationforadvocatesandstakeholders/maac/3-5-dhs-hr1-update-slides.pdf)
+  * [OMAP(opens in a new tab)](https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/about/dhs-information/documents/informationforadvocatesandstakeholders/maac/omap-maac-mtg-03-26-2026-audience.pdf)
+  * [OMHSAS(opens in a new tab)](https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/about/dhs-information/documents/informationforadvocatesandstakeholders/maac/omhsas-maac-03-26-2026.pdf)
+  * [Meeting Transcript](https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/about/dhs-information/documents/informationforadvocatesandstakeholders/maac/03-26-2026-maac-meeting-transcript-final.pdf)
+
+
+### **April 23, 2026**
+  * **Time:** 10:00 AM – 12:00 PM
+  * **Dial-in:** (631) 992-3221
+  * **Access Code:** 766-780-697
+
+
+[ Register for the 4/23/26 ](https://attendee.gotowebinar.com/register/208947244212871000)
+**Meeting Documents:**
+  * [CART Captions](https://2020archive.1capapp.com/event/pa-dhs)
+  * [Agenda (revised)(opens in a new tab)](https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/about/dhs-information/documents/informationforadvocatesandstakeholders/maac/04-23-26-maac-agenda-final-revised.pdf)
+
+
+### **May 28, 2026**
+  * **Time:** 10:00 AM – 12:00 PM
+  * **Dial-in:** (631) 992-3221
+  * **Access Code:** 613-431-146
+
+
+[ Register for the 5/28/26 Meeting ](https://attendee.gotowebinar.com/register/4736189670115441504)
+**Meeting Documents:**
+  * [CART Captions](https://2020archive.1capapp.com/event/pa-dhs)
+
+
+### June 25, 2026 (hybrid meeting)
+  * **Time:** 10:00 AM – 12:00 PM
+  * **Location:  
+**Keystone Building – Forest Room  
+400 North St.  
+Harrisburg, PA 17120**  
+  
+**
+  * **Dial-in:(213) 929-4212**
+  * **Access Code:** 169-824-859
+
+
+[ Register for the 6/25/26 Meeting ](https://attendee.gotowebinar.com/register/2757978036234949974)
+**Meeting Documents:**
+  * [CART Captions](https://2020archive.1capapp.com/event/pa-dhs)
+
+
+### **July 23, 2026**
+  * **Time:** 10:00 AM – 12:00 PM
+  * **Dial-in:** (562) 247-8422
+  * **Access Code:** 917-795-877
+
+
+[ Register for the 7/23/26 Meeting ](https://attendee.gotowebinar.com/register/660974066577645909)
+**Meeting Documents:**
+  * [CART Captions](https://2020archive.1capapp.com/event/pa-dhs)
+
+
+### September 24, 2026 (hybrid meeting)
+  * **Time:** 10:00 AM – 12:00 PM
+  * **Location:**  
+Keystone Building – Forest Room  
+400 North St.  
+Harrisburg, PA 17120  
+  
+
+  * **Dial-in:** (415) 655-0060
+  * **Access Code:** 160-924-640
+
+
+[ Register for the 9/24/26 Meeting ](https://attendee.gotowebinar.com/register/3518763116842010455)
+**Meeting Documents:**
+  * [CART Captions](https://2020archive.1capapp.com/event/pa-dhs)
+
+
+### **October 22, 2026**
+  * **Time:** 10:00 AM – 12:00 PM
+  * **Dial-in** : (213) 929-4212
+  * **Access Code:** 854-366-944
+
+
+[ Register for the 10/22/26 Meeting ](https://attendee.gotowebinar.com/register/2432312587692237397)
+**Meeting Documents:**
+  * [CART Captions](https://2020archive.1capapp.com/event/pa-dhs)
+
+
+### December 10, 2026
+  * **Time:** 10:00 AM – 12:00 PM
+  * **Dial-in:** (631) 992-3221
+  * **Access Code:** 402-666-726
+
+
+[ Register for the 12/10/26 Meeting ](https://attendee.gotowebinar.com/register/5879736738583902037)
+**Meeting Documents:**
+  * [CART Captions](https://2020archive.1capapp.com/event/pa-dhs)
+
+
+If you have questions or would like to request additional information, please contact the Office of Medical Programs' (OMAP) Bureau of Policy, Analysis and Planning.
+Email the MAAC
+**Sally Kozak** **(Ex-officio Co-Chair)**  
+  
+Room 515 Health and Welfare Building, Harrisburg, PA 17120 | (717) 787-4639
+**Sonia Brookins (Chair)**  
+Philadelphia Welfare Rights Organization  
+sbrookins@welfarepride.org
+**Joseph M. Glinka (Vice Chair)**  
+Highmark Wholecare  
+Joseph.Glinka@highmark.com
+**Jolene Calla, Esq**.  
+Hospitals and Healthsystem Association of Pennsylvania (HAP)  
+jcalla@haponline.org
+**Kathy Cubit**  
+AgingAdvocate@outlook.com
+**Richard Edley**  
+Rehabilitation and Community Providers Association (RCPA)  
+redley@paproviders.org
+**Nicholas Focht**  
+Accucare Home Nursing Inc.  
+nicholasfocht@gmail.com
+**Dr. Mark Goldstein**  
+Pennsylvania Dental Association  
+drmg47@aol.com
+**Michael Grier**  
+Mike.grier@thepcil.org
+**Mia Haney  
+**Pennsylvania Homecare Association  
+mhaney@pahomecare.org
+**Mary Hartley  
+**Achieva  
+mhartley@achieva.info
+**Julie Korick, MBA**  
+Jessica & Friends Community  
+jkorick@ptd.net
+**Minta Livengood  
+**Indiana County Welfare Rights  
+Livengoodminta@gmail.com
+**Russ McDaid  
+**wrmcdaid67@gmail.com
+**Ted Mowatt**  
+Wanner Associates  
+tmowatt@wannerassoc.com**  
+  
+​Dr. Chiamaka Nnamani  
+**Lasting Impressions  
+amakamani@gmail.com
+**Matt Seeley**  
+Pennsylvania Statewide Independent Living Council  
+mrseeley@pasilc.org
+**Deb Shoemaker  
+**Pennsylvania Psychiatric Leadership Council  
+shoemaker0805@comcast.net
+**Nick Watsula**  
+UPMC for You  
+watsulan@upmc.edu
+**Dr. Marc Yester**  
+PA Chapter, American Academy of Pediatrics  
+yesterma@upmc.edu
+Return to top 
+[ ![Commonwealth of Pennsylvania Home](https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/CoPA%20Logo%20-%20Horizontal%20Lockup%201.svg) ](https://www.pa.gov/en)
+Proudly founded in 1681 as a place of tolerance and freedom.
+  * [ Commonwealth of Pennsylvania Social Media Follow on Facebook ](https://www.facebook.com/GovernorShapiro)
+  * [ Commonwealth of Pennsylvania Social Media Follow on X ](https://x.com/GovernorShapiro)
+  * [ Commonwealth of Pennsylvania Social Media Follow on Bluesky ](https://bsky.app/profile/governor.pa.gov)
+  * [ Commonwealth of Pennsylvania Social Media Follow on Threads ](https://www.threads.net/@governorshapiro)
+  * [ Commonwealth of Pennsylvania Social Media Follow on Instagram ](https://www.instagram.com/GovernorShapiro/)
+  * [ Commonwealth of Pennsylvania Social Media Follow on TikTok ](https://www.tiktok.com/@governorshapiro)
+  * [ Commonwealth of Pennsylvania Social Media Follow on YouTube ](https://www.youtube.com/@GovernorShapiro)
+  * [ Commonwealth of Pennsylvania Social Media Follow on Flickr ](https://www.flickr.com/photos/pagovernor/)
+  * [ Commonwealth of Pennsylvania Social Media Follow on WhatsApp ](https://www.whatsapp.com/channel/0029VbBAs2o6mYPMP8MQsg1b)
+
+
+## Top services
+  * [Register to Vote](https://www.pa.gov/services/vote/register-to-vote)
+  * [Find a DMV](https://www.pa.gov/agencies/dmv/find-a-location)
+  * [Get a Birth Certificate](https://www.pa.gov/agencies/health/programs/vital-records/birth-certificates)
+  * [Join the Veterans Registry](https://www.pa.gov/services/dmva/subscribe-to-veterans--registry-and-monthly-publication)
+  * [PAyback(opens in a new tab)](https://payback.pa.gov/Home/Who)
+
+
+## PA.gov
+  * [Careers & Internships ](https://www.pa.gov/agencies/employment/open-jobs)
+  * [PennWatch(opens in a new tab)](https://pennwatch.pa.gov/Pages/default.aspx)
+  * [Right-to-Know Law(opens in a new tab)](https://www.openrecords.pa.gov/RTKL/CitizensGuide.cfm)
+
+
+Copyright © 2026 Commonwealth of Pennsylvania. All rights reserved.
+  * [Accessibility](https://www.pa.gov/accessibility-policy)
+  * [Privacy & Disclaimers](https://www.pa.gov/privacy-policy)
+  * [Translation Disclaimer](https://www.pa.gov/translation-disclaimer)
+  * [Security](https://www.pa.gov/security-policy)
+  * [Social Media Policy & Disclaimer](https://www.pa.gov/social-media-policy-and-disclaimer)
+
+
+Loading ...
+
+
+--- EMBEDDED FILE CONTENT: https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/about/dhs-information/documents/informationforadvocatesandstakeholders/maac/04-23-26-maac-agenda-final-revised.pdf ---
+
+**MISSION**
+The mission of the MAAC is to provide the Department of Human Services with advice about access to and delivery of quality health care services in an efficient, economical, and responsive manner to low-income individuals and families.
+* * *
+**Agenda**
+April 23, 2026 10:00 a.m. – 12:00 p.m.
+* * *
+10:00 a.m. – Roll Call for MAAC Members
+* * *
+10:05 a.m. – Secretary Arkoosh • H.R.1 o Medical Frailty – Dr. David Grande, Megan Todd o May Meeting – Catherine Stetler
+* * *
+10:40 a.m. – H.R. 1 Workgroup Follow-Up Discussion
+* * *
+11:00 a.m. – OMAP Update – Sandy Marcella, Allison Lasher • Medicaid Management Information System Rollout • Qualitrac® Update
+* * *
+11:15 a.m. – OMHSAS Update – Corinne Elliot • 988 Update • Regulatory Update
+* * *
+11:30 a.m. – OLTL Update – Juliet Marsala • Procurement Update
+* * *
+11:40 a.m. – Minutes of March 2026 MAAC Meeting
+* * *
+11:45 a.m. – New/Old Business
+* * *
+11:50 a.m. – MA Bulletins & Pharmacy DocumentsEve Lickers What’s New at OMAP
+* * *
+**Subcommittee Reports**
+**Subcommittee Frequency Last Meeting Next Meeting**
+**Managed Care Delivery Systems**
+Consumer Subcommittee Monthly 04/22/26 05/27/26 Fee-for-Service Delivery Systems Subcommittee Quarterly 02/04/26 05/06/26 Long Term Services & Supports Subcommittee Monthly 04/1/26 05/06/26 Subcommittee Bi-Monthly 04/9/26 06/11/26
+* * *
+12:00 p.m. – Adjournment
+* * *
+The next MAAC Meeting is scheduled for Thursday, May 28 2026, via Webinar
+* * *
+Requests for topics in future MAAC meetings can be submitted to RA-PWMAACANDCONSUB@pa.gov
+* * *
+
+
+
+--- EMBEDDED FILE CONTENT: https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/providers/pharmacy-services/documents/medical-assistance-advisory-committee-operating-guidelines.pdf ---
+
+## MAAC Operating Guidelines
+Article I AUTHORITY
+* * *
+The Department of Human Services (DHS) established the Medical Assistance Advisory Committee in compliance with 42 Code of Federal Regulations, Section 431.12. The Medical Assistance Advisory Committee is referred to interchangeably as the MAAC or Committee in the body of the Operating Guidelines.
+* * *
+Article II MISSION
+* * *
+The mission of the MAAC is to provide the DHS with advice about access to and delivery of quality health care services in an efficient, economical, and responsive manner to low income individuals and families.
+* * *
+Article III PURPOSE
+* * *
+The purpose of the MAAC is to advise the DHS on issues of Medical Assistance (MA) policy development and program administration.
+* * *
+Article IV MEMBERSHIP
+* * *
+IV-1.Appointments Members shall be appointed by the Secretary of the DHS (Secretary). The Deputy Secretary of the Office of Medical Assistance Programs (OMAP) will solicit nominations for membership from current MAAC members and other sources and will make recommendations to the Secretary. An individual’s knowledge and interest in health and medical needs of low income population groups and with resources available for their care shall be noted by those making nominations.
+* * *
+IV-2.Size The voting membership of the Committee shall have no less than 15 members and no more than 25 members. The Deputy Secretary of the OMAP or a designee shall serve as the Ex-Officio (without a vote) Co-Chair. The Secretary may designate additional Ex-Officio members.
+* * *
+IV-3.Composition In general, the MAAC shall be composed of citizens of the Commonwealth of Pennsylvania with experience, knowledge, and interest in the delivery of health care services to low income citizens and medically vulnerable groups in the Commonwealth. More specifically, membership shall include health care providers and other representatives of health care professions who are familiar with the medical needs of low-income population groups and with the resources available and required for their care; current providers who participate in the MA Program; managed care organizations under contract with the DHS; representatives of MA consumer and provider organizations; current or former MA consumers, their parents or family members; and other persons knowledgeable about the health care needs of low-income population groups. Committee membership shall also include the five Subcommittee Chairs and the Secretary or his/her designee serving as Ex-Officio (without a vote) members.
+* * *
+## IV-4.Terms
+The standard appointment shall be for a two-year term. Members may be reappointed with no limit on the number of terms. The Secretary may appoint a member for a term of less than two years, when a term of less than two years supports efficient operations of the MAAC (e.g., to stagger term expiration dates).
+* * *
+IV-5.Resignations Any member desiring to resign from the MAAC shall submit his/her resignation in writing to the Committee Chair and the Secretary.
+* * *
+IV-6. – Attendance and Absences Member attendance is a fundamental aspect of committee business. DHS staff will contact a member regarding their participation and intent after two unexcused absences, or following a pattern of absences. The Secretary may terminate a member’s appointment after three unexcused absences or upon the MAAC’s recommendation. A member must notify the Committee Chair or the Ex-Officio Co-Chair, or designee, of an anticipated absence in order for the absence to be considered excused. The excused absent member is encouraged to send an alternate in his/her place. The alternate may participate in the meeting as part of the general public but has no official voting rights and will not be included in the count for a quorum.
+* * *
+Article V OFFICERS
+* * *
+V-1.Officers and Terms The officers of the MAAC shall be a Chair, Vice-Chair, and Ex-Officio (without a vote) Co-Chair. With the exception of the Ex-Officio Co-Chair, an officer shall serve for a two-year term and may serve for no more than two consecutive terms in an office. The officers shall perform the duties prescribed by the Operating Guidelines.
+* * *
+V-2.Appointment of Officers The Secretary shall appoint a Chair and Vice-Chair from the general MAAC membership considering the individual’s past participation on the Committee. His/her term of office shall begin at the first meeting following appointment. The Deputy Secretary of the OMAP or a designee shall serve as Ex Officio Co-Chair of the MAAC.
+* * *
+Article VI EXECUTIVE GROUP
+* * *
+The Executive Group of the MAAC consists of the Chair, Vice-Chair, Ex-Officio Co-Chair of the Committee and Chairs of the five standing Subcommittees. These individuals shall constitute the Executive Group of the MAAC with operating responsibility to arrange Committee meetings and be available between regularly scheduled meetings. The Executive Group may convene, as necessary, prior to the MAAC meeting to consider business to be presented at the Committee meeting.
+* * *
+Article VII MEETINGS, QUORUM, and VOTING
+* * *
+VII-1.Meetings The MAAC will meet at least twice a quarter but may meet the third month in the quarter as needed. Additional or special meetings may be recommended by or through the Executive Group and held with the concurrence of the Ex-Officio Co-Chair. Prior to each MAAC meeting, the Executive Group
+* * *
+and the Ex-Officio Co-Chair or his/her designee shall coordinate and set the agenda for the upcoming Committee meeting. The agenda will include topics identified by DHS and/or recommended by the MAAC Executive Group. It is the duty of MAAC Executive Group to identify and to propose agenda topics to DHS, for DHS’ consideration.
+* * *
+VII-2. – Official Action The MAAC Chair, or Vice-Chair in the Chair’s absence, shall facilitate the general conduct of the Committee meeting in accordance with the agenda, call for motions and recommendations, and call for member votes. Recommendations approved by the MAAC shall be submitted in writing, by the MAAC Chair, to the Secretary.
+* * *
+VII-3.Quorum A quorum, consisting of a majority (more than half) of all appointed MAAC members, is required for formal motions and votes introduced at the Committee meetings. If an excused absent member is represented by an alternate, that alternate has no official voting rights and shall not count as part of the quorum. In the absence of a quorum, the meeting may proceed for discussion purposes and the minutes of the meeting must reflect the lack of a quorum, number of members participating in the meeting, and details of the discussion.
+* * *
+VII-4.Majority Vote The basic requirement for Committee approval of a recommendation is a majority vote. A majority vote occurs when a vote for approval is cast by more than half of the appointed MAAC members at a regular or properly called Committee meeting at which a quorum is present. Votes shall be conducted by voice.
+* * *
+VII-5. – Sunshine Act Meetings of the Committee are subject to the Pennsylvania Sunshine Act 65 Pa.C.S.A. § 702.
+* * *
+Article VIII GENERAL: SUBCOMMITTEES
+* * *
+VIII-1.Structure and Appointments The five standing Subcommittees of the MAAC are the Consumer, Fee-for-Service Delivery System, Managed Care Delivery System, Long-Term Services and Supports Delivery System, and Managed Long-Term Services and Supports Subcommittees. For the Consumer, Fee-for-Service Delivery System and Managed Care Delivery System Subcommittees, the Deputy Secretary of OMAP shall appoint a Chair and Vice-Chair from the general memberships of each Subcommittee, designate an Ex-Officio Co-Chair for each Subcommittee, and consider nominations for and appoint members to each Subcommittee. Consideration in appointing Subcommittee Members shall include individuals knowledgeable and interested in matters that come before the Subcommittee. The majority of members of the Consumer Subcommittee shall be current recipients of Medical Assistance. For the Long-Term Services and Supports and the Managed Long-Term Services and Supports Subcommittees, the Deputy Secretary of OLTL shall appoint a Chair and Vice-Chair from the general memberships of each Subcommittee, designate an Ex-Officio Co-Chair for each Subcommittee, and consider nominations for and appoint members to each Subcommittee.
+* * *
+VIII-2.Membership and Terms The Consumer, Fee-for-Service Delivery System and Managed Care Delivery System Subcommittees shall have at least 10 members and no greater than 15 members. The standard appointment shall be for a two-year term. Members may be reappointed with no limit on the number
+* * *
+of terms. The Deputy Secretary of OMAP may appoint a member for a term of less than two years, when a term of less than two years supports efficient operations of the Subcommittee (e.g., to stagger term expiration dates). An individual may be appointed to more than one Subcommittee at any given time. The Long-Term Services and Supports Delivery System Subcommittee shall have at least ten 10 members and no greater than 20 members. The standard appointment shall be for a two-year term. Members may be reappointed with no limit on the number of terms. The Deputy Secretary of OLTL may appoint a member for a term of less than two years, when a term of less than two years supports efficient operations of the Subcommittee (e.g., to stagger term expiration dates). An individual may be appointed to more than one Subcommittee at any given time. The Managed Long-Term Services and Supports Subcommittee shall have at least 10 members and no greater than 25 members. A majority of the Subcommittee membership shall be users of long-term care services and supports or family caregivers. The standard appointment shall be for a two-year term, and members may serve no more than 2 consecutive two-year terms. An individual who has served 2 consecutive two-year terms may be reappointed to the Subcommittee following a two-year period of non-membership. The Deputy Secretary of OLTL may appoint a member for a term of less than two years, when a term of less than two years supports efficient operations of the Subcommittee (e.g., to stagger term expiration dates). An individual may be appointed to more than one Subcommittee at any given time.
+* * *
+VIII-3.Resignations For the Consumer, Fee-for-Service Delivery System and Managed Care Delivery System Subcommittees, any member desiring to resign from the Subcommittees shall submit his/her resignation in writing to the Subcommittee Chair and the Deputy Secretary of OMAP. For the Long-Term Services and Supports and the Managed Long-Term Services and Supports Subcommittees, any member desiring to resign from the Subcommittees shall submit his/her resignation in writing to the Subcommittee Chair and the Deputy Secretary of OLTL.
+* * *
+VIII-4. – Attendance and Absences Member attendance is a fundamental aspect of Subcommittee business. DHS staff will contact a member regarding their participation and intent after two unexcused absences, or following a pattern of absences. The Deputy Secretary of OMAP (for the Consumer, Fee-for-Service Delivery System and Managed Care Delivery System Subcommittees) or Deputy Secretary of OLTL (for the Long-Term Services and Supports and the Managed Long-Term Services and Supports Subcommittees) may terminate a respective Subcommittee member’s appointment after three unexcused absences or upon the Subcommittee’s recommendation. A Subcommittee member must notify the Subcommittee Chair or the Ex-Officio Co-Chair, or designee, of an anticipated absence in order for the absence to be considered excused. The excused absent member is encouraged to send an alternate in his/her place. The alternate may participate in the meeting as part of the general public but has no official voting rights and will not be included in the count for a quorum.
+* * *
+VIII-5.Meetings Standing Subcommittees shall meet at least quarterly. Meetings may be held more frequently.
+* * *
+VIII-6.Official Action The Subcommittee Chair shall facilitate the general conduct of the Subcommittee meeting in accordance with the agenda, call for motions and recommendations, and call for member votes. Approval of a recommendation requires a majority vote. Recommendations approved by the Subcommittee for consideration as MAAC business shall be submitted in writing, by the Subcommittee chair or designee, to the MAAC Chair.
+* * *
+VIII-7.Quorum A quorum, consisting of a majority (more than half of all appointed Subcommittee members), is required to take formal action on matters before the Subcommittee at regularly scheduled, additional, or special meetings. In the absence of a quorum, the meeting may proceed, for discussion purposes and the minutes of the meeting must reflect the lack of a quorum, number of participating members, and details of the discussion.
+* * *
+VIII-8. – Majority Vote The basic requirement for Subcommittee approval of a recommendation is a majority vote. A majority vote occurs when a vote for approval is cast by more than half of the appointed Subcommittee members at a regular or properly called Subcommittee meeting at which a quorum is present. Votes shall be conducted by voice.
+* * *
+VIII-9. – Sunshine Act Meetings of the Subcommittees are subject to the Pennsylvania Sunshine Act 65 Pa.C.S.A. § 702.
+* * *
+Article IX CONSUMER SUBCOMMITTEE
+* * *
+IX-1.Mission The mission of the Consumer Subcommittee is to be a resource to the MAAC enabling the Committee to advise the Department of Human Services on issues regarding access to service and quality of service.
+* * *
+IX-2.Purpose The purpose of the Consumer Subcommittee is to review and advise the MAAC on policy development and program administration of publicly funded Medical Assistance programs.
+* * *
+IX-3.Members Subcommittee members shall be appointed by the Deputy Secretary of OMAP. A majority of the members of the Consumer Subcommittee shall be current MA consumers and may also include representatives of: current or former MA consumers, their parents or family members; low-income groups whose membership is primarily MA consumers; advisory groups advocating on health care issues for low-income Pennsylvanians, aging or elderly Pennsylvanians, Hispanic or other ethnic groups, health care issues relating to certain diseases or health care conditions; and others knowledgeable and interested in matters that come before the Subcommittee. Members of the Consumer Subcommittee may serve on other Subcommittees.
+* * *
+Article X FEE-FOR-SERVICE DELIVERY SYSTEM SUBCOMMITTEE
+* * *
+X-1.Mission The mission of the Fee-for-Service Delivery System Subcommittee is to be a resource to the MAAC enabling the Committee to advise the Department of Human Services on issues regarding access to service and quality of service.
+* * *
+X-2.Purpose The purpose of the Fee-for-Service Delivery System Subcommittee is to review and advise the MAAC on policy development and program administration of the State's fee-for-service delivery system.
+* * *
+## X-3.Members
+Subcommittee members shall be appointed by the Deputy Secretary of OMAP. Members of the Fee for Service Delivery System Subcommittee shall be representatives of health care professions, such as pharmacy, durable medical equipment, dental, medical, home health, hospitals and other health care practitioners; consumers; the public health arena; and others who are knowledgeable and interested in matters that come before the Subcommittee. At least one member of the Subcommittee shall be a current MA consumer.
+* * *
+Article XI MANAGED CARE DELIVERY SYSTEM SUBCOMMITTEE
+* * *
+XI-1.Mission The mission of the Managed Care Delivery System Subcommittee is to be a resource to the MAAC enabling the Committee to advise the Department of Human Services on issues regarding access to service and quality of service.
+* * *
+XI-2.Purpose The purpose of the Managed Care Delivery System Subcommittee is to review and advise the MAAC on policy development and program administration of the State's physical and behavioral health managed care programs.
+* * *
+XI-3.Members Subcommittee members shall be appointed by the Deputy Secretary of OMAP. Members of the Managed Care Delivery System Subcommittee shall include representatives of practitioners, such as a medical director of a managed care plan; managed care plans, such as HMOs; federally qualified health centers; county government; and others who are knowledgeable and interested in matters that come before the Subcommittee. At least one member of the Subcommittee shall be a current MA consumer who is also a member of the Consumer Subcommittee.
+* * *
+Article XII LONG-TERM SERVICES and SUPPORTS SUBCOMMITTEE
+* * *
+XII-1.Mission The mission of the Long-Term Services and Supports Subcommittee is to be a resource to the MAAC enabling the Committee to advise the Department of Human Services on issues regarding access to service and quality of service.
+* * *
+XII-2.Purpose The purpose of the Long-Term Services and Supports Subcommittee is to review and advise the MAAC on policy development and program administration of the State's long-term care programs, including the range of services available to older Pennsylvanian’s and those with disabilities.
+* * *
+XII-3.Members Subcommittee members shall be appointed by the Deputy Secretary of OLTL. Members of the Subcommittee shall include users of OLTL services and members who represent the following: Living Independence for the Elderly (LIFE), Assisted Living Facilities, Centers for Independent Living, Adult Day Care, Aging and Disability Advocates, Home Health Agencies, Hospice, local Area Agencies on Aging, personal care homes, home health agencies, managed care organizations, and nursing home provider associations. At least three members of the Subcommittee shall be current Home and Community-Based Services consumers.
+* * *
+Article XIII MANAGED LONG-TERM SERVICES AND SUPPORTS SUBCOMMITTEE
+* * *
+XIII-1. – Mission The mission of the Managed Long-Term Services and Supports Subcommittee is to be a resource to the MAAC enabling the Committee to advise the Department of Human Services on issues regarding access to service and quality of service.
+* * *
+XIII-2. – Purpose The purpose of the Managed Long-Term Services and Supports Subcommittee is to review and advise the MAAC on policy development and program administration of the State's managed long term services and supports programs, including the range of services available to older Pennsylvanian’s and adults with physical disabilities.
+* * *
+XIII-3. – Members Subcommittee members shall be appointed by the Deputy Secretary of OLTL. Members shall include users of managed long-term services and supports, family caregivers, consumer advocates and members who represent the following: Managed Long-Term Services and Supports Organizations, Adult Day Services, Home Health Services, Home Care Services, Personal Assistance Services, Nursing Facilities, Assisted Living Residences and other provider types in this model of services. A majority of the Subcommittee members shall be users of managed long-term services and supports or family caregivers.
+* * *
+Article XIV TRAVEL AND SUBSISTENCE
+* * *
+XIV-1.Reimbursement Duly appointed members of the MAAC and Subcommittees may request reimbursement of expenses incurred in the performance of their official duties to attend scheduled MAAC and Subcommittee meetings, subject to Commonwealth policies and rates of reimbursement. Payments made for travel and subsistence are subject to audit by the Commonwealth. With the exception of consumer alternates, a non-voting alternate attending in an appointed member's absence will not receive reimbursement of expenses.
+* * *
+XIV-2.- Advancement Members may request a cash advancement when travel assignments create a financial hardship subject to Commonwealth policies and rates of reimbursement.
+* * *
+XIV-3.Cooperation Members requesting reimbursement or travel advancements shall complete necessary forms and comply with Commonwealth policies.
+* * *
+Article XV OFFICE OF MEDICAL ASSISTANCE PROGRAMS (OMAP) AND OFFICE OF LONG TERM LIVING (OLTL)
+* * *
+XV-1.Responsibilities The OMAP shall provide staff support as a liaison with the MAAC, as well as the Consumer, Fee-for Service Delivery System and Managed Care Delivery System Subcommittees. The OLTL shall provide staff support as a liaison with the Long-Term Services and Supports and the Managed Long Term Services and Supports Subcommittees
+* * *
+Staff support may include independent technical assistance as needed to enable the MAAC and Subcommittees to make effective recommendations in fulfilling their mission and purpose. At the request of MAAC and Subcommittee Chairs and concurrence of the Ex-Officio Co-Chairs, staff support may include handling meeting arrangements, taking minutes of meetings, arranging presentations and arranging participation of appropriate DHS staff.
+* * *
+XV-2.Member Participation DHS shall make financial arrangements to ensure the participation of appointed voting consumer members and advise members of the Commonwealth's policies and rates of reimbursement and advancement of travel expenses. The OMAP shall carry out this function for the MAAC, as well as the Consumer, Fee-for-Service Delivery System and Managed Care Delivery System Subcommittees. The OLTL shall carry out this function for the Long-Term Services and Supports and the Managed Long-Term Services and Supports Subcommittees. Prompt action shall be taken on a member's request to ensure timely reimbursement or advance payments for their allowable expenses.
+* * *
+
+
+
+--- EMBEDDED FILE CONTENT: https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/about/dhs-information/documents/informationforadvocatesandstakeholders/maac/01-22-2026-omap-maac-presentation.pdf ---
+
+**MAAC Updates**
+**Sally Kozak MHA** and **RN**
+**Deputy Secretary**
+>www.dpw.state.pa.us > www.dhs.pa.gov Office of Medical Assistance Programs 01/22/202 1
+* * *
+>www.dpw.state.pa.us > www.dhs.pa.gov Agenda • Deputy Secretary Updates • H.R.1 • Medicaid Work Requirements • State Directed Payments and Hospital Assessments • Rural Health Transformation Plan Update • Prior Authorization for GLPs-1s 01/22/2026 2
+* * *
+>www.dpw.state.pa.us > www.dhs.pa.gov Agenda • Deputy Secretary Updates • H.R.1 • Medicaid Work Requirements • State Directed Payments and Hospital Assessments • Rural Health Transformation Plan Update • Prior Authorization for GLPs-1s 01/22/2026 3
+* * *
+>www.dpw.state.pa.us > www.dhs.pa.gov RHTP Application Timeline
+* * *
+>www.dpw.state.pa.us > www.dhs.pa.gov
+* * *
+>www.dpw.state.pa.us > www.dhs.pa.gov Agenda • Deputy Secretary Updates • H.R.1 • Rural Health Transformation Plan Update • Prior Authorization for GLPs-1s 01/22/2026 6
+* * *
+>www.dpw.state.pa.us > www.dhs.pa.gov 01/22/2026 7 Questions?
+* * *
+

@@ -1,0 +1,5 @@
+--- SOURCE: https://docs.cpuc.ca.gov/PUBLISHED/FINAL_DECISION/125983-05.htm ---
+
+#  **6. Comments on Proposed Decision**
+The proposed decision of the Commissioner in this matter was mailed to the parties in accordance with Section 311 of the Public Utilities Code and comments were allowed under Rule 14.3 of the Commission's Rules of Practice and Procedure. Comments were filed on October 18, 2010, and reply comments were filed on October 28, 2010, by DRA, Efficiency 2.0, Joint Parties, PG&E, OPower, SCE, TURN and WEM. We have considered the comments in our final order.
+[![Previous Page](https://docs.cpuc.ca.gov/PUBLISHED/Graphics/gtabppv.gif)](https://docs.cpuc.ca.gov/PUBLISHED/FINAL_DECISION/125983-04.htm#TopOfPage)[![Top Of Page](https://docs.cpuc.ca.gov/PUBLISHED/Graphics/gtabtop.gif)](https://docs.cpuc.ca.gov/PUBLISHED/FINAL_DECISION/125983-05.htm#TopOfPage)[![Next Page](https://docs.cpuc.ca.gov/PUBLISHED/Graphics/gtabpnx.gif)](https://docs.cpuc.ca.gov/PUBLISHED/FINAL_DECISION/125983-06.htm#TopOfPage)[![Go To First Page](https://docs.cpuc.ca.gov/PUBLISHED/Graphics/gtab1st.gif)](javascript:GoFirstPage\(\))

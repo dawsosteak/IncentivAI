@@ -1,0 +1,2698 @@
+--- SOURCE: https://www.pa.gov/agencies/health/facilities/out-patient-healthcare-facilities/kidney-dialysis ---
+
+Exit Site
+If you are in danger, call 911. If you need to exit this website quickly, click on the ESCAPE button. This button will immediately open a browser window for weather.com and replace your current window with google.com. 
+[ Skip to agency navigation ](https://www.pa.gov/agencies/health/facilities/out-patient-healthcare-facilities/kidney-dialysis#agencynav)
+[ Skip to main content ](https://www.pa.gov/agencies/health/facilities/out-patient-healthcare-facilities/kidney-dialysis#content)
+![Commonwealth of Pennsylvania ; Home](https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/bannerimage.png)
+Official website
+Official website
+of the Commonwealth of Pennsylvania
+[ ![Commonwealth of Pennsylvania | Home](https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/CoPA%20Logo%20-%20Horizontal%20Lockup%201.svg) ](https://www.pa.gov/)
+Translate
+  * [ Services ](https://www.pa.gov/services)
+  * [ Agency Directory ](https://www.pa.gov/agencies)
+  * Your Government
+    * [The Governor ](https://www.pa.gov/governor)
+    * [Lt. Governor ](https://www.pa.gov/ltgovernor)
+    * [Legislation (opens in a new tab)](https://www.palegis.us/)
+    * [Courts (opens in a new tab)](https://www.pacourts.us/)
+    * [State House (opens in a new tab)](https://www.palegis.us/house)
+    * [State Senate (opens in a new tab)](https://www.palegis.us/senate)
+    * [Attorney General (opens in a new tab)](https://www.attorneygeneral.gov/)
+    * [Auditor General (opens in a new tab)](https://www.paauditor.gov/)
+    * [Treasurer (opens in a new tab)](https://www.patreasury.gov/)
+  * [ Visit PA (opens in a new tab)](https://visitpa.com/)
+  * [ News (opens in a new tab)](https://pacast.com/)
+
+
+## The .gov means it's official. 
+Local, state, and federal government websites often end in .gov. Commonwealth of Pennsylvania government websites and email systems use "pennsylvania.gov" or "pa.gov" at the end of the address. Before sharing sensitive or personal information, make sure you're on an official state website. 
+##  [Department of Health](https://www.pa.gov/agencies/health)
+  * [Newsroom ](https://www.pa.gov/agencies/health/newsroom)
+  * [Diseases and Conditions ](https://www.pa.gov/agencies/health/diseases-conditions)
+    * [Acute Flaccid Myelitis (AFM) ](https://www.pa.gov/agencies/health/diseases-conditions/afm)
+    * [Amyotrophic Lateral Sclerosis (ALS) ](https://www.pa.gov/agencies/health/diseases-conditions/als)
+    * [Brain and Neurological ](https://www.pa.gov/agencies/health/diseases-conditions/brain-and-neurological)
+      * [Alzheimer's Disease and Related Disorders ](https://www.pa.gov/agencies/health/diseases-conditions/brain-and-neurological/alzheimers)
+      * [Autism Diagnostic Clinic (ADC) ](https://www.pa.gov/agencies/health/diseases-conditions/brain-and-neurological/autism-diagnostic-clinic)
+      * [Head Injury ](https://www.pa.gov/agencies/health/diseases-conditions/brain-and-neurological/head-injury)
+      * [NeuroResource Facilitation Program ](https://www.pa.gov/agencies/health/diseases-conditions/brain-and-neurological/neuroresource-facilitation-program)
+      * [Tourette Syndrome ](https://www.pa.gov/agencies/health/diseases-conditions/brain-and-neurological/tourette-syndrome)
+      * [Traumatic Brain Injury ](https://www.pa.gov/agencies/health/diseases-conditions/brain-and-neurological/traumatic-brain-injury)
+    * [Cancer ](https://www.pa.gov/agencies/health/diseases-conditions/cancer)
+      * [Pennsylvania Breast & Cervical Cancer Early Detection Program (PA-BCCEDP) ](https://www.pa.gov/agencies/health/diseases-conditions/cancer/pa-bccedp)
+      * [Pennsylvania Comprehensive Cancer Control Program (PACCCP) ](https://www.pa.gov/agencies/health/diseases-conditions/cancer/pacccp)
+    * [Chronic Illness ](https://www.pa.gov/agencies/health/diseases-conditions/chronic-disease)
+      * [Arthritis ](https://www.pa.gov/agencies/health/diseases-conditions/chronic-disease/arthritis)
+      * [Asthma ](https://www.pa.gov/agencies/health/diseases-conditions/chronic-disease/asthma)
+      * [Chronic Renal Disease ](https://www.pa.gov/agencies/health/diseases-conditions/chronic-disease/chronic-renal-disease)
+      * [Diabetes ](https://www.pa.gov/agencies/health/diseases-conditions/chronic-disease/diabetes)
+      * [Heart Disease and Stroke ](https://www.pa.gov/agencies/health/diseases-conditions/chronic-disease/heart-disease-stroke)
+      * [Obesity ](https://www.pa.gov/agencies/health/diseases-conditions/chronic-disease/obesity)
+    * [Down Syndrome ](https://www.pa.gov/agencies/health/diseases-conditions/down-syndrome)
+    * [Foodborne Diseases ](https://www.pa.gov/agencies/health/diseases-conditions/foodborne-illness)
+    * [Heat-related Illness ](https://www.pa.gov/agencies/health/diseases-conditions/heat-illness)
+    * [Infectious Disease ](https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease)
+      * [Hepatitis ](https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/hepatitis)
+      * [HIV/AIDS Services and Epidemiology ](https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/hiv)
+      * [Measles ](https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/measles)
+      * [Mpox ](https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/mpox)
+      * [Respiratory Viruses ](https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/respiratory-viruses)
+      * [Sexually Transmitted Diseases ](https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/std)
+      * [Travelers Health ](https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/travelers-health)
+      * [Tuberculosis ](https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/tuberculosis)
+      * [Vectorborne Diseases​ ](https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/vectorborne-diseases)
+    * [Lead Poisoning ](https://www.pa.gov/agencies/health/diseases-conditions/lead-poisoning)
+      * [FAQ ](https://www.pa.gov/agencies/health/diseases-conditions/lead-poisoning/lead-faq)
+      * [Lead Poisoning Information Line ](https://www.pa.gov/agencies/health/diseases-conditions/lead-poisoning/lead-information-line)
+      * [Lead Surveillance ](https://www.pa.gov/agencies/health/diseases-conditions/lead-poisoning/lead-surveillance)
+    * [Legionella ](https://www.pa.gov/agencies/health/diseases-conditions/legionella)
+    * [Lupus ](https://www.pa.gov/agencies/health/diseases-conditions/lupus)
+    * [Rabies ](https://www.pa.gov/agencies/health/diseases-conditions/rabies)
+    * [Reflex Sympathetic Dystrophy Syndrome (RSDS) ](https://www.pa.gov/agencies/health/diseases-conditions/rsds)
+    * [Sickle Cell Disease (SCD) Community-Based Services and Support (CBSS) Program ](https://www.pa.gov/agencies/health/diseases-conditions/scd-cbss)
+  * [Programs and Topics ](https://www.pa.gov/agencies/health/programs)
+    * [Blood and Organ Donation ](https://www.pa.gov/agencies/health/programs/blood-and-organ-donation)
+      * [Blood Donation ](https://www.pa.gov/agencies/health/programs/blood-and-organ-donation/blood-donation)
+      * [Cord Blood Banking ](https://www.pa.gov/agencies/health/programs/blood-and-organ-donation/cord-blood-banking)
+      * [Organ Donation ](https://www.pa.gov/agencies/health/programs/blood-and-organ-donation/organ-donation)
+    * [Environmental Health ](https://www.pa.gov/agencies/health/programs/environmental-health)
+      * [Children's Environmental Health ](https://www.pa.gov/agencies/health/programs/environmental-health/children)
+      * [CSPECE ](https://www.pa.gov/agencies/health/programs/environmental-health/cspece)
+      * [Environmental Health Indicators (EHI) Map ](https://www.pa.gov/agencies/health/programs/environmental-health/ehi)
+      * [Environmental Health Concerns ](https://www.pa.gov/agencies/health/programs/environmental-health/concern)
+      * [Environmental Health Tracking Program ](https://www.pa.gov/agencies/health/programs/environmental-health/epht)
+      * [Fact Sheets ](https://www.pa.gov/agencies/health/programs/environmental-health/fact-sheets)
+      * [Harmful Algal Blooms (HABs) ](https://www.pa.gov/agencies/health/programs/environmental-health/habs)
+      * [HABs Dashboard ](https://www.pa.gov/agencies/health/programs/environmental-health/habs-dashboard)
+      * [HC-PHA ](https://www.pa.gov/agencies/health/programs/environmental-health/hc-pha)
+      * [Environmental Health Assessment Program (HAP) ](https://www.pa.gov/agencies/health/programs/environmental-health/health-assessment-program)
+      * [Pennsylvania Adult Blood Lead Epidemiology and Surveillance (ABLES) ](https://www.pa.gov/agencies/health/programs/environmental-health/lead)
+      * [Newsletters ](https://www.pa.gov/agencies/health/programs/environmental-health/newsletters)
+      * [Oil and Natural Gas Production (ONGP) ](https://www.pa.gov/agencies/health/programs/environmental-health/oilgas)
+      * [Pennsylvania Wastewater Surveillance System (PaWSS) ](https://www.pa.gov/agencies/health/programs/environmental-health/pawss)
+      * [PennOSHS ](https://www.pa.gov/agencies/health/programs/environmental-health/pennoshs)
+      * [PFAS ](https://www.pa.gov/agencies/health/programs/environmental-health/pfas)
+      * [Well Water ](https://www.pa.gov/agencies/health/programs/environmental-health/well-water)
+    * [Healthy Living ](https://www.pa.gov/agencies/health/programs/healthy-living)
+      * [Antibiotic Awareness ](https://www.pa.gov/agencies/health/programs/healthy-living/antibiotic-awareness)
+      * [Bullying Prevention and Safe Relationships Program (BPSR) ](https://www.pa.gov/agencies/health/programs/healthy-living/bpsr)
+      * [Pennsylvania Child Death Review Program ](https://www.pa.gov/agencies/health/programs/healthy-living/child-death-review)
+      * [Community to Home Program ](https://www.pa.gov/agencies/health/programs/healthy-living/community-to-home)
+      * [Federally Qualified Health Center (FQHC) Program ](https://www.pa.gov/agencies/health/programs/healthy-living/fqhc)
+      * [Healthy Families ](https://www.pa.gov/agencies/health/programs/healthy-living/healthy-families)
+      * [Healthy Pantry ](https://www.pa.gov/agencies/health/programs/healthy-living/healthy-pantry)
+      * [Help in PA ](https://www.pa.gov/agencies/health/programs/healthy-living/help-in-pa)
+      * [Nutrition ](https://www.pa.gov/agencies/health/programs/healthy-living/nutrition)
+      * [Oral Health ](https://www.pa.gov/agencies/health/programs/healthy-living/oral-health)
+      * [Physical Activity ](https://www.pa.gov/agencies/health/programs/healthy-living/physical-activity)
+      * [SPAN ](https://www.pa.gov/agencies/health/programs/healthy-living/span)
+      * [Special Kids Network ](https://www.pa.gov/agencies/health/programs/healthy-living/special-kids-network)
+      * [Teen Health ](https://www.pa.gov/agencies/health/programs/healthy-living/teen-health)
+      * [Tobacco Prevention ](https://www.pa.gov/agencies/health/programs/healthy-living/tobacco-prevention-and-control)
+      * [WalkWorks ](https://www.pa.gov/agencies/health/programs/healthy-living/walkworks)
+    * [Immunizations ](https://www.pa.gov/agencies/health/programs/immunizations)
+      * [General Immunization Guidance ](https://www.pa.gov/agencies/health/programs/immunizations/general-immunization-guidance)
+      * [Adolescent ](https://www.pa.gov/agencies/health/programs/immunizations/adolescent)
+      * [Adult ](https://www.pa.gov/agencies/health/programs/immunizations/adult)
+      * [Childhood ](https://www.pa.gov/agencies/health/programs/immunizations/infants-and-children)
+      * [Immunization Materials and Resources ](https://www.pa.gov/agencies/health/programs/immunizations/forms-publications)
+      * [Perinatal Hepatitis B Program ](https://www.pa.gov/agencies/health/programs/immunizations/perinatal-hepatitis-b)
+      * [PIERS Public Portal ](https://www.pa.gov/agencies/health/programs/immunizations/piers-public-portal)
+      * [School ](https://www.pa.gov/agencies/health/programs/immunizations/school)
+      * [School Rates ](https://www.pa.gov/agencies/health/programs/immunizations/rates)
+      * [School Frequently Asked Questions ](https://www.pa.gov/agencies/health/programs/immunizations/school-faq)
+      * [Vaccines for Children (VFC) Program ](https://www.pa.gov/agencies/health/programs/immunizations/vaccines-for-children)
+      * [VFC Program Overview ](https://www.pa.gov/agencies/health/programs/immunizations/vfc-overview)
+      * [VFC Resources and Forms ](https://www.pa.gov/agencies/health/programs/immunizations/vfc-resources)
+    * [Maternal & Infant Health ](https://www.pa.gov/agencies/health/programs/maternal-health-and-infant-care)
+      * [Abortion ](https://www.pa.gov/agencies/health/programs/maternal-health-and-infant-care/abortion)
+      * [Breastfeeding ](https://www.pa.gov/agencies/health/programs/maternal-health-and-infant-care/breastfeeding)
+      * [Maternal Mortality ](https://www.pa.gov/agencies/health/programs/maternal-health-and-infant-care/maternal-mortality)
+      * [Newborn Screening & Genetics Program ](https://www.pa.gov/agencies/health/programs/maternal-health-and-infant-care/newborn-screening)
+      * [PA Perinatal TiPS ](https://www.pa.gov/agencies/health/programs/maternal-health-and-infant-care/pa-perinatal-tips)
+      * [Perinatal Mood and Anxiety Disorders (PMADs) ](https://www.pa.gov/agencies/health/programs/maternal-health-and-infant-care/pmad)
+      * [Postpartum Depression ](https://www.pa.gov/agencies/health/programs/maternal-health-and-infant-care/postpartum-depression)
+      * [Pregnancy ](https://www.pa.gov/agencies/health/programs/maternal-health-and-infant-care/pregnancy)
+      * [Regional Maternal Health Coalitions ](https://www.pa.gov/agencies/health/programs/maternal-health-and-infant-care/regional-maternal-health-coalitions)
+      * [Reproductive Health ](https://www.pa.gov/agencies/health/programs/maternal-health-and-infant-care/reproductive-health)
+      * [Infant Safe Sleep ](https://www.pa.gov/agencies/health/programs/maternal-health-and-infant-care/sids)
+      * [Shaken Baby Syndrome ](https://www.pa.gov/agencies/health/programs/maternal-health-and-infant-care/shaken-baby-syndrome)
+      * [Title V ](https://www.pa.gov/agencies/health/programs/maternal-health-and-infant-care/title-v)
+      * [Women, Infants and Children (WIC) ](https://www.pa.gov/agencies/health/programs/maternal-health-and-infant-care/wic)
+    * [Medical Marijuana ](https://www.pa.gov/agencies/health/programs/medical-marijuana)
+      * [Act 63 ](https://www.pa.gov/agencies/health/programs/medical-marijuana/act-63)
+      * [Advisory Board ](https://www.pa.gov/agencies/health/programs/medical-marijuana/advisory-board)
+      * [Announcements ](https://www.pa.gov/agencies/health/programs/medical-marijuana/announcements)
+      * [Dispensaries ](https://www.pa.gov/agencies/health/programs/medical-marijuana/dispensaries)
+      * [GPD Forms ](https://www.pa.gov/agencies/health/programs/medical-marijuana/gpd-forms)
+      * [Growers-Processors ](https://www.pa.gov/agencies/health/programs/medical-marijuana/growers-processors)
+      * [Laboratories ](https://www.pa.gov/agencies/health/programs/medical-marijuana/laboratories)
+      * [Medical Marijuana Assistance Program (MMAP) ](https://www.pa.gov/agencies/health/programs/medical-marijuana/mmap)
+      * [Medical Marijuana Patients ](https://www.pa.gov/agencies/health/programs/medical-marijuana/medical-marijuana-patients)
+      * [Resources for Medical Professionals in the Medical Marijuana Program ](https://www.pa.gov/agencies/health/programs/medical-marijuana/physicians)
+      * [Regulations ](https://www.pa.gov/agencies/health/programs/medical-marijuana/medical-marijuana-regulations)
+      * [Renew ](https://www.pa.gov/agencies/health/programs/medical-marijuana/renew)
+      * [Research ](https://www.pa.gov/agencies/health/programs/medical-marijuana/clinical-research)
+      * [School ](https://www.pa.gov/agencies/health/programs/medical-marijuana/medical-marijuana-school)
+    * [Opioid Use Disorder ](https://www.pa.gov/agencies/health/programs/opioids)
+      * [Individuals and Families ](https://www.pa.gov/agencies/health/programs/opioids/individuals-families)
+      * [Naloxone ](https://www.pa.gov/agencies/health/programs/opioids/naloxone)
+      * [Pennsylvania Substance Use Navigation (PA-SUN) Program ](https://www.pa.gov/agencies/health/programs/opioids/pa-sun)
+      * [Patient Advocacy Program - for Patients Who are Prescribed Controlled Substances ](https://www.pa.gov/agencies/health/programs/opioids/patient-advocacy-program)
+      * [Prescribers and Providers ](https://www.pa.gov/agencies/health/programs/opioids/prescribers-and-providers)
+      * [First Responder Addiction and Connection to Treatment (FR-ACT) ](https://www.pa.gov/agencies/health/programs/opioids/fr-act)
+    * [School Health ](https://www.pa.gov/agencies/health/programs/school-health)
+      * [Abuse (Adult and Child) ](https://www.pa.gov/agencies/health/programs/school-health/abuse)
+      * [Act 117 - Parental Education of Type 1 Diabetes ](https://www.pa.gov/agencies/health/programs/school-health/act-117)
+      * [Act 48 ](https://www.pa.gov/agencies/health/programs/school-health/act-48)
+      * [Seizure Recognition and Related Training (Act 84) ](https://www.pa.gov/agencies/health/programs/school-health/act-84)
+      * [Automated External Defibrillator (AED)/CPR Requirements for Schools ](https://www.pa.gov/agencies/health/programs/school-health/aed-cpr)
+      * [Allergies/Epinephrine Administration ](https://www.pa.gov/agencies/health/programs/school-health/allergies)
+      * [Multi-Hazards School Safety Planning Toolkit ](https://www.pa.gov/agencies/health/programs/school-health/all-hazard-planning-toolkit)
+      * [Asthma ](https://www.pa.gov/agencies/health/programs/school-health/asthma)
+      * [Communicable and Vaccine-Preventable Diseases ](https://www.pa.gov/agencies/health/programs/school-health/communicable-disease)
+      * [Concussion Management ](https://www.pa.gov/agencies/health/programs/school-health/concussion)
+      * [Confidentiality/HIPAA/FERPA ](https://www.pa.gov/agencies/health/programs/school-health/confidentiality)
+      * [Continuing Education ](https://www.pa.gov/agencies/health/programs/school-health/continuing-education0)
+      * [Delegation ](https://www.pa.gov/agencies/health/programs/school-health/delegation)
+      * [Dental Health Program ](https://www.pa.gov/agencies/health/programs/school-health/dental-health)
+      * [Diabetes ](https://www.pa.gov/agencies/health/programs/school-health/diabetes)
+      * [Do Not Resuscitate (DNR) ](https://www.pa.gov/agencies/health/programs/school-health/dnr)
+      * [Documentation/Health Records ](https://www.pa.gov/agencies/health/programs/school-health/documentation)
+      * [Environmental ](https://www.pa.gov/agencies/health/programs/school-health/environmental)
+      * [Epinephrine ](https://www.pa.gov/agencies/health/programs/school-health/epinephrine)
+      * [Epinephrine Training ](https://www.pa.gov/agencies/health/programs/school-health/epinephrine-training)
+      * [Growth Screen ](https://www.pa.gov/agencies/health/programs/school-health/growth-screen)
+      * [Hearing Screen ](https://www.pa.gov/agencies/health/programs/school-health/hearing-screen)
+      * [Homeless Students ](https://www.pa.gov/agencies/health/programs/school-health/homeless-students)
+      * [Laws and Regulations ](https://www.pa.gov/agencies/health/programs/school-health/laws-and-regulations0)
+      * [Mandated School Health Program ](https://www.pa.gov/agencies/health/programs/school-health/mandated-school-health-programs)
+      * [Medication Administration ](https://www.pa.gov/agencies/health/programs/school-health/medications)
+      * [Mental Health ](https://www.pa.gov/agencies/health/programs/school-health/mental-health)
+      * [Naloxone in Schools ](https://www.pa.gov/agencies/health/programs/school-health/naloxone-program)
+      * [Plans of Care ](https://www.pa.gov/agencies/health/programs/school-health/plans-of-care)
+      * [Private and Non-Public School Health Services ](https://www.pa.gov/agencies/health/programs/school-health/private-school-services)
+      * [Physical Exams ](https://www.pa.gov/agencies/health/programs/school-health/physical-exams)
+      * [Medical Personnel Assisting with School Health Program ](https://www.pa.gov/agencies/health/programs/school-health/school-health-staff)
+      * [Scoliosis Screen ](https://www.pa.gov/agencies/health/programs/school-health/scoliosis-screen)
+      * [SHARRS ](https://www.pa.gov/agencies/health/programs/school-health/sharrs)
+      * [Special Health Care Needs ](https://www.pa.gov/agencies/health/programs/school-health/special-health-care-needs)
+      * [Sudden Cardiac Arrest ](https://www.pa.gov/agencies/health/programs/school-health/sudden-cardiac-arrest)
+      * [Tally Sheets ](https://www.pa.gov/agencies/health/programs/school-health/tally-sheets)
+      * [Teen Pregnancy ](https://www.pa.gov/agencies/health/programs/school-health/teen-pregnancy)
+      * [Smoking ](https://www.pa.gov/agencies/health/programs/school-health/tobacco)
+      * [Tuberculosis ](https://www.pa.gov/agencies/health/programs/school-health/tuberculosis)
+      * [Wellness ](https://www.pa.gov/agencies/health/programs/school-health/wellness-policies)
+      * [Updates ](https://www.pa.gov/agencies/health/programs/school-health/updates)
+      * [Vision Screen ](https://www.pa.gov/agencies/health/programs/school-health/vision-screen)
+      * [Whole School, Whole Community, Whole Child ](https://www.pa.gov/agencies/health/programs/school-health/whole-school)
+      * [Requirements ](https://www.pa.gov/agencies/health/programs/school-health/requirements)
+    * [Violence and Injury Prevention ](https://www.pa.gov/agencies/health/programs/violence-and-injury-prevention)
+      * [Sexual Violence Education ](https://www.pa.gov/agencies/health/programs/violence-and-injury-prevention/sexual-violence-education)
+      * [Sexual Assault Evidence Collection ](https://www.pa.gov/agencies/health/programs/violence-and-injury-prevention/sexual-assault-evidence-collection)
+      * [VDRS ](https://www.pa.gov/agencies/health/programs/violence-and-injury-prevention/vdrs)
+    * [Vital Records ](https://www.pa.gov/agencies/health/programs/vital-records)
+      * [Acceptable-ID ](https://www.pa.gov/agencies/health/programs/vital-records/acceptable-id)
+      * [Adoptions ](https://www.pa.gov/agencies/health/programs/vital-records/adoptions)
+      * [Birth Certificates ](https://www.pa.gov/agencies/health/programs/vital-records/birth-certificates)
+      * [Death Certificates ](https://www.pa.gov/agencies/health/programs/vital-records/death-certificates)
+      * [Genealogy ](https://www.pa.gov/agencies/health/programs/vital-records/genealogy)
+      * [Multi-Year Searches ](https://www.pa.gov/agencies/health/programs/vital-records/multi-year-searches)
+      * [New Parent Information ](https://www.pa.gov/agencies/health/programs/vital-records/new-parent-information)
+      * [Processing Times ](https://www.pa.gov/agencies/health/programs/vital-records/processing-times)
+      * [Public Offices ](https://www.pa.gov/agencies/health/programs/vital-records/public-offices)
+      * [Vital Records Forms ](https://www.pa.gov/agencies/health/programs/vital-records/forms)
+  * [Facilities and Licensing ](https://www.pa.gov/agencies/health/facilities)
+    * [In-Patient Healthcare Facilities ](https://www.pa.gov/agencies/health/facilities/in-patient-healthcare-facilities)
+      * [Hospitals ](https://www.pa.gov/agencies/health/facilities/in-patient-healthcare-facilities/hospitals)
+      * [Intermediate Care Facilities ](https://www.pa.gov/agencies/health/facilities/in-patient-healthcare-facilities/intermediate-care-facilities)
+      * [Nursing Homes ](https://www.pa.gov/agencies/health/facilities/in-patient-healthcare-facilities/nursing-homes)
+    * [Out-Patient Healthcare Facilities ](https://www.pa.gov/agencies/health/facilities/out-patient-healthcare-facilities)
+      * [Ambulatory Surgical Facilities ](https://www.pa.gov/agencies/health/facilities/out-patient-healthcare-facilities/ambulatory-surgical-facilities)
+      * [Birth Centers ](https://www.pa.gov/agencies/health/facilities/out-patient-healthcare-facilities/birth-centers)
+      * [Comprehensive Outpatient Rehabilitation Facilities (CORF) ](https://www.pa.gov/agencies/health/facilities/out-patient-healthcare-facilities/corf)
+      * [Federally Qualified Health Centers (FQHC) ](https://www.pa.gov/agencies/health/facilities/out-patient-healthcare-facilities/fqhc)
+      * [Home Care ](https://www.pa.gov/agencies/health/facilities/out-patient-healthcare-facilities/home-care)
+      * [Home Health ](https://www.pa.gov/agencies/health/facilities/out-patient-healthcare-facilities/home-health)
+      * [Hospice ](https://www.pa.gov/agencies/health/facilities/out-patient-healthcare-facilities/hospice)
+      * [Kidney Dialysis ](https://www.pa.gov/agencies/health/facilities/out-patient-healthcare-facilities/kidney-dialysis)
+      * [Pediatric Extended Care Facility ](https://www.pa.gov/agencies/health/facilities/out-patient-healthcare-facilities/pediatric-extended-care-facility)
+      * [Rehabilitation Agencies ](https://www.pa.gov/agencies/health/facilities/out-patient-healthcare-facilities/rehabilitation-agencies)
+      * [Rural Health Clinics ](https://www.pa.gov/agencies/health/facilities/out-patient-healthcare-facilities/rural-health-clinics)
+    * [Long Term Care Grant ](https://www.pa.gov/agencies/health/facilities/long-term-care-grant)
+    * [​Long-Term Care Transformation Office (LTCTO) ](https://www.pa.gov/agencies/health/facilities/ltcto)
+  * [Business Registration and Regulation ](https://www.pa.gov/agencies/health/business-registration-and-regulation)
+    * [​​​Act 128 of 2022 - Registration of Temporary Health Care Services Agencies ](https://www.pa.gov/agencies/health/business-registration-and-regulation/act-128)
+    * [Bathing Places ](https://www.pa.gov/agencies/health/business-registration-and-regulation/bathing-places)
+      * [Pool Safety ](https://www.pa.gov/agencies/health/business-registration-and-regulation/bathing-places/pool-safety)
+      * [Public Bathing Place Application ](https://www.pa.gov/agencies/health/business-registration-and-regulation/bathing-places/application)
+      * [Public Bathing Place Laws and Regulations ](https://www.pa.gov/agencies/health/business-registration-and-regulation/bathing-places/laws-and-regulations)
+      * [Public Bathing Place Resources ](https://www.pa.gov/agencies/health/business-registration-and-regulation/bathing-places/resources)
+    * [Building Safety ](https://www.pa.gov/agencies/health/business-registration-and-regulation/building-safety)
+      * [Building Safety Checklist ](https://www.pa.gov/agencies/health/business-registration-and-regulation/building-safety/checklist)
+      * [Building Safety Contact ](https://www.pa.gov/agencies/health/business-registration-and-regulation/building-safety/contact)
+      * [Review ](https://www.pa.gov/agencies/health/business-registration-and-regulation/building-safety/review)
+    * [Clean Indoor Air Act (CIAA) ](https://www.pa.gov/agencies/health/business-registration-and-regulation/clean-indoor-air-act)
+      * [CIAA FAQ ](https://www.pa.gov/agencies/health/business-registration-and-regulation/clean-indoor-air-act/faq)
+      * [CIAA Forms ](https://www.pa.gov/agencies/health/business-registration-and-regulation/clean-indoor-air-act/forms)
+      * [CIAA Reports ](https://www.pa.gov/agencies/health/business-registration-and-regulation/clean-indoor-air-act/reports)
+      * [Guidance ](https://www.pa.gov/agencies/health/business-registration-and-regulation/clean-indoor-air-act/guidance)
+      * [Toolkit ](https://www.pa.gov/agencies/health/business-registration-and-regulation/clean-indoor-air-act/toolkit)
+    * [Drug, Devices and Cosmetics Program ](https://www.pa.gov/agencies/health/business-registration-and-regulation/drugs-devices-and-cosmetics)
+    * [Hearing Aid ](https://www.pa.gov/agencies/health/business-registration-and-regulation/hearing-aid)
+      * [Continuing Education ](https://www.pa.gov/agencies/health/business-registration-and-regulation/hearing-aid/continuing-education)
+      * [Hearing Aid Apprentice Exam ](https://www.pa.gov/agencies/health/business-registration-and-regulation/hearing-aid/apprentice-exam)
+      * [Hearing Aid FAQ ](https://www.pa.gov/agencies/health/business-registration-and-regulation/hearing-aid/faq)
+      * [Hearing Aid Fee Schedule ](https://www.pa.gov/agencies/health/business-registration-and-regulation/hearing-aid/fee-schedule)
+      * [Hearing Aid Forms ](https://www.pa.gov/agencies/health/business-registration-and-regulation/hearing-aid/forms)
+      * [Hearing Aid Laws ](https://www.pa.gov/agencies/health/business-registration-and-regulation/hearing-aid/laws)
+      * [Resources ](https://www.pa.gov/agencies/health/business-registration-and-regulation/hearing-aid/resources)
+    * [Indoor Tanning ](https://www.pa.gov/agencies/health/business-registration-and-regulation/indoor-tanning)
+    * [Mothers' Milk Bank Licensure ](https://www.pa.gov/agencies/health/business-registration-and-regulation/mothers-milk-bank-licensure)
+    * [Nurse Aide ](https://www.pa.gov/agencies/health/business-registration-and-regulation/nurse-aide)
+      * [Nurse Aide Contact ](https://www.pa.gov/agencies/health/business-registration-and-regulation/nurse-aide/contact)
+      * [Nurse Aide Testing ](https://www.pa.gov/agencies/health/business-registration-and-regulation/nurse-aide/nurse-aide-testing)
+    * [Organized Camps ](https://www.pa.gov/agencies/health/business-registration-and-regulation/organized-camps)
+  * [Healthcare and Public Health Professionals ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals)
+    * [Cancer Registry ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/cancer-registry)
+      * [Education ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/cancer-registry/education)
+      * [Hospital ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/cancer-registry/hospital)
+      * [Law ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/cancer-registry/law)
+      * [Pathology ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/cancer-registry/pathology)
+      * [Physician ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/cancer-registry/physician)
+      * [Statistics ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/cancer-registry/statistics)
+    * [Electronic Prescribing ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/electronic-prescribing)
+      * [Patients ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/electronic-prescribing/patients)
+      * [Electronic Prescribing Information for Dispensers ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/electronic-prescribing/dispensers)
+      * [Electronic Prescribing Information for Prescribers ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/electronic-prescribing/prescribers)
+    * [Emergency Medical Services (EMS) ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/ems)
+      * [Behavioral Health Resources ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/ems/behavioral-health-resources)
+      * [Bulletins ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/ems/bulletins)
+      * [EMS Regulations ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/ems/ems-regulations)
+      * [EMS Resources ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/ems/ems-resources)
+      * [Epi-Pen Training ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/ems/epi-pen-training)
+      * [Mental Health ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/ems/mental-health)
+      * [Recognized Stroke Centers ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/ems/recognized-stroke-centers)
+    * [Emergency Preparedness ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/emergency-preparedness)
+      * [Assessment Tool ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/emergency-preparedness/assessment-tool)
+      * [Businesses ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/emergency-preparedness/businesses)
+      * [Disasters ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/emergency-preparedness/disasters)
+      * [HCC ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/emergency-preparedness/hcc)
+      * [Pandemic ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/emergency-preparedness/pandemic)
+      * [Pediatrician Public Health Prep ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/emergency-preparedness/pediatrician-public-health-prep)
+      * [Pharmacy LOU ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/emergency-preparedness/pharmacy-lou)
+      * [Publications and Tools ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/emergency-preparedness/publications-and-tools)
+    * [eVitals ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/evitals)
+      * [Login Issues ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/evitals/login-issues)
+      * [Document & Video Library ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/evitals/document-library)
+      * [eVitals Sign Up ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/evitals/evitals-sign-up)
+      * [Facility Admin ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/evitals/facility-admin)
+      * [All Users ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/evitals/all-users)
+      * [eVitals Onboarding FAQs ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/evitals/faqs)
+      * [Local Registrars ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/evitals/local-registrars)
+      * [Local Registrar Videos ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/evitals/local-registrar-videos)
+    * [Health Alert Network (HAN) ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/han)
+    * [Healthcare-Associated Infection Prevention (HAIP) ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/haip)
+      * [Antimicrobial Stewardship ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/haip/antimicrobial-stewardship)
+      * [Data Dashboards ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/haip/data-dashboards)
+      * [HAI Summit ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/haip/hai-summit)
+      * [Infection Control Plan Submission ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/haip/infection-control-plan-submission)
+      * [Invasive Group A Streptococcus ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/haip/invasive-group-a-streptococcus)
+      * [Multidrug-Resistant Organisms (MDRO) ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/haip/mdro)
+      * [Other Infection Prevention and Control Resources ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/haip/other-haip-resources)
+      * [PA Project Firstline ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/haip/pa-project-firstline)
+    * [Laboratories ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories)
+      * [Bacteriology ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories/bacteriology)
+      * [Biosafety ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories/biosafety)
+      * [Bioterrorism ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories/bioterrorism)
+      * [Bordetella ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories/bordetella)
+      * [Chemistry and Toxicology ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories/chemistry-and-toxicology)
+      * [Microbiology ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories/clinical-microbiology)
+      * [Demographic Reporting ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories/demographic-reporting)
+      * [Influenza ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories/influenza)
+      * [Laboratory Improvement ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories/laboratory-improvement)
+      * [Minimum Levels ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories/minimum-levels)
+      * [Parasitology ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories/parasitology)
+      * [Proficiency Testing ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories/proficiency-testing)
+      * [Rabies ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories/rabies)
+      * [Stool Pathogens ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories/stool-pathogens)
+      * [Tuberculosis ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories/tuberculosis)
+      * [West Nile ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories/west-nile)
+    * [PA-ELR ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/pa-elr)
+    * [PA-NEDSS ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/pa-nedss)
+    * [PIERS ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/piers)
+      * [PIERS Login Issues ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/piers/piers-login-issues)
+      * [HL7 ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/piers/hl7)
+      * [PIERS Library ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/piers/piers-library)
+      * [School Nurses ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/piers/school-nurses)
+    * [Prescription Drug Monitoring Program ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/pdmp)
+      * [Clinical ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/pdmp/clinical)
+      * [Contact ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/pdmp/contact)
+      * [Data ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/pdmp/data)
+      * [Dispensers ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/pdmp/dispensers)
+      * [Education ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/pdmp/education)
+      * [Integration ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/pdmp/integration)
+      * [Interstate ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/pdmp/interstate)
+      * [Opioid Treatment Agreements ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/pdmp/opioid-treatment-agreements)
+      * [Outreach ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/pdmp/outreach)
+      * [Patients ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/pdmp/patients1)
+      * [Prescribers ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/pdmp/prescribers)
+      * [QA ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/pdmp/qa)
+      * [Resource Library ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/pdmp/resource-library)
+      * [Tutorial ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/pdmp/tutorial)
+    * [Primary Care Office ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/primary-care)
+      * [Loan Repayment ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/primary-care/loan-repayment)
+      * [National Health Service Corps (NHSC) ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/primary-care/nhsc)
+      * [Physician Visa Waiver ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/primary-care/physician-visa-waiver)
+      * [​​​Health Care Workforce Dashboards ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/primary-care/reports)
+      * [Shortage Designations ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/primary-care/shortage-designations)
+      * [Community-Based Health Care Program ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/primary-care/cbhcp)
+    * [Reportable Diseases ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/reportable-diseases)
+    * [State Registrar Notices ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/state-registrar-notices)
+    * [Suicide & Overdose Death Review Team ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/suicide-overdose-death-review)
+    * [Vital Events Registry ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/vital-events-registry)
+  * [Health Statistics ](https://www.pa.gov/agencies/health/health-statistics)
+    * [Birth, Death, and Other Vital Statistics ](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics)
+      * [Birth Statistics ](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/birth-statistics)
+      * [County Health Profiles ](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/county-health-profiles)
+      * [Birth First Name Occurrences ](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/birth-first-name-occurrences)
+      * [Marriage and Divorce Statistics ](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/marriage-and-divorce-statistics)
+      * [Maternal and Child Health ](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/maternal-and-child-health)
+      * [Vital Statistics Annual Report ](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/vital-statistics-annual-report)
+      * [Death Statistics ](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/death-statistics)
+    * [Cancer Statistics ](https://www.pa.gov/agencies/health/health-statistics/cancer-statistics)
+      * [Cancer Dashboard ](https://www.pa.gov/agencies/health/health-statistics/cancer-statistics/cancer-dashboard)
+      * [Cancer Tables ](https://www.pa.gov/agencies/health/health-statistics/cancer-statistics/cancer-tables)
+    * [EDDIE (About) ](https://www.pa.gov/agencies/health/health-statistics/eddie-about)
+      * [EDDIE FAQs ](https://www.pa.gov/agencies/health/health-statistics/eddie-about/eddie-faqs)
+      * [EDDIE Video Library ](https://www.pa.gov/agencies/health/health-statistics/eddie-about/eddie-video-library)
+      * [Communicable Disease Race Data Warning ](https://www.pa.gov/agencies/health/health-statistics/eddie-about/std-cd-race-warning)
+    * [Statistical Resources ](https://www.pa.gov/agencies/health/health-statistics/statistical-resources)
+      * [Community Health Assessment Resources ](https://www.pa.gov/agencies/health/health-statistics/statistical-resources/community-health-assessment-resources)
+      * [Understanding Health Statistics ](https://www.pa.gov/agencies/health/health-statistics/statistical-resources/understanding-health-statistics)
+    * [Healthy People 2030 ](https://www.pa.gov/agencies/health/health-statistics/healthy-people-2030)
+    * [Minority Health Statistics ](https://www.pa.gov/agencies/health/health-statistics/minority-health-statistics)
+    * [Health Facilities ](https://www.pa.gov/agencies/health/health-statistics/health-facilities)
+      * [Ambulatory Surgery Center Reports ](https://www.pa.gov/agencies/health/health-statistics/health-facilities/ambulatory-surgery-center-reports)
+      * [Hospital Reports ](https://www.pa.gov/agencies/health/health-statistics/health-facilities/hospital-reports)
+      * [Nursing Home Reports ](https://www.pa.gov/agencies/health/health-statistics/health-facilities/nursing-home-reports)
+    * [Behavioral Risk, Tobacco, and Injury ](https://www.pa.gov/agencies/health/health-statistics/behavioral-risk-tobacco-and-injury)
+      * [Injury Statistics ](https://www.pa.gov/agencies/health/health-statistics/behavioral-risk-tobacco-and-injury/injury-statistics)
+      * [Behavioral Risks, PA Adults ](https://www.pa.gov/agencies/health/health-statistics/behavioral-risk-tobacco-and-injury/behavioral-risks-pa-adults)
+      * [Synar ](https://www.pa.gov/agencies/health/health-statistics/behavioral-risk-tobacco-and-injury/synar)
+    * [Health Statistics A to Z ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z)
+      * [West Nile Virus ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/west-nile-virus---health-statistics-a-to-z)
+      * [Water pollution ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/water-pollution---health-statistics-a-to-z)
+      * [Abortions ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/abortions---health-statistics-a-to-z)
+      * [Births and pregnancies ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/births-and-pregnancies---health-statistics-a-to-z)
+      * [Bites and stings ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/bites-and-stings---health-statistics-a-to-z)
+      * [Accidental and injury deaths ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/accidental-and-injury-deaths---health-statistics-a-to-z)
+      * [Boating accidents ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/boating-accidents---health-statistics-a-to-z)
+      * [Breastfeeding ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/breastfeeding---health-statistics-a-to-z)
+      * [Burns ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/burns---health-statistics-a-to-z)
+      * [Cancer ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/cancer---health-statistics-a-to-z)
+      * [Cancer screening ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/cancer-screening---health-statistics-a-to-z)
+      * [Cardiovascular disease ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/cardiovascular-disease---health-statistics-a-to-z)
+      * [Care giving ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/care-giving---health-statistics-a-to-z)
+      * [Arthritis ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/arthritis---health-statistics-a-to-z)
+      * [Cerebrovascular disease ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/cerebrovascular-disease---health-statistics-a-to-z)
+      * [Child abuse ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/child-abuse---health-statistics-a-to-z)
+      * [Childhood disabilities ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/childhood-disabilities---health-statistics-a-to-z)
+      * [Adverse Childhood Experiences ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/adverse-childhood-experiences---health-statistics-a-to-z)
+      * [Childhood obesity ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/childhood-obesity---health-statistics-a-to-z)
+      * [Cholesterol ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/cholesterol---health-statistics-a-to-z)
+      * [Cognitive Impairment ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/cognitive-impairment---health-statistics-a-to-z)
+      * [College education ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/college-education---health-statistics-a-to-z)
+      * [Crime ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/crime---health-statistics-a-to-z)
+      * [Deaths ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/deaths---health-statistics-a-to-z)
+      * [Assaults (injuries) ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/assaults-injuries---health-statistics-a-to-z)
+      * [Diabetes ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/diabetes---health-statistics-a-to-z)
+      * [Drug abuse ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/drug-abuse---health-statistics-a-to-z)
+      * [Drug overdose deaths ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/drug-overdose-deaths---health-statistics-a-to-z)
+      * [Education (K-12) ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/education-k-12---health-statistics-a-to-z)
+      * [Aging ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/aging---health-statistics-a-to-z)
+      * [Exercise and physical activity ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/exercise-and-physical-activity---health-statistics-a-to-z)
+      * [Family health ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/family-health---health-statistics-a-to-z)
+      * [Fetal deaths ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/fetal-deaths---health-statistics-a-to-z)
+      * [Head injuries ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/head-injuries---health-statistics-a-to-z)
+      * [Health care costs ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/health-care-costs---health-statistics-a-to-z)
+      * [Asthma ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/asthma---health-statistics-a-to-z)
+      * [Sexual violence ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/sexual-violence---health-statistics-a-to-z)
+      * [Health care insurance ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/health-care-insurance---health-statistics-a-to-z)
+      * [Health care personnel ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/health-care-personnel---health-statistics-a-to-z)
+      * [Health education ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/health-education---health-statistics-a-to-z)
+      * [Health facilities ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/health-facilities---health-statistics-a-to-z)
+      * [Health profiles ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/health-profiles---health-statistics-a-to-z)
+      * [AIDS and HIV infection ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/aids-and-hiv-infection---health-statistics-a-to-z)
+      * [Healthy people ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/healthy-people---health-statistics-a-to-z)
+      * [Heart disease ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/heart-disease---health-statistics-a-to-z)
+      * [HMO enrollment ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/hmo-enrollment---health-statistics-a-to-z)
+      * [Atherosclerosis ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/atherosclerosis---health-statistics-a-to-z)
+      * [HMO evaluation ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/hmo-evaluation---health-statistics-a-to-z)
+      * [Home health care ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/home-health-care---health-statistics-a-to-z)
+      * [Homeless ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/homeless---health-statistics-a-to-z)
+      * [Hospitalization ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/hospitalization---health-statistics-a-to-z)
+      * [Hypertension ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/hypertension---health-statistics-a-to-z)
+      * [Immunization ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/immunization---health-statistics-a-to-z)
+      * [Air quality ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/air-quality---health-statistics-a-to-z)
+      * [Injuries ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/injuries---health-statistics-a-to-z)
+      * [Kidney and renal diseases ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/kidney-and-renal-diseases---health-statistics-a-to-z)
+      * [Lead poisoning ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/lead-poisoning---health-statistics-a-to-z)
+      * [Autopsies ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/autopsies---health-statistics-a-to-z)
+      * [Lung disease (work-related) ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/lung-disease-work-related---health-statistics-a-to-z)
+      * [Lyme disease ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/lyme-disease---health-statistics-a-to-z)
+      * [Medicaid ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/medicaid---health-statistics-a-to-z)
+      * [Medicare ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/medicare---health-statistics-a-to-z)
+      * [Mental health ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/mental-health---health-statistics-a-to-z)
+      * [Minority health ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/minority-health---health-statistics-a-to-z)
+      * [Notifiable diseases ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/notifiable-diseases---health-statistics-a-to-z)
+      * [Alcohol use ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/alcohol-use---health-statistics-a-to-z)
+      * [Occupational injuries ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/occupational-injuries---health-statistics-a-to-z)
+      * [Oral health ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/oral-health---health-statistics-a-to-z)
+      * [Behavioral risk factors ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/behavioral-risk-factors---health-statistics-a-to-z)
+      * [Osteoporosis ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/osteoporosis---health-statistics-a-to-z)
+      * [Overweight prevalence ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/overweight-prevalence---health-statistics-a-to-z)
+      * [Personal care homes ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/personal-care-homes---health-statistics-a-to-z)
+      * [Poisoning ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/poisoning---health-statistics-a-to-z)
+      * [Population ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/population---health-statistics-a-to-z)
+      * [Radon ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/radon---health-statistics-a-to-z)
+      * [Rural and urban health ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/rural-and-urban-health---health-statistics-a-to-z)
+      * [School health statistics ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/school-health-statistics---health-statistics-a-to-z)
+      * [Bicycle injuries ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/bicycle-injuries---health-statistics-a-to-z)
+      * [Alzheimer’s disease deaths ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/alzheimers-disease-deaths---health-statistics-a-to-z)
+      * [School violence ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/school-violence---health-statistics-a-to-z)
+      * [Seat belt use ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/seat-belt-use---health-statistics-a-to-z)
+      * [Self-inflicted injuries ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/self-inflicted-injuries---health-statistics-a-to-z)
+      * [Sexually transmitted diseases ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/sexually-transmitted-diseases---health-statistics-a-to-z)
+      * [Smoke detectors ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/smoke-detectors---health-statistics-a-to-z)
+      * [Social Determinants of Health ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/social-determinants-of-health)
+      * [Synar survey ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/synar-survey---health-statistics-a-to-z)
+      * [Tobacco use ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/tobacco-use---health-statistics-a-to-z)
+      * [Birth defects ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/birth-defects---health-statistics-a-to-z)
+      * [Traffic accidents ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/traffic-accidents---health-statistics-a-to-z)
+      * [Ambulatory surgery centers ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/ambulatory-surgery-centers---health-statistics-a-to-z)
+      * [Tuberculosis ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/tuberculosis---health-statistics-a-to-z)
+      * [Unemployment ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/unemployment---health-statistics-a-to-z)
+      * [Vision impairments ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/vision-impairments---health-statistics-a-to-z)
+      * [Vital statistics ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/vital-statistics---health-statistics-a-to-z)
+      * [Vitamin use ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/vitamin-use---health-statistics-a-to-z)
+      * [Water (drinking quality) ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/water-drinking-quality---health-statistics-a-to-z)
+      * [Chronic Obstructive Pulmonary Disease (COPD) ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/chronic-obstructive-pulmonary-disease-copd---health-statistics-a-to-z)
+    * [What's New ](https://www.pa.gov/agencies/health/health-statistics/whats-new)
+    * [About Us ](https://www.pa.gov/agencies/health/health-statistics/about-us)
+    * [Contact Us ](https://www.pa.gov/agencies/health/health-statistics/contact-us0)
+    * [Communicable Diseases ](https://www.pa.gov/agencies/health/health-statistics/communicable-diseases)
+  * [Public Health Research ](https://www.pa.gov/agencies/health/research)
+    * [Health Research ](https://www.pa.gov/agencies/health/research/research)
+      * [CURE ](https://www.pa.gov/agencies/health/research/research/cure)
+      * [HRO ](https://www.pa.gov/agencies/health/research/research/hro)
+      * [IRB ](https://www.pa.gov/agencies/health/research/research/irb)
+      * [JDRF ](https://www.pa.gov/agencies/health/research/research/jdrf)
+      * [PCRF ](https://www.pa.gov/agencies/health/research/research/pcrf)
+      * [PHHSBG ](https://www.pa.gov/agencies/health/research/research/phhsbg)
+      * [PRAMS ](https://www.pa.gov/agencies/health/research/research/prams)
+    * [Vital Records Services for Government Agencies and Public Health Researchers ](https://www.pa.gov/agencies/health/research/vital-records-government-public-health)
+      * [Vital Records Govt and Researchers Document Library ](https://www.pa.gov/agencies/health/research/vital-records-government-public-health/vital-records-govt-researchers-document-library)
+  * [Resources ](https://www.pa.gov/agencies/health/resources)
+    * [Contractor-Grantee ](https://www.pa.gov/agencies/health/resources/contractor-grantee)
+    * [E-Library ](https://www.pa.gov/agencies/health/resources/e-library)
+    * [Health Literacy Program ](https://www.pa.gov/agencies/health/resources/health-literacy)
+    * [HIPAA ](https://www.pa.gov/agencies/health/resources/hipaa)
+    * [Medical Record Fees ](https://www.pa.gov/agencies/health/resources/medical-record-fees)
+    * [Medical Records Request ](https://www.pa.gov/agencies/health/resources/medical-records-request)
+    * [Provider Fee Schedules ](https://www.pa.gov/agencies/health/resources/provider-fee-schedules)
+  * [Bureaus and Offices ](https://www.pa.gov/agencies/health/bureaus-and-offices)
+    * [Bureau of Family Health (BFH) ](https://www.pa.gov/agencies/health/bureaus-and-offices/bfh)
+    * [Bureau of Health Promotion and Risk Reduction (BHPRR) ](https://www.pa.gov/agencies/health/bureaus-and-offices/bhprr)
+    * [Communications ](https://www.pa.gov/agencies/health/bureaus-and-offices/communications)
+    * [Health Equity ](https://www.pa.gov/agencies/health/bureaus-and-offices/health-equity)
+      * [Background ](https://www.pa.gov/agencies/health/bureaus-and-offices/health-equity/background)
+      * [CLAS ](https://www.pa.gov/agencies/health/bureaus-and-offices/health-equity/clas)
+      * [Contact Health Equity ](https://www.pa.gov/agencies/health/bureaus-and-offices/health-equity/contact)
+      * [HEAT ](https://www.pa.gov/agencies/health/bureaus-and-offices/health-equity/heat)
+      * [Implicit Bias ](https://www.pa.gov/agencies/health/bureaus-and-offices/health-equity/implicit-bias)
+      * [Partnership ](https://www.pa.gov/agencies/health/bureaus-and-offices/health-equity/partnership)
+      * [PIHET ](https://www.pa.gov/agencies/health/bureaus-and-offices/health-equity/pihet)
+      * [Health Equity Summit ](https://www.pa.gov/agencies/health/bureaus-and-offices/health-equity/summit)
+    * [Legal ](https://www.pa.gov/agencies/health/bureaus-and-offices/legal)
+      * [Right-to-Know Law Requests (RTK) ](https://www.pa.gov/agencies/health/bureaus-and-offices/legal/rtk)
+    * [Operational Excellence (OpEx) ](https://www.pa.gov/agencies/health/bureaus-and-offices/operational-excellence-opex)
+  * [About Us ](https://www.pa.gov/agencies/health/about-us)
+    * [County-Municipal Health Depts ](https://www.pa.gov/agencies/health/about-us/county-municipal-health-depts)
+    * [Department of Health Leadership ](https://www.pa.gov/agencies/health/about-us/leadership)
+    * [Health Plans Development ](https://www.pa.gov/agencies/health/about-us/health-plans-development)
+      * [Department Plans ](https://www.pa.gov/agencies/health/about-us/health-plans-development/department-plans)
+      * [Healthy Pennsylvania Partnership ](https://www.pa.gov/agencies/health/about-us/health-plans-development/hpp)
+      * [SHA Dashboard ](https://www.pa.gov/agencies/health/about-us/health-plans-development/sha-dashboard)
+      * [Healthy Pennsylvania Partnership State Health Assessment ](https://www.pa.gov/agencies/health/about-us/health-plans-development/state-health-assessment)
+      * [Healthy Pennsylvania Partnership State Health Improvement Plan ](https://www.pa.gov/agencies/health/about-us/health-plans-development/state-health-improvement-plan)
+      * [Department of Health Strategic Plan ](https://www.pa.gov/agencies/health/about-us/health-plans-development/strategic-plan)
+    * [State Health Centers ](https://www.pa.gov/agencies/health/about-us/state-health-centers)
+    * [Budget ](https://www.pa.gov/agencies/health/about-us/budget)
+  * [Contact Us ](https://www.pa.gov/agencies/health/contact-us)
+    * [Customer Service ](https://www.pa.gov/agencies/health/contact-us/customer-service)
+  * [Dashboards ](https://www.pa.gov/agencies/health/dashboards)
+
+
+  1. [ Agencies ](https://www.pa.gov/agencies)
+  2. [ Department of Health ](https://www.pa.gov/agencies/health)
+  3. [ Facilities and Licensing ](https://www.pa.gov/agencies/health/facilities)
+  4. [ Out-Patient Healthcare Facilities ](https://www.pa.gov/agencies/health/facilities/out-patient-healthcare-facilities)
+  5. Kidney Dialysis
+
+
+# ​​​Kidney Dialysis Centers
+Kidney dialysis centers provide services to individuals with chronic kidney failure by offering dialysis treatment or education on how to perform dialysis at home.
+End Stage Renal Disease (ESRD) facility services include support from physicians, nurses, nutritionists, and social workers. This interdisciplinary team works with each dialysis patient with the goal of living as normally as possible and maximizing their quality of life.  
+  
+Two types of dialysis treatment may be performed:  
+
+  * **Hemodialysis** involves passing an individual’s blood through a machine with a special membrane to remove substances. Hemodialysis may be scheduled for three or four times per week according to physician orders and degree of kidney disease;
+  * **Peritoneal** dialysis involves filling the abdomen with a dialysate using the natural abdominal membranes to filter toxic substances from the body. Peritoneal dialysis may be performed several times a day according to physician orders and degree of kidney disease.
+
+
+ESRD facilities are **not** licensed by the state, but may be Medicare certified.  
+Medicare pays for services provided by ESRD facilities that voluntarily seek and are approved for certification by the Federal Health and Human Services, Centers for Medicare and Medicaid Services (CMS). CMS contracts with the Department of Health to evaluate compliance with the federal ESRD regulations by periodically conducting surveys of these facilities.
+## ESRD Service Provider Application
+  * Submit the [CMS Form 3427(opens in a new tab)](https://www.pa.gov/content/dam/copapwp-pagov/en/health/documents/topics/documents/facilities-and-licensing/CMS-3427.pdf) to the Division of Home Health.
+  * Submit the [CMS Form 855A - Enrollment Application(opens in a new tab)](http://www.cms.gov/Medicare/CMS-Forms/CMS-Forms/downloads/cms855a.pdf) to your [Fiscal Intermediary.(opens in a new tab)](https://www.cms.gov/Medicare/Provider-Enrollment-and-Certification/MedicareProviderSupEnroll/downloads/contact_list.pdf)
+
+
+After review and acceptance of the application materials and notification from CMS of the approval of the CMS-855A, the Department will conduct a survey before recommending the agency for Medicare certification.  
+  
+Mail completed forms to:  
+_Please note change of address_  
+Pennsylvania Department of Health  
+Division of Home Health  
+2525 N. 7th Street  
+Harrisburg, PA 17110  
+  
+**Questions?**  
+Email ra-dhhomehealth@pa.gov(opens in a new tab)  
+
+## Federal Medicare Regulations
+  * [ESRD Medicare Regulations(opens in a new tab)](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-G/part-494)
+
+
+  
+  
+
+​[ESRD FAQ(opens in a new tab)](https://www.pa.gov/content/dam/copapwp-pagov/en/health/documents/topics/documents/facilities-and-licensing/FAQ.pdf)
+[Find ESRD Survey History by County(opens in a new tab)](https://sais.health.pa.gov/commonpoc/content/publiccommonpoc/normalSearch.asp)
+[Change of Administrator/Point of Contact Form(opens in a new tab)](https://www.pa.gov/content/dam/copapwp-pagov/en/health/documents/topics/documents/facilities-and-licensing/Password%20Agreement.Medicare%20Certified%20Only.pdf)
+Return to top 
+[ ![Commonwealth of Pennsylvania Home](https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/CoPA%20Logo%20-%20Horizontal%20Lockup%201.svg) ](https://www.pa.gov/en)
+Proudly founded in 1681 as a place of tolerance and freedom.
+  * [ Commonwealth of Pennsylvania Social Media Follow on Facebook ](https://www.facebook.com/GovernorShapiro)
+  * [ Commonwealth of Pennsylvania Social Media Follow on X ](https://x.com/GovernorShapiro)
+  * [ Commonwealth of Pennsylvania Social Media Follow on Bluesky ](https://bsky.app/profile/governor.pa.gov)
+  * [ Commonwealth of Pennsylvania Social Media Follow on Threads ](https://www.threads.net/@governorshapiro)
+  * [ Commonwealth of Pennsylvania Social Media Follow on Instagram ](https://www.instagram.com/GovernorShapiro/)
+  * [ Commonwealth of Pennsylvania Social Media Follow on TikTok ](https://www.tiktok.com/@governorshapiro)
+  * [ Commonwealth of Pennsylvania Social Media Follow on YouTube ](https://www.youtube.com/@GovernorShapiro)
+  * [ Commonwealth of Pennsylvania Social Media Follow on Flickr ](https://www.flickr.com/photos/pagovernor/)
+  * [ Commonwealth of Pennsylvania Social Media Follow on WhatsApp ](https://www.whatsapp.com/channel/0029VbBAs2o6mYPMP8MQsg1b)
+
+
+## Top services
+  * [Register to Vote](https://www.pa.gov/services/vote/register-to-vote)
+  * [Find a DMV](https://www.pa.gov/agencies/dmv/find-a-location)
+  * [Get a Birth Certificate](https://www.pa.gov/agencies/health/programs/vital-records/birth-certificates)
+  * [Join the Veterans Registry](https://www.pa.gov/services/dmva/subscribe-to-veterans--registry-and-monthly-publication)
+  * [PAyback(opens in a new tab)](https://payback.pa.gov/Home/Who)
+
+
+## PA.gov
+  * [Careers & Internships ](https://www.pa.gov/agencies/employment/open-jobs)
+  * [PennWatch(opens in a new tab)](https://pennwatch.pa.gov/Pages/default.aspx)
+  * [Right-to-Know Law(opens in a new tab)](https://www.openrecords.pa.gov/RTKL/CitizensGuide.cfm)
+
+
+Copyright © 2026 Commonwealth of Pennsylvania. All rights reserved.
+  * [Accessibility](https://www.pa.gov/accessibility-policy)
+  * [Privacy & Disclaimers](https://www.pa.gov/privacy-policy)
+  * [Translation Disclaimer](https://www.pa.gov/translation-disclaimer)
+  * [Security](https://www.pa.gov/security-policy)
+  * [Social Media Policy & Disclaimer](https://www.pa.gov/social-media-policy-and-disclaimer)
+
+
+Loading ...
+
+
+--- EMBEDDED FILE CONTENT: http://www.cms.gov/Medicare/CMS-Forms/CMS-Forms/downloads/cms855a.pdf ---
+
+CMS-855A Go to page 1 to determine if you are completing the correct application. Go to page 5 for information on where to mail this completed application. Go to Section 17 to find a list of the supporting documentation that must be submitted with this application. MEDICARE ENROLLMENT APPLICATION INSTITUTIONAL PROVIDERS
+* * *
+## DEPARTMENT OF HEALTH AND HUMAN SERVICES
+CENTERS FOR MEDICARE & MEDICAID SERVICES Form Approved OMB No. 0938-0685 Expires: 09/27 WHO SHOULD SUBMIT THIS APPLICATION Institutional providers must complete this application to enroll in the Medicare program and receive a Medicare billing number. Institutional providers can apply for enrollment in the Medicare program or make a change in their enrollment information using either: • The internet-based Provider Enrollment, Chain and Ownership System (PECOS), or • The paper CMS-855A enrollment application. Be sure you are using the most current version of the CMS-855A enrollment application. For additional information regarding the Medicare enrollment process, including Internet-based PECOS, and to get the current version of the CMS-855A, go to CMS.gov/Medicare/Provider-Enrollment-and-Certification. NOTE: Applicants using this application require a Type 2 NPI. Continue below for more information. The following health care organizations must complete this application to initiate the enrollment process: • Community Mental Health Center • Comprehensive Outpatient Rehabilitation Facility • Critical Access Hospital • End-Stage Renal Disease Facility • Federally Qualified Health Center • Histocompatibility Laboratory • Home Health Agency • Hospice • Hospital • Indian Health Services Facility • Opioid Treatment Program • Organ Procurement Organization • Outpatient Physical Therapy/Occupational Therapy/ Speech Pathology Services • Religious Non-Medical Health Care Institution • Rural Emergency Hospital • Rural Health Clinic • Skilled Nursing Facility NOTE: Opioid Treatment Programs may complete the CMS-855A or CMS-855B enrollment application. NOTE: Per Section 125 of the Consolidated Appropriations Act of 2021 (CAA) an action plan is required to be submitted with the enrollment application. If your provider type is not listed above, contact your designated Medicare Administrative Contractor (MAC) before you submit this application. Complete and submit this application if you are a health care organization that plans to bill Medicare and you are: • An institutional organization that will bill for Medicare Part A services (e.g., hospitals, community mental health centers, skilled nursing facilities). • Enrolling in the Medicare program for the first time with this MAC under this tax identification number. • Currently enrolled in Medicare but have a new Tax Identification Number. If you are reporting a change to your current Medicare enrollment to your tax identification number, you must complete a new application. • Currently enrolled in Medicare and need to enroll in another MAC’s jurisdiction (e.g., you have opened a practice location in a geographic territory serviced by another MAC). • Revalidating your Medicare enrollment. CMS may require you to submit or update your enrollment information. The MAC will notify you when it is time for you to revalidate your enrollment information. Do not submit a revalidation application until you have been contacted by the MAC. • Previously enrolled in Medicare and you need to reactivate your Medicare billing number to resume billing. Prior to being reactivated, you must meet all current requirements for your provider or supplier type before reactivation may occur. • Currently enrolled in Medicare and need to make changes to your enrollment information (e.g., you have added or changed a practice location). Changes must be reported in accordance with the timeframes established in 42 C.F.R. section 424.516. NOTE: Ownership changes that do not qualify as CHOWs, acquisitions/mergers, or consolidations should be reported. For instance, assume that a business entity’s stock is owned by A, B, and C. A sells his stock to D. While this is an ownership change, it is generally not a formal CHOW under 42 C.F.R. 489.18. Thus, the ownership change from A to D should be reported as a change of information, not a CHOW. If you have any questions on whether an ownership change should be reported as a CHOW or a change of information, contact your MAC or CMS location. CMS-855A (09/24) 1
+* * *
+• Reporting a Change of Ownership (CHOW), Acquisition/Merger or Consolidation. • A CHOW typically occurs when a Medicare provider has been purchased (or leased) by another organization. The CHOW results in the transfer of the old owner’s Medicare Identification Number and provider agreement (including any outstanding Medicare debt of the old owner) to the new owner. The regulatory citation for CHOWs can be found at 42 C.F.R. § 489.18. If the purchaser (or lessee) elects not to accept a transfer of the provider agreement, the old agreement should be terminated and the purchaser or lessee is considered a new applicant and must initially enroll in Medicare. • An acquisition/merger occurs when a currently enrolled Medicare provider is purchasing or has been purchased by another enrolled provider. Only the purchaser’s Medicare Identification Number and Tax Identification Number remain. Acquisitions/mergers are different from CHOWs. In the case of an acquisition/merger, the seller/former owner’s Medicare Identification Number dissolves. In a CHOW, the seller/former owner’s provider number typically remains intact and is transferred to the new owner. • A consolidation occurs when two or more enrolled Medicare providers consolidate to form a new business entity. Consolidations are different from acquisitions/mergers. In an acquisition/merger, two entities combine but the Medicare Identification Number and Tax Identification Number (TIN) of the purchasing entity remain intact. In a consolidation, the TINs and Medicare Identification Numbers of the consolidating entities dissolve and a new TIN and Medicare Identification Number are assigned to the new, consolidated entity. Because of the various situations in which a CHOW, acquisition/merger, or consolidation can occur, it is recommended that the provider contact its MAC if it is unsure as to whether such a transaction has occurred. The provider should also review the applicable federal regulation at 42 C.F.R. § 489.18 for additional guidance. Note that the transactions described above as CHOWs, acquisition/mergers, and consolidations are each considered a type of potential change of ownership under 42 C.F.R. § 489.18 (e.g., a consolidation can constitute a 42 C.F.R. § 489.18 CHOW). They are separated into three categories on the application strictly to help the provider understand the precise data that must be reported. • Voluntarily terminating your Medicare billing privileges. A provider should voluntarily terminate its Medicare enrollment when it: • Will no longer be rendering services to Medicare patients, or • Is planning to cease (or has ceased) operations. NOTE: Submit separate CMS-855A enrollment applications if the types of providers for which this application is being submitted are separately recognized provider types with dif ferent rules regarding Medicare participation. For example, if a provider functions as both a hospital and an end-stage renal disease (ESRD) facility, the provider must complete two separate enrollment applications (CMS-855A)—one for the hospital and one for the ESRD facility. If a hospital performs multiple types of services, only one enrollment application (CMS-855A) is required. To illustrate, a hospital that has a swing-bed unit need only submit one enrollment application (CMS-855A). This is because the provider is operating as a single provider type—a hospital—that happens to have a distinct part furnishing different/additional services. CMS-855A (09/24) 2
+* * *
+## BILLING NUMBER AND NATIONAL PROVIDER IDENTIFIER INFORMATION
+The Provider Transaction Access Number (PTAN), often referred to as a Medicare Provider Number, Medicare Billing Number, CMS Certification Number (CCN), or Medicare “legacy” number, is a generic term for any number other than the National Provider Identifier (NPI) that is used by a provider to bill the Medicare program. The National Provider Identifier (NPI) is the standard unique health identifier for health care providers and suppliers and is assigned by the National Plan and Provider Enumeration System (NPPES). Medicare healthcare providers, except organ procurement organizations, must obtain an NPI prior to enrolling in Medicare or before submitting a change to your existing Medicare enrollment information. Applying for an NPI is a process separate from Medicare enrollment. As an organizational health care provider, it is your responsibility to determine if you have “subparts.” A subpart is a component of an organization that furnishes healthcare and is not itself a legal entity. If you do have subparts, you must determine if they should obtain their own unique NPIs. Before you complete this enrollment application, you need to make those determinations and obtain NPI(s) accordingly. For more information about subparts, visit CMS.gov/Regulations-and-Guidance/Administrative-Simplification/ NationalProvIdentStand/implementation to view the “Medicare Expectations Subparts Paper.” To obtain an NPI, you may apply online at nppes.cms.hhs.gov. For more information about NPI enumeration, visit CMS.gov/Regulations-and-Guidance/Administrative-Simplification/NationalProvIdentStand/apply. NOTE: The Legal Business Name (LBN) and Tax Identification Number (TIN) that you furnish in section 2B1 must be the same LBN and TIN you used to obtain your NPI. Once this information is entered into PECOS from this application, your LBN, TIN and NPI must match exactly in both the Medicare Provider Enrollment Chain and Ownership System (PECOS) and the National Plan and Provider Enumeration System (NPPES). Organizational Health Care Providers (Entity Type 2): Organizational health care providers are eligible for an Entity Type 2 NPI (Organizations). Organizational health care providers may have a single employee or thousands of employees. Examples of organizational providers include hospitals, home health agencies, groups/clinics, nursing homes, ambulance companies, health care provider corporations formed by groups/ individuals, and single member LLCs with an EIN, but do not include individual health care providers. INSTRUCTIONS FOR COMPLETING AND SUBMITTING THIS APPLICATION All information on this form is required with the exception of those fields specifically marked as “optional.” Any field marked as optional is not required to be completed nor does it need to be updated or reported as a “change of information” as required in 42 C.F.R. section 424.516. However, it is highly recommended that if reported, these fields be kept up-to-date. • This form must be typed. It may not be handwritten. • When necessary to report additional information, copy and complete the applicable section as needed. • Attach all required supporting documentation. • Keep a copy of your completed Medicare enrollment package for your records. TIPS TO AVOID DELAYS IN YOUR ENROLLMENT To avoid delays in the enrollment process, you should: • Complete all required sections, as shown in Section 1. • Ensure that the Legal Business Name shown in Section 2B1 matches the name on the tax documents. • Ensure that the correspondence address shown in Section 2C is the provider’s address. • Enter your NPI in the applicable section(s). • Include the Electronic Funds Transfer (EFT) Authorization Agreement (when applicable) with your enrollment application with a voided check or bank letter. • Sign and date Section 15. • Ensure all supporting documents are sent to your designated MAC. • Pay the required application fee (via PECOS.cms.hhs.gov/pecos/feePaymentWelcome.do) upon initial enrollment, the addition of a new practice location, and revalidation PRIOR to completing and submitting this application to your MAC. CMS-855A (09/24)CMS-855A (09/24) 3
+* * *
+## OBTAINING MEDICARE APPROVAL
+The usual process for becoming a certified Medicare provider is as follows: 1. The applicant completes and submits a CMS-855A enrollment application and all supporting documentation to its MAC. 2. The MAC reviews the application and makes a recommendation for approval or denial to the State survey agency, with a copy to CMS. 3. The State agency or approved accreditation organization conducts a survey. Based on the survey results, the State agency makes a recommendation for approval or denial (a certification of compliance or noncompliance) to CMS. Certain provider types may elect voluntary accreditation by a CMS-recognized accrediting organization in lieu of a state survey. 4. The MAC conducts a second contractor review, as needed, to verify that a provider continues to meet the enrollment requirements prior to granting Medicare billing privileges. 5. CMS makes the final decision regarding program eligibility. If approved, the provider must typically sign a provider agreement. ADDITIONAL INFORMATION • You may visit our website to learn more about the enrollment process via the Internet-Based PECOS at: CMS.gov/Medicare/Provider-Enrollment-and-Certification/Become-a-Medicare-Provider-or-Supplier. Also, all of the CMS-855 applications are located on the CMS webpage: CMS.gov/Medicare/CMS-Forms/CMS-Forms/CMS-Forms-List. Simply enter “855” in the “Filter On:” box on this page and only the application forms will be displayed to choose from. • The MAC may request, at any time during the enrollment process, additional documentation to support or validate information reported on the application. You are responsible for providing this documentation within 30 days of the request per 42 C.F.R. section 424.525(a)(1). • The information you provide on this application will not be shared. It is protected under 5 U.S.C. section 552(b)(4) and/or (b)(6), respectively. For more information, go to the last page of this application for the Privacy Act Statement. ACRONYMS COMMONLY USED IN THIS APPLICATION • C.F.R: Code of Federal Regulations • EFT: Electronic Funds Transfer • EIN: Employer Identification Number • IHS: Indian Health Service • IRS: Internal Revenue Service • LBN: Legal Business Name • LLC: Limited Liability Company • MAC: Medicare Administrative Contractor • NPI: National Provider Identifier • NPPES: National Plan and Provider Enumeration System • OTP: Opioid Treatment Program • PTAN: Provider Transaction Access Number also referred to as the Medicare Identification Number • SSN: Social Security Number • TIN: Tax Identification Number CMS-855A (09/24)CMS-855A (09/24) 4
+* * *
+DEFINITIONS For the purposes of this CMS-855A application, the following definitions apply: 1. Add: You are adding additional enrollment information to your existing information (e.g. practice locations). 2. Change: You are replacing existing information with new information (e.g. billing agency, managing employee) or updating existing information (e.g. change in suite #, telephone #). 3. Remove: You are removing existing enrollment information. WHERE TO MAIL YOUR APPLICATION Send this completed application with original signatures and all required documentation to your designated MAC. The MAC that services your state is responsible for processing your enrollment application. To locate the mailing address for your designated MAC, go to CMS.gov/Medicare/Provider-Enrollment-and-Certification. CMS-855A (09/24)CMS-855A (09/24) 5
+* * *
+## SECTION 1: BASIC INFORMATION
+ALL APPLICANTS MUST COMPLETE THIS SECTION A. REASON FOR SUBMITTING THIS APPLICATION Check one box and complete the required sections. You are a new enrollee in Medicare Complete all applicable sections except 2G, 2H, and 2I Skilled Nursing Facilities must complete Attachment 1 You are solely enrolling in Medicare to participate in Medicaid or another health care program and will not be billing Medicare Complete all applicable sections except 2G, 2H, and 2I Skilled Nursing Facilities must complete Attachment 1 You are enrolling with another Medicare Administrative Contractor (MAC) Complete all applicable sections except 2G, 2H, and 2I Skilled Nursing Facilities must complete Attachment 1 You are revalidating your Medicare enrollment Complete all applicable sections except 2G, 2H, and 2I Skilled Nursing Facilities must complete Attachment 1 You are reactivating your Medicare enrollment Complete all applicable sections except 2G, 2H, and 2I You are changing your Medicare information Go to Section 1B There has been a Change of Ownership (CHOW) of the Medicare-enrolled provider You are the: Seller/Former owner Buyer/New owner Seller/Former owner: 1A, 2B1, 2G, 13, and either 15B (if you are the authorized official) or 15C (if you are the delegated official) Buyer/New owner: Complete all sections except 2H and 2I Skilled Nursing Facilities must complete Attachment 1 Your organization has taken part in an acquisition or merger You are the: Seller/former owner Buyer/new owner Medicare Identification Number of the seller/ former owner (if issued): ______________________ Seller/Former owner: 1A, 2B1, 2H, 13, either 15B or 15C, and 6 for the signer if that authorized or delegated official has not been established for this provider. Buyer/New Owner: 1A, 2H, 4, 13, either 15B (if you are the authorized official) or 15C (if you are the delegated official), and 6 for the signer if that authorized or delegated official has not been established for this provider. Skilled Nursing Facilities must complete Attachment 1 Your organization has consolidated with another organization You are the: Former organization New organization Medicare Identification Number of the seller/ former owner (if issued): ______________________ Former organizations: 1A, 2B1, 2I, 13, and either 15B (if you are the authorized official) or 15C (if you are the delegated official) New organization: Complete all sections except 2G and 2H Skilled Nursing Facilities must complete Attachment 1 You are voluntarily terminating your Medicare enrollment Effective date of termination (mm/dd/yyyy): ______________________ Medicare Identification Number: ______________________ Complete sections: 1, 2B1, 13, either 15B or 15C, and 6 for the signer if that authorized or delegated official has not been established for this provider. CMS-855A (09/24) 6
+* * *
+## SECTION 1: BASIC INFORMATION (Continued)
+B. WHAT INFORMATION IS CHANGING? Check all that apply and complete the required sections. NOTE: When reporting ANY information, sections 1, 2B1, 3, and 15 MUST always be completed in addition to the information that is changing within the required section. Changing information Required sections Business identifying information 1, 2 (complete only those sections that are changing), 3, 13, and either 15B (if you are the authorized official) or 15C (if you are the delegated official), and Section 6 for the signer if that authorized or delegated official has not been established for this provider. Final adverse legal actions 1, 2B1, 3, 13, and either 15B (if you are the authorized official) or 15C (if you are the delegated official), and Section 6 for the signer if that authorized or delegated official has not been established for this provider. Provider specific information 1, 2A1–2A2, 2B1–2B2, 2C–2F (as applicable), 3, 10 (as applicable), 13 (optional), either 15B (if you are the authorized official) or 15C (if you are the delegated official), and Section 6 for the signer if that authorized or delegated official has not been established for this provider, and 17. Address information Correspondence mailing address Medicare beneficiary medical records storage address Practice location address Remittance notices/special payment mailing address Base of operations address for mobile or portable suppliers (location of business of fice or dispatcher/ scheduler) 1, 2B1, 3, 4 (complete only those sections that are changing), 13, and either 15B (if you are the authorized official) or 15C (if you are the delegated official), and Section 6 for the signer if that authorized or delegated official has not been established for this provider. Ownership interest and/or managing control information (organizations) 1, 2B1, 3, 5, 13, and either 15B (if you are the authorized official) or 15C (if you are the delegated official), and Section 6 for the signer if that authorized or delegated official has not been established for this provider. Skilled Nursing Facilities must complete Attachment 1 Ownership interest and/or managing control information (individuals) 1, 2B1, 3, 6, 13, and either 15B (if you are the authorized official) or 15C (if you are the delegated official), and Section 6 for the signer if that authorized or delegated official has not been established for this provider. Skilled Nursing Facilities must complete Attachment 1 Chain home office information 1, 2B1, 3, 5, 13, and either 15B (if you are the authorized official) or 15C (if you are the delegated official), and Section 6 for the signer if that authorized or delegated official has not been established for this provider. CMS-855A (09/24)CMS-855A (09/24) 7
+* * *
+Billing agency information 1, 2B1, 3, 8 (complete only those sections that are changing), 13, and either 15B (if you are the authorized official) or 15C (if you are the delegated official), and Section 6 for the signer if that authorized or delegated official has not Opioid treatment program personnel 1, 2B1, 3, 10, 13, and either 15B (if you are the authorized official) or 15C (if you are the delegated official), and Section 6 for the signer if that authorized or delegated official has not been established for this provider. Special requirements for Home Health Agencies 1, 2B1, 3, 12, 13, and either 15B (if you are the authorized official) or 15C (if you are the delegated official), and Section 6 for the signer if that authorized or delegated official has not been established for this provider. Authorized official(s) 1, 2B1, 3, 6, 13, and 15B. Delegated official(s) (optional) 1, 2B1, 3, 6, 13, and 15C. Attachment 1 for Skilled Nursing Facilities 1, 2B1, 3, 13, either 15B (if you are the authorized official) or 15C (if you are the delegated official), and Attachment 1. Special enrollment notes • If you are adding a psychiatric or rehabilitation unit to a hospital, check the appropriate subcategory under the “Hospital” heading. (A separate enrollment for the psychiatric/rehabilitation unit is not required). The unit should be listed as a practice location in Section 4. • If you are adding a home health agency (HHA) branch, list it as a practice location in Section 4. A separate enrollment application is not necessary. • If you are changing hospital types (e.g., general hospital to a psychiatric hospital), indicate this in Section 2. A new/separate enrollment is not necessary. • If the hospital will focus on certain specialized services, the applicant should analyze whether the facility will be a general hospital or will fall under the category of a specialty hospital. A specialty hospital is defined as a facility that is primarily engaged in cardiac, orthopedic, or surgical care. Based upon Diagnosis Related Group/Major Diagnosis Category (DRG/MDC) and type (medical/surgical), the applicant should project all inpatient discharges expected in the first year of the hospital’s operation. Those applicants that project that 45% or more of the hospital’s inpatient cases will fall in either cardiac (MDC-5), orthopedic (MDC-8), or surgical care should check the Hospital—Specialty Hospital block in Section 2A2. • Physician-owned hospital means any participating hospital (as defined in 42 C.F.R. section 489.24) in which a physician, or an immediate family member of a physician has an ownership or investment interest in the hospital. The ownership or investment interest may be through equity, debt, or other means, and includes an interest in an entity that holds an ownership or investment interest in the hospital. This definition does not include a hospital with physician ownership or investment interests that satisfy the requirements at
+* * *
+## _42 C.F.R. section 411.356(a) or (b)._
+SECTION 1: BASIC INFORMATION (Continued)
+* * *
+CMS-855A (09/24)CMS-855A (09/24) 8
+* * *
+## SECTION 2: IDENTIFYING INFORMATION
+A. TYPE OF PROVIDER The provider must meet all federal and state requirements for the type of provider checked. Check only one provider type. If the provider functions as two or more provider types, a separate enrollment application (CMS-855A) must be submitted for each type. 1. Type of provider (other than hospitals — go to 2A2). Check only one: Community Mental Health Center Comprehensive Outpatient Rehabilitation Facility Critical Access Hospital End-Stage Renal Disease Facility Federally Qualified Health Center Histocompatibility Laboratory Home Health Agency Hospice Indian Health Services Facility Indian Health Services—Rural Emergency Hospital Opioid Treatment Program Organ Procurement Organization Outpatient Physical Therapy/Occupational Therapy/ Speech Pathology Services Religious Non-Medical Health Care Institution Rural Emergency Hospital Rural Health Clinic Skilled Nursing Facility Other (Specify): _____________________________ 2. If this provider is a hospital, check all applicable subgroups and units listed below and complete Section 2A3. Hospital—General Hospital—Acute care Hospital—Children’s (excluded from PPS) Hospital—Long-term (excluded from PPS) Hospital—Psychiatric (excluded from PPS) Hospital—Rehabilitation (excluded from PPS) Hospital—Short-term (general and specialty) Hospital—Swing-bed approved Hospital—Psychiatric unit Hospital—Rehabilitation unit Hospital—Specialty hospital (cardiac, orthopedic, or surgical) Hospital—T ransplant program (Identify organ type(s)): Other (Specify): 3. If “hospital” was checked in Section 2A1 or 2A2, does this hospital have a compliance plan that states that the hospital checks all managing employees against the exclusion/debarment lists of both the HHS Office of the Inspector General (OIG) and the General Services Administration (GSA)?............................................................................................................................ Yes No 4. Is the provider a physician-owned hospital (as defined in the special enrollment notes on page 8)?.............................................................................................................................................. Yes No CMS-855A (09/24)CMS-855A (09/24) 9
+* * *
+## SECTION 2: IDENTIFYING INFORMATION (Continued)
+B. IDENTIFICATION INFORMATION 1. Business information Legal Business Name as reported to the Internal Revenue Service (IRS) Other name (if applicable) Tax Identification Number (TIN) Medicare Identification Number (PTAN) (if issued) National Provider Identifier (NPI) What is the provider’s year end cost report date? (mm/dd/yyyy) Type of other name (if applicable) Check box indicating type of other name: Former Legal Business Name Doing business as name Other (specify): IRS business designation Identify how your business is registered with the IRS. ( NOTE: If your business is a federal and/or state government supplier, indicate “Non-profit” and specify the level below. In addition, government-owned entities do not need to provide an IRS Form 501(c)(3)). Proprietary Non-profit (Submit IRS Form 501(c)(3)) Disregarded Entity (Submit IRS Form 8832, if applicable) NOTE: If a checkbox identifying how the business is registered with the IRS is not completed, the supplier will be defaulted to “proprietary.” Identify the business structure: (Check one) Corporation Limited Liability Company Partnership Sole proprietor Other (specify): Federal and/or state government type: Federal State City County City-county Hospital district Other (specify): Is this provider an Indian Health Service (IHS) Facility?.......................................................................... Yes No CMS-855A (09/24)CMS-855A (09/24) 10
+* * *
+## SECTION 2: IDENTIFYING INFORMATION (Continued)
+2. License/certification/registration information Complete the appropriate subsection(s) below for your provider type you reported in Section 2A1. If no subsection is associated with your provider type, check the box stating the information is not applicable. a. Active license information License not applicable License number Effective date (mm/dd/yyyy) State where issued b. Active certification information Complete the appropriate subsection(s) below for your provider type you reported in Section 2A1. If no subsection is associated with your provider type, check the box stating the information is not applicable. *If you are certified by a national entity, put the word “all” in the “State where issued” data field. Certification not applicable Certification number Effective date (mm/dd/yyyy) State where issued Certifying entity (specialty board, state, other) C. CORRESPONDENCE MAILING ADDRESS This is the address where correspondence will be sent to the provider listed in Section 2B1 by your designated MAC. This address cannot be a billing agent or agency’s address or a medical management company address. If you are reporting a change to your correspondence mailing address, check the box below. This will replace any current correspondence mailing address on file. Change Effective date (mm/dd/yyyy): Attention (optional) Correspondence mailing address line 1 (P.O. Box or street name and number) Correspondence mailing address line 2 (Suite, room, apt. #, etc.) City/town State ZIP Code + 4 Telephone number (if applicable) Fax number (if applicable) E-mail address (if applicable) CMS-855A (09/24) 11
+* * *
+## SECTION 2: IDENTIFYING INFORMATION (Continued)
+D. MEDICAL RECORD CORRESPONDENCE ADDRESS This is the address where the medical record correspondence will be sent to the provider listed in Section 2B1 by your designated MAC. This information would be used for any medical record review requests. Check here if your medical record correspondence should be mailed to your correspondence address in section 2C (above) and skip this section. If you are reporting a change to your medical record correspondence address, check the box below. This will replace any current medical record correspondence address on file. Change Effective date (mm/dd/yyyy): Attention (optional) Medical record correspondence mailing address line 1 (P.O. Box or street name and number) Medical record correspondence mailing address line 2 (suite, room, apt. #, etc.) City/town State ZIP Code + 4 Telephone number (if applicable) Fax number (if applicable) E-mail address (if applicable) E. ACCREDITATION Is this provider accredited?.................................................................................................................... Yes No If yes, complete the following: Date of accreditation (mm/dd/yyyy) Expiration date of accreditation (mm/dd/yyyy) Name of accrediting body Type of accreditation or accreditation program (e.g., hospital accreditation program, home health accreditation, etc.) F. COMMENTS Use this section to clarify any information furnished in this section. CMS-855A (09/24)CMS-855A (09/24) 12
+* * *
+## SECTION 2: IDENTIFYING INFORMATION (Continued)
+G. CHANGE OF OWNERSHIP (CHOW) INFORMATION Both the seller/former owner and the new owner should complete this section. (As the new owner may not know all of the seller/former owner’s data, it should furnish this information on an “if known” basis.) The seller/former owner must complete Sections 1A, 2G, 13, and either 15B or 15C. (Section 6 must also be completed if the signer has never completed Section 6 before.) The new owner must complete the entire application. Legal Business Name of “Seller/former owner” as reported to the Internal Revenue Service
+* * *
+> “Doing business as” name of seller/former owner (if applicable)
+Old owner’s Medicare Identification Number (if issued) Old owner’s NPI Effective date of transfer (this can be a future date) (mm/dd/yyyy) Name of MAC of seller/former owner Will the new owner be accepting assignment of the current “Provider agreement?”.................... Yes No If no, this is an initial enrollment and the new owner should follow the instructions in the “Who should submit this application” section of this form. Submit one copy of the bill of sale with the application. A copy of the final sales agreement must be submitted once the sale is executed. CMS-855A (09/24)CMS-855A (09/24) 13
+* * *
+## SECTION 2: IDENTIFYING INFORMATION (Continued)
+H. ACQUISITIONS/MERGERS Effective date of acquisition (mm/dd/yyyy) The seller/former owner need only complete Sections 1A, 2H, 13, and either 15B or 15C; the new owner must complete Sections 1A, 2H, 4, 13, and either 15B or 15C. (Section 6 must also be completed if the signer has never completed Section 6 before.) 1. Provider being acquired This section is to be completed with information about the currently enrolled provider that is being acquired and will no longer retain its current Medicare provider number as a result of this acquisition. Legal Business Name of the “Provider being acquired” as reported to the Internal Revenue Service Current MAC Provide the name and Medicare Identification Number of all units of the above provider that have separate Medicare Identification Numbers but have not entered into separate provider agreements, such as swing bed units of a hospital and HHA branches. Also, furnish the unit’s NPI. Units that already have a separate provider agreement should not be reported here. NAME/DEPARTMENT MEDICARE IDENTIFICATION NUMBER (IF ISSUED) NATIONAL PROVIDER IDENTIFIER 2. Acquiring provider This section is to be completed with information about the organization acquiring the provider identified in Section 2H1. Legal Business Name of the “Acquiring provider” as reported to the Internal Revenue Service Medicare Identification Number (if issued) National Provider Identifier Current MAC Submit one copy of the bill of sale with the application. A copy of the final sales agreement must be submitted once the sale is executed. CMS-855A (09/24)CMS-855A (09/24) 14
+* * *
+## SECTION 2: IDENTIFYING INFORMATION (Continued)
+I. CONSOLIDATIONS The newly formed provider completes the entire application. The providers that are being consolidated are reported below. 1. 1st consolidating provider This section is to be completed with information about the 1st currently enrolled provider that, as a result of this consolidation, will no longer retain its current Medicare Identification Number. Legal Business Name of the “Provider being acquired” as reported to the Internal Revenue Service Current MAC Effective date of consolidation Provide the name and Medicare Identification Number of all units of the above provider that have separate Medicare Identification Numbers but have not entered into separate provider agreements, such as swing- bed units of a hospital and HHA branches. Also, furnish the unit’s NPI. Units that already have a separate provider agreement should not be reported here. NAME/DEPARTMENT MEDICARE IDENTIFICATION NUMBER (IF ISSUED) NATIONAL PROVIDER IDENTIFIER 2. 2nd consolidating provider This section is to be completed with information about the 2nd currently enrolled provider that, as a result of this consolidation, will also no longer retain its current Medicare Identification Number. Legal Business Name of the “Provider being acquired” as reported to the Internal Revenue Service Current MAC Provide the name and Medicare Identification Number of all units of the above provider that have separate Medicare Identification Numbers but have not entered into separate provider agreements, such as swing- bed units of a hospital and HHA branches. Also, furnish the unit’s NPI. Units that already have a separate provider agreement should not be reported here. NAME/DEPARTMENT MEDICARE IDENTIFICATION NUMBER (IF ISSUED) NATIONAL PROVIDER IDENTIFIER CMS-855A (09/24)CMS-855A (09/24) 15
+* * *
+## SECTION 2: IDENTIFYING INFORMATION (Continued)
+3. Newly created provider identification information Complete this section with identifying information about the newly created provider resulting from this consolidation. Legal Business Name of the new provider as reported to the Internal Revenue Service Tax Identification Number Submit one copy of the bill of sale with the application. A copy of the final sales agreement must be submitted once the sale is executed. CMS-855A (09/24)CMS-855A (09/24) 16
+* * *
+## SECTION 3: FINAL ADVERSE LEGAL ACTIONS
+This section captures information regarding final adverse legal actions, such as convictions, exclusions, license revocations and license suspensions. All applicable final adverse legal actions must be reported, regardless of whether any records were expunged or any appeals are pending. NOTE: To satisfy the reporting requirement, Section 3 must be filled out in its entirety, and all applicable attachments must be included. A. FEDERAL AND STATE CONVICTIONS (“Conviction” as defined in 42 C.F.R. Section 1001.2) WITHIN THE PRECEDING 10 YEARS 1. Any federal or state felony conviction(s) by the provider, supplier, or any owner or managing employee of the provider or supplier. 2. Any crime, under Federal or State law, where an individual or entity has entered into participation in a first offender, deferred adjudication or other program or arrangement where judgment of conviction has been withheld, or the criminal conduct has been expunged or otherwise removed, or there is a post-trial motion or appeal pending, or the court has made a finding of guilt or accepted a plea of guilty or nolo contendere. 3. Any misdemeanor conviction, under federal or state law, related to: (a) the delivery of an item or service under Medicare or a state health care program, or (b) the abuse or neglect of a patient in connection with the delivery of a health care item or service. 4. Any misdemeanor conviction, under federal or state law, related to the theft, fraud, embezzlement, breach of fiduciary duty, or other financial misconduct in connection with the delivery of a health care item or service. 5. Any misdemeanor conviction, under federal or state law, related to the unlawful manufacture, distribution, prescription, or dispensing of a controlled substance. 6. Any misdemeanor conviction, under federal or state law, related to the interference with or obstruction of any investigation into any criminal offence described in 42 C.F.R. section 1001.101 or 1001.201. B. EXCLUSIONS, REVOCATIONS OR SUSPENSIONS 1. Any current or past revocation or suspension of a medical license. 2. Any current or past voluntary surrender of a medical license in lieu of further disciplinary action. 3. Any current or past revocation or suspension of accreditation. 4. Any current or past suspension or exclusion imposed by the U.S. Department of Health and Human Service’ s Office of Inspector General (OIG). 5. Any current or past debarment from participation in any Federal Executive Branch procurement or non procurement program. 6. Any other current or past federal sanctions (A penalty imposed by a federal governing body (e.g. Civil Monetary Penalties (CMP)). 7. Any current or past Medicaid or any federal health care program exclusion, revocation, or termination of any billing number. C. FINAL ADVERSE LEGAL ACTION 1. Has your organization, under any current or former name or business identity, had a final adverse legal action listed above imposed against it? YES – continue below NO – skip to section 4 2. If yes, report each final adverse legal action, when it occurred, and the federal or state agency or the court/administrative body that imposed the action. FINAL ADVERSE LEGAL ACTION DATE ACTION TAKEN BY CMS-855A (09/24)CMS-855A (09/24) 17
+* * *
+## SECTION 4: PRACTICE LOCATION INFORMATION
+INSTRUCTIONS This section captures information about the physical location(s) where you currently provide health care services. Complete this section for each of your practice locations where you render services to Medicare beneficiaries. This includes all locations, where services are rendered, and disclosed on claims forms for reimbursement. If you have and see patients at more than one practice location or health care facility, copy and complete this section for each location. IMPORTANT: The provider should designate its primary practice location in Section 4A. The “Primary practice location” must be associated with the NPI that the provider intends to use to bill for Medicare services. All reported practice location addresses must be a specific street address as recorded by the United States Postal Service. Your practice location must be the physical location where you render services to Medicare beneficiaries. It cannot be a Post Office (P.O.) Box. Only report those practice locations that are within the jurisdiction of the designated MAC to which you will be submitting this application. If you have to report practice locations outside the jurisdiction of the designated MAC to which you are submitting this application, you must submit a separate CMS-855A enrollment application to the MAC that has jurisdiction for those locations. If you are enrolling for the first time or adding a new practice location, the date you provide should be the date you saw your first Medicare patient at this location. If the provider is adding a practice location in the same state and the location requires a separate provider agreement, a separate, complete CMS-855A must be submitted for that location. The location is considered a separate provider for purposes of enrollment, and is not considered a practice location of the main provider. If a provider agreement is not required, the location can be added as a practice location. If the provider is adding a practice location in another state and the location requires a separate provider agreement, a separate, complete CMS-855A must be submitted for that location. (This often happens when a home health agency wants to perform services in an adjacent state.) If you have any questions as to whether the practice location requires a separate state survey or provider agreement, contact your MAC. • Hospitals must report all practice locations where the hospital provides services. Do not report separately enrolled provider types such as skilled nursing facilities (SNFs), HHAs, RHCs, etc., even if these entities are provider-based to the hospital. For example, suppose a hospital owns a SNF and an HHA. The hospital should not list the SNF and HHA on its application, as they are not locations where the hospital furnishes services. They are providers that are separate and distinct from the hospital, and will be reported on their respective CMS-855A applications. • Community Mental Health Centers (CMHCs) must report all alternative sites where core services are provided (proposed alternative sites for initial enrollment and actual alternative sites for those CMHCs already participating in Medicare). In accordance with provisions of the Public Health Service Act, a CMHC is required to provide mental health services principally to individuals who reside in a defined geographic area (service area). Therefore, CMHCs must service a distinct and definable community. Those CMHCs operating or proposing to operate outside of this specific community must have a separate provider agreement/number, submit a separate enrollment application, and individually meet the requirements to participate. CMS will determine if the alternative site is permissible or whether the site must have a separate agreement/number. CMS will consider the actual demonstrated transportation pattern of CMHC clients within the community to ensure that all core services and partial hospitalization services are available from each location within the community. A CMHC patient must be able to access and receive services he/she needs at the parent CMHC site or the alternative site within the distinct and definable community served by the parent. CMS-855A (09/24)CMS-855A (09/24) 18
+* * *
+## SECTION 4: PRACTICE LOCATION INFORMATION (Continued)
+Base of operations address If this provider does not have a physical location where equipment and/or vehicles are stored or from where personnel report on a regular basis, complete this section with information about the location of the dispatcher/scheduler. This situation may occur if the provider operates mobile units that travel continuously from one location directly to another. NOTE: HHAs must complete this section. Mobile facility and/or portable units A “mobile facility” is generally a mobile home, trailer, or other large vehicle that has been converted, equipped, and licensed to render health care services. These vehicles usually travel to local shopping centers or community centers to see and treat patients inside the vehicle. A “portable unit” is when the provider transports medical equipment to a fixed location (e.g., a physician’s office or nursing home) to render services to the patient. The most common types of mobile facilities/portable units are portable x-ray suppliers, portable mammography, and mobile clinics. If you operate a mobile facility or portable unit, provide the address for the “base of operations” as well as the vehicle information and the geographic area serviced by these facilities or units. CMS-855A (09/24)CMS-855A (09/24) 19
+* * *
+## SECTION 4: PRACTICE LOCATION INFORMATION (Continued)
+A. PRACTICE LOCATION INFORMATION Report all practice locations where services will be furnished. If there is more than one location, copy and complete this section for each. If you are changing information about a currently reported practice location or adding or removing practice location information, check the applicable box, furnish the effective date, and complete the appropriate fields in this section. Change Add Remove Effective date (mm/dd/yyyy): Practice location name (“Doing business as” name, if applicable) Practice location street address line 1 (street name and number – not a P.O. Box) Practice location address line 2 (suite, room, apt. #, etc.) City/town State ZIP Code + 4 Telephone number (if applicable) Fax number (if applicable) E-mail address (if applicable) Medicare Identification Number for this location—CCN (if issued) National Provider Identifier (NPI) Is this your primary practice location?........................................................................................................................... Yes No Date you saw or will see your first Medicare patient at this practice location (mm/dd/yyyy) CLIA Number for this location (if applicable) Attach a copy of the most current CLIA certifications for each practice location(s) reported on this application. FDA/Radiology (Mammography) Certification Number for this location (if issued) Attach a copy of the most current FDA certifications for each practice location(s) reported on this application. HHAs only Is the practice location reported in Section 4A an HHA branch?..................................................................... Yes No Hospices only Check this box if the practice location listed in Section 4A is one at which the hospice treats patients. CMS-855A (09/24)CMS-855A (09/24) 20
+* * *
+## SECTION 4: PRACTICE LOCATION INFORMATION (Continued)
+Hospitals only (identify type of practice location) Identify the type of practice location reported in section 4A. If you are an outpatient provider-based department (PBD) site that provides services in hospital outpatient departments that are integrated with a hospital, select the PBD site option and specify the PBD type below. Main/Primary Hospital Location Hospital Psychiatric Unit Hospital Rehabilitation Unit Hospital Swing-Bed Unit Outpatient Physical Therapy Extension Site Other Hospital Practice Location: (Identify below:)
+* * *
+Outpatient Provider -Based Department (PBD) Site (Check PBD type below): On the “campus” of the main provider (as defined at 42 CFR 413.65(a)(2)) Remote location of a hospital (as defined at 42 CFR section 413.65(a)(2)) Dedicated emergency department (ED) (as described at 42 CFR section 489.24(b)) Of f-campus of the main provider (does not satisfy the definition of “campus” at 42 CFR 413.65(a)(2)) Excepted of f-campus (as defined at 42 CFR 419.48(b)). Excepted of f-campus temporarily or permanently because of re-location due to extraordinary circumstances outside of the hospital’s control (as defined at 42 CFR 419.48(b)). Mobile Facility or Portable Unit B. REMITTANCE NOTICES/SPECIAL PAYMENTS MAILING ADDRESS Furnish an address where remittance notices and special payments should be sent for services rendered at the practice location reported in Section 4A. Please note that payments will be made in the name of the business reported in Section 4A. Medicare will issue all routine payments via EFT. Since payments will be made by EFT, the special payments address below should indicate where all other payment information (e.g., remittance notices, non-routine special payments) should be sent. Check here if your remittance notice/special payments should be mailed to your primary practice location address in Section 4A above and skip this section, OR Check here if your remittance notice/special payments should be mailed to your correspondence address in Section 2C and skip this section. If you are reporting a change to your remittance notice/special payments mailing address, check the box below and furnish the Effective date. Change Effective date (mm/dd/yyyy):
+* * *
+> “Special payments” address line 1 (P.O. Box or street name and number)
+> “Special payments” address line 2 (suite, room, apt. #, etc.)
+City/town State ZIP Code + 4 CMS-855A (09/24)CMS-855A (09/24) 21
+* * *
+## SECTION 4: PRACTICE LOCATION INFORMATION (Continued)
+C. MEDICARE BENEFICIARY MEDICAL RECORDS STORAGE ADDRESS If your Medicare beneficiaries’ medical records are stored at a location other than the practice location address shown in Section 4A, complete this section with the name and address of the storage location. This includes the records for both current and former Medicare beneficiaries. Post Office Boxes and drop boxes are not acceptable as physical addresses where Medicare beneficiaries’ records are maintained. The records must be the provider’s records, not the records of another provider. For mobile facilities/portable units, the patients’ medical records must be under the provider’s control. If all records are stored at the practice location reported in Section 4A, check the box below and skip this section. Records are stored at the practice location reported in Section 4A. If you are adding or removing a storage location, check the applicable box below and furnish the effective date. Add Remove Effective date (mm/dd/yyyy): 1. Paper storage Name of storage facility Storage facility address line 1 (street name and number) Storage Facility Address Line 2 (Suite, Room, Apt. #, etc.) City/town State ZIP Code + 4 2. Electronic storage Do you store your patient medical records electronically?................................................................................. Yes No If yes, complete all fields below. Legal Business Name as reported to the Internal Revenue Service Tax Identification Number (TIN) Address line 1 (street name and number) Address line 2 (suite, room, apt. #, etc.) City/town State ZIP Code + 4 CMS-855A (09/24)CMS-855A (09/24) 22
+* * *
+## SECTION 4: PRACTICE LOCATION INFORMATION (Continued)
+D. BASE OF OPERATIONS ADDRESS FOR MOBILE OR PORTABLE PROVIDERS (LOCATION OF BUSINESS OFFICE OR DISPATCHER/SCHEDULER) The base of operations is the location from where personnel are dispatched, where mobile/portable equipment is stored, and when applicable, where vehicles are parked when not in use. NOTE: When necessary to report more than one base of operations, copy and complete this section for each base of operations. If you are changing information about a currently reported information, check the applicable box, furnish the effective date, and complete the appropriate fields in this section. Change Add Remove Ef fective date (mm/dd/yyyy): The “Base of operations” is the same as the “Practice location” reported in Section 4A. Base of operations street address line 1 (street name and number) Base of operations street address line 2 (suite, room, apt. #, etc.) City/town State ZIP Code + 4 Telephone number (if applicable) Fax number (if applicable) E-mail address (if applicable) E. VEHICLE INFORMATION If the mobile health care services are rendered inside a vehicle, such as a mobile home or trailer, furnish the following vehicle information below. Do not provide information about vehicles that are used only to transport medical equipment (e.g., when the equipment is transported in a van but is used in a fixed setting, such as a doctor’s office) or ambulance vehicles. If more than three vehicles are used, copy and complete this section as needed. For each vehicle, submit a copy of all health care related permits/licenses/registrations. If you are adding or removing information, check the applicable box, furnish the effective date, and complete the appropriate fields in this section. Check one for each vehicle: TYPE OF VEHICLE (van, mobile home, trailer, etc.) VEHICLE IDENTIFICATION NUMBER Add Remove Effective date (mm/dd/yyyy): Add Remove Effective date (mm/dd/yyyy): Add Remove Effective date (mm/dd/yyyy): CMS-855A (09/24)CMS-855A (09/24) 23
+* * *
+## SECTION 4: PRACTICE LOCATION INFORMATION (Continued)
+F. GEOGRAPHIC LOCATION FOR MOBILE OR PORTABLE PROVIDERS WHERE THE BASE OF OPERATIONS AND/OR VEHICLE RENDERS SERVICES For home health agencies (HHAs) and/or mobile/portable providers, furnish the city/town, county, state/ territory, and zip code for all locations where the HHA and/or mobile/and/or portable services are rendered. NOTE: If you provide mobile health care services in more than one state/territory and those states/territories are serviced by different MACs, complete a separate CMS-855A enrollment application for each MAC’s jurisdiction. 1. Initial Reporting and/or Additions If you are reporting or adding an entire state/territory, check the box below and specify the state/territory. Entire state/territory of If services are only provided in selected cities/towns or counties, provide the locations below. Only list ZIP Codes if you are not servicing the entire city/town or county. CITY/TOWN COUNTY STATE/TERRITORY ZIP CODE 2. Deletions If you are deleting an entire state/territory, check the box below and specify the state/territory. Entire state/territory of If services are provided in selected cities/towns or counties, provide the locations below. Only list ZIP Codes if you are not deleting service in the entire city/town or county. CITY/TOWN COUNTY STATE/TERRITORY ZIP CODE CMS-855A (09/24)CMS-855A (09/24) 24
+* * *
+## SECTION 5: OWNERSHIP INTEREST AND/OR MANAGING CONTROL INFORMATION
+(ORGANIZATIONS) Only organizations should be reported in this section. Individuals should be reported in Section 6. Check here if you are a Skilled Nursing Facility and skip this section. All organizational ownership interest and managing control information must be reported in Attachment 1. Complete this section with information about all organizations that have 5 percent or more (direct or indirect) ownership of, a partnership interest in, and/or managing control of the provider identified in Section 2B1, as well as information on any adverse legal actions that have been imposed against that organization. For examples of organizations that should be reported here, visit our Web site: CMS.gov/MedicareProviderSupEnroll. If there is more than one organization that should be reported, copy and complete this section for each. NOTE: It is not necessary for the organization reported in 2B1 to report itself in this section. The provider must submit an organizational structure diagram/flowchart identifying all the entities listed in section 5 and their relationships with the provider and each other. The following ownership interests must be reported in section 5. 1. Direct ownership interest Examples of direct ownership are as follows: • The provider is a skilled nursing facility that is wholly (100%) owned by Company A. As such, the provider would have to report Company A in this section. • A hospice wants to enroll in Medicare. Company X owns 50% of the hospice. Company X would have to be reported in this section. In the first example, Company A is considered a direct owner of the skilled nursing facility, in that it actually owns the assets of the business. Similarly, Company X is a direct owner of the hospice mentioned in the second example. It has 50% actual ownership of the hospice. 2. Indirect ownership interest Many organizations that directly own a provider are themselves wholly or partly owned by other organizations (or even individuals). This is often the result of the use of holding companies and parent/ subsidiary relationships. Such organizations and individuals are considered to be “indirect” owners of the provider. Using the first example in #1 above, if Company B owned 100% of Company A, Company B is considered to be an indirect owner of the provider. In other words, a direct owner has an actual ownership interest in the provider (e.g., owns stock in the business, etc.), whereas an indirect owner has an ownership interest in an organization that owns the provider. Consider the following example of indirect ownership: Example: LEVEL 3 Individual X Individual Y 5% 30% LEVEL 2 Company C Company B 60% 40% LEVEL 1 Company A 100% • Company A owns 100% of the enrolling provider • Company B owns 40% of Company A • Company C owns 60% of Company A • Individual X owns 5% of Company C • Individual Y owns 30% of Company B In this example, Company A (Level 1) is the direct owner of the provider identified in section 2 of this application. Companies B and C, as well as Individuals X and Y, are indirect owners of the provider. To calculate ownership shares using the above-cited example, utilize the following steps. LEVEL 1 The diagram above indicates that Company A owns 100% of the Enrolling Provider. Company A must be reported. CMS-855A (09/24)CMS-855A (09/24) 25
+* * *
+## SECTION 5: OWNERSHIP INTEREST AND/OR MANAGING CONTROL INFORMATION
+(ORGANIZATIONS) (Continued) LEVEL 2 To calculate the percentage of ownership held by Company C of the Enrolling Provider, multiply: • The percentage of ownership the LEVEL 1 owner has in the Enrolling Provider MULTIPLIED BY The percentage of ownership the LEVEL 2 owner has in that LEVEL 1 owner • Company A, the LEVEL 1 (or direct) owner, owns 100% of the provider. The diagram also indicates that Company C, a LEVEL 2 owner, owns 60% of Company A. As such, multiply 100% (or 1.0) by 60% (.60). The result is.60. Therefore, Company C indirectly owns 60% of the provider, and must be reported. • Repeat the same procedure for Company B, the other LEVEL 2 owner. Because Company B owns 40% of Company A, multiply this figure by 100% (again, the ownership stake Company A has in the Enrolling Provider). Company B thus owns 40% of the Enrolling Provider, and must be reported. This process is continued until all LEVEL 2 owners have been accounted for. LEVEL 3 To calculate the percentage of ownership that Individual X has in the Enrolling Provider, multiply: • The percentage of ownership the LEVEL 2 owner has in the Enrolling Provider MULTIPLIED BY The percentage of ownership the LEVEL 3 owner has in that LEVEL 2 owner • Company C owns 60% of the provider. According to the example above, Individual X (Level 3) Owns 5% of Company C. Therefore, multiply 60% (.60) by 5% (.05), resulting in.03. This means that Individual X owns 3% of the provider and does not need to be reported in this application. • Repeat this process for Company B, which owns 40% of the provider. The diagram states that Individual Y (Level 3) owns 30% of Company B. We thus multiply 40% (.40) by 30% (.30). The result is.12, or 12%. Because Individual Y owns 12% of the provider, Individual Y must be reported in this application (in Section 6: Individuals). This process is continued until all owners in LEVEL 3 have been accounted for. This process must be repeated for Levels 4 and beyond. 3. Mortgage or security interest All entities with at least a 5% mortgage, deed of trust, or other security interest in the provider must be reported in this section. T o calculate whether this interest meets the 5% threshold, use the following formula: • Dollar amount of the mortgage, deed of trust, or other obligation secured by the provider or any of the property or assets of the provider DIVIDED BY Dollar amount of the total property and assets of the provider Example: Two years ago, a provider obtained a $20 million loan from Entity X to add a third floor to its facility. Various assets of the provider secure the mortgage. The total value of the provider’s property and assets is $100 million. Using the formula described above, divide $20 million (the dollar amount of the secured mortgage) by $100 million (the total property and assets of the Enrolling Provider). This results in.20, or 20%. Because Entity X’s interest represents at least 5% of the total property and assets of the Enrolling Provider, Entity X must be reported in this section. 4. Partnerships All general and limited partnership interests—regardless of the percentage—must be reported. This includes: (1) all interests in a non-limited partnership, and (2) all general and limited partnership interests in a limited partnership. CMS-855A (09/24)CMS-855A (09/24) 26
+* * *
+## SECTION 5: OWNERSHIP INTEREST AND/OR MANAGING CONTROL INFORMATION
+(ORGANIZATIONS) (Continued) 5. Additional information on ownership All entities that meet any the requirements above must be reported in this section, including, but not limited to: • Entities with an investment interest in the provider (e.g., investment firms) • Private equity company • Real estate investment trusts • Banks and financial institutions (e.g., mortgage interests) • Holding companies • T rusts and trustees • Governmental/tribal organizations: If a federal, state, county, city or other level of government, or an Indian tribe, will be legally and financially responsible for Medicare payments received (including any potential overpayments), the name of that government or Indian tribe must be reported in this section as “Other ownership” or “Other control/interest.” The provider must submit a letter on the letterhead of the responsible government (e.g., government agency) or tribal organization, which attests that the government or tribal organization will be legally and financially responsible in the event that there is any outstanding debt owed to CMS. This letter must be signed by an “authorized official” of the government or tribal organization who has the authority to legally and financially bind the government or tribal organization to the laws, regulations, and program instructions of Medicare. Go to Section 15 for further information on “authorized officials.” • Charitable and religious organizations: Many non-profit organizations are charitable or religious in nature, and are operated and/or managed by a Board of Trustees or other governing body. The actual name of the Board of Trustees or other governing body should be reported in this section as “other ownership” or
+* * *
+> “other control/interest.”
+In addition to furnishing the information in this section, the provider must submit: • An organizational diagram identifying all of the entities listed in this section and their relationships with the provider and with each other. 6. Managing control Any organization that exercises operational or managerial control over the provider, or conducts the day to-day operations of the provider, is a managing organization and must be reported. The organization need not have an ownership interest in the provider in order to qualify as a managing organization. For instance, it could be a management services organization under contract with the provider to furnish management services for the business. Report the entity under the role of “managing control” if, for instance, an entity: a. has direct responsibility for the performance of your organization AND b. is capable of changing the leadership, allocation of resources, or other processes of your organization to improve performance. Providers should also report any managing relationship with a management services organization under contract with the provider to furnish management services for the business. Faculty practice plans, university based health systems, hospital outpatient departments, medical foundations, and groups that primarily treat enrollees of group model HMOs should review this definition of managing control (organizations) carefully to determine if it applies. CMS-855A (09/24)CMS-855A (09/24) 27
+* * *
+## SECTION 5: OWNERSHIP INTEREST AND/OR MANAGING CONTROL INFORMATION
+(ORGANIZATIONS) (Continued) A. ORGANIZATION WITH OWNERSHIP INTEREST AND/OR MANAGING CONTROL—IDENTIFICATION INFORMATION Not applicable If you are changing, adding or removing information about your current ownership interest and/or managing control information for this organization, check the applicable box, furnish the effective date, and complete the appropriate fields in this section. Change Add Remove Effective date (mm/dd/yyyy): Legal Business Name as reported to the Internal Revenue Service
+* * *
+> “Doing business as” name (if applicable)
+Address line 1 (street name and number) Address line 2 (suite, room, etc.) City/town State ZIP Code + 4 Telephone number (if applicable) Fax number (if applicable) E-mail address (if applicable) National Provider Identifier (NPI) Tax Identification Number (TIN) Medicare Identification Number for this location – PTAN (if issued) Identify the type of ownership and/or managing control the organization identified above has in the provider identified in Section 2B1 of this application. Check all that apply. Complete all information for each type of ownership and/or managing control applicable, including the exact percentage of ownership. Combined percentage totals for direct owners should not exceed one hundred percent. 5% or greater direct ownership interest Effective date (mm/dd/yyyy) Exact percentage of direct ownership this organization has in the provider % Was this organization solely created to acquire/buy the provider and/or the provider’s assets?..... Yes No Is this organization itself owned by any other organization or by any individual?................................ Yes No If this organization also provides contracted services to the provider, describe the type of services furnished: 5% or greater indirect ownership interest Effective date (mm/dd/yyyy) Exact percentage of indirect ownership this organization has in the provider % Was this organization solely created to acquire/buy the provider and/or the provider’s assets?..... Yes No Is this organization itself owned by any other organization or by any individual?................................ Yes No If this organization also provides contracted services to the provider, describe the type of services furnished: CMS-855A (09/24)CMS-855A (09/24) 28
+* * *
+## SECTION 5: OWNERSHIP INTEREST AND/OR MANAGING CONTROL INFORMATION
+(ORGANIZATIONS) (Continued) A. ORGANIZATION WITH OWNERSHIP INTEREST AND/OR MANAGING CONTROL—IDENTIFICATION INFORMATION (Continued) General partnership interest Effective date (mm/dd/yyyy) Exact percentage of general partnership interest this organization has in the provider % Was this organization solely created to acquire/buy the provider and/or the provider’s assets?..... Yes No Is this organization itself owned by any other organization or by any individual?................................ Yes No If this organization also provides contracted services to the provider, describe the type of services furnished: Limited partnership interest Effective date (mm/dd/yyyy) Exact percentage of limited partnership interest this organization has in the provider % Was this organization solely created to acquire/buy the provider and/or the provider’s assets?..... Yes No Is this organization itself owned by any other organization or by any individual?................................ Yes No If this organization also provides contracted services to the provider, describe the type of services furnished: 5% or greater mortgage interest Effective date (mm/dd/yyyy) Exact percentage of mortgage interest this organization has in the provider % Was this organization solely created to acquire/buy the provider and/or the provider’s assets?..... Yes No Is this organization itself owned by any other organization or by any individual?................................ Yes No If this organization also provides contracted services to the provider, describe the type of services furnished: 5% or greater security interest Effective date (mm/dd/yyyy) Exact percentage of security interest this organization has in the provider % Was this organization solely created to acquire/buy the provider and/or the provider’s assets?..... Yes No Is this organization itself owned by any other organization or by any individual?................................ Yes No If this organization also provides contracted services to the provider, describe the type of services furnished: CMS-855A (09/24)CMS-855A (09/24) 29
+* * *
+## SECTION 5: OWNERSHIP INTEREST AND/OR MANAGING CONTROL INFORMATION
+(ORGANIZATIONS) (Continued) A. ORGANIZATION WITH OWNERSHIP INTEREST AND/OR MANAGING CONTROL—IDENTIFICATION INFORMATION (Continued) Other ownership (please specify): Effective date (mm/dd/yyyy) Exact percentage of ownership or control/interest this organization has in the provider % Was this organization solely created to acquire/buy the provider and/or the provider’s assets?..... Yes No Is this organization itself owned by any other organization or by any individual?................................ Yes No If this organization also provides contracted services to the provider, describe the type of services furnished: Operational/Managerial control Effective date (mm/dd/yyyy) Exact percentage of operational/managerial control this organization has in the provider % Was this organization solely created to acquire/buy the provider and/or the provider’s assets?..... Yes No If this organization also provides contracted services to the provider, describe the type of services furnished: Other control/interest (please specify): Effective date (mm/dd/yyyy) Exact percentage of ownership or control/interest this organization has in the provider % Was this organization solely created to acquire/buy the provider and/or the provider’s assets?..... Yes No If this organization also provides contracted services to the provider, describe the type of services furnished: Chain home office Effective date (mm/dd/yyyy) Was this organization solely created to acquire/buy the provider and/or the provider’s assets?..... Yes No If this organization also provides contracted services to the provider, describe the type of services furnished: CMS-855A (09/24)CMS-855A (09/24) 30
+* * *
+## SECTION 5: OWNERSHIP INTEREST AND/OR MANAGING CONTROL INFORMATION
+(ORGANIZATIONS) (Continued) B. TYPE OF ORGANIZATION Complete this section with information for the organization listed in Section 5A. Definitions • Private equity company (for Medicare purposes): A publicly traded or non-publicly traded company that collects capital investments from individuals or entities (like investors) and purchases a direct or indirect ownership share of a provider (like a SNF or home health agency). • Real estate investment trust (for Medicare purposes): For purposes of this application, a real estate investment trust as defined in 26 U.S.C. § 856. • Holding company: A business entity, usually a corporation or limited liability company (LLC), created to hold the controlling stock or membership interests in other companies. NOTE: It is important to accurately identify the type of organization below. Please note that you may need to check “yes” for more than one box below. For example, the ownership or managing control organization may be a consulting firm and a private equity company. IRS business designation Identify how your business is registered with the IRS. ( NOTE: If your business is a federal and/or state government supplier, indicate “Non-profit” and specify the level below. In addition, government-owned entities do not need to provide an IRS Form 501(c)(3)). Proprietary Non-profit (submit IRS Form 501(c)(3)) Disregarded entity (submit IRS Form 8832, if applicable) Identify the business structure: (check one) Corporation Limited Liability Company Partnership (general or limited) Individual Other (specify): Federal and/or state government type: Federal State City County City-County Hospital district Other (specify): Identify the type of organization. A response is required for each: Bank or other financial institution.................................................................................................................................. Yes No Chain home office (complete Section 5C).................................................................................................................... Yes No Consulting firm......................................................................................................................................................................... Yes No Holding company.................................................................................................................................................................... Yes No Investment firm (other than private equity company).......................................................................................... Yes No Management services company........................................................................................................................................ Yes No Medical provider/supplier.................................................................................................................................................... Yes No Medical staffing company................................................................................................................................................... Yes No Private equity company........................................................................................................................................................ Yes No Real estate investment trust............................................................................................................................................... Yes No Other (specify): ______________________....................................................................................................................... Yes No CMS-855A (09/24)CMS-855A (09/24) 31
+* * *
+## SECTION 5: OWNERSHIP INTEREST AND/OR MANAGING CONTROL INFORMATION
+(ORGANIZATIONS) (Continued) C. CHAIN HOME OFFICES ONLY A chain home office is an entity that provides centralized management and administrative services to the providers or suppliers under common ownership and common control, such as centralized accounting, purchasing, personnel services, management direction and control, and other similar services. If you are a chain home office, the following information will be used to ensure proper reimbursement when the provider’s year-end cost report is filed with the MAC. For more information on chain organizations, go to
+* * *
+## _42 C.F.R. section 421.404._
+Change Add Remove Effective date (mm/dd/yyyy):
+* * *
+1. Type of action this provider is reporting CHECK ONE: SECTIONS TO COMPLETE Provider in chain is enrolling in Medicare for the first time (initial enrollment or change of
+* * *
+ownership). Complete all of Section 5. Provider is no longer associated with the chain Complete Section 5 identifying the former chain home of fice. Provider has changed from one chain to another. Complete Section 5 in full to identify the new chain home of fice. The name of provider’s chain home office is changing (all other information remains the same). Complete Section 5A. 2. Chain home office administrator information First name of home office administrator or CEO Middle initial Last name Jr., Sr., etc. Title of home office administrator Social Security Number Date of birth (mm/dd/yyyy) 3. Provider’s affiliation to the chain home office Check one: Joint venture/partnership Managed/related Leased Operated/related Wholly owned Other (specify): CMS-855A (09/24)CMS-855A (09/24) 32
+* * *
+## SECTION 5: OWNERSHIP INTEREST AND/OR MANAGING CONTROL INFORMATION
+(ORGANIZATIONS) (Continued) D. FINAL ADVERSE LEGAL ACTION Complete this section for the organization reported in Section 5A above. If you need additional information regarding what to report, please refer to Section 3 of this application. All supporting documentation must be included as described in Section 3. NOTE: If reporting more than one organization, copy and complete Sections 5A and 5B for each organization reported. 1. Has this organization in Section 5A above, under any current or former name or business identity, had a final adverse legal action listed in section 3 of this application imposed against it? YES – continue below NO – skip to Section 6 2. If yes, report each final adverse legal action, when it occurred, and the federal or state agency or the court/administrative body that imposed the action. NOTE: To satisfy the reporting requirement, Section 5D must be filled out in its entirety, and all applicable attachments must be included. FINAL ADVERSE LEGAL ACTION DATE ACTION TAKEN BY CMS-855A (09/24)CMS-855A (09/24) 33
+* * *
+## SECTION 6: OWNERSHIP INTEREST AND/OR MANAGING CONTROL INFORMATION
+(INDIVIDUALS) This section is to be completed with information about any individual who has direct or indirect ownership of, a partnership interest in, and/or managing control of the provider identified in Section 2B1 of this application. If there is more than one individual, copy and complete this section for each. Note that the provider must have at least one managing employee. Only individuals should be reported in this section. Organizations should be reported in Section 5. Check here if you are a Skilled Nursing Facility and skip this section. All individual ownership interest and managing control information must be reported in Attachment 1. If adding, deleting, or changing information on an existing owner, partner, or managing individual, check the appropriate box, indicate the Effective date of the change, complete the appropriate fields in this section, and sign and date the certification statement. The following ownership control interests, as they are described in the instructions to Section 5, must be reported in this section: • 5% or greater direct ownership interest • 5% or greater indirect ownership interest • 5% or greater mortgage or security interest • All general and limited partnership interests, regardless of the percentage. This includes: (1) all interests in a non-limited partnership, and (2) all general and limited partnership interests in a limited partnership. • Officers and directors, if the entity is organized as a corporation. For more information on these interests, please go to Section 5. Note that the diagrams referred to in Section 5(A)(5) of the instructions must include all individuals with any of the ownership interests described above. All managing employees of the provider must be reported in this section. The term “managing employee” includes but is not limited to, a general manager, business manager, administrator, director, medical director, or other individual who exercises operational or managerial control over, or who directly or indirectly conducts, the day-to-day operations of the provider, either under contract or through some other arrangement, regardless of whether the individual is a W-2 employee of the provider. NOTE: If a governmental or tribal organization will be legally and financially responsible for Medicare payments received (per the instructions for governmental/tribal organizations in Section 5), the provider is only required to report its managing employees in Section 6. Owners, partners, officers and directors do not need to be reported, except those who are listed as authorized or delegated officials on this application. CMS-855A (09/24)CMS-855A (09/24) 34
+* * *
+## SECTION 6: OWNERSHIP INTEREST AND/OR MANAGING CONTROL INFORMATION
+(INDIVIDUALS) (Continued) A. INDIVIDUAL WITH OWNERSHIP INTEREST AND/OR MANAGING CONTROL—IDENTIFYING INFORMATION Not applicable If you are changing, adding, or removing information about your current ownership interest and/or managing control information for this individual, check the applicable box, furnish the effective date, and complete the appropriate fields in this section. Change Add Remove Ef fective date (mm/dd/yyyy): First name Middle initial Last name Jr., Sr., etc. Title Social Security Number (SSN) or Individual Tax Identification Number (ITIN) Date of birth (mm/dd/yyyy) Telephone number Fax number E-mail address Identify the type of ownership and/or managing control the individual identified above has in the provider identified in Section 2B1 of this application. Check all that apply. Complete all information for each type of ownership and/or managing control applicable, including the exact percentage of ownership. Combined percentage totals for direct owners should not exceed one hundred percent. 5% or greater direct ownership interest Effective date (mm/dd/yyyy) Exact percentage of direct ownership interest this individual has in the provider % If this individual also provides contracted services to the provider, describe the type of services furnished: 5% or greater indirect ownership interest Effective date (mm/dd/yyyy) Exact percentage of indirect ownership interest this individual has in the provider % If this individual also provides contracted services to the provider, describe the type of services furnished: 5% or greater mortgage interest Effective date (mm/dd/yyyy) Exact percentage of mortgage interest this individual has in the provider % If this individual also provides contracted services to the provider, describe the type of services furnished: CMS-855A (09/24)CMS-855A (09/24) 35
+* * *
+## SECTION 6: OWNERSHIP INTEREST AND/OR MANAGING CONTROL INFORMATION
+(INDIVIDUALS) (Continued) A. INDIVIDUAL WITH OWNERSHIP INTEREST AND/OR MANAGING CONTROL—IDENTIFYING INFORMATION (Continued) 5% or greater security interest Effective date (mm/dd/yyyy) Exact percentage of security interest this individual has in the provider % If this individual also provides contracted services to the provider, describe the type of services furnished: General partnership interest Effective date (mm/dd/yyyy) Exact percentage of general partnership interest this individual has in the provider % If applicable, furnish this individual’s title: If this individual also provides contracted services to the provider, describe the type of services furnished: Limited partnership interest Effective date (mm/dd/yyyy) Exact percentage of limited partnership interest this individual has in the provider % If applicable, furnish this individual’s title: If this individual also provides contracted services to the provider, describe the type of services furnished: Corporate officer Effective date (mm/dd/yyyy) Exact percentage of control as an officer this individual has in the provider % If applicable, furnish this individual’s title: If this individual also provides contracted services to the provider, describe the type of services furnished: CMS-855A (09/24)CMS-855A (09/24) 36
+* * *
+## SECTION 6: OWNERSHIP INTEREST AND/OR MANAGING CONTROL INFORMATION
+(INDIVIDUALS) (Continued) A. INDIVIDUAL WITH OWNERSHIP INTEREST AND/OR MANAGING CONTROL—IDENTIFYING INFORMATION (Continued) Corporate director Effective date (mm/dd/yyyy) Exact percentage of control as a director this individual has in the provider ________% If applicable, furnish this individual’s title: If this individual also provides contracted services to the provider, describe the type of services furnished: W-2 managing employee Effective date (mm/dd/yyyy) Exact percentage of management control this individual has in the provider ________% If applicable, furnish this individual’s title: If this individual also provides contracted services to the provider, describe the type of services furnished: HOSPICES ONLY: Check the applicable box if the W-2 managing employee reported in Section 6A is the hospice’s medical director or administrator: Hospice medical director Hospice administrator Contracted managing employee Effective date (mm/dd/yyyy) Exact percentage of this contracted managing employee’s control in the provider ________% If applicable, furnish this individual’s title: If this individual also provides contracted services to the provider, describe the type of services furnished: HOSPICES ONLY: Check the applicable box if the contracted managing employee reported in Section 6A is the hospice’s medical director or administrator: Hospice medical director Hospice administrator Other ownership or control/interest (please specify): Effective date (mm/dd/yyyy) Exact percentage of ownership or control/interest this individual has in the provider ________% If applicable, furnish this individual’s title: If this individual also provides contracted services to the provider, describe the type of services furnished: CMS-855A (09/24)CMS-855A (09/24) 37
+* * *
+## SECTION 6: OWNERSHIP INTEREST AND/OR MANAGING CONTROL INFORMATION
+(INDIVIDUALS) (Continued) B. FINAL ADVERSE LEGAL ACTION Complete this section for the individual reported in Section 6A above. If you need additional information regarding what to report, please refer to Section 3 of this application. All supporting documentation must be included as described in Section 3. NOTE: If reporting more than one individual, copy and complete Sections 6A and 6B for each individual reported. 1. Has the individual in Section 6A above, under any current or former name or business identity, had a final adverse legal action listed in Section 3 of this application imposed against him/her? YES – continue below NO – skip to Section 8 2. If yes, report each final adverse legal action, when it occurred, and the federal or state agency or the court/administrative body that imposed the action. NOTE: To satisfy the reporting requirement, Section 6B must be filled out in its entirety, and all applicable attachments must be included. FINAL ADVERSE LEGAL ACTION DATE ACTION TAKEN BY SECTION 7: FOR FUTURE USE (THIS SECTION NOT APPLICABLE) CMS-855A (09/24)CMS-855A (09/24) 38
+* * *
+## SECTION 8: BILLING AGENCY INFORMATION
+Applicants that use a billing agency/agent must complete this section. A billing agency/agent is a company or individual that you contract with to prepare and/or submit your claims. If you use a billing agency/agent, you remain responsible for the accuracy of the claims submitted on your behalf. NOTE: The billing agency/agent address cannot be the correspondence mailing address completed in Section 2C of this application. Check here if this section does not apply and skip to Section 10. BILLING AGENCY/AGENT NAME AND ADDRESS If you are changing information about your current billing agency/agent or adding or removing billing agency/ agent information, check the applicable box, furnish the effective date, and complete the appropriate fields in this section. Change Add Remove Effective date (mm/dd/yyyy): Legal Business Name as reported to the Internal Revenue Service or individual name as reported to the Social Security Administration If billing agent: date of birth (mm/dd/yyyy) Billing agency Tax Identification Number or Billing Agent Social Security Number Billing agency/agent “Doing business as” name (if applicable) Billing agency/agent address line 1 (street name and number) Billing agency/agent address line 2 (suite, room, apt. #, etc.) City/town State ZIP Code + 4 Telephone number Fax number (if applicable) E-mail address (if applicable) SECTION 9: FOR FUTURE USE (THIS SECTION NOT APPLICABLE) CMS-855A (09/24)CMS-855A (09/24) 39
+* * *
+## SECTION 10: OPIOID TREATMENT PROGRAM PERSONNEL
+All Opioid Treatment Programs enrolling in the Medicare program must complete this section. Information for individuals legally authorized to order and/or dispense controlled substances at OTP facility The OTP must include the following information for all employees (whether W-2 or not) and contracted staff who are legally authorized to order and/or dispense controlled substances, whether or not the individual is currently ordering and/or dispensing at the OTP facility. Ordering personnel • First, last name, middle initial (if applicable) • Date of birth • Social Security Number (SSN) • Practitioner type • Active and valid NPI • License number Dispensing personnel • First, last name, middle initial (if applicable) • Date of birth • Social Security Number (SSN) • Practitioner type • Active and valid NPI • License number Adverse history and ineligibility Under the OTP Standards in 42 C.F.R section 424.67, an OTP provider must not employ, as a W2 employee or not, or contract with anyone who meets any of the ineligibility criteria outlined below, whether or not the individual is currently ordering or dispensing at the OTP facility. • Currently is revoked from Medicare under 42 C.F.R. section 424.535 or any other applicable section in Title 42, and under an active reenrollment bar. • Currently is on the CMS preclusion list pursuant to 42 C.F.R. section 422.222 or section 423.120. • Currently is excluded by the Department of Health and Human Services (DHHS) Office of Inspector General (OIG). • Has a prior action, including, but not limited to, a reprimand, fine, or restriction, by a state oversight board for professional misconduct issues relating to patient harm. CMS-855A (09/24)CMS-855A (09/24) 40
+* * *
+## SECTION 10: OPIOID TREATMENT PROGRAM PERSONNEL (Continued)
+A. ORDERING PERSONNEL IDENTIFICATION NOTE: Copy and complete this section if more than three OTP ordering personnel need to be reported. If you are changing information about currently reported OTP ordering personnel or adding or removing OTP personnel, check the applicable box, furnish the Effective date, and complete the appropriate fields in this section. Change Add Remove Ef fective date (mm/dd/yyyy): First name of OTP ordering personnel Middle initial Last name of OTP ordering personnel Suffix (e.g., Jr., Sr., M.D., etc.) Social Security Number (SSN) Date of birth (mm/dd/yyyy) NPI License number Practitioner type If you are changing information about currently reported OTP ordering personnel or adding or removing OTP personnel, check the applicable box, furnish the effective date, and complete the appropriate fields in this section. Change Add Remove Ef fective date (mm/dd/yyyy): First name of OTP ordering personnel Middle initial Last name of OTP ordering personnel Suffix (e.g., Jr., Sr., M.D., etc.) Social Security Number (SSN) Date of birth (mm/dd/yyyy) NPI License number Practitioner type If you are changing information about currently reported OTP ordering personnel or adding or removing OTP personnel, check the applicable box, furnish the effective date, and complete the appropriate fields in this section. Change Add Remove Ef fective date (mm/dd/yyyy): First name of OTP ordering personnel Middle initial Last name of OTP ordering personnel Suffix (e.g., Jr., Sr., M.D., etc.) Social Security Number (SSN) Date of birth (mm/dd/yyyy) NPI License number Practitioner type CMS-855A (09/24)CMS-855A (09/24) 41
+* * *
+## SECTION 10: OPIOID TREATMENT PROGRAM PERSONNEL (Continued)
+B. DISPENSING PERSONNEL IDENTIFICATION NOTE: Copy and complete this section if more than three OTP dispensing personnel need to be reported. If you are changing information about currently reported OTP dispensing personnel or adding or removing OTP personnel, check the applicable box, furnish the effective date, and complete the appropriate fields in this section. Change Add Remove Effective date (mm/dd/yyyy): First name of OTP dispensing personnel Middle initial Last name of OTP dispensing personnel Suffix (e.g., Jr., Sr., M.D., etc.) Social Security Number (SSN) Date of birth (mm/dd/yyyy) NPI License number Practitioner type If you are changing information about currently reported OTP dispensing personnel or adding or removing OTP personnel, check the applicable box, furnish the effective date, and complete the appropriate fields in this section. Change Add Remove Effective date (mm/dd/yyyy): First name of OTP dispensing personnel Middle initial Last name of OTP dispensing personnel Suffix (e.g., Jr., Sr., M.D., etc.) Social Security Number (SSN) Date of birth (mm/dd/yyyy) NPI License number Practitioner type If you are changing information about currently reported OTP dispensing personnel or adding or removing OTP personnel, check the applicable box, furnish the effective date, and complete the appropriate fields in this section. Change Add Remove Effective date (mm/dd/yyyy): First name of OTP dispensing personnel Middle initial Last name of OTP dispensing personnel Suffix (e.g., Jr., Sr., M.D., etc.) Social Security Number (SSN) Date of birth (mm/dd/yyyy) NPI License number Practitioner type SECTION 11: FOR FUTURE USE (THIS SECTION NOT APPLICABLE) CMS-855A (09/24)CMS-855A (09/24) 42
+* * *
+SECTION 12: SPECIAL REQUIREMENTS FOR HOME HEALTH AGENCIES (HHAs) Instructions All HHAs enrolling in the Medicare program must complete this section. HHAs initially enrolling in Medicare, Medicaid, or both programs on or after January 1, 1998 are required to provide documentation supporting that they have sufficient initial reserve operating funds (capitalization) to operate the HHA in the Medicare and/or Medicaid program(s) at the time of application, at all times during the enrollment process, and for three (3) months after billing privileges have been conveyed. The capitalization requirement applies to all HHAs enrolling in the Medicare program, including HHAs currently participating in the Medicare program that, as a result of a change of ownership, will be issued a new provider number. The capitalization requirement does not apply to a branch of an HHA. Regulations found at 42 C.F.R. section 489.28 require that the MAC determine the required amount of reserve operating funds needed for the enrolling HHA by comparing the enrolling HHA to at least three other new HHAs that it serves which are comparable to the enrolling HHA. Factors to be considered are geographic location, number of visits, type of HHA, and business structure of the HHA. The MAC then verifies that the enrolling HHA has the required funds. To assist the MAC in determining the amount of funds necessary, the enrolling HHA should complete this section. Check here if this section does not apply and skip to Section 13. A. HOME HEALTH AGENCY 1. Type of Home Health Agency (check one): Non-profit agency Proprietary agency 2. Projected number of visits by this Home Health Agency How many visits does this HHA project it will make in the first: • Three months of operation? • Twelve months of operation? 3. Financial documentation In order to expedite the enrollment process, the HHA may attach a copy of its most current savings, checking, or other financial statement(s) that verifies the initial reserve operating funds, accompanied by: • An attestation from an officer of the bank or other financial institution stating that the funds are in the account(s) and are immediately available for the HHA ’s use, and • Certification from the HHA attesting that at least 50% of the reserve operating funds are non- borrowed funds. Will the HHA be submitting the above documentation with this application?........................................ Yes No NOTE: The MAC may require a subsequent attestation that the funds are still available. If the MAC determines that the HHA requires funds in addition to those indicated on the originally submitted account statement(s), it will require verification of the additional amount as well as a new attestation statement. 4. Additional information Provide any additional documentation necessary to assist the MAC or state agency in properly comparing this HHA with other comparable HHAs. Use this space to explain or justify any unique financial situations of this HHA that may be helpful in determining the HHA ’s compliance with the capitalization requirements. CMS-855A (09/24)CMS-855A (09/24) 43
+* * *
+SECTION 12: SPECIAL REQUIREMENTS FOR HOME HEALTH AGENCIES (HHAs) (Continued) B. NURSING REGISTRIES If you are changing information about your current nursing registries or adding or removing nursing registries information, check the applicable box, furnish the effective date, and complete the appropriate fields in this section. Change Add Remove Effective date (mm/dd/yyyy): Does this HHA contract with a nursing registry whereby the latter furnishes personnel to perform HHA services on behalf of the provider? YES – Furnish the information below NO – Skip to section 13 Legal Business/Individual Name as reported to the Internal Revenue Service Tax Identification Number (TIN)
+* * *
+> “Doing business as” name (if applicable)
+Billing street address line 1 (street name and number) Billing street address line 2 (suite, room, apt. #, etc.) City/town State ZIP Code + 4 Telephone number Fax number (if applicable) E-mail address (if applicable) SECTION 13: CONTACT PERSON If questions arise during the processing of this application, your designated MAC will contact the individual reported below. Change Add Remove Effective date (mm/dd/yyyy): First name Middle initial Last name Suffix (e.g., Jr., Sr., M.D., etc.) Contact person address line 1 (street name and number) Contact person address line 2 (suite, room, apt. #, etc.) City/town State ZIP Code + 4 Telephone number Fax number (if applicable) E-mail address (if applicable) NOTE: The contact person listed in this section will only be authorized to discuss issues concerning this or any other enrollment application. Your designated MAC will not discuss any other Medicare issues about you with the above contact person. CMS-855A (09/24)CMS-855A (09/24) 44
+* * *
+## SECTION 14: PENALTIES FOR FALSIFYING INFORMATION
+This section explains the penalties for deliberately furnishing false information in this application to gain or maintain enrollment in the Medicare program. 1. 18 U.S.C. section 1001 authorizes criminal penalties against an individual who, in any matter within the jurisdiction of any department or agency of the United States, knowingly and willfully falsifies, conceals or covers up by any trick, scheme or device a material fact, or makes any false, fictitious, or fraudulent statements or representations, or makes any false writing or document knowing the same to contain any false, fictitious or fraudulent statement or entry. Individual offenders are subject to fines of up to $250,000 and imprisonment for up to five years. Offenders that are organizations are subject to fines of up to $500,000 (18 U.S.C. section 3571). Section 3571(d) also authorizes fines of up to twice the gross gain derived by the offender if it is greater than the amount specifically authorized by the sentencing statute. 2. Section 1128B(a)(1) of the Social Security Act authorizes criminal penalties against any individual who,
+* * *
+> “knowingly and willfully,” makes or causes to be made any false statement or representation of a
+material fact in any application for any benefit or payment under a federal health care program. The offender is subject to fines of up to $25,000 and/or imprisonment for up to five years. 3. The Civil False Claims Act, 31 U.S.C. Section 3729, imposes civil liability, in part, on any person who, with actual knowledge, deliberate ignorance or reckless disregard of truth or falsity (a) presents or causes to be presented to the United States Government or its contractor or agent a false or fraudulent claim for payment or approval; (b) uses or causes to be used a false record or statement material either to a false or fraudulent claim or to an obligation to pay the Government; (c) conceals or improperly avoids or decreases an obligation to pay or transmit money or property to the Government; or (d) conspires to violate any provision of the False Claims Act. The False Claims Act imposes a civil penalty of between $5,000 and $10,000 per violation, as adjusted for inflation by the Federal Civil Penalties Inflation Adjustment Act, 28 U.S.C. 2461, plus three times the amount of damages sustained by the Government. 4. Section 1128A(a)(1) of the Social Security Act imposes civil liability, in part, on any person (including an organization, agency or other entity) that knowingly presents or causes to be presented to an officer, employee, or agent of the United States, or of any department or agency thereof, or of any State agency…a claim…that the Secretary determines is for a medical or other item or service that the person knows or should know: a. was not provided as claimed; and/or b. the claim is false or fraudulent. This provision authorizes a civil monetary penalty of up to $10,000 for each item or service, an assessment of up to three times the amount claimed, and exclusion from participation in the Medicare program and State health care programs. 5. 18 U.S.C. 1035 authorizes criminal penalties against individuals in any matter involving a health care benefit program who knowingly and willfully falsifies, conceals or covers up by any trick, scheme, or device a material fact; or makes any materially false, fictitious, or fraudulent statements or representations, or makes or uses any materially false, fictitious, or fraudulent statement or entry, in connection with the delivery of or payment for health care benefits, items or services. The individual shall be fined or imprisoned up to 5 years or both. 6. 18 U.S.C. 1347 authorizes criminal penalties against individuals who knowing and willfully execute, or attempt, to execute a scheme or artifice to defraud any health care benefit program, or to obtain, by means of false or fraudulent pretenses, representations, or promises, any of the money or property owned by or under the control of any, health care benefit program in connection with the delivery of or payment for health care benefits, items, or services. Individuals shall be fined or imprisoned up to 10 years or both. If the violation results in serious bodily injury, an individual will be fined or imprisoned up to 20 years, or both. If the violation results in death, the individual shall be fined or imprisoned for any term of years or for life, or both. 7. The United States Government may assert common law claims such as “common law fraud,” “money paid by mistake,” and “unjust enrichment.” Remedies include compensatory and punitive damages, restitution, and recovery of the amount of the unjust profit. CMS-855A (09/24)CMS-855A (09/24) 45
+* * *
+## SECTION 15: CERTIFICATION STATEMENT
+An AUTHORIZED OFFICIAL is defined as an appointed official (for example, chief executive officer, chief financial officer, general partner, chairman of the board, or direct owner) to whom the organization has granted the legal authority to enroll it in the Medicare program, to make changes or updates to the organization’s status in the Medicare program, and to commit the organization to fully abide by the statutes, regulations, and program instructions of the Medicare program. A DELEGATED OFFICIAL is defined as an individual who is delegated by an authorized official the authority to report changes and updates to the provider’s enrollment record. A delegated official must be an individual with an “ownership or control interest” in (as that term is defined in section 1124(a)(3) of the Social Security Act), or be a W-2 managing employee of the provider. Delegated officials may not delegate their authority to any other individual. Only an authorized official may delegate the authority to make changes and/or updates to the provider’s Medicare status. Even when delegated officials are reported in this application, an authorized official retains the authority to make any such changes and/or updates by providing his or her printed name, signature, and date of signature as required in section 15B. NOTE: Authorized officials and delegated officials must be reported in section 6, either on this application or on a previous application to this same MAC. If this is the first time an authorized and/or delegated official has been reported on the CMS-855A, you must complete Section 6 for that individual and that individual must sign section 15. By his/her signature(s), an authorized official binds the provider to all of the requirements listed in the Certification Statement and acknowledges that the provider may be denied entry to or revoked from the Medicare program if any requirements are not met. Only an authorized official has the authority to sign (1) the initial enrollment application on behalf of the provider and (2) add or remove additional authorized officials and delegated officials. Once the delegation of authority has been established all other enrollment application submissions can be signed by either an authorized official or delegated official. By signing this application, an authorized official agrees to immediately notify the MAC if any information furnished on this application is not true, correct, or complete. In addition, an authorized official, by his/her signature, agrees to notify the MAC of any future changes to the information contained in this form after the provider is enrolled in Medicare, in accordance with the timeframes established in 42 C.F.R. section 424.516. The provider can have as many authorized officials as it wants. If the provider has more than two authorized officials, it should copy and complete this section as needed. EACH AUTHORIZED AND DELEGATED OFFICIAL MUST HAVE AND DISCLOSE HIS/HER SOCIAL SECURITY NUMBER. CMS-855A (09/24)CMS-855A (09/24) 46
+* * *
+## SECTION 15: CERTIFICATION STATEMENT (Continued)
+A. ADDITIONAL REQUIREMENTS FOR MEDICARE ENROLLMENT These are additional requirements that the provider must meet and maintain in order to bill the Medicare program. Read these requirements carefully. By signing, the provider is attesting to having read the requirements and understanding them. By his/her signature(s), the authorized official(s) named below and the delegated official(s) named in Section 15D agree to adhere to the following requirements stated in this Certification Statement: 1. I authorize the Medicare contractor to verify the information contained herein. I agree to notify the Medicare contractor of any future changes to the information contained in this application in accordance with the time frames established in 42 C.F.R. section 424.516. I understand that any change in the business structure of this provider may require the submission of a new application. 2. I have read and understand the Penalties for Falsifying Information, as printed in this application. I understand that any omission, misrepresentation, or falsification of any information contained in this application or contained in any communication supplying information to Medicare, or any alteration of any text on this application form, may be punished by criminal, civil, or administrative penalties including, but not limited to, the denial or revocation of Medicare billing privileges, and/or the imposition of fines, civil damages, and/or imprisonment. 3. I agree to abide by the Medicare laws, regulations and program instructions that apply to me or to the organization listed in section 2B1 of this application. The Medicare laws, regulations, and program instructions are available through the Medicare Administrative Contractor. I understand that payment of a claim by Medicare is conditioned upon the claim and the underlying transaction complying with such laws, regulations, and program instructions (including, but not limited to, the Federal Anti-Kickback Statute, 42 U.S.C. section 1320a-7b(b) (section 1128B(b) of the Social Security Act) and the Physician Self Referral Law (Stark Law), 42 U.S.C. section 1395nn (Section 1877 of the Social Security Act)). 4. Neither this provider, nor any five percent or greater owner, partner, officer, director, managing employee, authorized official, or delegated official thereof is currently sanctioned, suspended, debarred, or excluded by Medicare, a state health care program, e.g., Medicaid program, or any other federal program, or is otherwise prohibited from supplying services to Medicare or other federal program beneficiaries. 5. I agree that any existing or future overpayment made to the provider by the Medicare program may be recouped by Medicare through the withholding of future payments. 6. I will not knowingly present or cause to be presented a false or fraudulent claim for payment by Medicare, and I will not submit claims with deliberate ignorance or reckless disregard of their truth or falsity. 7. I authorize any national accrediting body whose standards are recognized by the Secretary as meeting the Medicare program participation requirements, to release to any authorized representative, employee, or agent of the Centers for Medicare & Medicaid Services (CMS), a copy of my most recent accreditation survey, together with any information related to the survey that CMS may require (including corrective action plans). CMS-855A (09/24)CMS-855A (09/24) 47
+* * *
+## SECTION 15: CERTIFICATION STATEMENT (Continued)
+B. AUTHORIZED OFFICIAL SIGNATURE(S) 1. 1st Authorized official signature I have read the contents of this application. My signature legally and financially binds this provider to the laws, regulations, and program instructions of the Medicare program. By my signature, I certify that the information contained herein is true, correct, and complete and I authorize the MAC to verify this information. If I become aware that any information in this application is not true, correct, or complete, I agree to notify the MAC of this fact in accordance with the time frames established in 42 C.F.R. section 424.516. If you are adding or removing an authorized official, check the applicable box, furnish the effective date, and complete the appropriate fields in this section. Add Remove Effective date (mm/dd/yyyy): Authorized official’s information and signature First name Middle initial Last name Suffix (e.g., Jr., Sr., M.D., etc.) Telephone number Title/position Authorized official signature (first, middle, last name, Jr., Sr., M.D., etc.) Date signed (mm/dd/yyyy) In order to process this application it MUST be signed and dated. 2. 2nd Authorized official signature I have read the contents of this application. My signature legally and financially binds this provider to the laws, regulations, and program instructions of the Medicare program. By my signature, I certify that the information contained herein is true, correct, and complete and I authorize the MAC to verify this information. If I become aware that any information in this application is not true, correct, or complete, I agree to notify the MAC of this fact in accordance with the time frames established in 42 C.F.R. section 424.516. If you are adding or removing an authorized official, check the applicable box, furnish the effective date, and complete the appropriate fields in this section. Add Remove Effective date (mm/dd/yyyy): Authorized official’s information and signature First name Middle initial Last name Suffix (e.g., Jr., Sr., M.D., etc.) Telephone number Title/position Authorized official signature (first, middle, last name, Jr., Sr., M.D., etc.) Date signed (mm/dd/yyyy) In order to process this application it MUST be signed and dated. CMS-855A (09/24)CMS-855A (09/24) 48
+* * *
+## SECTION 15: CERTIFICATION STATEMENT (Continued)
+C. ADDITIONAL REQUIREMENTS FOR MEDICARE ENROLLMENT FOR DELEGATED OFFICIALS NOTE: Delegated officials are optional. • You are not required to have a delegated official. However, if no delegated official is assigned, the authorized official(s) will be the only person(s) who can make changes and/or updates to the provider’s status in the Medicare program. • The signature of a delegated official shall have the same force and effect as that of an authorized official, and shall legally and financially bind the provider to the laws, regulations, and program instructions of the Medicare program. By his or her signature, the delegated official certifies that he or she has read the certification statement in Section 15 and agrees to adhere to all of the stated requirements. A delegated official also certifies that he/she meets the definition of a delegated official. When making changes and/or updates to the provider’s enrollment information maintained by the Medicare program, a delegated official certifies that the information provided is true, correct, and complete. • Delegated officials being removed do not have to sign or date this application. • Independent contractors are not considered “employed” by the provider and therefore, cannot be delegated officials. • The signature(s) of an authorized official in Section 15B constitutes a legal delegation of authority to all delegated official(s) assigned in Section 15D. • If there are more than two individuals, copy and complete this section for each individual. D. DELEGATED OFFICIAL SIGNATURE(S) 1. 1st Delegated official signature If you are adding or removing a delegated official, check the applicable box, furnish the effective date, and complete the appropriate fields in this section. Add Remove Effective date (mm/dd/yyyy): Delegated official’s information and signature Delegated official first name Middle initial Last name Suffix (e.g., Jr., Sr., M.D., etc.) Delegated official signature (first, middle, last name, Jr., Sr., M.D., etc.) Date signed (mm/dd/yyyy) Check here if delegated official is a W-2 employee Telephone number Authorized official’s signature assigning this delegation (first, middle, last name, Jr., Sr., M.D., etc.) Date signed (mm/dd/yyyy) In order to process this application it MUST be signed and dated. CMS-855A (09/24)CMS-855A (09/24) 49
+* * *
+## SECTION 15: CERTIFICATION STATEMENT (Continued)
+2. 2nd Delegated official signature If you are adding or removing a delegated official, check the applicable box, furnish the effective date, and complete the appropriate fields in this section. Add Remove Effective date (mm/dd/yyyy): Delegated official’s information and signature Delegated official first name Middle initial Last name Suffix (e.g., Jr., Sr., M.D., etc.) Delegated official signature (first, middle, last name, Jr., Sr., M.D., etc.) Date signed (mm/dd/yyyy) Check here if delegated official is a W-2 employee Telephone number Authorized official’s signature assigning this delegation (first, middle, last name, Jr., Sr., M.D., etc.) Date signed (mm/dd/yyyy) In order to process this application it MUST be signed and dated. SECTION 16: FOR FUTURE USE (THIS SECTION NOT APPLICABLE) CMS-855A (09/24)CMS-855A (09/24) 50
+* * *
+## SECTION 17: SUPPORTING DOCUMENTATION INFORMATION
+This section lists the documents that, if applicable, must be submitted with this completed enrollment application. If you are enrolling for the first time, or reactivating or revalidating your enrollment, you must submit all applicable documents. When reporting a change of information, only submit documents that apply to the change reported. Your designated Medicare Administrative Contractor (MAC) may request, at any time during the enrollment process, documentation to support or validate information reported on this application. In addition, your designated MAC may also request documents from you other than those identified in this section as are necessary to ensure correct billing of Medicare. Licenses, certifications and registrations required by Medicare or State law. Federal, State/Territory, and/or local (city/county) business licenses, certifications and/or registrations required to operate a health care facility. Written confirmation from the IRS confirming your Tax Identification Number with the Legal Business Name (e.g., IRS CP 575) provided in section 2A. Completed Form CMS-588, Authorization Agreement for Electronic Funds Transfer. Include a voided check or bank letter. NOTE: If a provider already receives payments electronically and is not making a change to its banking information, the CMS-588 is not required. Copy(s) of all bills of sale or sales agreements for all ownership changes. This includes, CHOWS, Acquisition/ Mergers, Consolidations, and all other ownership changes that are required to be reported, regardless of the
+* * *
+percentage involved (e.g., new 15 percent owner). Copy(s) of all documents that demonstrate meeting capitalization requirements (HHAs only). If Medicare payment due a provider of services is being sent to a bank (or similar financial institution) with whom the provider has a lending relationship (that is, any type of loan), the provider must provide a
+* * *
+statement in writing from the bank (which must be in the loan agreement) that the bank has agreed to waive its right of offset for Medicare receivables. Copy(s) of all final adverse legal action documentation (e.g., notifications, resolutions, and reinstatement letters). Copy of an attestation for government entities and tribal organizations. Copy of HRSA Notice of Grant Award if that is a qualifying document for FQHC status. Copy of IRS Determination Letter, if provider is registered with the IRS as non-profit (e.g., IRS Form 501(c)(3)). Written confirmation from the IRS confirming your Limited Liability Company (LLC) is automatically classified as a Disregarded Entity (e.g., Form 8832, if applicable). NOTE: A disregarded entity is an eligible entity that is not treated as a separate entity from its single owner for income tax purposes. Organizational structure diagram/flowchart identifying all of the entities listed in section 5 and their relationships with the provider and each other. Copy of all mobile vehicle registrations (all mobile services). Rural Emergency Hospital (REH) Action Plan. According to the Paperwork Reduction Act of 1995, an agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number. The valid OMB control number for this information collection is 0938-0685. Various sections of the Social Security Act, the United States Code (U.S.C.), Internal Revenue Service (IRS) Code and the CFR require providers and suppliers to furnish information concerning the amounts due and the identification of individuals or entities that furnish medical services to beneficiaries before payment can be made. The CMS-855A application collects this information, including the data required to uniquely identify and enumerate the provider/supplier. Additional information needed to process claims accurately and timely is also collected on the application. The data collection helps CMS ensure that the provider or supplier meets all statutory and regulatory requirements, and providers and suppliers must complete the CMS-855A application to obtain and retain the ability to receive Medicare payments consistent with Section 1866(j) of the Social Security Act. The time required to complete this information collection is estimated at 6 hours per response, including the time to review instructions, search existing data resources, gather the data needed, and complete and review the information collection. If you have any comments concerning the accuracy of the time estimate(s) or suggestions for improving this form, please write to: CMS, 7500 Security Boulevard, Attn: PRA Reports Clearance Officer, Baltimore, Maryland 21244-1850 or e-mail providerenrollment@cms.hhs.gov. CMS will comply with all Privacy Act, Freedom of Information laws, and regulations that apply to this collection. Privileged or confidential commercial or financial information is protected from public disclosure by federal law 5 U.S.C. 552(b)(4) and Executive Order 12600. ****CMS Disclosure**** Please do not send applications, claims, payments, medical records or any documents containing sensitive information to the PRA Reports Clearance Office. Please note that any correspondence not pertaining to the information collection burden approved under the associated OMB control number listed on this form will not be reviewed, forwarded, or retained. If you have questions or concerns regarding where to submit your documents, please visit CMS.gov/Medicare/Provider-Enrollment-and-Certification. CMS-855A (09/24)CMS-855A (09/24) 51
+* * *
+## CMS-855A: Attachment 1 (09/24)CMS-855A: Attachment 1 (09/24)
+52 ATTACHMENT 1: SKILLED NURSING FACILITY DISCLOSURES All skilled nursing facilities (SNFs) must complete this attachment with their application during: • Initial enrollment • Revalidation • Change of information (though only with respect to the information that is changing) • Change of Ownership (CHOW) ORGANIZATION INSTRUCTIONS Ownership interest, managing control, additional disclosable party information • Complete this section to report an organization identified below. Visit CMS.gov/medicare/ enrollment-renewal/providers-suppliers for examples of organizations to report • Report information on any adverse legal actions that have been imposed against the organization • To report more than 1 organization, copy and complete this section for each organization • Don’t report individuals in this section Submit 2 organizational structure diagrams or flowcharts: • One chart must identify all the entities listed in Section A and show their relationships with the provider and each other. • One chart must identify the organizational structures of all its owners, including owners not listed in this attachment (e.g., less than 5% direct or indirect owners). Report these ownership interests in this section: • Direct ownership interest A direct owner has an actual ownership interest in the provider itself (e.g., owns stock in the business). Examples: • Company A wholly (100%) owns the enrolling SNF provider. The provider would report Company A because Company A is a direct owner of the SNF and owns the assets of the business. • Company X owns 50% of the enrolling SNF provider. The provider would report Company X as a direct owner because Company X has 50% ownership of the SNF. • Indir ect ownership interest An indirect owner has an ownership interest in an organization that owns the provider or in another indirect owner. Many organizations that directly own a provider are themselves wholly or partly owned by other organizations or individuals. This is often the result of the use of holding companies and parent/ subsidiary relationships. Such organizations and individuals are considered to be “indirect” owners of the provider. Using the example above, if Company B owned 100% of Company A, Company B is considered to be an indirect owner of the provider. Example: LEVEL 3 Individual X Individual Y 5% 30% LEVEL 2 Company C Company B 60% 40% LEVEL 1 Company A 100% • Company A owns 100% of the enrolling provider • Company B owns 40% of Company A • Company C owns 60% of Company A • Individual X owns 5% of Company C • Individual Y owns 30% of Company B
+* * *
+## CMS-855A: Attachment 1 (09/24)CMS-855A: Attachment 1 (09/24)
+53 In this example, Company A (Level 1) is the direct owner of the provider. Companies B and C, as well as individuals X and Y, are indirect owners of the provider. To calculate ownership shares using the example above, use these steps: • Level 1 Company A owns 100% of the enrolling provider. You must report Company A. • Level 2 To calculate the percentage of ownership held by Company C of the enrolling provider: • The percentage of ownership the Level 1 owner has in the enrolling provider multiplied by the percentage of ownership the Level 2 owner has in the Level 1 owner. • Company A, the Level 1 (or direct) owner, owns 100% of the provider. In the diagram Company C, a Level 2 owner, owns 60% of Company A. Multiply 100% (or 1.0) by 60% (.60). The result is.60. Company C indirectly owns 60% of the provider. You must report it. • Repeat this process for Company B, the other Level 2 owner. Because Company B owns 40% of Company A, multiply this figure by 100% (the ownership stake Company A has in the enrolling provider). Company B indirectly owns 40% of the enrolling provider. You must report it. Continue this process until all Level 2 owners are accounted for. • Level 3 To calculate the percentage of ownership that Individual X has in the enrolling provider: • The percentage of ownership the Level 2 owner has in the enrolling provider multiplied by the percentage of ownership the Level 3 owner has in that Level 2 owner. • Company C owns 60% of the provider. In the example above, Individual X (Level 3) owns 5% of Company C. Multiply 60% (.60) by 5% (.05). The result is.03. Individual X indirectly owns 3% of the provider, which does not meet the 5% threshold. You do not report it. • Repeat this process for Company B, which owns 40% of the provider. In the diagram Individual Y (Level 3) owns 30% of Company B. Multiply 40% (.40) by 30% (.30). The result is.12, or 12%. Individual Y owns 12% of the provider. You must report it. Continue this process until all Level 3 owners are accounted for. Repeat this process for Levels 4 and beyond. • General and limited partnerships inter ests Report all general and limited partnership interests—regardless of the percentage. This includes all partnership interests in a non-limited partnership, and all general and limited partnership interests in a limited partnership. • Mortgage or security inter est Report all entities with at least a 5% mortgage, deed of trust, or other security interest in the SNF. To calculate whether this interest meets the 5% threshold, use the following formula: • Dollar amount of the mortgage, deed of trust, or other obligation secured by the SNF or any of the property or assets of the SNF divided by dollar amount of the total property and assets of the SNF. Example: Two years ago, a SNF obtained a $20 million loan from Entity X to add a third floor to its facility. Various assets of the SNF secure the mortgage. The total value of the SNF’s property and assets is $100 million. Using the formula above, divide $20 million (the dollar amount of the secured mortgage) by $100 million (the total property and assets of the Enrolling SNF). This results in.20, or 20%. Entity X must be reported because their interest represents at least 5% of the total property and assets of the enrolling SNF. • Operational/managing contr ol • Any organization that exercises operational, managerial control over the provider, or directly or indirectly conducts the day-to-day operations of the provider. The organization need not have an ownership interest in the provider to qualify as a managing organization. For instance, it could be a management services organization under contract with the provider to furnish management services for the business. • Any organization that has direct responsibility for the performance of your organization or can change the leadership, allocation of resources, or other processes of your organization to improve performance. ATTACHMENT 1: SKILLED NURSING FACILITY DISCLOSURES (Continued)
+* * *
+## CMS-855A: Attachment 1 (09/24)CMS-855A: Attachment 1 (09/24)
+54 • Any managing relationship with a management services organization under contract with the provider to furnish management services for the business. Faculty practice plans, university-based health systems, hospital outpatient departments, medical foundations, and groups that primarily treat enrollees of group model HMOs should review this definition of managing control (organizations) carefully to determine if it applies. • Additional disclosable party • Any organization that exercises operational, financial, or managerial control over the facility, provides policies procedures for any of the operations of the facility, or provides financial or cash management services to the facility; • Any organization that leases or subleases real property to the facility, or owns a whole or part interest equal to or exceeding 5 percent of the total value of such real property; or • Any organization that provides management or administrative services, management or clinical consulting services, or accounting or financial services to the facility. The organizational structure (as that term is defined in section 1124(c)(5)(D) of the Social Security Act) of each additional disclosable party must be identified in section D of the Organizations portion of this attachment. This means that the following parties must be reported: • For ADPs that are corporations: All their 5% or greater direct and indirect owners. • For ADPs that are LLCs: All their direct and indirect owners (regardless of the percentage) and all their managing organizations and individuals. • For ADPs that are general partnerships: All the partners, regardless of the percentage. • For ADPs that are limited partnerships: All general partners (regardless of the percentage) and all limited partners with at least a 10 percent interest. • For ADPs that are trusts: All trustees. Along with furnishing the above data in section D, the SNF must also submit a diagram of the organizational structure of each additional disclosable party of the facility. This must include a written description of the relationship of each such additional disclosable party to the facility and to all the SNF’s other additional disclosable parties. For examples of organizations to report, visit CMS.gov/medicare/enrollment-renewal/providers-suppliers. • Additional ownership inter ests and/or managing control The organizations above include, but are not limited to, the following. You must report them in this attachment: • Entities with an investment interest in the provider (like investment firms) • Private equity companies • Real estate investment trusts • Banks and financial institutions (like mortgage interests) • Holding companies • Trusts and trustees • Governmental/tribal organizations: Federal, state, county, city, or other level of government, or an Indian tribe, legally and financially responsible for Medicare payments received (including any potential overpayments), must report the name of that government or Indian tribe in the applicable section. The provider must submit a letter on the letterhead of the responsible government (like a government agency) or tribal organization, which attests that the government or tribal organization will be legally and financially responsible if there is any outstanding debt owed to CMS. This letter must be signed by an “authorized official” of the government or tribal organization who has the authority to legally and financially bind the government or tribal organization to the laws, regulations, and program instructions of Medicare. Go to section 15 for further information on “authorized officials.” • Charitable and Religious Organizations: Many non-profit organizations are charitable or religious in nature and are operated and/or managed by a Board of Trustees or other governing body. Report the actual name of the Board of Trustees or other governing body in the applicable section. ATTACHMENT 1: SKILLED NURSING FACILITY DISCLOSURES (Continued)
+* * *
+## CMS-855A: Attachment 1 (09/24)CMS-855A: Attachment 1 (09/24)
+55 A. ORGANIZATION IDENTIFICATION INFORMATION Check this box if you have no organizations with ownership or managing control to report. Not Applicable To change, add, or remove information about the organization, check the applicable box, enter the effective date, and complete the appropriate fields. Change Add Remove Effective date (mm/dd/yyyy): Legal Business Name as reported to the Internal Revenue Service (IRS)
+* * *
+> “Doing business as” name (if different than Legal Business Name)
+Address line 1 (street name and number) Address line 2 (suite, room, etc.) City/town State ZIP Code + 4 Telephone number Fax number (if applicable) E-mail address (if applicable) National Provider Identifier (NPI) Tax Identification Number (TIN) Medicare Identification Number for this location – PTAN (if issued) B. TYPE OF ORGANIZATION Complete this section with information for the organization listed in section A. Definitions • Private equity company (for Medicare purposes): A publicly traded or non-publicly traded company that collects capital investments from individuals or entities (like investors) and purchases a direct or indirect ownership share of a provider (like a SNF or home health agency). (Go to 42 C.F.R. § 424.502.) • Real estate investment trust (for Medicare purposes): For purposes of this attachment, a real estate investment trust as defined in 26 U.S.C. § 856. (Go to 42 C.F.R. § 424.502.) • Holding company: A business entity, usually a corporation or limited liability company (LLC), created to hold the controlling stock or membership interests in other companies. ATTACHMENT 1: SKILLED NURSING FACILITY DISCLOSURES (Continued)
+* * *
+## CMS-855A: Attachment 1 (09/24)CMS-855A: Attachment 1 (09/24)
+56 IRS business designation Identify how your business is registered with the IRS (Check one). If your business is a federal or state government supplier, check “Non-profit” and specify the level. Government-owned entities don’t need to provide IRS Form 501(c)(3)). Proprietary Non-profit (Submit IRS Form 501(c)(3)) Disregarded entity (Submit IRS Form 8832, if applicable) NOTE: If a checkbox identifying how the business is registered with the IRS is not completed, the supplier will be defaulted to “Proprietary.” Identify the type of business structure: (check one) Corporation Limited Liability Company Partnership (general or limited) Sole proprietor Other (specify): Federal and/or state government type: Federal State City County City-county Hospital district Other (specify): Identify the type of organization. Answer all questions. You may need to check “yes” for more than 1 box. Bank or other financial institution.................................................................................................................................. Yes No Chain home office (complete section 3)....................................................................................................................... Yes No Consulting firm......................................................................................................................................................................... Yes No Corporation................................................................................................................................................................................ Yes No Holding company.................................................................................................................................................................... Yes No Investment firm (other than private equity company).......................................................................................... Yes No Limited Liability Company................................................................................................................................................... Yes No Management services company........................................................................................................................................ Yes No Medical provider/supplier.................................................................................................................................................... Yes No Medical staffing company................................................................................................................................................... Yes No Private equity company........................................................................................................................................................ Yes No Real estate investment trust............................................................................................................................................... Yes No Trust or trustee......................................................................................................................................................................... Yes No Other (specify): ______________________....................................................................................................................... Yes No Answer all questions about your organization. You may need to check “yes” for more than 1 box. Was this organization solely created to acquire or buy the provider or the provider’s assets?....... Yes No Is this organization the ultimate parent company in a multi-organizational group of entities?..... Yes No Is this organization itself owned by any other organization or individual?............................................... Yes No ATTACHMENT 1: SKILLED NURSING FACILITY DISCLOSURES (Continued)
+* * *
+## CMS-855A: Attachment 1 (09/24)CMS-855A: Attachment 1 (09/24)
+57 C. CHAIN HOME OFFICES ONLY If you’re a chain home office, we’ll use the information you provide to ensure proper reimbursement when the provider files their year-end cost report with the MAC. For more information on chain organizations, go to 42 C.F.R. section 421.404. Change Add Remove Effective date (mm/dd/yyyy): 1. Type of action this provider is reporting CHECK ONLY 1: COMPLETE THIS SECTION Provider in chain is enrolling in Medicare for the first time (Initial Enrollment or Change of Ownership) Section C Provider is no longer associated with the chain Section C (to identify the former chain home office) Provider has changed from one chain to another Section C (to identify the new chain home office). The provider’s chain home office is changing its name (all other information remains the same) Section A 2. Chain home office administrator or CEO contact information First name of home office administrator or CEO Middle initial Last name Jr., Sr., etc. Title of home office administrator Social Security Number Date of birth (mm/dd/yyyy) 3. Provider’s affiliation to the chain home office Check one: Joint venture/partnership Managed/related Leased Operated/related Wholly owned Other (specify): ATTACHMENT 1: SKILLED NURSING FACILITY DISCLOSURES (Continued)
+* * *
+## CMS-855A: Attachment 1 (09/24)CMS-855A: Attachment 1 (09/24)
+58 D. RELATIONSHIP TO SNF AND/OR TO ADDITIONAL DISCLOSABLE PARTY (ADP) OF SNF Questions 1–7 should only be completed if it applies to your business structure. Furnish the additional information, including the Effective date and exact percentage of ownership, if applicable. Combined percentage totals for direct owners can’t exceed 100%. 1. If the SNF is a corporation Does the reported organization have a 5% or greater direct ownership interest in the SNF?......... Yes No If yes, complete the below fields. Effective date (mm/dd/yyyy) Exact percentage of ownership ________% 2. If the SNF is an LLC Does the reported organization have any direct ownership interest in the SNF regardless of the percentage?................................................................................................................................................................ Yes No If yes, complete the below fields. Effective date (mm/dd/yyyy) Exact percentage of ownership % 3. If the SNF is a general partnership Does the reported organization have any direct general partnership/ownership interest in the SNF regardless of the percentage?.................................................................................................................... Yes No If yes, complete the below fields. Effective date (mm/dd/yyyy) Exact percentage of ownership % 4. If the SNF is a limited partnership Does the reported organization have any direct general or limited partnership/ownership interest in the SNF regardless of the percentage?.................................................................................................................... Yes No If yes, complete the below fields. Effective date (mm/dd/yyyy) Exact percentage of ownership % 5. If the SNF has a business structure not identified in 1 –4 Does the reported organization have a 5% or greater direct ownership interest in the SNF?......... Yes No If yes, complete the below fields. Effective date (mm/dd/yyyy) Exact percentage of ownership % 6. If the SNF is a business structure other than an LLC, general partnership, or limited partnership Does the reported organization have a 5% or greater indirect ownership interest in the SNF?..... Yes No If yes, complete the below fields. Effective date (mm/dd/yyyy) Exact percentage of ownership % ATTACHMENT 1: SKILLED NURSING FACILITY DISCLOSURES (Continued)
+* * *
+## CMS-855A: Attachment 1 (09/24)CMS-855A: Attachment 1 (09/24)
+59 ATTACHMENT 1: SKILLED NURSING FACILITY DISCLOSURES (Continued) 7. If the SNF is an LLC, general partnership, or limited partnership Does the reported organization have any indirect ownership interest in the SNF regardless of the percentage?...................................................................................................................................................................... Yes No If yes, complete the below fields. Effective date (mm/dd/yyyy) Exact percentage of ownership % Questions 8–13 must be completed regardless of the SNF’s business structure. Include the Effective date and exact percentage of ownership, if applicable. 8. Does the reported organization have a 5% or greater mortgage or security interest in the SNF?.................................................................................................................................................................................. Yes No If yes, complete the below fields. Effective date (mm/dd/yyyy) Type of interest: Mortgage Security Exact percentage of mortgage/security interest % 9. Is the reported organization a trustee of the SNF?.......................................................................................... Yes No If yes, complete the below fields. Effective date (mm/dd/yyyy) 10. Does the reported organization exercise any of the following types of control, either directly or indirectly, over the SNF or any part of the SNF? (This includes, but is not limited to, entities that meet the definition of “managing organization” as defined in § 424.502.)............ Yes No If yes, complete the below fields. Operational: Yes No Effective date (mm/dd/yyyy): Managerial: Yes No Effective date (mm/dd/yyyy): Financial: Yes No Effective date (mm/dd/yyyy): The type(s) of control (e.g., the type and form of financial control): Which part(s) of the SNF the control applies to: Whether this control is furnished under contract:
+* * *
+## CMS-855A: Attachment 1 (09/24)CMS-855A: Attachment 1 (09/24)
+60 11. Does the reported organization provide any of the following—either directly or indirectly— to the SNF or any part of the SNF?................................................................................................................................. Yes No If yes, complete the below fields. Policies or procedures for any of the SNF’s operations Yes No Effective date (mm/dd/yyyy): Financial services Yes No Effective date (mm/dd/yyyy): Cash management services Yes No Effective date (mm/dd/yyyy): Management services Yes No Effective date (mm/dd/yyyy): Administrative services Yes No Effective date (mm/dd/yyyy): Clinical consulting services Yes No Effective date (mm/dd/yyyy): Accounting services Yes No Effective date (mm/dd/yyyy): The type(s) of services (e.g., accounting services and the type/form of the accounting services) Whether these services are furnished under contract: 12. Does the reported organization lease or sublease real property to the SNF?.................................. Yes No If yes, complete the below fields. The type of lease arrangement and the length of the lease. 13. Does the reported organization directly or indirectly own at least 5 percent of the total value of the SNF’s real property or the real property on/in which the SNF operates (e.g., 5 percent of the real property the SNF leases)?............................................................. Yes No If yes, complete the below fields. Effective date (mm/dd/yyyy) Exact percentage of ownership % Whether the ownership is of real property the SNF owns or whether it is of real property the SNF leases or subleases. ATTACHMENT 1: SKILLED NURSING FACILITY DISCLOSURES (Continued)
+* * *
+## CMS-855A: Attachment 1 (09/24)CMS-855A: Attachment 1 (09/24)
+61 Questions 14–18 ask whether the reported organization has an ownership or trustee interest in any additional disclosable party (ADP) of the SNF. Each question only applies to a particular ADP organizational type. (For instance, question 14 only applies to interests in ADPs that are corporations, question 15 only applies to interests in ADPs that are LLCs, etc.) These questions must be completed for all organizations reported in section A of this Attachment, regardless of whether the reported organization is itself an ADP. Please review the instructions to the Attachment for a definition of “Additional disclosable party.” Note that if the SNF checked “Yes” in question 9, 10, 11, 12, and/or 13 for a particular reported organization, that organization is considered an ADP. 14. ADPs that are corporations Is the reported organization a 5% or greater direct or indirect owner of any ADP of the SNF that is a corporation?................................................................................................................................................... Yes No If yes, complete the below fields. Effective date (mm/dd/yyyy) Type of ownership: Direct Indirect Exact percentage of ownership % List the corporation ADP(s) of which the organization is an owner (e.g., name of the ADP) 15. ADPs that are LLCs Does the reported organization have any direct or indirect ownership interest in—or exercises managing control of—any ADP of the SNF that is an LLC, regardless of the percentage?................. Yes No If yes, complete the below fields. Effective date (mm/dd/yyyy) Type of ownership: Direct Indirect Exact percentage of ownership % List the LLC ADP(s) of which the organization is an owner (e.g., name of the ADP) 16. ADPs that are general partnerships Does the reported organization have any general partnership/ownership interest in any ADP of the SNF that is a general partnership, regardless of the percentage?..................................................... Yes No If yes, complete the below fields. Effective date (mm/dd/yyyy) Exact percentage of partnership interest % List the general partenrship ADP(s) of which the organization is a general partner (e.g., name of the ADP) 17. ADPs that are limited partnerships Does the reported organization have any general partnership interest (regardless of the percentage) in any limited partnership ADP of the SNF or at least a 10 percent limited partnership interest in any ADP of the SNF?......................................................................................................................................................... Yes No If yes, complete the below fields. Effective date (mm/dd/yyyy) Type of partnership interest: General Limited Exact percentage of partnership interest % List the limited partnership ADP(s) of which the organization is a general or limited partner (e.g., name of the ADP) ATTACHMENT 1: SKILLED NURSING FACILITY DISCLOSURES (Continued)
+* * *
+## CMS-855A: Attachment 1 (09/24)CMS-855A: Attachment 1 (09/24)
+62 ATTACHMENT 1: SKILLED NURSING FACILITY DISCLOSURES (Continued) 18. ADPs that are trusts Is the reported organization a trustee of any ADP of the SNF?....................................................................... Yes No If yes, complete the below fields. Effective date (mm/dd/yyyy) List the ADP(s) of which the organization is a trustee (e.g., name of the ADP) 19. Owners/Trustees of ADP(s) Answer this question only if the SNF answered “Yes” to question 14, 15, 16, 17, or 18. For purposes of question
+* * *
+## _19 ONLY, the term “interest” means any of the interests (ownership, trustee, LLC managerial) listed in the_
+> “organizational structure” definition in section 1124(c)(5)(D) of the Social Security Act. (Go to the instructions
+for this definition.)
+* * *
+Does this ADP owner/trustee/LLC manager (as indicated in question 14, 15, 16, 17, or 18) have any interest in the SNF itself OR in another ADP of the SNF?................................................................ Yes No If yes, complete the below field. List the LBN of the entity (i.e., the SNF itself or another ADP of the SNF) in which this ADP owner/trustee/LLC manager has an interest
+* * *
+## CMS-855A: Attachment 1 (09/24)CMS-855A: Attachment 1 (09/24)
+63 ATTACHMENT 1: SKILLED NURSING FACILITY DISCLOSURES (Continued) E. FINAL ADVERSE LEGAL ACTION Complete this section for the organization you reported in section A. For more information on what to report, go to section 3 of this application. Include all supporting documentation described in section 3. If you are changing information, check “change” box, furnish the ef fective date, and complete the appropriate fields in this section. Change Effective date (mm/dd/yyyy): 1. Has the organization in section A, under any current or former name or business identity, ever had a final adverse action listed in section 3 of this application imposed against it? YES – continue to item 2. NO – skip to next section. 2. Report each final adverse legal action, when it occurred, and the federal or state agency or the court or administrative body that imposed the action. FINAL ADVERSE LEGAL ACTION DATE ACTION TAKEN BY To satisfy the reporting requirement, fill out this section and include all applicable attachments.
+* * *
+## CMS-855A: Attachment 1 (09/24)CMS-855A: Attachment 1 (09/24)
+64 INSTRUCTIONS FOR INDIVIDUALS Ownership interest, managing control, additional disclosable party information • Complete this section to report any individuals with direct or indirect ownership of, a partnership interest in, and/or managing control of the provider identified in Section 2B1 of this application. Visit CMS.gov/medicare/enrollment-renewal/providers-suppliers for examples of individuals to report • Report information on any adverse legal actions that have been imposed against the individual • To report more than 1 individual, copy and complete this section for each • At least one managing employee must be reported. Report these ownership control interests in this section: • Direct ownership interest • Indirect ownership interest • Mortgage or security interest • General and limited partnership interests • Report all general and limited partnership interests—regardless of the percentage. This includes all interests in a non-limited partnership, and all general and limited partnership interests in a limited partnership. • Officers and directors • If the entity is organized as a corporation. • Managing employees (for purposes of nursing facilities under section 1124(c)) • An individual, (including a general manager, business manager, administrator, director, or consultant) who directly or indirectly manages, advises, or supervises any element of the practices, finances, or operations of the facility. Report all managing employees of the SNF in this section. For purposes of this definition, this includes, but is not limited to, a hospice or skilled nursing facility administrator and a hospice or skilled nursing facility medical director. • Member of the governing body • Trusts and trustees • Additional disclosable party: • Any individual that exercises operational, financial, or managerial control over the facility, provides policies procedures for any of the operations of the facility, provides financial or cash management services to the facility; • Any individual that leases or subleases real property to the facility, or owns a whole or part interest equal to or exceeding 5 percent of the total value of such real property; or • Any individual that provides management or administrative services, management or clinical consulting services, or accounting or financial services to the facility. The organizational structure (as that term is defined in section 1124(c)(5)(D) of the Social Security Act) of each additional disclosable party must be identified in section B of the Individuals portion of this attachment. This means that the following parties must be reported: • For ADPs that are corporations: All their officers, directors, and 5% or greater direct and indirect owners. • For ADPs that are LLCs: All their direct and indirect owners (regardless of the percentage) and all their managing individuals. • For ADPs that are general partnerships: All the partners, regardless of the percentage. • For ADPs that are limited partnerships: All general partners (regardless of the percentage) and all limited partners with at least a 10 percent interest. • For ADPs that are trusts: All trustees. Along with furnishing the above data in Section B, the SNF must also submit a diagram of the organizational structure of each additional disclosable party of the facility. This must include a written description of the relationship of each such additional disclosable party to the facility and to all the SNF’s other additional disclosable parties. For examples of individuals to report, visit CMS.gov/medicare/enrollment-renewal/providers-suppliers. For more information on these interests, go to the organization instructions. The diagrams referred to in the organization instructions must include all individuals with any of the ownership interests described above. ATTACHMENT 1: SKILLED NURSING FACILITY DISCLOSURES (Continued)
+* * *
+## CMS-855A: Attachment 1 (09/24)CMS-855A: Attachment 1 (09/24)
+65 A. INDIVIDUAL IDENTIFYING INFORMATION Check this box if you have no individuals with ownership or managing control to report. Not applicable To change, add, or remove information about the individual, check the applicable box, enter the effective date, and complete the appropriate fields. Change Add Remove Effective date (mm/dd/yyyy): First name Middle initial Last name Jr., Sr., etc. Title Social Security Number (SSN) or Individual Tax Identification Number (ITIN) Date of birth (mm/dd/yyyy) Telephone number Fax number (if applicable) E-mail address (if applicable) B. RELATIONSHIP TO SNF AND/OR ADDITIONAL DISCLOSABLE PARTY (ADP) OF SNF Identify the type of interest the individual in section A has in the SNF. Questions 1–7 should only be completed if they apply to the SNF’s business structure. Furnish the additional information, including the effective date and exact percentage of ownership, if applicable. Combined percentage totals for direct owners can’t exceed 100%. 1. If the SNF is a corporation Does the reported individual have a 5% or greater direct ownership interest in the SNF?............... Yes No Effective date (mm/dd/yyyy) Exact percentage of ownership % 2. If the SNF is an LLC Does the reported individual have any direct ownership interest in the SNF regardless of the percentage?............................................................................................................................................ Yes No Effective date (mm/dd/yyyy) Exact percentage of ownership % 3. If the SNF is a general partnership Does the reported individual have any direct general partnership/ownership interest in the SNF regardless of the percentage?........................................................................................................................ Yes No Effective date (mm/dd/yyyy) Exact percentage of ownership % 4. If the SNF is a limited partnership Does the reported individual have any direct general or limited partnership/ownership interest in the SNF regardless of the percentage?................................................................................................................... Yes No Effective date (mm/dd/yyyy) Exact percentage of ownership % ATTACHMENT 1: SKILLED NURSING FACILITY DISCLOSURES (Continued)
+* * *
+## CMS-855A: Attachment 1 (09/24)CMS-855A: Attachment 1 (09/24)
+66 5. If the SNF has a business structure other than those described in 1–4 Does the reported individual have a 5% or greater direct ownership interest in the SNF?.............. Yes No Effective date (mm/dd/yyyy) Exact percentage of ownership % 6. If the SNF is a business structure other than an LLC, general partnership, or limited partnership Does the reported individual have a 5% or greater indirect ownership interest in the SNF?.......... Yes No Effective date (mm/dd/yyyy) Exact percentage of ownership % 7. If the SNF is a LLC, general partnership, or limited partnership Does the reported individual have any indirect ownership interest in the SNF regardless of the percentage?............................................................................................................................................................................... Yes No Effective date (mm/dd/yyyy) Exact percentage of ownership % 8. If the SNF is a corporation Is the reported individual an officer or director of the SNF?............................................................................. Yes No Effective date (mm/dd/yyyy) Type of position: Officer Director Title 9. If the SNF has a business structure other than that of a corporation Is the reported individual a member of the SNF’s governing body?.............................................................. Yes No Effective date (mm/dd/yyyy) Type of governing body: Title Questions 10–16 must be answered regardless of the SNF’s business structure. 10. Does the reported individual have a 5% or greater mortgage or security interest in the SNF?....................................................................................................................................................................................... Yes No Effective date (mm/dd/yyyy) Type of interest: Mortgage Security Exact percentage of mortgage/security interest % 11. Is the reported individual a trustee of the SNF?.............................................................................................. Yes No Effective date (mm/dd/yyyy) ATTACHMENT 1: SKILLED NURSING FACILITY DISCLOSURES (Continued)
+* * *
+## CMS-855A: Attachment 1 (09/24)CMS-855A: Attachment 1 (09/24)
+67 12. Does the reported individual exercise any of the following types of control, either directly or indirectly, over the SNF or any part of the SNF?............................................................................ Yes No (This includes, but is not limited to, entities that meet the definition of “managing employee” as defined in § 424.502.) If yes, complete the below fields. Operational Yes No Effective date (mm/dd/yyyy): Managerial Yes No Effective date (mm/dd/yyyy): Financial Yes No Effective date (mm/dd/yyyy): The type(s) of control (e.g., the type and form of financial control): Which part(s) of the SNF the control applies to: Whether this control is furnished as a W-2 employee, under contract, or under another arrangement Any organization listed in this attachment of which the individual is a W-2 or contracted employee: 13. Does the reported individual provide any of the following—either directly or indirectly— to the SNF or any part of the SNF?................................................................................................................................ Yes No If yes, complete the below fields. Policies or procedures for any of the SNF’s operations Yes No Effective date (mm/dd/yyyy): Financial services Yes No Effective date (mm/dd/yyyy): Cash management services Yes No Effective date (mm/dd/yyyy): Management services Yes No Effective date (mm/dd/yyyy): Administrative services Yes No Effective date (mm/dd/yyyy): Clinical consulting services Yes No Effective date (mm/dd/yyyy): Accounting services Yes No Effective date (mm/dd/yyyy): The type(s) of services (e.g., the type and form of financial control) The part(s) of the SNF to which the services are furnished: Whether these services are furnished as a W-2 employee, under contract, or under another arrangement: Any organization listed in this attachment of which the individual is a W-2 or contracted employee: 14. Does the reported individual lease or sublease real property to the SNF?........................................ Yes No If yes, clearly describe the type of lease arrangement and the length of the lease: ATTACHMENT 1: SKILLED NURSING FACILITY DISCLOSURES (Continued)
+* * *
+## CMS-855A: Attachment 1 (09/24)CMS-855A: Attachment 1 (09/24)
+68 15. Does the reported individual directly or indirectly own at least 5 percent of the total value of the SNF’s real property or the real property on/in which the SNF operates (e.g., 5 percent of the real property the SNF leases)?........................................................................................... Yes No If yes, complete the below fields. Effective date (mm/dd/yyyy) Exact percentage of ownership % Whether the ownership is of real property the SNF owns or whether it is of real property the SNF leases or subleases. 16. Check the applicable box if the reported individual is the SNF’s medical director or administrator: SNF medical director SNF administrator Questions 17–22 ask whether the reported individual has an ownership, trustee, or governing/managing interest in any ADP of the SNF. Each question only applies to a particular ADP organizational type. (For instance, question 17 only applies to interests in ADPs that are corporations, question 18 only applies to interests in ADPs that are LLCs, etc.) These questions must be completed for all individuals reported in section A of this Attachment, regardless of whether the individual himself/herself is an ADP. Note that if the SNF checked “Yes” in question 10, 11, 12, 13, 14, and/or 15 (or checked one of the boxes in question 16) for a particular reported individual, that individual is considered an ADP. 17. ADPs that are a corporation Does the reported individual have a 5 percent or greater direct or indirect ownership interest in any ADP of the SNF that is a corporation?............................................................................................................ Yes No If yes, complete the below fields. Effective date (mm/dd/yyyy) Type of ownership: Direct Indirect Exact percentage of ownership % List the corporation ADP(s) of which the individual is an owner (e.g., name of the ADP) 18. ADPs that are LLCs Does the reported individual have any direct or indirect ownership interest in any ADP of the SNF that is an LLC, regardless of the percentage?.................................................................................... Yes No If yes, complete the below fields. Effective date (mm/dd/yyyy) Type of ownership: Direct Indirect Exact percentage of ownership % List the LLC ADP(s) of which the individual is an owner (e.g., name of the ADP) 19. ADPs that are general partnerships Does the reported individual have any general partnership/ownership interest in any ADP of the SNF regardless of the percentage?................................................................................................................... Yes No If yes, complete the below fields. Effective date (mm/dd/yyyy) Exact percentage of ownership % List the ADP(s) of which the individual is a general partner (e.g., name of the ADP) ATTACHMENT 1: SKILLED NURSING FACILITY DISCLOSURES (Continued)
+* * *
+## CMS-855A: Attachment 1 (09/24)CMS-855A: Attachment 1 (09/24)
+69 ATTACHMENT 1: SKILLED NURSING FACILITY DISCLOSURES (Continued) 20. ADPs that are limited partnership s Does the reported individual have any general partnership interest (regardless of the percentage) in any limited partnership ADP of the SNF or at least a 10 percent limited partnership interest in any ADP of the SNF?...................................................................................................................................... Yes No If yes, complete the below fields. Effective date (mm/dd/yyyy) Type of partnership interest: General Limited Exact percentage of partnership interest % List the limited partnership ADP(s) of which the individual is a general or limited partner (e.g., name of the ADP) 21. ADPs that are trusts Is the reported individual a trustee of any ADP of the SNF?............................................................................. Yes No If yes, complete the below fields. Effective date (mm/dd/yyyy) List the ADP(s) of which the individual is a trustee (e.g., name of the ADP) 22. Governing/Managing/Other Individuals Is the reported individual a corporate officer, corporate director, or LLC manager of any ADP of the SNF?................................................................................................................................................................................ Yes No If yes, complete the below fields. Effective date (mm/dd/yyyy) Type of position: Corporate officer Corporate director LLC manager Title List the ADP(s) which the individual is a corporate officer, corporate director, or LLC manager. 23. Owners/Trustees of ADP(s) Answer this question only if the SNF answered “Yes” to question 17, 18, 19, 20, 21, or 22. For purposes of question 23 ONLY, the term “interest” means any of the interests (ownership, trustee, LLC managerial) listed in the “organizational structure” definition in section 1124(c)(5)(D) of the Social Security Act. (Go to the instructions for this definition.) Does this ADP owner/trustee/director, etc. (as indicated in question 17, 18, 19, 20, 21, or 22) have any interest in the SNF itself OR in another ADP of the SNF?................................................................ Yes No If yes, complete the below field. List the LBN of the entity (i.e., the SNF itself or another ADP of the SNF) in which this ADP owner/trustee/LLC manager has an interest.
+* * *
+## CMS-855A: Attachment 1 (09/24)CMS-855A: Attachment 1 (09/24)
+70 C. FINAL ADVERSE LEGAL ACTION Complete this section for the individual you reported in section A. For more information on what to report, go to section 3 of this application. Include all supporting documentation described in section 3. If you are changing information, check “change” box, furnish the effective date, and complete the appropriate fields in this section. Change Effective date (mm/dd/yyyy): 1. Has the individual in section A, under any current or former name or business identity, ever had a final adverse action listed in section 3 of this application imposed against them? YES – continue to item 2. NO 2. Report each final adverse legal action, when it occurred, and the federal or state agency or the court or administrative body that imposed the action. FINAL ADVERSE LEGAL ACTION DATE ACTION TAKEN BY To satisfy the reporting requirement, fill out this section and include all applicable attachments. ATTACHMENT 1: SKILLED NURSING FACILITY DISCLOSURES (Continued)
+* * *
+## DEPARTMENT OF HEALTH AND HUMAN SERVICES
+CENTERS FOR MEDICARE & MEDICAID SERVICES MEDICARE SUPPLIER ENROLLMENT APPLICATION PRIVACY ACT STATEMENT The Centers for Medicare & Medicaid Services (CMS) is authorized to collect the information requested on this form by sections 1124(a)(1), 1124A(a)(3), 1128, 1814, 1815, 1833(e), and 1842(r) of the Social Security Act [42 U.S.C. section 1320a-3(a)(1), 1320a-7, 1395f, 1395g, 1395(l)(e), and 1395u(r)] and section 31001(1) of the Debt Collection Improvement Act [31 U.S.C. section 7701(c)]. The purpose of collecting this information is to determine or verify the eligibility of individuals and organizations to enroll in the Medicare program as suppliers of goods and services to Medicare beneficiaries and to assist in the administration of the Medicare program. This information will also be used to ensure that no payments will be made to providers who are excluded from participation in the Medicare program. All information on this form is required, with the exception of those sections marked as “optional” on the form. Without this information, the ability to make payments will be delayed or denied. The information collected will be entered into the Provider Enrollment, Chain and Ownership System (PECOS). The information in this application will be disclosed according to the routine uses described below. Information from these systems may be disclosed under specific circumstances to: 1. CMS contractors to carry out Medicare functions, collating or analyzing data, or to detect fraud or abuse; 2. A congressional office from the record of an individual health care provider in response to an inquiry from the congressional office at the written request of that individual health care practitioner; 3. The Railroad Retirement Board to administer provisions of the Railroad Retirement or Social Security Acts; 4. Peer review organizations in connection with the review of claims, or in connection with studies or other review activities, conducted pursuant to Part B of Title XVIII of the Social Security Act; 5. To the Department of Justice or an adjudicative body when the agency, an agency employee, or the United States Government is a party to litigation and the use of the information is compatible with the purpose for which the agency collected the information; 6. To the Department of Justice for investigating and prosecuting violations of the Social Security Act, to which criminal penalties are attached; 7. To the American Medical Association (AMA), for the purpose of attempting to identify medical doctors when the National Plan and Provider System is unable to establish identity after matching contractor submitted data to the data extract provided by the AMA; 8. An individual or organization for a research, evaluation, or epidemiological project related to the prevention of disease or disability, or to the restoration or maintenance of health; 9. Other federal agencies that administer a federal health care benefit program to enumerate/enroll providers of medical services or to detect fraud or abuse; 10. State Licensing Boards for review of unethical practices or non-professional conduct; 11. States for the purpose of administration of health care programs; and/or 12. Insurance companies, self-insurers, health maintenance organizations, multiple employer trusts, and other health care groups providing health care claims processing, when a link to Medicare or Medicaid claims is established, and data are used solely to process supplier’s health care claims. The applicant should be aware that the Computer Matching and Privacy Protection Act of 1988 (P.L. 100-503) amended the Privacy Act, 5 U.S.C. section 552a, to permit the government to verify information through computer matching. Protection of proprietary information Privileged or confidential commercial or financial information collected in this form is protected from public disclosure by Federal law 5 U.S.C. section 552(b)(4) and Executive Order 12600. Protection of Confidential commercial and/or sensitive personal information If any information within this application (or attachments thereto) constitutes a trade secret or privileged or confidential information (as such terms are interpreted under the Freedom of Information Act and applicable case law), or is of a highly sensitive personal nature such that disclosure would constitute a clearly unwarranted invasion of the personal privacy of one or more persons, then such information will be protected from release by CMS under 5 U.S.C. section 552(b)(4) and/or (b)(6), respectively. CMS-855A (09/24) 71
+* * *
+
+
+
+--- EMBEDDED FILE CONTENT: https://www.pa.gov/content/dam/copapwp-pagov/en/health/documents/topics/documents/facilities-and-licensing/CMS-3427.pdf ---
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES FORM APPROVED CENTERS FOR MEDICARE & MEDICAID SERVICES OMB NO. 0938-0360 PRA Disclosure Statement According to the Paperwork Reduction Act of 1995, no persons are required to respond to a collection of information unless it displays a valid OMB control number. The va lid OMB control number for this information collection is 0938-0360 (Expires 03/31/2022). The time required to complete this inform ation collection is estimated to average 20 minutes per response, including the time to review instructions, search existing data resources, gather the data needed, and complete and review the information collection. If you have comments concerning the accuracy of the time estimate(s) or suggestions for improving this form, please write to: CMS, 7500 Security Boulevard, Attn: PRA Reports Clearanc e Officer, Mail Stop C4-26-05, Baltimore, Maryland 21244- 1850. ****CMS Disclosure****Please do not send applications, claims, payments, medical records, or any documents containing sensitive information to the PRA Reports Clearance Offic e. Please note that any correspondence not pertaining to the information collection burden approved under the associated OMB con trol number listed on this form will not be reviewed, forwarded, or retained. If you have questions or concerns regarding where to submit your documents, please contact ESRDQuestions@cms.hhs.gov. END STAGE RENAL DISEASE APPLICATION AND SURVEY AND CERTIFICATION REPORT PART I – APPLICATION – TO BE COMPLETED BY FACILITY 1. Type of Application/Notification (check all that apply; if “Other,” specify in “Remarks” section [Item33]): (V1) ☐ 1. Initial ☐2. Recertification ☐3. Relocation ☐4. Expansion/change of services ☐ 5. Change of ownership ☐6. Other, specify _______________________________ 2. Name of Dialysis Facility_ 3. CCN 4. Street Address 5. NPI 6. City 7. County 8. Fiscal Year End Date 9. State 10. Zip Code: 11. Administrator’s EmailAddress 12. Telephone No. _13. Facsimile No. 14. Medicare Enrollment (CMS 855A) completed? ☐Yes ☐No ☐NA 15. Dialysis Facility Administrator Name: Business Address: City: ________ State: ______ Zip Code: ________Telephone No: ___________________ 16. Ownership (V2) ☐1. For Profit ☐2. Not for Profit ☐3.Public 17. Is this dialysis facility independent (i.e., not owned or managed by a hospital)? (V3)☐1. Yes ☐2. No Is this dialysis facility owned and managed by a hospital and on the hospital campus (i.e., hospital- based)? (V4) ☐1. Yes ☐2. No Is this dialysis facility owned and managed by a hospital and located off the hospital campus (i.e., satellite)? (V5)☐1. Yes ☐2. No 18. Is this dialysis facility located in a SNF/NF (LTC) (check one): (V6) ☐1. Yes ☐2.No If SNF/NF owned and managed by a hospital: hospital name: (V7) CCN: (V8) If Yes, SNF/NF name: (V9) CCN: (V10) 19. Is this dialysis facility owned &/or managed by a multi-facility organization? (V11) ☐1. No ☐2. Yes, Owned ☐3. Yes, Managed If Yes, name of multi-facility organization:(V12) Multi-facility organization’saddress: 20. Current modalities/services for dialysis facilities requesting recertification only (check all that apply): (V13) ☐ 1. In-center Hemodialysis (HD) ☐2. In-center Peritoneal Dialysis (PD) ☐ 3. In-center Nocturnal HD ☐4. Home HD Training & Support ☐5. HD inLTC ☐ 6. Home PD Training & Support ☐7. PD in LTC ☐8. Dialyzer Reuse 21. New modalities/services being requested (check all that apply; must have 1 permanent patient for any modality requested): (V14) FORM CMS-3427 1
+* * *
+☐ 1. In-center HD ☐2. In-center PD ☐3. In-center Nocturnal HD ☐ 4. Home HD Training & Support ☐5. HD in LTC ☐ 6. Home PD Training & Support ☐7. PD in LTC ☐8. Dialyzer Reuse ☐9. N/A NOTE: For dialysis in more than 1 LTC facility, record this same information in the “Remarks” (item 33) section or attach list 22. Does the dialysis facility have any dialysis (PD/HD) patients physically receiving dialysis within long-term care (LTC) facilities? (V15) ☐ 1. Yes ☐2. No LTC (SNF/NF) facility name: (V16) _ CCN: (V17) Staffing for home dialysis in LTC provided by: (V18) ☐ 1. This dialysis facility ☐2. LTC staff ☐3. Other, specify: Number of dialysis residents by modality receiving dialysis within this LTC facility: (V19) ☐1. HD ☐2. PD 23. Number of dialysis patients currently on census: In-Center HD: (V20) In-Center Nocturnal HD:(V21) In-Center PD: (V22) Home PD: (V23) Home HD <= 3x/week: (V24) Home HD >3x/week: (V25) 24. Number of currently approved in-center dialysis stations:(V26) Are onsite home training room(s) provided? (V27) ☐1. Yes ☐2.N/A 25. Additional in-center stations requested: (V28) or ☐ None 26. How is isolation provided? (V29) ☐1. Room ☐2. Area (existing 2/9/2009 only) ☐3. CMS Waiver/Agreement (Attach copy) 27. If applicable, number of hemodialysis stations designated for isolation: (V30) 28. Days/times for in-center shifts or operating hours if home only (check all days that apply and complete time field in military time): (V31) 1st in-center shift starts or home only facilityopens: M T W Th F Sat Sun Last in-center shift ends or home only facility closes: M T W Th F Sat Sun 29. Dialyzer reprocessing: (V32) ☐1. Onsite ☐2. Centralized/Offsite ☐3.N/A 30. Staff (List full-timeequivalents): Registered Nurse: (V33) Certified Patient Care Technician:(V34) LPN/LVN: (V35) Technical Staff (water, machine):(V36) Registered Dietitian: (V37) Masters Social Worker: (V38) Others: (V39) 31. State license number (if applicable): (V40) 32. Certificate of Need required? (V41) ☐1. Yes ☐2. No ☐3. NA 33. Remarks (copy if more and attach additional pages if needed): FORM CMS-3427 2
+* * *
+34. The information contained in this Application Survey and Certification Report (Part I) is true and correct to the best of my knowledge. I understand that incorrect or erroneous statements may cause the request for approval to be denied, or facility approval to be rescinded, under 42 C.F.R. 494.1 and 488.604 respectively. I have reviewed this form and it is accurate: Signature of Administrator/Medical Director Title Date PART II TO BE COMPLETED BY STATE AGENCY 35. Medicare Enrollment (CMS 855A recommended for approval by the Medicare Administrative Contractor)? (V42) ☐1. Yes ☐ 2. No (Note: approved CMS 855A required prior tocertification) 36. Type of Survey: (V43) ☐ 1. Initial ☐2. Recertification ☐3. Relocation ☐ 4. Expansion/change of services ☐ 5. Change of ownership ☐ 6. Complaint ☐7. Revisit ☐8. Other, specify_ ____________________________ 37. State Region: (V44) 38. State County Code: (V45) 39. Network Number: (V46) My signature below indicates that I have reviewed this form and it is complete. 40. Surveyor Team Leader (sign) 41. Name/Number (print) 42. Professional Discipline (print) 43. Survey Exit Date FORM CMS-3427 3
+* * *
+INSTRUCTIONS FOR FORM CMS-3427 PART I – DOCUMENTATION NEEDED TO PROCESS FACILITY APPLICATION/NOTIFICATION TO BE COMPLETED BY APPLICANT A completed request for approval as a supplier of End Stage Renal Disease (ESRD) services in the Medicare program (Part I – Form CMS-3427) must include a copy of the Certificate of Need approval, if such approval is required by the state. TYPE OF APPLICATION (ITEM 1) Check appropriate category. A “change of service” refers to an addition or deletion of services, e.g. home dialysis, dialysis in LTC, dialyzer reuse, in-center nocturnal HD, in-center PD, etc.
+* * *
+> “Expansion” refers to addition of in-center stations. If you relocate one of your services to a different physical location, you may be required to obtain a separate CCN for that service at the new
+location. IDENTIFYING INFORMATION (ITEMS 2-19) Enter the name and address (actual physical location) of the dialysis facility where the services are performed. If the mailing address is different, show the mailing address in R emarks (Item 33). Check the applicable blocks (Item 17 and Item 18) to indicate the dialysis facility’s hospital and/or SNF/NF affiliation, if any. If so, enter the CCN of the hospital and/or SNF/NF. Check whether the dialysis facility is owned and/or managed by a “multi-facility” organization (Item 19) and provide the name and address of the parent organization. A “multi -facility organization” is defined as a corporation or a LLC that owns more than one dialysis facility. TYPES OF MODALITIES/SERVICES, DIALYSIS STATIONS, AND DAYS/HOURSOF OPERATION (ITEMS 20-29) Check the modalities/services that are already offered (“current modalities/services”) by a dialysis facility requesting rece rtification (Item 20). Check N/A or check each NEW modality/service for which you are requesting approval. Any new modality/service must be requested on the CMS -3427 and filed with the State agency. At the time of survey, one permanent patient must be on the dialysis facility’s census in-center or in training/trained by the facility for each modality requested (Item 21). Note that dialysis facilities providing home therapies must provide both training and support. If you are requesting to offer home training and support only (Item 21), you must have a functional plan/arrangement to provide backup dialysis as needed. If you request any home training and support program (Item 21), you must also indicate “Yes” for a training room (only count stations for in -center dialysis, not for home training) (Item 24). If you currently provide or support home dialysis within one or more LTC facilities (SNF/NF), complete Item 22 and list for all LTCs: name, CCN, staffing provided by, and number of dialysis patients treated by modality under Remarks (Item 33). Notifications of any agreement initiated between the facility and a LTC facility for providing home dialysis to residents within any LTC facility require completion of Item 22 (and 33 if applicable) and submission of this form to the State agency. You must answer Yes (Item 22) and have at least one LTC dialysis resident for addition of services for home dialysis in LTC. Enter the number of additional in-center stations for which you are asking approval ( Item 25). Provide information on isolation (Items 26-27). Dialysis facilities not existing prior to October 14, 2008 which do not have an isolation room must attach evidence of CMS waiver and written agreement with geographically proximal facility with isolation room. Provide current information on all days and start time for the first shift and end time for the last shift of in-center patients (in military time) for each day of operation. If the dialysis facility offers home training and support only, provide current operating hours for each day (Item 28). Provide information on dialyzer reprocessing (Item 29). STAFFING (ITEM 30)
+* * *
+> “Other” includes non-certified patient care technicians, administrative personnel, etc. To calculate the number of full -time equivalents of any discipline (Item 30), add the total number of hours
+that all members of that discipline work at this dialysis facility and enter that number in the numerator. Enter into the denominator the number of hours that facility policy defines as full -time work for that discipline. Report FTEs in 0.25 increments only. Example: An RD works 20 hours a week at Facility A. Facility A defines full time work as 40 hours/week. To calculate FTEs for the RD, divide 20 by 40. The RD works 0.50 FTE at Facility A. LICENSING AND CERTIFICATE OF NEED, IF APPLICABLE (Items 31- 32) If your state requires licensing for ESRD facilities, include your current license number in Item 31. If your state requires a Certificate of Need (CON) for an initial ESRD or for the change you are requesting, mark the applicable box in Item 32 and include a copy of the documentation of the CON approval. REMARKS (ITEM 33) You may use this block for explanatory statements related to Items 1 -32. The administrator/medical director signs and dates. Upon completion, forward a copy of form CMS -3427 (Part I) to the State agency. PART IITO BE COMPLETED BY STATE AGENCY The surveyor should review and verify the information in Part I with administrator or medical director and complete Part II o f this form. Recognize that CMS cannot issue a CCN for an initial survey until all required steps are complete, including recommended approval of the CMS -855A by the applicable MAC. Complete the Statement of Deficiencies (CMS Form 2567) in ASPEN. Complete the CMS -1539 in ASPEN entering recommended action(s). All required information must be entered in ASPEN and uploaded in order for the survey to be counted in the state workload. FORM CMS-3427 4
+* * *
+
+
+
+--- EMBEDDED FILE CONTENT: https://www.cms.gov/Medicare/Provider-Enrollment-and-Certification/MedicareProviderSupEnroll/downloads/contact_list.pdf ---
+
+## Medicare Fee-for-Service Provider Enrollment Contact List
+Medicare operations are managed by independent contractors known as fee-for-service contractors. The Medicare fee-for-service contractor serving your State or jurisdiction will answer your enrollment questions and process your enrollment application. An A/B MAC processes enrollment applications submitted by Part B suppliers (physicians, non-physician practitioners, and the following organizations):
+* * *
+• Ambulance Service Supplier • Ambulatory Surgical Center • Clinics & Group Practices • Independent Clinical Laboratory • Independent Diagnostic Testing Facility • Mammography Center • Portable X-ray Supplier • Radiation Therapy Center
+* * *
+Note: If your supplier type is not shown above, contact the designated carrier before you submit an enrollment application.
+* * *
+An A/B MAC processes enrollment applications submitted by the following Part A Providers/Organizations:
+* * *
+• Community Mental Health Center • Comprehensive Outpatient Rehab Facility • Critical Access Hospital • End-Stage Renal Disease Facility • Federally Qualified Health Center • Histocompatibility Laboratory • Home Health Agency (HHA) • Hospice • Hospital • Indian Health Services Facility • Organ Procurement Organization • Outpatient Physical Therapy/Occupational Therapy/Speech Pathology Services • Religious Non-Medical Health Care Institution • Rural Health Center • Skilled Nursing Facility Note: If your provider or supplier type is not shown above, contact the designated A/B MAC before you submit an enrollment application.
+* * *
+The National Provider Enrollment Durable Medical Equipment, Prosthetics, Orthotics, and Supplies (DMEPOS) East and West contractors process enrollment applications submitted by DMEPOS suppliers.
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website
+* * *
+Alabama Part A Contractor Palmetto GBA, LLC
+* * *
+877-567-7271 Provider Enrollment P.O. Box 100306, Columbia, SC 29202
+* * *
+https://www.palmettogba.com/
+* * *
+Part B Contractor Palmetto GBA, LLC
+* * *
+877-567-7271 Provider Enrollment P.O. Box 100306, Columbia, SC 29202
+* * *
+https://www.palmettogba.com/
+* * *
+Home Health and Hospice Contractor
+* * *
+Palmetto GBA, LLC
+* * *
+855-696-0705 Part A Provider Enrollment (AG-331), P.O. Box 100144, Columbia, SC 29202 3144
+* * *
+https://www.palmettogba.com/ National Provider Enrollment DMEPOS East
+* * *
+Novitas Solutions, Inc.
+* * *
+866-520-5193 NPEAST DMEPOS, PO Box 3704, Mechanicsburg, Pennsylvania 17055-1863
+* * *
+https://www.novitas-solutions.com
+* * *
+Alaska Part A Contractor Noridian Healthcare Solutions
+* * *
+877-908-8431 Provider Enrollment, P.O. Box 6720 Fargo, ND 58108-6720
+* * *
+https://med.noridianmedicare.com/
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website
+* * *
+Part B Contractor Noridian Healthcare Solutions
+* * *
+877-908-8431 Provider Enrollment, P.O. Box 6700, Fargo, ND 58108-6700
+* * *
+https://med.noridianmedicare.com/ Home Health and Hospice Contractor National Government Services, Inc.
+* * *
+855-834-5596 Provider Enrollment, P.O. 6474, Indianapolis, IN 46206-6474
+* * *
+http://www.ngsmedicare.com/ National Provider Enrollment DMEPOS West
+* * *
+Palmetto GBA, LLC
+* * *
+866-238-9652
+* * *
+P.O. Box 100142, Columbia, South Carolina 29202-3142
+* * *
+https://www.palmettogba.com/
+* * *
+American Samoa Part A Contractor Noridian Healthcare Solutions
+* * *
+855-609-9960 Provider Enrollment, PO Box 6773, Fargo, ND 58108-6773
+* * *
+https://med.noridianmedicare.com/
+* * *
+Part B Contractor Noridian Healthcare Solutions
+* * *
+855-609-9960 Provider Enrollment, PO Box 6777, Fargo, ND 58108-6777
+* * *
+https://med.noridianmedicare.com/ Home Health and Hospice Contractor National Government Services, Inc.
+* * *
+855-834-5596 Provider Enrollment, P.O. 6474, Indianapolis, IN 46206-6474
+* * *
+http://www.ngsmedicare.com/ National Provider Enrollment DMEPOS West
+* * *
+Palmetto GBA, LLC
+* * *
+866-238-9652
+* * *
+P.O. Box 100142, Columbia, South Carolina 29202-3142
+* * *
+https://www.palmettogba.com/
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website
+* * *
+Arizona Part A Contractor Noridian Healthcare Solutions
+* * *
+877-908-8431 Provider Enrollment, P.O. Box 6720, Fargo, ND 58108-6720
+* * *
+https://med.noridianmedicare.com/
+* * *
+Part B Contractor Noridian Healthcare Solutions
+* * *
+877-908-8431 Provider Enrollment, P.O. Box 6700, Fargo, ND 58108-6700
+* * *
+https://med.noridianmedicare.com/ Home Health and Hospice Contractor National Government Services, Inc.
+* * *
+855-834-5596 Provider Enrollment, P.O. 6474, Indianapolis, IN 46206-6474
+* * *
+http://www.ngsmedicare.com/ National Provider Enrollment DMEPOS West
+* * *
+Palmetto GBA, LLC
+* * *
+866-238-9652
+* * *
+P.O. Box 100142, Columbia, South Carolina 29202-3142
+* * *
+https://www.palmettogba.com/
+* * *
+Arkansas
+* * *
+Part A Contractor
+* * *
+Novitas Solutions 855-252 8782, Option 4 JH Provider Enrollment Services, P.O. Box 3095, Mechanicsburg, PA 17055-1813
+* * *
+http://www.novitas-solutions.com/
+* * *
+Part B Contractor
+* * *
+Novitas Solutions 855-252 8782, Option 4 JH Provider Enrollment Services, P.O. Box 3095, Mechanicsburg, PA 17055-1813
+* * *
+http://www.novitas-solutions.com/ Home Health and
+* * *
+Palmetto GBA
+* * *
+855-696-0705 Provider Enrollment (AG 331), P.O. Box 100144,
+* * *
+http://www.palmettogba.com/
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website Hospice Contractor Columbia, SC 29202 3144
+* * *
+National Provider Enrollment DMEPOS West
+* * *
+Palmetto GBA, LLC
+* * *
+866-238-9652
+* * *
+P.O. Box 100142, Columbia, South Carolina 29202-3142
+* * *
+https://www.palmettogba.com/
+* * *
+California Part A Contractor Noridian Healthcare Solutions
+* * *
+855-609-9960 Provider Enrollment, PO Box 6770, Fargo, ND 58108-6770
+* * *
+https://med.noridianmedicare.com/
+* * *
+Part B Contractor
+* * *
+Noridian Healthcare Solutions
+* * *
+855-609-9960 Northern California: Provider Enrollment, PO Box 6774, Fargo, ND 58108-6774 Southern California: Provider Enrollment, PO Box 6774, Fargo, ND 58108-6774
+* * *
+https://med.noridianmedicare.com/ Home Health and Hospice Contractor National Government Services, Inc.
+* * *
+855-834-5596 Provider Enrollment, P.O. 6474, Indianapolis, IN 46206-6474
+* * *
+http://www.ngsmedicare.com/ National Provider Enrollment DMEPOS West
+* * *
+Palmetto GBA, LLC
+* * *
+866-238-9652
+* * *
+P.O. Box 100142, Columbia, South Carolina 29202-3142
+* * *
+https://www.palmettogba.com/
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website
+* * *
+Colorado
+* * *
+Part A Contractor
+* * *
+Novitas Solutions 855-252 8782, Option 4 JH Provider Enrollment Services, P.O. Box 3095, Mechanicsburg, PA 17055-1813
+* * *
+http://www.novitas-solutions.com/
+* * *
+Part B Contractor
+* * *
+Novitas Solutions 855-252 8782, Option 4 JH Provider Enrollment Services, P.O. Box 3095, Mechanicsburg, PA 17055-1813
+* * *
+http://www.novitas-solutions.com/ Home Health and Hospice Contractor CGS Administrators LLC
+* * *
+877-299-4500
+* * *
+P.O. Box 20016, Nashville, TN 37202
+* * *
+http://www.cgsmedicare.com/ National Provider Enrollment DMEPOS West
+* * *
+Palmetto GBA, LLC
+* * *
+866-238-9652
+* * *
+P.O. Box 100142, Columbia, South Carolina 29202-3142
+* * *
+https://www.palmettogba.com/
+* * *
+Connecticut
+* * *
+Part A Contractor National Government Services, Inc.
+* * *
+855-593-8047 Part A Provider Enrollment, P.O. Box 7149, Indianapolis, IN 46207-7149
+* * *
+http://www.ngsmedicare.com/
+* * *
+Part B Contractor National Government Services, Inc.
+* * *
+## 379-3807
+Part B Provider
+* * *
+Enrollment, P.O. Box 7149, Indianapolis, IN 46207-7149
+* * *
+http://www.ngsmedicare.com/
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website Home Health and Hospice Contractor National Government Services, Inc.
+* * *
+855-834-5596 Part A Provider Enrollment, P.O. Box 7149, Indianapolis, IN 46207-7149
+* * *
+http://www.ngsmedicare.com/ National Provider Enrollment DMEPOS East
+* * *
+Novitas Solutions, Inc.
+* * *
+866-520-5193 NPEAST DMEPOS, PO Box 3704, Mechanicsburg, Pennsylvania 17055-1863
+* * *
+https://www.novitas-solutions.com
+* * *
+District of Columbia
+* * *
+Part A Contractor
+* * *
+Novitas Solutions, Inc. 877-235 8073, Option 4 Provider Enrollment Services, P.O. Box 3157 Mechanicsburg, PA 17055-1836
+* * *
+http://www.novitas-solutions.com/
+* * *
+Part B Contractor
+* * *
+Novitas Solutions, Inc. 877-235 8073, Option 4 Provider Enrollment Services, P.O. Box 3157 Mechanicsburg, PA 17055-1836
+* * *
+http://www.novitas-solutions.com/ Home Health and Hospice Contractor CGS Administrators LLC
+* * *
+877-299-4500
+* * *
+P.O. Box 20016, Nashville, TN 37202
+* * *
+http://www.cgsmedicare.com/ National Provider Enrollment DMEPOS East
+* * *
+Novitas Solutions, Inc.
+* * *
+866-520-5193 NPEAST DMEPOS, PO Box 3704, Mechanicsburg, Pennsylvania 17055-1863
+* * *
+https://www.novitas-solutions.com
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website
+* * *
+Delaware
+* * *
+Part A Contractor
+* * *
+Novitas Solutions, Inc. 877-235 8073, Option 4 Provider Enrollment Services, P.O. Box 3157 Mechanicsburg, PA 17055-1836
+* * *
+http://www.novitas-solutions.com/
+* * *
+Part B Contractor
+* * *
+Novitas Solutions, Inc. 877-235 8073, Option 4 Provider Enrollment Services, P.O. Box 3157 Mechanicsburg, PA 17055-1836
+* * *
+http://www.novitas-solutions.com/ Home Health and Hospice Contractor CGS Administrators LLC
+* * *
+877-299-4500
+* * *
+P.O. Box 20016, Nashville, TN 37202
+* * *
+http://www.cgsmedicare.com/ National Provider Enrollment DMEPOS East
+* * *
+Novitas Solutions, Inc.
+* * *
+866-520-5193 NPEAST DMEPOS, PO Box 3704, Mechanicsburg, Pennsylvania 17055-1863
+* * *
+https://www.novitas-solutions.com
+* * *
+Florida
+* * *
+Part A Contractor First Coast Service Options
+* * *
+888-845-8614 Provider Enrollment, P.O. Box 3409, Mechanicsburg, PA 17055-1849
+* * *
+https://medicare.fcso.com/
+* * *
+Part B Contractor First Coast Service Options
+* * *
+888-845-8614 Provider Enrollment, P.O. Box 3409, Mechanicsburg, PA 17055-1849
+* * *
+https://medicare.fcso.com/
+* * *
+Home Health and
+* * *
+Palmetto GBA
+* * *
+855-696-0705 Part A Provider Enrollment (AG-331), P.O. Box 100144,
+* * *
+http://www.palmettogba.com/
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website Hospice Contractor Columbia, SC 29202 3144
+* * *
+National Provider Enrollment DMEPOS East
+* * *
+Novitas Solutions, Inc.
+* * *
+866-520-5193 NPEAST DMEPOS, PO Box 3704, Mechanicsburg, Pennsylvania 17055-1863
+* * *
+https://www.novitas-solutions.com
+* * *
+Georgia Part A Contractor Palmetto GBA, LLC
+* * *
+877-567-7271 Provider Enrollment P.O. Box 100306, Columbia, SC 29202
+* * *
+https://www.palmettogba.com/
+* * *
+Part B Contractor Palmetto GBA, LLC
+* * *
+877-567-7271 Provider Enrollment P.O. Box 100306, Columbia, SC 29202
+* * *
+https://www.palmettogba.com/
+* * *
+Home Health and Hospice Contractor
+* * *
+Palmetto GBA
+* * *
+855-696-0705 Part A Provider Enrollment (AG-331), P.O. Box 100144, Columbia, SC 29202 3144
+* * *
+http://www.palmettogba.com/ National Provider Enrollment DMEPOS East
+* * *
+Novitas Solutions, Inc.
+* * *
+866-520-5193 NPEAST DMEPOS, PO Box 3704, Mechanicsburg, Pennsylvania 17055-1863
+* * *
+https://www.novitas-solutions.com
+* * *
+Guam Part A Contractor Noridian Healthcare Solutions
+* * *
+855-609-9960 Provider Enrollment, PO Box 6773, Fargo, ND 58108-6773
+* * *
+https://med.noridianmedicare.com/
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website
+* * *
+Part B Contractor Noridian Healthcare Solutions
+* * *
+855-609-9960 Provider Enrollment, PO Box 6777, Fargo, ND 58108-6777
+* * *
+https://med.noridianmedicare.com/ Home Health and Hospice Contractor National Government Services, Inc.
+* * *
+855-834-5596 Provider Enrollment, P.O. Box 6474, Indianapolis, IN 46206-6474
+* * *
+http://www.ngsmedicare.com/ National Provider Enrollment DMEPOS West
+* * *
+Palmetto GBA, LLC
+* * *
+866-238-9652
+* * *
+P.O. Box 100142, Columbia, South Carolina 29202-3142
+* * *
+https://www.palmettogba.com/
+* * *
+Hawaii Part A Contractor Noridian Healthcare Solutions
+* * *
+855-609-9960 Provider Enrollment, PO Box 6770, Fargo, ND 58108-6770
+* * *
+https://med.noridianmedicare.com/
+* * *
+Part B Contractor Noridian Healthcare Solutions
+* * *
+855-609-9960 Provider Enrollment, PO Box 6774, Fargo, ND 58108-6774
+* * *
+https://med.noridianmedicare.com/ Home Health and Hospice Contractor National Government Services, Inc.
+* * *
+855-834-5596 Provider Enrollment, P.O. Box 6474, Indianapolis, IN 46206-6474
+* * *
+http://www.ngsmedicare.com/ National Provider Enrollment DMEPOS West
+* * *
+Palmetto GBA, LLC
+* * *
+866-238-9652
+* * *
+P.O. Box 100142, Columbia, South Carolina 29202-3142
+* * *
+https://www.palmettogba.com/
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website
+* * *
+Idaho Part A Contractor Noridian Healthcare Solutions
+* * *
+877-908-8431 Provider Enrollment, P.O. Box 6720, Fargo, ND 58108-6720
+* * *
+https://med.noridianmedicare.com/
+* * *
+Part B Contractor Noridian Healthcare Solutions
+* * *
+877-908-8431 Provider Enrollment, P.O. Box 6700, Fargo, ND 58108-6700
+* * *
+https://med.noridianmedicare.com/ Home Health and Hospice Contractor National Government Services, Inc.
+* * *
+855-834-5596 Provider Enrollment, P.O. Box 6474, Indianapolis, IN 46206-6474
+* * *
+http://www.ngsmedicare.com/ National Provider Enrollment DMEPOS West
+* * *
+Palmetto GBA, LLC
+* * *
+866-238-9652
+* * *
+P.O. Box 100142, Columbia, South Carolina 29202-3142
+* * *
+https://www.palmettogba.com/
+* * *
+Illinois Part A Contractor National Government Services, Inc.
+* * *
+855-834-5596 Provider Enrollment, P.O. Box 6474, Indianapolis, IN 46206-6474
+* * *
+http://www.ngsmedicare.com/
+* * *
+Part B Contractor National Government Services, Inc.
+* * *
+877-908-8476 Provider Enrollment, P.O. Box 6475, Indianapolis, IN 46206-6475
+* * *
+http://www.ngsmedicare.com/
+* * *
+Home Health and Hospice Contractor
+* * *
+Palmetto GBA
+* * *
+855-696-0705 Part A Provider Enrollment (AG-331), P. O. Box 100144, Columbia, SC 29202 3144
+* * *
+http://www.palmettogba.com/
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website National Provider Enrollment DMEPOS East
+* * *
+Novitas Solutions, Inc.
+* * *
+866-520-5193 NPEAST DMEPOS, PO Box 3704, Mechanicsburg, Pennsylvania 17055-1863
+* * *
+https://www.novitas-solutions.com
+* * *
+Indiana Part A Contractor Wisconsin Physicians Service
+* * *
+866-234-7331 Provider Enrollment Part A P.O. Box 8248 Madison, WI 53708-8248
+* * *
+www.wpsgha.com
+* * *
+Part B Contractor Wisconsin Physicians Service
+* * *
+866-234-7331 Provider Enrollment, P.O. Box 8248, Madison, Wisconsin 53708-8248
+* * *
+www.wpsgha.com
+* * *
+Home Health and Hospice Contractor
+* * *
+Palmetto GBA
+* * *
+855-696-0705 Part A Provider Enrollment (AG-331), P.O. Box 100144, Columbia, SC 29202 3144
+* * *
+http://www.palmettogba.com/ National Provider Enrollment DMEPOS East
+* * *
+Novitas Solutions, Inc.
+* * *
+866-520-5193 NPEAST DMEPOS, PO Box 3704, Mechanicsburg, Pennsylvania 17055-1863
+* * *
+https://www.novitas-solutions.com
+* * *
+Iowa Part A Contractor Wisconsin Physicians Service
+* * *
+866-518-3285 Provider Enrollment Part A P.O. Box 8248 Madison, WI 53708-8248
+* * *
+www.wpsgha.com
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website
+* * *
+Part B Contractor Wisconsin Physicians Service
+* * *
+866-518-3285 Provider Enrollment, P.O.Box 8248, Madison, WI 53708-8248
+* * *
+www.wpsgha.com Home Health and Hospice Contractor CGS Administrators LLC
+* * *
+877-299-4500
+* * *
+P.O. Box 20016, Nashville, TN 37202
+* * *
+http://www.cgsmedicare.com/ National Provider Enrollment DMEPOS West
+* * *
+Palmetto GBA, LLC
+* * *
+866-238-9652
+* * *
+P.O. Box 100142, Columbia, South Carolina 29202-3142
+* * *
+https://www.palmettogba.com/
+* * *
+Kansas Part A Contractor Wisconsin Physicians Service
+* * *
+866-518-3285 Provider Enrollment Part A P.O. Box 8248 Madison, WI 53708-8248
+* * *
+www.wpsgha.com
+* * *
+Part B Contractor Wisconsin Physicians Service
+* * *
+866-518-3285 Provider Enrollment, P.O.Box 8248, Madison, WI 53708-8248
+* * *
+www.wpsgha.com Home Health and Hospice Contractor CGS Administrators LLC
+* * *
+877-299-4500
+* * *
+P.O. Box 20016, Nashville, TN 37202
+* * *
+http://www.cgsmedicare.com/ National Provider Enrollment DMEPOS West
+* * *
+Palmetto GBA, LLC
+* * *
+866-238-9652
+* * *
+P.O. Box 100142, Columbia, South Carolina 29202-3142
+* * *
+https://www.palmettogba.com/
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website
+* * *
+Kentucky Part A Contractor CGS Administrators LLC
+* * *
+866-590-6703 P.O. Box 20004, Nashville, TN 37202
+* * *
+http://www.cgsmedicare.com/
+* * *
+Part B Contractor
+* * *
+CGS Administrators LLC
+* * *
+866-276 9558 J15Part B Provider Enrollment CGS Administrators, LLC PO Box 20017 Nashville, TN 37202
+* * *
+http://www.cgsmedicare.com/
+* * *
+Home Health and Hospice Contractor
+* * *
+Palmetto GBA
+* * *
+855-696-0705 Part A Provider Enrollment (AG-331), P.O. Box 100144, Columbia, SC 29202 3144
+* * *
+http://www.palmettogba.com/ National Provider Enrollment DMEPOS East
+* * *
+Novitas Solutions, Inc.
+* * *
+866-520-5193 NPEAST DMEPOS, PO Box 3704, Mechanicsburg, Pennsylvania 17055-1863
+* * *
+https://www.novitas-solutions.com
+* * *
+Louisiana
+* * *
+Part A Contractor
+* * *
+Novitas Solutions 855-252 8782, Option 4 JH Provider Enrollment Services, P.O. Box 3095, Mechanicsburg, PA 17055-1813
+* * *
+http://www.novitas-solutions.com/
+* * *
+Part B Contractor
+* * *
+Novitas Solutions 855-252 8782, Option 4 JH Provider Enrollment Services, P.O. Box 3095, Mechanicsburg, PA 17055-1813
+* * *
+http://www.novitas-solutions.com/
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website
+* * *
+Home Health and Hospice Contractor
+* * *
+Palmetto GBA
+* * *
+855-696-0705 Part A Provider Enrollment (AG-331), P.O. Box 100144, Columbia, SC 29202 3144
+* * *
+http://www.palmettogba.com/ National Provider Enrollment DMEPOS West
+* * *
+Palmetto GBA, LLC
+* * *
+866-238-9652
+* * *
+P.O. Box 100142, Columbia, South Carolina 29202-3142
+* * *
+https://www.palmettogba.com/
+* * *
+Maine
+* * *
+Part A Contractor National Government Services, Inc.
+* * *
+855-593-8047 Part A Provider Enrollment, P.O. Box 7149, Indianapolis, IN 46207-7149
+* * *
+http://www.ngsmedicare.com/
+* * *
+Part B Contractor National Government Services, Inc.
+* * *
+888-379-3807 Part B Provider Enrollment, P.O. Box 7149, Indianapolis, IN 46207-7149
+* * *
+http://www.ngsmedicare.com/ Home Health and Hospice Contractor National Government Services, Inc.
+* * *
+855-834-5596 Part A Provider Enrollment, P.O. Box 7149, Indianapolis, IN 46207-7149
+* * *
+http://www.ngsmedicare.com/ National Provider Enrollment DMEPOS East
+* * *
+Novitas Solutions, Inc.
+* * *
+866-520-5193 NPEAST DMEPOS, PO Box 3704, Mechanicsburg, Pennsylvania 17055-1863
+* * *
+https://www.novitas-solutions.com
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website
+* * *
+Maryland
+* * *
+Part A Contractor
+* * *
+Novitas Solutions, Inc. 877-235 8073, Option 4 Provider Enrollment Services, P.O. Box 3157 Mechanicsburg, PA 17055-1836
+* * *
+http://www.novitas-solutions.com/
+* * *
+Part B Contractor
+* * *
+Novitas Solutions, Inc. 877-235 8073, Option 4 Provider Enrollment Services, P.O. Box 3157 Mechanicsburg, PA 17055-1836
+* * *
+http://www.novitas-solutions.com/ Home Health and Hospice Contractor CGS Administrators LLC
+* * *
+877-299-4500
+* * *
+P.O. Box 20016, Nashville, TN 37202
+* * *
+http://www.cgsmedicare.com/ National Provider Enrollment DMEPOS East
+* * *
+Novitas Solutions, Inc.
+* * *
+866-520-5193 NPEAST DMEPOS, PO Box 3704, Mechanicsburg, Pennsylvania 17055-1863
+* * *
+https://www.novitas-solutions.com
+* * *
+Massachusetts
+* * *
+Part A Contractor National Government Services, Inc.
+* * *
+855-834-5596 Part A Provider Enrollment, P.O. Box 7149, Indianapolis, IN 46207-7149
+* * *
+http://www.ngsmedicare.com/
+* * *
+Part B Contractor National Government Services, Inc.
+* * *
+888-379-3807 Part B Provider Enrollment, P.O. Box 7149, Indianapolis, IN 46207-7149
+* * *
+http://www.ngsmedicare.com/
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website Home Health and Hospice Contractor National Government Services, Inc.
+* * *
+855-834-5596 Part A Provider Enrollment, P.O. Box 7149, Indianapolis, IN 46207-7149
+* * *
+http://www.ngsmedicare.com/ National Provider Enrollment DMEPOS East
+* * *
+Novitas Solutions, Inc.
+* * *
+866-520-5193 NPEAST DMEPOS, PO Box 3704, Mechanicsburg, Pennsylvania 17055 1863
+* * *
+https://www.novitas-solutions.com
+* * *
+Michigan Part A Contractor Wisconsin Physicians Service
+* * *
+866-234-7331 Provider Enrollment Part A P.O. Box 8248 Madison, WI 53708-8248
+* * *
+www.wpsgha.com
+* * *
+Part B Contractor Wisconsin Physicians Service
+* * *
+866-234-7331 Provider Enrollment, P.O. Box 8248, Madison, Wisconsin 53708-8248
+* * *
+www.wpsgha.com Home Health and Hospice Contractor National Government Services, Inc.
+* * *
+855-834-5596 Provider Enrollment, P.O. Box 6474, Indianapolis, IN 46205-6474
+* * *
+http://www.ngsmedicare.com/ National Provider Enrollment DMEPOS East
+* * *
+Novitas Solutions, Inc.
+* * *
+866-520-5193 NPEAST DMEPOS, PO Box 3704, Mechanicsburg, Pennsylvania 17055-1863
+* * *
+https://www.novitas-solutions.com
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website
+* * *
+Minnesota Part A Contractor National Government Services, Inc.
+* * *
+855-834-5596 Provider Enrollment, P.O. Box 6474, Indianapolis, IN 46206-6474
+* * *
+http://www.ngsmedicare.com/
+* * *
+Part B Contractor National Government Services, Inc.
+* * *
+877-908-8476 Provider Enrollment, P.O. Box 6475, Indianapolis, IN 46206-6475
+* * *
+http://www.ngsmedicare.com/ Home Health and Hospice Contractor National Government Services, Inc.
+* * *
+855-834-5596 Provider Enrollment, P.O. Box 6474, Indianapolis, IN 46206-6474
+* * *
+http://www.ngsmedicare.com/ National Provider Enrollment DMEPOS West
+* * *
+Palmetto GBA, LLC
+* * *
+866-238-9652
+* * *
+P.O. Box 100142, Columbia, South Carolina 29202-3142
+* * *
+https://www.palmettogba.com/
+* * *
+Mississippi
+* * *
+Part A Contractor
+* * *
+Novitas Solutions 855-252 8782, Option 4 JH Provider Enrollment Services, P.O. Box 3095, Mechanicsburg, PA 17055-1813
+* * *
+http://www.novitas-solutions.com/
+* * *
+Part B Contractor
+* * *
+Novitas Solutions 855-252 8782, Option 4 JH Provider Enrollment Services, P.O. Box 3095, Mechanicsburg, PA 17055-1813
+* * *
+http://www.novitas-solutions.com/
+* * *
+Home Health and Hospice Contractor
+* * *
+Palmetto GBA
+* * *
+855-696-0705 Part A Provider Enrollment (AG-331), P.O. Box 100144, Columbia, SC 29202 3144
+* * *
+http://www.palmettogba.com/
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website National Provider Enrollment DMEPOS East
+* * *
+Novitas Solutions, Inc.
+* * *
+866-520-5193 NPEAST DMEPOS, PO Box 3704, Mechanicsburg, Pennsylvania 17055-1863
+* * *
+https://www.novitas-solutions.com
+* * *
+Missouri Part A Contractor Wisconsin Physicians Service
+* * *
+866-518-3285 Provider Enrollment Part A P.O. Box 8248 Madison, WI 53708-8248
+* * *
+www.wpsgha.com
+* * *
+Part B Contractor Wisconsin Physicians Service
+* * *
+866-518-3285 Provider Enrollment, P.O.Box 8248, Madison, WI 53708-8248
+* * *
+www.wpsgha.com Home Health and Hospice Contractor CGS Administrators LLC
+* * *
+877-299-4500
+* * *
+P.O. Box 20016, Nashville, TN 37202
+* * *
+http://www.cgsmedicare.com/ National Provider Enrollment DMEPOS West
+* * *
+Palmetto GBA, LLC
+* * *
+866-238-9652
+* * *
+P.O. Box 100142, Columbia, South Carolina 29202-3142
+* * *
+https://www.palmettogba.com/
+* * *
+Montana Part A Contractor Noridian Healthcare Solutions
+* * *
+877-908-8431 Provider Enrollment, P.O. Box 6720, Fargo, ND 58108-6720
+* * *
+https://med.noridianmedicare.com/
+* * *
+Part B Contractor Noridian Healthcare Solutions
+* * *
+877-908-8431 Provider Enrollment, P.O. Box 6700, Fargo, ND 58108-6700
+* * *
+https://med.noridianmedicare.com/
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website Home Health and Hospice Contractor CGS Administrators LLC
+* * *
+877-299-4500
+* * *
+P.O. Box 20016, Nashville, TN 37202
+* * *
+http://www.cgsmedicare.com/ National Provider Enrollment DMEPOS West
+* * *
+Palmetto GBA, LLC
+* * *
+866-238-9652
+* * *
+P.O. Box 100142, Columbia, South Carolina 29202-3142
+* * *
+https://www.palmettogba.com/
+* * *
+Nebraska Part A Contractor Wisconsin Physicians Service
+* * *
+866-518-3285 Provider Enrollment Part A P.O. Box 8248 Madison, WI 53708-8248
+* * *
+www.wpsgha.com
+* * *
+Part B Contractor Wisconsin Physicians Service
+* * *
+866-518-3285 Provider Enrollment, P.O.Box 8248, Madison, WI 53708-8248
+* * *
+www.wpsgha.com Home Health and Hospice Contractor CGS Administrators LLC
+* * *
+877-299-4500
+* * *
+P.O. Box 20016, Nashville, TN 37202
+* * *
+http://www.cgsmedicare.com/ National Provider Enrollment DMEPOS West
+* * *
+Palmetto GBA, LLC
+* * *
+866-238-9652
+* * *
+P.O. Box 100142, Columbia, South Carolina 29202-3142
+* * *
+https://www.palmettogba.com/
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website
+* * *
+Nevada Part A Contractor Noridian Healthcare Solutions
+* * *
+855-609-9960 Provider Enrollment, PO Box 6770, Fargo ND, 58108-6770
+* * *
+https://med.noridianmedicare.com/
+* * *
+Part B Contractor Noridian Healthcare Solutions
+* * *
+855-609-9960 Provider Enrollment, PO Box 6774, Fargo ND, 58108-6774
+* * *
+https://med.noridianmedicare.com/ Home Health and Hospice Contractor National Government Services, Inc.
+* * *
+855-834-5596 Provider Enrollment, P.O. 6474, Indianapolis, IN 46206-6474
+* * *
+http://www.ngsmedicare.com/ National Provider Enrollment DMEPOS West
+* * *
+Palmetto GBA, LLC
+* * *
+866-238-9652
+* * *
+P.O. Box 100142, Columbia, South Carolina 29202-3142
+* * *
+https://www.palmettogba.com/
+* * *
+New Hampshire
+* * *
+Part A Contractor National Government Services, Inc.
+* * *
+855-593-8047 Part A Provider Enrollment, P.O. Box 7149, Indianapolis, IN 46207-7149
+* * *
+http://www.ngsmedicare.com/
+* * *
+Part B Contractor National Government Services, Inc.
+* * *
+888-379-3807 Part B Provider Enrollment, P.O. Box 7149, Indianapolis, IN 46207-7149
+* * *
+http://www.ngsmedicare.com/ Home Health and Hospice Contractor National Government Services, Inc.
+* * *
+855-834-5596 Part A Provider Enrollment, P.O. Box 7149, Indianapolis, IN 46207-7149
+* * *
+http://www.ngsmedicare.com/
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website National Provider Enrollment DMEPOS East
+* * *
+Novitas Solutions, Inc.
+* * *
+866-520-5193 NPEAST DMEPOS, PO Box 3704, Mechanicsburg, Pennsylvania 17055-1863
+* * *
+https://www.novitas-solutions.com
+* * *
+New Jersey
+* * *
+Part A Contractor
+* * *
+Novitas Solutions, Inc. 877-235 8073, Option 4 Provider Enrollment Services, P.O. Box 3157 Mechanicsburg, PA 17055-1836
+* * *
+http://www.novitas-solutions.com/
+* * *
+Part B Contractor
+* * *
+Novitas Solutions, Inc. 877-235 8073, Option 4 Provider Enrollment Services, P.O. Box 3157 Mechanicsburg, PA 17055-1836
+* * *
+http://www.novitas-solutions.com/ Home Health and Hospice Contractor National Government Services, Inc.
+* * *
+855-834-5596 Provider Enrollment, P.O. Box 6474, Indianapolis, IN 46206-6474
+* * *
+http://www.ngsmedicare.com/ National Provider Enrollment DMEPOS East
+* * *
+Novitas Solutions, Inc.
+* * *
+866-520-5193 NPEAST DMEPOS, PO Box 3704, Mechanicsburg, Pennsylvania 17055-1863
+* * *
+https://www.novitas-solutions.com
+* * *
+New Mexico
+* * *
+Part A Contractor
+* * *
+Novitas Solutions 855-252 8782, Option 4 JH Provider Enrollment Services, P.O. Box 3095, Mechanicsburg, PA 17055-1813
+* * *
+http://www.novitas-solutions.com/
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website
+* * *
+Part B Contractor
+* * *
+Novitas Solutions 855-252 8782, Option 4 JH Provider Enrollment Services, P.O. Box 3095, Mechanicsburg, PA 17055-1813
+* * *
+http://www.novitas-solutions.com/
+* * *
+Home Health and Hospice Contractor
+* * *
+Palmetto GBA
+* * *
+855-696-0705 Part A Provider Enrollment (AG-331), P.O. Box 100144, Columbia, SC 29202 3144
+* * *
+http://www.palmettogba.com/ National Provider Enrollment DMEPOS West
+* * *
+Palmetto GBA, LLC
+* * *
+866-238-9652
+* * *
+P.O. Box 100142, Columbia, South Carolina 29202-3142
+* * *
+https://www.palmettogba.com/
+* * *
+New York
+* * *
+Part B Contractor National Government Services, Inc.
+* * *
+888-379-3807 Part B Provider Enrollment, P.O. Box 7149, Indianapolis, IN 46207-7149
+* * *
+http://www.ngsmedicare.com/
+* * *
+Part A Contractor National Government Services, Inc.
+* * *
+855-593-8047 Part A Provider Enrollment, P.O. Box 7149, Indianapolis, IN 46207-7149
+* * *
+http://www.ngsmedicare.com/ Home Health and Hospice Contractor National Government Services, Inc.
+* * *
+855-834-5596 Provider Enrollment, P.O. Box 6474, Indianapolis, IN 46206-6474
+* * *
+http://www.ngsmedicare.com/ National Provider Novitas Solutions, Inc.
+* * *
+866-520-5193 NPEAST DMEPOS, PO Box 3704,
+* * *
+https://www.novitas-solutions.com
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website Enrollment DMEPOS East Mechanicsburg, Pennsylvania 17055-1863
+* * *
+North Carolina
+* * *
+Part A Contractor
+* * *
+Palmetto GBA
+* * *
+855-696-0705 Part A Provider Enrollment, 2300 Springdale Drive, Building One Camden, SC 29020
+* * *
+http://www.palmettogba.com/
+* * *
+Part B Contractor
+* * *
+Palmetto GBA
+* * *
+855-696-0705 Part B Provider Enrollment (AG-310) P.O.Box 100190 Columbia, SC 29202 3190
+* * *
+http://www.palmettogba.com
+* * *
+Home Health and Hospice Contractor
+* * *
+Palmetto GBA
+* * *
+855-696-0705 Part A Provider Enrollment (AG-331), P.O. Box 100144, Columbia, SC 29202 3144
+* * *
+http://www.palmettogba.com/ National Provider Enrollment DMEPOS East
+* * *
+Novitas Solutions, Inc.
+* * *
+866-520-5193 NPEAST DMEPOS, PO Box 3704, Mechanicsburg, Pennsylvania 17055-1863
+* * *
+https://www.novitas-solutions.com
+* * *
+North Dakota Part A Contractor Noridian Healthcare Solutions
+* * *
+877-908-8431 Provider Enrollment, P.O. Box 6720, Fargo, ND 58108-6720
+* * *
+https://med.noridianmedicare.com/
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website
+* * *
+Part B Contractor Noridian Healthcare Solutions
+* * *
+877-908-8431 Provider Enrollment, P.O. Box 6700, Fargo, ND 58108-6700
+* * *
+https://med.noridianmedicare.com/ Home Health and Hospice Contractor CGS Administrators LLC
+* * *
+877-299-4500
+* * *
+P.O. Box 20016, Nashville, TN 37202
+* * *
+http://www.cgsmedicare.com/ National Provider Enrollment DMEPOS West
+* * *
+Palmetto GBA, LLC
+* * *
+866-238-9652
+* * *
+P.O. Box 100142, Columbia, South Carolina 29202-3142
+* * *
+https://www.palmettogba.com/
+* * *
+Northern Part A Contractor Noridian Healthcare Solutions
+* * *
+855-609-9960 Provider Enrollment, PO Box 6773, Fargo, ND 58108-6773
+* * *
+https://med.noridianmedicare.com/
+* * *
+Mariana Part B Contractor Noridian Healthcare Solutions
+* * *
+855-609-9960 Provider Enrollment, PO Box 6777, Fargo, ND 58108-6777
+* * *
+https://med.noridianmedicare.com/
+* * *
+Islands Home Health and Hospice Contractor National Government Services, Inc.
+* * *
+855-834-5596 Provider Enrollment, P.O. Box 6474, Indianapolis, IN 46206-6474
+* * *
+http://www.ngsmedicare.com/ National Provider Enrollment DMEPOS West
+* * *
+Palmetto GBA, LLC
+* * *
+866-238-9652
+* * *
+P.O. Box 100142, Columbia, South Carolina 29202-3142
+* * *
+https://www.palmettogba.com/
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website
+* * *
+Ohio Part A Contractor CGS Administrators LLC
+* * *
+866-590-6703 P.O. Box 20004, Nashville, TN 37202
+* * *
+http://www.cgsmedicare.com/
+* * *
+Part B Contractor
+* * *
+CGS Administrators LLC
+* * *
+866-276 9558 J15Part B Provider Enrollment CGS Administrators, LLC PO Box 20017 Nashville, TN 37202
+* * *
+Http://www.cgsmedicare.com
+* * *
+Home Health and Hospice Contractor
+* * *
+Palmetto GBA
+* * *
+855-696-0705 Part A Provider Enrollment (AG-331), P.O. Box 100144, Columbia, SC 29202 3144
+* * *
+http://www.palmettogba.com/ National Provider Enrollment DMEPOS East
+* * *
+Novitas Solutions, Inc.
+* * *
+866-520-5193 NPEAST DMEPOS, PO Box 3704, Mechanicsburg, Pennsylvania 17055-1863
+* * *
+https://www.novitas-solutions.com
+* * *
+Oklahoma
+* * *
+Part A Contractor
+* * *
+Novitas Solutions 855-252 8782, Option 4 JH Provider Enrollment Services, P.O. Box 3095, Mechanicsburg, PA 17055-1813
+* * *
+http://www.novitas-solutions.com/
+* * *
+Part B Contractor
+* * *
+Novitas Solutions 855-252 8782, Option 4 JH Provider Enrollment Services, P.O. Box 3095, Mechanicsburg, PA 17055-1813
+* * *
+http://www.novitas-solutions.com/
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website
+* * *
+Home Health and Hospice Contractor
+* * *
+Palmetto GBA
+* * *
+855-696-0705 Part A Provider Enrollment (AG-331), P.O. Box 100144, Columbia, SC 29202 3144
+* * *
+http://www.palmettogba.com/ National Provider Enrollment DMEPOS West
+* * *
+Palmetto GBA, LLC
+* * *
+866-238-9652
+* * *
+P.O. Box 100142, Columbia, South Carolina 29202-3142
+* * *
+https://www.palmettogba.com/
+* * *
+Oregon Part A Contractor Noridian Healthcare Solutions
+* * *
+877-908-8431 Provider Enrollment, P.O. Box 6720, Fargo, ND 58108-6720
+* * *
+https://med.noridianmedicare.com/
+* * *
+Part B Contractor Noridian Healthcare Solutions
+* * *
+877-908-8431 Provider Enrollment, P.O. Box 6700, Fargo, ND 58108-6700
+* * *
+https://med.noridianmedicare.com/ Home Health and Hospice Contractor National Government Services, Inc.
+* * *
+855-834-5596 Provider Enrollment, P.O. Box 6474, Indianapolis, IN 46206-6474
+* * *
+http://www.ngsmedicare.com/ National Provider Enrollment DMEPOS West
+* * *
+Palmetto GBA, LLC
+* * *
+866-238-9652
+* * *
+P.O. Box 100142, Columbia, South Carolina 29202-3142
+* * *
+https://www.palmettogba.com/
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website
+* * *
+Pennsylvania
+* * *
+Part A Contractor
+* * *
+Novitas Solutions, Inc. 877-235 8073, Option 4 Provider Enrollment Services, P.O. Box 3157 Mechanicsburg, PA 17055-1836
+* * *
+http://www.novitas-solutions.com/
+* * *
+Part B Contractor
+* * *
+Novitas Solutions, Inc. 877-235 8073, Option 4 Provider Enrollment Services, P.O. Box 3157 Mechanicsburg, PA 17055-1836
+* * *
+http://www.novitas-solutions.com/ Home Health and Hospice Contractor CGS Administrators LLC
+* * *
+877-299-4500
+* * *
+P.O. Box 20016, Nashville, TN 37202
+* * *
+http://www.cgsmedicare.com/ National Provider Enrollment DMEPOS East
+* * *
+Novitas Solutions, Inc.
+* * *
+866-520-5193 NPEAST DMEPOS, PO Box 3704, Mechanicsburg, Pennsylvania 17055-1863
+* * *
+https://www.novitas-solutions.com
+* * *
+Puerto Rico
+* * *
+Part A Contractor First Coast Service Options
+* * *
+888-845-8614 Provider Enrollment, P.O. Box 3409, Mechanicsburg, PA 17055-1849
+* * *
+https://medicare.fcso.com/
+* * *
+Part B Contractor First Coast Service Options
+* * *
+888-845-8614 Provider Enrollment, P.O. Box 3409, Mechanicsburg, PA 17055-1849
+* * *
+https://medicare.fcso.com/
+* * *
+Home Health and National Government Services, Inc.
+* * *
+855-834-5596 Provider Enrollment, P.O. Box 6474, Indianapolis, IN 46206-6474
+* * *
+http://www.ngsmedicare.com/
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website Hospice Contractor
+* * *
+National Provider Enrollment DMEPOS East
+* * *
+Novitas Solutions, Inc.
+* * *
+866-520-5193 NPEAST DMEPOS, PO Box 3704, Mechanicsburg, Pennsylvania 17055-1863
+* * *
+https://www.novitas-solutions.com
+* * *
+Rhode Island
+* * *
+Part A Contractor National Government Services, Inc.
+* * *
+855-593-8047 Part A Provider Enrollment, P.O. Box 7149, Indianapolis, IN 46207-7149
+* * *
+http://www.ngsmedicare.com/
+* * *
+Part B Contractor National Government Services, Inc.
+* * *
+888-379-3807 Part B Provider Enrollment, P.O. Box 7149, Indianapolis, IN 46207-7149
+* * *
+http://www.ngsmedicare.com/ Home Health and Hospice Contractor National Government Services, Inc.
+* * *
+855-834-5596 Part A Provider Enrollment, P.O. Box 7149, Indianapolis, IN 46207-7149
+* * *
+http://www.ngsmedicare.com/ National Provider Enrollment DMEPOS East
+* * *
+Novitas Solutions, Inc.
+* * *
+866-520-5193 NPEAST DMEPOS, PO Box 3704, Mechanicsburg, Pennsylvania 17055-1863
+* * *
+https://www.novitas-solutions.com
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website
+* * *
+South Carolina
+* * *
+Part A Contractor
+* * *
+Palmetto GBA
+* * *
+855-696-0705 Part A Provider Enrollment (AG-331), P.O. Box 100144, Columbia, SC 29202 3144
+* * *
+http://www.palmettogba.com/
+* * *
+Part B Contractor
+* * *
+Palmetto GBA
+* * *
+855-696-0705 Part B Provider Enrollment (AG-310), P.O. Box 100190, Columbia, SC 29202 3190
+* * *
+http://www.palmettogba.com/
+* * *
+Home Health and Hospice Contractor
+* * *
+Palmetto GBA
+* * *
+855-696-0705 Part A Provider Enrollment (AG-331), P.O. Box 100144, Columbia, SC 29202 3144
+* * *
+http://www.palmettogba.com/ National Provider Enrollment DMEPOS East
+* * *
+Novitas Solutions, Inc.
+* * *
+866-520-5193 NPEAST DMEPOS, PO Box 3704, Mechanicsburg, Pennsylvania 17055-1863
+* * *
+https://www.novitas-solutions.com
+* * *
+South Dakota Part A Contractor Noridian Healthcare Solutions
+* * *
+877-908-8431 Provider Enrollment, P.O. Box 6720, Fargo, ND 58108-6720
+* * *
+https://med.noridianmedicare.com/
+* * *
+Part B Contractor Noridian Healthcare Solutions
+* * *
+877-908-8431 Provider Enrollment, P.O. Box 6700, Fargo, ND 58108-6700
+* * *
+https://med.noridianmedicare.com/
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website Home Health and Hospice Contractor CGS Administrators LLC
+* * *
+877-299-4500
+* * *
+P.O. Box 20016, Nashville, TN 37202
+* * *
+http://www.cgsmedicare.com/ National Provider Enrollment DMEPOS West
+* * *
+Palmetto GBA, LLC
+* * *
+866-238-9652
+* * *
+P.O. Box 100142, Columbia, South Carolina 29202-3142
+* * *
+https://www.palmettogba.com/
+* * *
+Tennessee Part A Contractor Palmetto GBA, LLC
+* * *
+877-567-7271 Provider Enrollment P.O. Box 100306, Columbia, SC 29202
+* * *
+https://www.palmettogba.com/
+* * *
+Part B Contractor Palmetto GBA, LLC
+* * *
+877-567-7271 Provider Enrollment P.O. Box 100306, Columbia, SC 29202
+* * *
+https://www.palmettogba.com/
+* * *
+Home Health and Hospice Contractor
+* * *
+Palmetto GBA
+* * *
+855-696-0705 Part A Provider Enrollment (AG-331), P.O. Box 100144, Columbia, SC 29202 3144
+* * *
+http://www.palmettogba.com/ National Provider Enrollment DMEPOS East
+* * *
+Novitas Solutions, Inc.
+* * *
+866-520-5193 NPEAST DMEPOS, PO Box 3704, Mechanicsburg, Pennsylvania 17055-1863
+* * *
+https://www.novitas-solutions.com
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website
+* * *
+Texas
+* * *
+Part A Contractor
+* * *
+Novitas Solutions 855-252 8782, Option 4 JH Provider Enrollment Services, P.O. Box 3095, Mechanicsburg, PA 17055-1813
+* * *
+http://www.novitas-solutions.com/
+* * *
+Part B Contractor
+* * *
+Novitas Solutions 855-252 8782, Option 4 JH Provider Enrollment Services, P.O. Box 3095, Mechanicsburg, PA 17055-1813
+* * *
+http://www.novitas-solutions.com/
+* * *
+Home Health and Hospice Contractor
+* * *
+Palmetto GBA
+* * *
+855-696-0705 Part A Provider Enrollment (AG-331), P.O. Box 100144, Columbia, SC 29202 3144
+* * *
+http://www.palmettogba.com/ National Provider Enrollment DMEPOS West
+* * *
+Palmetto GBA, LLC
+* * *
+866-238-9652
+* * *
+P.O. Box 100142, Columbia, South Carolina 29202-3142
+* * *
+https://www.palmettogba.com/
+* * *
+U.S. Virgin Islands
+* * *
+Part A Contractor First Coast Service Options
+* * *
+888-845-8614 Provider Enrollment, P.O. Box 3409, Mechanicsburg, PA 17055-1849
+* * *
+https://medicare.fcso.com/
+* * *
+Part B Contractor First Coast Service Options
+* * *
+888-845-8614 Provider Enrollment, P.O. Box 3409, Mechanicsburg, PA 17055-1849
+* * *
+https://medicare.fcso.com/
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website Home Health and Hospice Contractor National Government Services, Inc.
+* * *
+855-834-5596 Provider Enrollment, P.O. Box 6474, Indianapolis, IN 46206-6474
+* * *
+http://www.ngsmedicare.com/ National Provider Enrollment DMEPOS East
+* * *
+Novitas Solutions, Inc.
+* * *
+866-520-5193 NPEAST DMEPOS, PO Box 3704, Mechanicsburg, Pennsylvania 17055-1863
+* * *
+https://www.novitas-solutions.com
+* * *
+Utah Part A Contractor Noridian Healthcare Solutions
+* * *
+877-908-8431 Provider Enrollment, P.O. Box 6720, Fargo, ND 58108-6720
+* * *
+https://med.noridianmedicare.com/
+* * *
+Part B Contractor Noridian Healthcare Solutions
+* * *
+877-908-8431 Provider Enrollment, P.O. Box 6700, Fargo, ND 58108-6700
+* * *
+https://med.noridianmedicare.com/ Home Health and Hospice Contractor CGS Administrators LLC
+* * *
+877-299-4500
+* * *
+P.O. Box 20016, Nashville, TN 37202
+* * *
+http://www.cgsmedicare.com/ National Provider Enrollment DMEPOS West
+* * *
+Palmetto GBA, LLC
+* * *
+866-238-9652
+* * *
+P.O. Box 100142, Columbia, South Carolina 29202-3142
+* * *
+https://www.palmettogba.com/
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website
+* * *
+Vermont
+* * *
+Part A Contractor National Government Services, Inc.
+* * *
+855-593-8047 Part A Provider Enrollment, P.O. Box 7149, Indianapolis, IN 46207-7149
+* * *
+http://www.ngsmedicare.com/
+* * *
+Part B Contractor National Government Services, Inc.
+* * *
+888-379-3807 Part B Provider Enrollment, P.O. Box 7149, Indianapolis, IN 46207-7149
+* * *
+http://www.ngsmedicare.com/ Home Health and Hospice Contractor National Government Services, Inc.
+* * *
+855-834-5596 Part A Provider Enrollment, P.O. Box 7149, Indianapolis, IN 46207-7149
+* * *
+http://www.ngsmedicare.com/ National Provider Enrollment DMEPOS East
+* * *
+Novitas Solutions, Inc.
+* * *
+866-520-5193 NPEAST DMEPOS, PO Box 3704, Mechanicsburg, Pennsylvania 17055-1863
+* * *
+https://www.novitas-solutions.com
+* * *
+Virginia
+* * *
+Part A Contractor
+* * *
+Palmetto GBA
+* * *
+855-696-0705 Part A Provider Enrollment (AG-331) P.O.Box 100144 Columbia, SC 29202 3144
+* * *
+http://www.palmettogba.com
+* * *
+Part B Contractor
+* * *
+Palmetto GBA
+* * *
+855-696-0705 Part B Provider Enrollment (AG-310) P.O.Box 100190 Columbia, SC 29202 3190
+* * *
+http://www.palmettogba.com
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website Virginia (counties of Arlington and Fairfax and City of Alexandria)
+* * *
+Part B Contractor
+* * *
+Novitas Solutions, Inc. 877-235 8073, Option 4 Provider Enrollment Services, PO Box 3157, Mechanicsburg, PA 17055-1836
+* * *
+http://www.novitas-solutions.com/ Home Health and Hospice Contractor CGS Administrators LLC
+* * *
+877-299-4500
+* * *
+P.O. Box 20016, Nashville, TN 37202
+* * *
+http://www.cgsmedicare.com/ National Provider Enrollment DMEPOS East
+* * *
+Novitas Solutions, Inc.
+* * *
+866-520-5193 NPEAST DMEPOS, PO Box 3704, Mechanicsburg, Pennsylvania 17055-1863
+* * *
+https://www.novitas-solutions.com
+* * *
+Washington Part A Contractor Noridian Healthcare Solutions
+* * *
+877-908-8431 Provider Enrollment, P.O. Box 6720, Fargo, ND 58108-6720
+* * *
+https://med.noridianmedicare.com/
+* * *
+Part B Contractor Noridian Healthcare Solutions
+* * *
+877-908-8431 Provider Enrollment, P.O. Box 6700, Fargo, ND 58108-6700
+* * *
+https://med.noridianmedicare.com/ Home Health and Hospice Contractor National Government Services, Inc.
+* * *
+855-834-5596 Provider Enrollment, P.O. Box 6474, Indianapolis, IN 46206-6474
+* * *
+http://www.ngsmedicare.com/ National Provider Enrollment DMEPOS West
+* * *
+Palmetto GBA, LLC
+* * *
+866-238-9652
+* * *
+P.O. Box 100142, Columbia, South Carolina 29202-3142
+* * *
+https://www.palmettogba.com/
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website
+* * *
+West Virginia
+* * *
+Part A Contractor
+* * *
+Palmetto GBA
+* * *
+855-696-0705 Part A Provider Enrollment (AG-331) P.O.Box 100144 Columbia, SC 29202 3144
+* * *
+http://www.palmettogba.com
+* * *
+Part B Contractor
+* * *
+Palmetto GBA
+* * *
+855-696-0705 Part B Provider Enrollment (AG-310) P.O.Box 100190 Columbia, SC 29202 3190
+* * *
+http://www.palmettogba.com/ Home Health and Hospice Contractor CGS Administrators LLC
+* * *
+877-299-4500
+* * *
+P.O. Box 20016, Nashville, TN 37202
+* * *
+http://www.cgsmedicare.com/ National Provider Enrollment DMEPOS East
+* * *
+Novitas Solutions, Inc.
+* * *
+866-520-5193 NPEAST DMEPOS, PO Box 3704, Mechanicsburg, Pennsylvania 17055-1863
+* * *
+https://www.novitas-solutions.com
+* * *
+Wisconsin Part A Contractor National Government Services, Inc.
+* * *
+855-834-5596 Provider Enrollment, P.O. Box 6474, Indianapolis, IN 46206-6474
+* * *
+http://www.ngsmedicare.com/
+* * *
+Part B Contractor National Government Services, Inc.
+* * *
+877-908-8476 Provider Enrollment, P.O. Box 6475, Indianapolis, IN 46206-6475
+* * *
+http://www.ngsmedicare.com/
+* * *
+State
+* * *
+Contractor Medicare Administrative Contractor Contact Number
+* * *
+Mailing Address
+* * *
+Website Home Health and Hospice Contractor National Government Services, Inc.
+* * *
+855-834-5596 Provider Enrollment, P.O. Box 6474, Indianapolis, IN 46206-6474
+* * *
+http://www.ngsmedicare.com/ National Provider Enrollment DMEPOS East
+* * *
+Novitas Solutions, Inc.
+* * *
+866-520-5193 NPEAST DMEPOS, PO Box 3704, Mechanicsburg, Pennsylvania 17055-1863
+* * *
+https://www.novitas-solutions.com
+* * *
+Wyoming Part A Contractor Noridian Healthcare Solutions
+* * *
+877-908-8431 Provider Enrollment, P.O. Box 6720, Fargo, ND 58108-6720
+* * *
+https://med.noridianmedicare.com/
+* * *
+Part B Contractor Noridian Healthcare Solutions
+* * *
+877-908-8431 Provider Enrollment, P.O. Box 6700, Fargo, ND 58108-6700
+* * *
+https://med.noridianmedicare.com/ Home Health and Hospice Contractor CGS Administrators LLC
+* * *
+877-299-4500
+* * *
+PO Box 20016, Nashville, TN 37202
+* * *
+http://www.cgsmedicare.com/ National Provider Enrollment DMEPOS West
+* * *
+Palmetto GBA, LLC
+* * *
+866-238-9652
+* * *
+P.O. Box 100142, Columbia, South Carolina 29202-3142
+* * *
+https://www.palmettogba.com/
+* * *
+

@@ -1,0 +1,398 @@
+--- SOURCE: https://www.pa.gov/agencies/dmv/driver-services/real-id ---
+
+[ Skip to agency navigation ](https://www.pa.gov/agencies/dmv/driver-services/real-id#agencynav)
+[ Skip to main content ](https://www.pa.gov/agencies/dmv/driver-services/real-id#content)
+![Commonwealth of Pennsylvania ; Home](https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/bannerimage.png)
+Official website
+Official website
+of the Commonwealth of Pennsylvania
+[ ![Commonwealth of Pennsylvania | Home](https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/CoPA%20Logo%20-%20Horizontal%20Lockup%201.svg) ](https://www.pa.gov/)
+Translate
+  * [Arabic](https://www.pa.gov/agencies/dmv/driver-services/real-id)
+  * [Bengali](https://www.pa.gov/agencies/dmv/driver-services/real-id)
+  * [Chinese (Simplified)](https://www.pa.gov/agencies/dmv/driver-services/real-id)
+  * [Chinese (Traditional)](https://www.pa.gov/agencies/dmv/driver-services/real-id)
+  * [English](https://www.pa.gov/agencies/dmv/driver-services/real-id)
+  * [French](https://www.pa.gov/agencies/dmv/driver-services/real-id)
+  * [German](https://www.pa.gov/agencies/dmv/driver-services/real-id)
+  * [Gujarati](https://www.pa.gov/agencies/dmv/driver-services/real-id)
+  * [Haitian Creole](https://www.pa.gov/agencies/dmv/driver-services/real-id)
+  * [Italian](https://www.pa.gov/agencies/dmv/driver-services/real-id)
+  * [Khmer](https://www.pa.gov/agencies/dmv/driver-services/real-id)
+  * [Korean](https://www.pa.gov/agencies/dmv/driver-services/real-id)
+  * [Nepali](https://www.pa.gov/agencies/dmv/driver-services/real-id)
+  * [Polish](https://www.pa.gov/agencies/dmv/driver-services/real-id)
+  * [Portuguese (Brazil)](https://www.pa.gov/agencies/dmv/driver-services/real-id)
+  * [Russian](https://www.pa.gov/agencies/dmv/driver-services/real-id)
+  * [Spanish](https://www.pa.gov/agencies/dmv/driver-services/real-id)
+  * [Vietnamese](https://www.pa.gov/agencies/dmv/driver-services/real-id)
+
+
+Select Language Arabic Bengali Chinese (Simplified) Chinese (Traditional) English French German Gujarati Haitian Creole Italian Khmer Korean Nepali Polish Portuguese (Brazil) Russian Spanish Vietnamese
+Powered by [![Google Translate](https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png)Translate](https://translate.google.com)
+  * [ Services ](https://www.pa.gov/services)
+  * [ Agency Directory ](https://www.pa.gov/agencies)
+  * Your Government
+    * [The Governor ](https://www.pa.gov/governor)
+    * [Lt. Governor ](https://www.pa.gov/ltgovernor)
+    * [Legislation (opens in a new tab)](https://www.palegis.us/)
+    * [Courts (opens in a new tab)](https://www.pacourts.us/)
+    * [State House (opens in a new tab)](https://www.palegis.us/house)
+    * [State Senate (opens in a new tab)](https://www.palegis.us/senate)
+    * [Attorney General (opens in a new tab)](https://www.attorneygeneral.gov/)
+    * [Auditor General (opens in a new tab)](https://www.paauditor.gov/)
+    * [Treasurer (opens in a new tab)](https://www.patreasury.gov/)
+  * [ Visit PA (opens in a new tab)](https://visitpa.com/)
+  * [ News (opens in a new tab)](https://pacast.com/)
+
+
+## The .gov means it's official. 
+Local, state, and federal government websites often end in .gov. Commonwealth of Pennsylvania government websites and email systems use "pennsylvania.gov" or "pa.gov" at the end of the address. Before sharing sensitive or personal information, make sure you're on an official state website. 
+##  [Driver & Vehicle Services](https://www.pa.gov/agencies/dmv)
+  * [Search ](https://www.pa.gov/agencies/dmv/dmv-search)
+  * [Driver Services ](https://www.pa.gov/agencies/dmv/driver-services)
+    * [Licenses & Photo IDs ](https://www.pa.gov/agencies/dmv/driver-services/licenses-and-photo-ids)
+      * [License Types & Restrictions ](https://www.pa.gov/agencies/dmv/driver-services/licenses-and-photo-ids/license-types-restrictions)
+      * [New Driver License Design ](https://www.pa.gov/agencies/dmv/driver-services/licenses-and-photo-ids/new-driver-license-design)
+      * [Interim Product Information ](https://www.pa.gov/agencies/dmv/driver-services/licenses-and-photo-ids/interim-product-information)
+      * [Probationary License ](https://www.pa.gov/agencies/dmv/driver-services/licenses-and-photo-ids/probationary-license)
+      * [Gender Designation Options ](https://www.pa.gov/agencies/dmv/driver-services/licenses-and-photo-ids/gender-designation-options)
+      * [Dual Control Permit ](https://www.pa.gov/agencies/dmv/driver-services/licenses-and-photo-ids/dual-control-permit)
+    * [Teen Drivers ](https://www.pa.gov/agencies/dmv/driver-services/teen-drivers)
+    * [Commercial Drivers ](https://www.pa.gov/agencies/dmv/driver-services/commercial-drivers)
+      * [CDL Skills Test ](https://www.pa.gov/agencies/dmv/driver-services/commercial-drivers/cdl-skills-test)
+      * [Entry Level Driver Training (ELDT) ](https://www.pa.gov/agencies/dmv/driver-services/commercial-drivers/entry-level-driver-training)
+      * [Drug and Alcohol Clearinghouse (DACH) ](https://www.pa.gov/agencies/dmv/driver-services/commercial-drivers/drug-and-alcohol-clearinghouse)
+      * [Modernized Commercial Driver License (CDL) Skills Testing ](https://www.pa.gov/agencies/dmv/driver-services/commercial-drivers/modernized-commercial-driver-license-skills-testing)
+      * [Pennsylvania Commercial Driver's Manual ](https://www.pa.gov/agencies/dmv/driver-services/commercial-drivers/pennsylvania-commercial-driver-license-manual)
+    * [Mature Drivers ](https://www.pa.gov/agencies/dmv/driver-services/mature-drivers)
+      * [Mature Driver Improvement Course ](https://www.pa.gov/agencies/dmv/driver-services/mature-drivers/mature-driver-improvement-course)
+    * [Motorcyclists ](https://www.pa.gov/agencies/dmv/driver-services/motorcyclists)
+      * [Motorcycle Safety ](https://www.pa.gov/agencies/dmv/driver-services/motorcyclists/motorcycle-safety)
+      * [Pennsylvania Motorcycle Safety Program ](https://www.pa.gov/agencies/dmv/driver-services/motorcyclists/pennsylvania-motorcycle-safety-program)
+      * [Riding Gear ](https://www.pa.gov/agencies/dmv/driver-services/motorcyclists/riding-gear)
+      * [Motorcycle Safety Video Project ](https://www.pa.gov/agencies/dmv/driver-services/motorcyclists/motorcycle-safety-video-project)
+      * [Motorcycle Training Under 18 ](https://www.pa.gov/agencies/dmv/driver-services/motorcyclists/motorcycle-training-under-18)
+      * [Get the PA Motorcycle License Practice Test ](https://www.pa.gov/agencies/dmv/driver-services/motorcyclists/get-the-pa-motorcycle-license-practice-test)
+    * [License Suspensions ](https://www.pa.gov/agencies/dmv/driver-services/license-suspensions)
+      * [Driver Improvement School ](https://www.pa.gov/agencies/dmv/driver-services/license-suspensions/driver-improvement-school)
+      * [Ignition Interlock Limited License ](https://www.pa.gov/agencies/dmv/driver-services/license-suspensions/ignition-interlock-limited-license)
+    * [School Bus Drivers & School Bus Safety ](https://www.pa.gov/agencies/dmv/driver-services/school-bus-drivers)
+      * [School Bus Safety ](https://www.pa.gov/agencies/dmv/driver-services/school-bus-drivers/school-bus-safety)
+      * [School Bus Instructors ](https://www.pa.gov/agencies/dmv/driver-services/school-bus-drivers/school-bus-instructors)
+      * [National School Bus Safety Week ](https://www.pa.gov/agencies/dmv/driver-services/school-bus-drivers/national-school-bus-safety-week)
+      * [Operation Safe Stop ](https://www.pa.gov/agencies/dmv/driver-services/school-bus-drivers/operation-safe-stop)
+    * [REAL ID ](https://www.pa.gov/agencies/dmv/driver-services/real-id)
+      * [REAL ID Images ](https://www.pa.gov/agencies/dmv/driver-services/real-id/real-id-images)
+      * [Document Requirements ](https://www.pa.gov/agencies/dmv/driver-services/real-id/real-id-document-check)
+      * [Name Changes ](https://www.pa.gov/agencies/dmv/driver-services/real-id/name-changes-real-id)
+      * [Is REAL ID For Me? ](https://www.pa.gov/agencies/dmv/driver-services/real-id/is-real-id-for-me)
+      * [REAL ID Info for CDL Holders ](https://www.pa.gov/agencies/dmv/driver-services/real-id/real-id-info-for-cdl-holders)
+      * [REAL ID Info for Non-U.S. Citizens ](https://www.pa.gov/agencies/dmv/driver-services/real-id/real-id-info-for-non-us-citizens)
+      * [REAL ID Brochures ](https://www.pa.gov/agencies/dmv/driver-services/real-id/real-id-brochures)
+    * [Proof of Identity & Residency ](https://www.pa.gov/agencies/dmv/driver-services/proof-of-identity-and-residency)
+      * [Customers Who Do Not Have a Social Security Card ](https://www.pa.gov/agencies/dmv/driver-services/proof-of-identity-and-residency/customers-who-do-not-have-a-social-security-card)
+      * [Documentation for CDL Drivers ](https://www.pa.gov/agencies/dmv/driver-services/proof-of-identity-and-residency/documentation-for-cdl-drivers)
+    * [Driving with Bioptics ](https://www.pa.gov/agencies/dmv/driver-services/driving-with-bioptics)
+    * [Pennsylvania Driver's Manual ](https://www.pa.gov/agencies/dmv/driver-services/pennsylvania-drivers-manual)
+      * [Test Your Knowledge ](https://www.pa.gov/agencies/dmv/driver-services/pennsylvania-drivers-manual/test-your-knowledge)
+      * [PA Driver's Manual - Audio Version ](https://www.pa.gov/agencies/dmv/driver-services/pennsylvania-drivers-manual/pa-drivers-manual-audio)
+      * [Online Driver's Manual ](https://www.pa.gov/agencies/dmv/driver-services/pennsylvania-drivers-manual/online-drivers-manual)
+  * [Vehicle Services ](https://www.pa.gov/agencies/dmv/vehicle-services)
+    * [Title and Registration ](https://www.pa.gov/agencies/dmv/vehicle-services/title-and-registration)
+      * [ATV & Boat & Snowmobile ](https://www.pa.gov/agencies/dmv/vehicle-services/title-and-registration/atv-boat-snowmobile)
+      * [Buying or Selling a Vehicle ](https://www.pa.gov/agencies/dmv/vehicle-services/title-and-registration/buying-or-selling-a-vehicle)
+      * [Registration Stickers ](https://www.pa.gov/agencies/dmv/vehicle-services/title-and-registration/registration-stickers)
+      * [NMVTIS ](https://www.pa.gov/agencies/dmv/vehicle-services/title-and-registration/nmvtis)
+      * [Donating a Vehicle ](https://www.pa.gov/agencies/dmv/vehicle-services/title-and-registration/donating-a-vehicle)
+      * [Electronic Lien and Title Program ](https://www.pa.gov/agencies/dmv/vehicle-services/title-and-registration/electronic-lien-and-title-program)
+      * [Apportioned Registration Program ](https://www.pa.gov/agencies/dmv/vehicle-services/title-and-registration/apportioned-registration-program)
+      * [Renew Registration ](https://www.pa.gov/agencies/dmv/vehicle-services/title-and-registration/renew-registration)
+    * [Farm Vehicles ](https://www.pa.gov/agencies/dmv/vehicle-services/farm-vehicles)
+      * [Size and Weight Limitations ](https://www.pa.gov/agencies/dmv/vehicle-services/farm-vehicles/size-and-weight-limitations)
+      * [Farm Vehicles Titling Registration and Exemption ](https://www.pa.gov/agencies/dmv/vehicle-services/farm-vehicles/farm-titling-registration-and-exemption)
+      * [Farm Vehicle Inspection and Safety Requirements ](https://www.pa.gov/agencies/dmv/vehicle-services/farm-vehicles/farm-vehicle-inspection-and-safety-requirements)
+    * [Inspection and Safety Requirements ](https://www.pa.gov/agencies/dmv/vehicle-services/inspection-and-safety-requirements)
+      * [Station Owner and Mechanic ](https://www.pa.gov/agencies/dmv/vehicle-services/inspection-and-safety-requirements/station-owner-and-mechanic)
+      * [Safety Inspection Bulletins ](https://www.pa.gov/agencies/dmv/vehicle-services/inspection-and-safety-requirements/safety-inspection-bulletins)
+      * [Enhanced Vehicle Safety Inspections ](https://www.pa.gov/agencies/dmv/vehicle-services/inspection-and-safety-requirements/enhanced-vehicle-safety-inspections)
+      * [Suspended Inspection Stations/Inspectors ](https://www.pa.gov/agencies/dmv/vehicle-services/inspection-and-safety-requirements/suspended-inspection-stations-inspectors)
+      * [Safety Inspection Program ](https://www.pa.gov/agencies/dmv/vehicle-services/inspection-and-safety-requirements/safety-inspection-program)
+      * [Emission Inspections Program ](https://www.pa.gov/agencies/dmv/vehicle-services/inspection-and-safety-requirements/emission-inspections-program)
+      * [Safety Inspection Schools and Instructors ](https://www.pa.gov/agencies/dmv/vehicle-services/inspection-and-safety-requirements/inspection-schools-and-instructors)
+      * [Inspection Advisory Board ](https://www.pa.gov/agencies/dmv/vehicle-services/inspection-and-safety-requirements/inspection-advisory-board)
+      * [Specially Constructed/Reconstructed/Modified Vehicle Inspections ](https://www.pa.gov/agencies/dmv/vehicle-services/inspection-and-safety-requirements/specially-constructed-reconstructed-modified-vehicle-inspection)
+      * [Vehicle Inspection Division Training Bulletins ](https://www.pa.gov/agencies/dmv/vehicle-services/inspection-and-safety-requirements/vehicle-inspection-division-training-bulletins)
+    * [Insurance Overview ](https://www.pa.gov/agencies/dmv/vehicle-services/insurance-overview)
+      * [Penalties for Cancelling ](https://www.pa.gov/agencies/dmv/vehicle-services/insurance-overview/penalties-for-cancelling)
+      * [Types of Insurance Letters from PennDOT ](https://www.pa.gov/agencies/dmv/vehicle-services/insurance-overview/types-of-insurance-letters-from-penndot)
+    * [Registration Suspensions ](https://www.pa.gov/agencies/dmv/vehicle-services/registration-suspensions)
+      * [Suspensions Due to Unpaid Tolls ](https://www.pa.gov/agencies/dmv/vehicle-services/registration-suspensions/suspensions-due-to-unpaid-tolls)
+      * [Suspensions Due to Unpaid Parking Tickets ](https://www.pa.gov/agencies/dmv/vehicle-services/registration-suspensions/suspensions-due-to-unpaid-parking-tickets)
+    * [License Plates ](https://www.pa.gov/agencies/dmv/vehicle-services/registration-plates)
+      * [Standard Issue License Plate ](https://www.pa.gov/agencies/dmv/vehicle-services/registration-plates/standard-issue-registration-plate)
+      * [Personalized Registration Plates ](https://www.pa.gov/agencies/dmv/vehicle-services/registration-plates/personalized-registration-plates)
+    * [Road User Charge ](https://www.pa.gov/agencies/dmv/vehicle-services/road-user-charge)
+  * [Find a Location ](https://www.pa.gov/agencies/dmv/find-a-location)
+    * [Third Party Testers ](https://www.pa.gov/agencies/dmv/find-a-location/third-party-testers)
+    * [Motorcycle Training Locations ](https://www.pa.gov/agencies/dmv/find-a-location/pamsp-training-locations)
+    * [REAL ID Center Locations ](https://www.pa.gov/agencies/dmv/find-a-location/real-id-center-locations)
+  * [Contact Us ](https://www.pa.gov/agencies/dmv/contact-us)
+    * [Take a Survey ](https://www.pa.gov/agencies/dmv/contact-us/take-a-survey)
+  * [Forms and Publications ](https://www.pa.gov/agencies/dmv/forms-publications)
+    * [Language Assistance ](https://www.pa.gov/agencies/dmv/forms-publications/language-assistance)
+  * [Frequently Asked Questions ](https://www.pa.gov/agencies/dmv/faqs)
+    * [Driver, Licensing, and Photo ID Frequently Asked Questions ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs)
+      * [Address Requirements FAQs ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/address-requirements-faqs)
+      * [Change of Address FAQs ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/change-of-address-faqs)
+      * [Commercial Driver License (CDL) Learner’s Permit FAQs ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/cdl-learners-permit-faqs)
+      * [Commercial Driver’s License FAQs ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/commercial-drivers-license-faqs)
+      * [Dead Beat Parent Law FAQs ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/dead-beat-parent-law-faqs)
+      * [Disqualifications and Traffic Offenses FAQs ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/disqualifications-and-traffic-offenses-faqs)
+      * [Driver and Licensing Miscellaneous FAQs ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/driver-and-licensing-miscellaneous-faqs)
+      * [Driver History Request FAQs ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/driver-history-faqs)
+      * [Driver License Compact FAQs ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/driver-license-compact-faqs)
+      * [Driver Licenses, Learner's Permits, and ID Cards FAQs ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/dl-lp-id-faqs)
+      * [Driver’s Test Scheduling FAQs ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/drivers-test-scheduling-faqs)
+      * [​Drug and Alcohol Clearinghouse (DACH) FAQs ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/drug-and-alcohol-clearinghouse-faqs)
+      * [Entry Level Driver Training FAQs ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/entry-level-driver-training-faqs)
+      * [Hazardous Materials Endorsement FAQs ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/hazardous-materials-endorsement-faqs)
+      * [Ignition Interlock FAQs ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/ignition-interlock-faqs)
+      * [Medical Reporting FAQs ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/medical-reporting-faqs)
+      * [Motorcycle Permit Process FAQs ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/motorcycle-permit-faqs)
+      * [National Registry Driver Examination Forms FAQs ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/national-registry-forms-faqs)
+      * [Newly Designed Driver Licenses/Identification Cards FAQs ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/newly-designed-faqs)
+      * [Motorcycle Helmet FAQs ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/pa-motorcycle-helmet-faqs)
+      * [Probationary License FAQs ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/probationary-license-faqs)
+      * [Problem Driver Pointer System FAQs ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/pdps-faqs)
+      * [Occupational Limited License FAQs ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/oll-faqs)
+      * [REAL ID FAQs ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/real-id-faqs)
+      * [REAL ID Pre-Verification FAQs ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/real-id-pre-verification-faqs)
+      * [School Transportation FAQs ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/school-transportation-faqs)
+      * [Self-Certification/Medical Examiner’s Certification FAQs ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/medical-examiners-faqs)
+      * [Social Security Number FAQs ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/social-security-number-faqs)
+      * [Temporary Driver’s License FAQs ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/temporary-drivers-license-faqs)
+      * [USA Patriot Act FAQs ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/usa-patriot-act-faqs)
+      * [Veteran Designation FAQs ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/veteran-designation-faqs)
+      * [PA Motorcycle Safety Program Frequently Asked Questions ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/pamsp-faqs)
+      * [Motor Carrier Safety Improvement Act (MCSIA) FAQs ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/mcsia-faqs)
+      * [Where to Find Your Driver's License/Photo ID Number ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/find-your-drivers-license-photo-id-number)
+      * [​Common REAL ID Online Opt-In Errors ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/common-real-id-online-opt-in-errors)
+    * [Motor Vehicle Frequently Asked Questions ](https://www.pa.gov/agencies/dmv/faqs/motor-vehicle-faqs)
+      * [Apportioned Registration FAQs ](https://www.pa.gov/agencies/dmv/faqs/motor-vehicle-faqs/apportioned-registration-faqs)
+      * [Autocycles FAQs ](https://www.pa.gov/agencies/dmv/faqs/motor-vehicle-faqs/autocycles-faqs)
+      * [Central Registration Plate Reissuance FAQs ](https://www.pa.gov/agencies/dmv/faqs/motor-vehicle-faqs/central-registration-plate-reissuance-faqs)
+      * [Duplicate Motor Vehicle Products FAQs ](https://www.pa.gov/agencies/dmv/faqs/motor-vehicle-faqs/duplicate-motor-vehicle-products-faqs)
+      * [Elimination of Registration Stickers FAQs ](https://www.pa.gov/agencies/dmv/faqs/motor-vehicle-faqs/elimination-of-registration-stickers-faqs)
+      * [Elimination of Semiannual Inspections for Heavy Trucks FAQs ](https://www.pa.gov/agencies/dmv/faqs/motor-vehicle-faqs/elimination-of-semiannual-inspections-for-heavy-trucks-faqs)
+      * [Elimination of Truck Weight Class Stickers FAQs ](https://www.pa.gov/agencies/dmv/faqs/motor-vehicle-faqs/elimination-of-truck-weight-class-stickers-faqs)
+      * [Financial Responsibility (Insurance) FAQs ](https://www.pa.gov/agencies/dmv/faqs/motor-vehicle-faqs/financial-responsibility-faqs)
+      * [Fleet Registration FAQs ](https://www.pa.gov/agencies/dmv/faqs/motor-vehicle-faqs/fleet-registration-faqs)
+      * [Import-Export FAQs ](https://www.pa.gov/agencies/dmv/faqs/motor-vehicle-faqs/import-export-faqs)
+      * [Insurance Law FAQs ](https://www.pa.gov/agencies/dmv/faqs/motor-vehicle-faqs/insurance-law-faqs)
+      * [Insurance Verification Responsibilities of an Issuing Agent FAQs ](https://www.pa.gov/agencies/dmv/faqs/motor-vehicle-faqs/insurance-verification-responsibilities-of-an-issuing-agent-faqs)
+      * [Mandatory Electronic Lien and Titling Program FAQs ](https://www.pa.gov/agencies/dmv/faqs/motor-vehicle-faqs/mandatory-electronic-lien-and-titling-faqs)
+      * [Mini Trucks FAQs ](https://www.pa.gov/agencies/dmv/faqs/motor-vehicle-faqs/mini-trucks-faqs)
+      * [Motor Vehicle Miscellaneous FAQs ](https://www.pa.gov/agencies/dmv/faqs/motor-vehicle-faqs/motor-vehicle-miscellaneous-faqs)
+      * [NMVTIS FAQs ](https://www.pa.gov/agencies/dmv/faqs/motor-vehicle-faqs/nmvtis-faqs)
+      * [Placard FAQs ](https://www.pa.gov/agencies/dmv/faqs/motor-vehicle-faqs/placard-faqs)
+      * [Registration Plate FAQs ](https://www.pa.gov/agencies/dmv/faqs/motor-vehicle-faqs/registration-plate-faqs)
+      * [Registration Plate Reissuance FAQs ](https://www.pa.gov/agencies/dmv/faqs/motor-vehicle-faqs/registration-plate-reissuance-faqs)
+      * [Restoring Vehicle Registration after Serving a Suspension Due to a Lapse in Insurance FAQs ](https://www.pa.gov/agencies/dmv/faqs/motor-vehicle-faqs/rrail-faqs)
+      * [Safety Inspection Program (For Businesses) FAQs ](https://www.pa.gov/agencies/dmv/faqs/motor-vehicle-faqs/safety-inspection-program-business-faqs)
+      * [Safety Inspection Program (For Consumers) FAQs ](https://www.pa.gov/agencies/dmv/faqs/motor-vehicle-faqs/safety-inspection-consumers-faqs)
+      * [Safety Inspector Recertification Exam Process FAQs ](https://www.pa.gov/agencies/dmv/faqs/motor-vehicle-faqs/safety-inspector-recertification-faqs)
+      * [Titling and Registration FAQs ](https://www.pa.gov/agencies/dmv/faqs/motor-vehicle-faqs/titling-and-registration-faqs)
+      * [Vehicle Emissions Inspections FAQs ](https://www.pa.gov/agencies/dmv/faqs/motor-vehicle-faqs/vehicle-emissions-inspections-faqs)
+      * [Locate Your Title, VIN, and Plate Information ](https://www.pa.gov/agencies/dmv/faqs/motor-vehicle-faqs/locate-your-title-vin-and-plate-information)
+    * [Miscellaneous Frequently Asked Questions ](https://www.pa.gov/agencies/dmv/faqs/miscellaneous-faqs)
+      * [Description of Services Offered ](https://www.pa.gov/agencies/dmv/faqs/miscellaneous-faqs/services-offered)
+      * [Locations and Contact FAQs ](https://www.pa.gov/agencies/dmv/faqs/miscellaneous-faqs/locations-faqs)
+      * [Public Records FAQs ](https://www.pa.gov/agencies/dmv/faqs/miscellaneous-faqs/public-records-faqs)
+      * [Online Transactions and Payments FAQs ](https://www.pa.gov/agencies/dmv/faqs/miscellaneous-faqs/online-transactions-faqs)
+      * [Donation FAQs ](https://www.pa.gov/agencies/dmv/faqs/miscellaneous-faqs/donations-faqs)
+      * [Military FAQs ](https://www.pa.gov/agencies/dmv/faqs/miscellaneous-faqs/military-faqs)
+      * [United States Postal Service Guidelines ](https://www.pa.gov/agencies/dmv/faqs/miscellaneous-faqs/united-states-postal-service-guidelines)
+  * [Online Driver and Vehicle Services ](https://www.pa.gov/agencies/dmv/online-services-dvs)
+    * [License and Vehicle Restoration Services ](https://www.pa.gov/agencies/dmv/online-services-dvs/license-and-vehicle-restoration-services)
+  * [Resources ](https://www.pa.gov/agencies/dmv/resources)
+    * [Payments and Fees ](https://www.pa.gov/agencies/dmv/resources/payments-and-fees)
+    * [Relocation ](https://www.pa.gov/agencies/dmv/resources/relocation)
+      * [Moving Within PA ](https://www.pa.gov/agencies/dmv/resources/relocation/moving-within-pa)
+      * [Moving to Pennsylvania ](https://www.pa.gov/agencies/dmv/resources/relocation/moving-to-pennsylvania)
+      * [Moving Out of Pennsylvania ](https://www.pa.gov/agencies/dmv/resources/relocation/moving-out-of-pennsylvania)
+      * [Motor Vehicle Information for New Residents ](https://www.pa.gov/agencies/dmv/resources/relocation/motor-vehicle-information-for-new-residents)
+    * [Driver Safety and Vehicle Maintenance ](https://www.pa.gov/agencies/dmv/resources/driver-safety-and-vehicle-maintenance)
+      * [Mature Driver Safety Tips ](https://www.pa.gov/agencies/dmv/resources/driver-safety-and-vehicle-maintenance/mature-driver-safety-tips)
+      * [Teen Safety Tips ](https://www.pa.gov/agencies/dmv/resources/driver-safety-and-vehicle-maintenance/teen-safety-tips)
+      * [Emergency Driving Tactics ](https://www.pa.gov/agencies/dmv/resources/driver-safety-and-vehicle-maintenance/emergency-driving-tactics)
+      * [Vehicle Maintenance Checklist ](https://www.pa.gov/agencies/dmv/resources/driver-safety-and-vehicle-maintenance/vehicle-maintenance-checklist)
+      * [Maintaining Your Vehicle ](https://www.pa.gov/agencies/dmv/resources/driver-safety-and-vehicle-maintenance/maintaining-your-vehicle)
+    * [Protecting Your Identity ](https://www.pa.gov/agencies/dmv/resources/protecting-your-identity)
+    * [Military Personnel and Veterans ](https://www.pa.gov/agencies/dmv/resources/military-personnel-veterans)
+      * [Military CDL Waiver ](https://www.pa.gov/agencies/dmv/resources/military-personnel-veterans/military-cdl-waiver)
+      * [Veterans Designation ](https://www.pa.gov/agencies/dmv/resources/military-personnel-veterans/veterans-designation)
+      * [Military Personnel ](https://www.pa.gov/agencies/dmv/resources/military-personnel-veterans/military-personnel)
+    * [Business Partners ](https://www.pa.gov/agencies/dmv/resources/business-partners)
+      * [Authorized Agents-Messengers ](https://www.pa.gov/agencies/dmv/resources/business-partners/authorized-agents-messengers)
+      * [Become a Third-Party CDL Tester/Examiner ](https://www.pa.gov/services/dmv/become-a-third-party-cdl-tester-examiner)
+      * [Apply to Become a Non-Commercial Driver’s License Third-Party Tester ](https://www.pa.gov/agencies/dmv/resources/business-partners/become-a-third-party-non-commercial-drivers-license-tester-exam)
+      * [Court Reporting Network ](https://www.pa.gov/agencies/dmv/resources/business-partners/court-reporting-network)
+      * [Driver and Vehicle Services Bulletin ](https://www.pa.gov/agencies/dmv/resources/business-partners/driver-and-vehicle-services-bulletin)
+      * [Fleet ](https://www.pa.gov/agencies/dmv/resources/business-partners/fleet)
+      * [Messenger and Agent Services ](https://www.pa.gov/agencies/dmv/resources/business-partners/messenger-and-agent-services)
+      * [Online Dealer Title Service Centers ](https://www.pa.gov/agencies/dmv/resources/business-partners/online-dealer-title-service-centers)
+      * [Online Salvage Centers ](https://www.pa.gov/agencies/dmv/resources/business-partners/online-salvage-centers)
+      * [Online Business Driver History Request Service ](https://www.pa.gov/agencies/dmv/resources/business-partners/online-business-driver-history-request-service)
+      * [Online Messengers ](https://www.pa.gov/agencies/dmv/resources/business-partners/online-messengers)
+      * [​​​​​​​​​​​​Photo License Center Co-Locations ](https://www.pa.gov/agencies/dmv/resources/business-partners/photo-license-center-co-locations)
+      * [Suspended Issuing Agents ](https://www.pa.gov/agencies/dmv/resources/business-partners/suspended-issuing-agents)
+      * [Apply to Become a Driver Improvement School Third-Party Provider ](https://www.pa.gov/agencies/dmv/resources/business-partners/apply-to-become-a-driver-improvement-school-third-party-provider)
+    * [Medical Reporting ](https://www.pa.gov/agencies/dmv/resources/medical-reporting)
+      * [After PennDOT Receives Report ](https://www.pa.gov/agencies/dmv/resources/medical-reporting/after-penndot-receives-report)
+      * [Confidentiality ](https://www.pa.gov/agencies/dmv/resources/medical-reporting/confidentiality)
+      * [Driver Resources ](https://www.pa.gov/agencies/dmv/resources/medical-reporting/driver-resources)
+      * [Information for Health Care Personnel ](https://www.pa.gov/agencies/dmv/resources/medical-reporting/information-for-health-care-personnel)
+      * [Liability Protection ](https://www.pa.gov/agencies/dmv/resources/medical-reporting/liability-protection)
+      * [Mandatory Reporting ](https://www.pa.gov/agencies/dmv/resources/medical-reporting/mandatory-reporting)
+      * [Medical Advisory Board ](https://www.pa.gov/agencies/dmv/resources/medical-reporting/medical-advisory-board)
+      * [Medical Criteria ](https://www.pa.gov/agencies/dmv/resources/medical-reporting/medical-criteria)
+      * [PA Drivers and Families ](https://www.pa.gov/agencies/dmv/resources/medical-reporting/pa-drivers-and-families)
+      * [Patient Management ](https://www.pa.gov/agencies/dmv/resources/medical-reporting/patient-management)
+      * [Medical Reporting Forms ](https://www.pa.gov/agencies/dmv/resources/medical-reporting/medical-reporting-forms)
+      * [Submission of Medical Reports ](https://www.pa.gov/agencies/dmv/resources/medical-reporting/submission-of-medical-reports)
+      * [Role of Health Care Provider ](https://www.pa.gov/agencies/dmv/resources/medical-reporting/role-of-health-care-provider)
+      * [Medical Reporting Presentation ](https://www.pa.gov/agencies/dmv/resources/medical-reporting/medical-reporting-presentation)
+    * [Organ Donation ](https://www.pa.gov/agencies/dmv/resources/organ-donation)
+    * [Laws and Regulations ](https://www.pa.gov/agencies/dmv/resources/laws-and-regulations)
+      * [Act 81 of 2011 ](https://www.pa.gov/agencies/dmv/resources/laws-and-regulations/act-81-of-2011)
+      * [Act 107 of 2022 ](https://www.pa.gov/agencies/dmv/resources/laws-and-regulations/act-107-of-2022)
+      * [Anti-Texting Law ](https://www.pa.gov/agencies/dmv/resources/laws-and-regulations/anti-texting-law)
+      * [Autocycle Law 2016 ](https://www.pa.gov/agencies/dmv/resources/laws-and-regulations/autocycle-law-2016)
+      * [Bicycle Law 2012 ](https://www.pa.gov/agencies/dmv/resources/laws-and-regulations/bicycle-law-2012)
+      * [DUI Legislation ](https://www.pa.gov/agencies/dmv/resources/laws-and-regulations/dui-legislation)
+      * [Medically Impaired Driver Law ](https://www.pa.gov/agencies/dmv/resources/laws-and-regulations/medically-impaired-driver-law)
+      * [Motor Carrier Safety Improvement Act ](https://www.pa.gov/agencies/dmv/resources/laws-and-regulations/motor-carrier-safety-improvement-act)
+      * [Motor Voter Law ](https://www.pa.gov/agencies/dmv/resources/laws-and-regulations/motor-voter-law)
+      * [PA Vehicle Code (Title 75) ](https://www.pa.gov/agencies/dmv/resources/laws-and-regulations/pa-vehicle-code-title-75)
+      * [School Bus Regulations and Related Links ](https://www.pa.gov/agencies/dmv/resources/laws-and-regulations/school-bus-regulations-and-related-links)
+    * [Persons with Disabilities Parking Placards and Registration Plates ](https://www.pa.gov/agencies/dmv/resources/persons-with-disabilities-placards-plates)
+    * [Clean Vehicle Program ](https://www.pa.gov/agencies/dmv/resources/clean-vehicle-program)
+  * [Reports and Statistics ](https://www.pa.gov/agencies/dmv/reports-and-statistics)
+    * [Pennsylvania School Bus Statistics ](https://www.pa.gov/agencies/dmv/reports-and-statistics/school-bus-statistics)
+    * [Pennsylvania Motorcycle Statistics ](https://www.pa.gov/agencies/dmv/reports-and-statistics/motorcycle-statistics)
+    * [Pennsylvania Driver Statistics ](https://www.pa.gov/agencies/dmv/reports-and-statistics/driver-statistics)
+    * [Pennsylvania Teen Driver Statistics ](https://www.pa.gov/agencies/dmv/reports-and-statistics/teen-driver-statistics)
+    * [Pennsylvania Mature Driver Statistics ](https://www.pa.gov/agencies/dmv/reports-and-statistics/mature-driver-statistics)
+    * [Annual Report of Registrations ](https://www.pa.gov/agencies/dmv/reports-and-statistics/annual-report-of-registrations)
+  * [Report Driver's License, Identification Card or Vehicle Fraud ](https://www.pa.gov/services/dmv/report-drivers-license-identification-card-or-vehicle-fraud)
+  * [Alerts ](https://www.pa.gov/agencies/dmv/alerts)
+    * [Holiday Closings ](https://www.pa.gov/agencies/dmv/alerts/holiday-closings)
+
+
+  1. [ Agencies ](https://www.pa.gov/agencies)
+  2. [ Driver and Vehicle Services ](https://www.pa.gov/agencies/dmv)
+  3. [ Driver Services ](https://www.pa.gov/agencies/dmv/driver-services)
+  4. REAL ID
+
+
+# REAL ID
+Starting May 7, 2025, a federally accepted form of identification — such as a REAL ID, U.S. passport, or military ID — will be required to board domestic flights and enter certain federal facilities.
+[ Apply for REAL ID ](https://www.pa.gov/services/dmv/apply-for-real-id)
+[ Already pre-verified? Apply online (opens in a new tab)](https://www.dmv.penndot.gov/realid/ridoptinlogin.jsp?navigation=true)
+## What is REAL ID?
+REAL ID is a federal law that affects how states issue driver's licenses and ID cards to be acceptable for federal purposes.
+## Do you need a REAL ID?
+**REAL ID is optional.** If you don’t get one, you’ll need another federally accepted ID, such as a passport or military ID, to board flights and enter certain federal facilities starting on May 7, 2025.
+**You need a REAL ID to:**
+  * Board domestic commercial flights.
+  * Enter a military base.
+  * Enter a federal facility that requires federally acceptable ID at the door.
+
+
+**You do NOT need REAL ID to:**
+  * Drive.
+  * Vote.
+  * Access hospitals.
+  * Visit the post office.
+  * Access federal courts.
+  * Apply for or receive federal benefits.
+
+
+[ Take our quiz to see if REAL ID is right for you ](https://www.pa.gov/agencies/dmv/driver-services/real-id/is-real-id-for-me)
+## How do I get a REAL ID?
+How you get REAL ID depends on your situation. Choose the path that best fits you.
+### I’m already pre-verified and want to order my REAL ID online
+If PennDOT has already verified your documents, you can order your REAL ID online. You’ll pay the one-time $30 REAL ID fee plus your standard renewal fee.
+[ Order your REAL ID online ](https://www.dmv.penndot.gov/realid/ridoptinlogin.jsp?navigation=true)
+### I’m renewing my driver’s license and want to get a REAL ID at the same time
+You can request a REAL ID during your renewal by paying the one-time $30 REAL ID fee plus your standard renewal fee. Your renewal will be processed automatically. If you haven’t been pre-verified, you must visit a Driver License Center in person to have your documents vetted, imaged, and verified.
+[ Renew your license and get a REAL ID ](https://www.pa.gov/services/dmv/apply-for-real-id)
+### I want a REAL ID now (separate from my ID renewal)
+You do not have to wait until your renewal to get a REAL ID. You’ll pay the one-time $30 REAL ID fee plus your standard renewal fee. Your new REAL ID will include the remaining time on your current license plus an additional four years. Your expiration date will be extended accordingly.
+[ Apply for REAL ID ](https://www.pa.gov/services/dmv/apply-for-real-id)
+### I’m a non-U.S. citizen and need a REAL ID
+Additional documentation may be required based on immigration status.
+[ Learn about REAL ID for non-U.S. citizens ](https://www.pa.gov/agencies/dmv/driver-services/real-id/real-id-info-for-non-us-citizens)
+### I have a Commercial Driver's License (CDL) and need a REAL ID
+CDL holders must apply in person at a PennDOT Driver License Center.
+[ Learn about CDL REAL ID requirements ](https://www.pa.gov/agencies/dmv/driver-services/real-id/real-id-info-for-cdl-holders)
+## What do I need to apply?
+To get a REAL ID, you must provide:
+  * One document proving identity and lawful status.
+  * One document proving your Social Security number.
+  * Two documents proving your Pennsylvania residency.
+
+
+Some applicants need additional documents, including non-U.S. citizens, CDL holders, and those updating their name or date of birth.
+[ Review the list of acceptable documents ](https://www.pa.gov/agencies/dmv/driver-services/real-id/real-id-document-check)
+## What is a REAL ID Center?
+Our Same-Day REAL ID Centers allow you to walk out with your REAL ID the same day.
+You can also visit any of our other Driver License Centers to apply in person. PennDOT will verify your documents and your REAL ID will be mailed to you within 15 business days. 
+[ Find a same-day REAL ID Center ](https://www.pa.gov/agencies/dmv/find-a-location/real-id-center-locations)
+[ Find a Driver License Center  ](https://www.pa.gov/agencies/dmv/find-a-location)
+## What does REAL ID look like?
+A REAL ID looks like a standard driver's license or identification card but includes a gold star in the top right corner.
+[ View sample driver’s licenses and photo cards ](https://www.pa.gov/agencies/dmv/driver-services/real-id/real-id-images)
+[ Have more questions? Read our REAL ID frequently asked questions ](https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/real-id-faqs)
+Return to top 
+[ ![Commonwealth of Pennsylvania Home](https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/CoPA%20Logo%20-%20Horizontal%20Lockup%201.svg) ](https://www.pa.gov/en)
+Proudly founded in 1681 as a place of tolerance and freedom.
+  * [ Commonwealth of Pennsylvania Social Media Follow on Facebook ](https://www.facebook.com/GovernorShapiro)
+  * [ Commonwealth of Pennsylvania Social Media Follow on X ](https://x.com/GovernorShapiro)
+  * [ Commonwealth of Pennsylvania Social Media Follow on Bluesky ](https://bsky.app/profile/governor.pa.gov)
+  * [ Commonwealth of Pennsylvania Social Media Follow on Threads ](https://www.threads.net/@governorshapiro)
+  * [ Commonwealth of Pennsylvania Social Media Follow on Instagram ](https://www.instagram.com/GovernorShapiro/)
+  * [ Commonwealth of Pennsylvania Social Media Follow on TikTok ](https://www.tiktok.com/@governorshapiro)
+  * [ Commonwealth of Pennsylvania Social Media Follow on YouTube ](https://www.youtube.com/@GovernorShapiro)
+  * [ Commonwealth of Pennsylvania Social Media Follow on Flickr ](https://www.flickr.com/photos/pagovernor/)
+  * [ Commonwealth of Pennsylvania Social Media Follow on WhatsApp ](https://www.whatsapp.com/channel/0029VbBAs2o6mYPMP8MQsg1b)
+
+
+## Top services
+  * [Register to Vote](https://www.pa.gov/services/vote/register-to-vote)
+  * [Find a DMV](https://www.pa.gov/agencies/dmv/find-a-location)
+  * [Get a Birth Certificate](https://www.pa.gov/agencies/health/programs/vital-records/birth-certificates)
+  * [Join the Veterans Registry](https://www.pa.gov/services/dmva/subscribe-to-veterans--registry-and-monthly-publication)
+  * [PAyback(opens in a new tab)](https://payback.pa.gov/Home/Who)
+
+
+## PA.gov
+  * [Careers & Internships ](https://www.pa.gov/agencies/employment/open-jobs)
+  * [PennWatch(opens in a new tab)](https://pennwatch.pa.gov/Pages/default.aspx)
+  * [Right-to-Know Law(opens in a new tab)](https://www.openrecords.pa.gov/RTKL/CitizensGuide.cfm)
+
+
+Copyright © 2026 Commonwealth of Pennsylvania. All rights reserved.
+  * [Accessibility](https://www.pa.gov/accessibility-policy)
+  * [Privacy & Disclaimers](https://www.pa.gov/privacy-policy)
+  * [Translation Disclaimer](https://www.pa.gov/translation-disclaimer)
+  * [Security](https://www.pa.gov/security-policy)
+  * [Social Media Policy & Disclaimer](https://www.pa.gov/social-media-policy-and-disclaimer)
+
+
+![](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
+Original text
+Rate this translation
+Your feedback will be used to help improve Google Translate
+Loading ...
