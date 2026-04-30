@@ -3,6 +3,8 @@ MODEL_NAME = "llama3.1:8b"
 
 DEFAULT_TEMPERATURE = 0.0
 DEFAULT_TRUNCATION = 30000
+DEFAULT_USE_DEEP_CRAWL = True
+DEFAULT_DEEP_CRAWL_TIMEOUT_SEC = 120
 MAX_RETRIES = 1
 
 # Background pipeline + cancel UI (Streamlit polls while the worker thread runs)

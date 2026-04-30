@@ -365,14 +365,42 @@ def _combined_text_length(results: Iterable) -> int:
     return total
 
 
-def scrape_url(url: str, truncation_length: int = 30000) -> Optional[str]:
+def _scrape_shallow_with_pdfs(
+    url: str,
+    truncation_length: int,
+    shallow_timeout: int = 60,
+    timeout_per_pdf: int = 60,
+    max_pdfs: int = 3,
+) -> Optional[str]:
+    shallow = asyncio.run(_async_shallow_scrape(url, timeout=shallow_timeout))
+    shallow_results = _coerce_results(shallow)
+    pdf_candidates = _collect_pdf_candidates(url, shallow_results)
+    pdf_results = asyncio.run(
+        _async_scrape_pdf_candidates(
+            pdf_candidates, timeout_per_pdf=timeout_per_pdf, max_pdfs=max_pdfs
+        )
+    )
+    all_results = shallow_results + pdf_results
+    combined = _concat_sources(url, all_results, truncation_length)
+    if combined is None:
+        logger.error(f"Shallow crawl and PDF fallback produced no content for {url}")
+    return combined
+
+
+def scrape_url(
+    url: str,
+    truncation_length: int = 30000,
+    *,
+    use_deep_crawl: bool = True,
+    deep_crawl_timeout_sec: int = 120,
+) -> Optional[str]:
     """
     Scrapes HTML pages and linked PDFs for incentive content.
 
     Behavior:
     1. If the input URL is a PDF, scrape it directly with PDFCrawlerStrategy +
        PDFContentScrapingStrategy.
-    2. Otherwise deep-crawl the site.
+    2. Otherwise deep-crawl the site (unless use_deep_crawl is False).
     3. Collect and scrape relevant linked PDFs discovered in the crawl results.
     4. If deep crawl times out, fall back to shallow crawl + linked-PDF scraping.
     """
@@ -388,8 +416,16 @@ def scrape_url(url: str, truncation_length: int = 30000) -> Optional[str]:
                 logger.error(f"PDF scrape produced no content for {url}")
             return combined
 
+        if not use_deep_crawl:
+            logger.info(f"Deep crawl disabled; shallow crawl for {url}")
+            try:
+                return _scrape_shallow_with_pdfs(url, truncation_length)
+            except Exception as e:
+                logger.error(f"Shallow crawl failed for {url}: {e}")
+                return None
+
         # Deep crawl HTML first
-        res = asyncio.run(_async_deep_scrape(url, timeout=120))
+        res = asyncio.run(_async_deep_scrape(url, timeout=deep_crawl_timeout_sec))
         html_results = _coerce_results(res)
 
         # Discover relevant PDFs from crawl results and scrape them
@@ -409,19 +445,7 @@ def scrape_url(url: str, truncation_length: int = 30000) -> Optional[str]:
     except asyncio.TimeoutError:
         logger.error(f"Deep crawl timeout for {url}")
         try:
-            shallow = asyncio.run(_async_shallow_scrape(url, timeout=60))
-            shallow_results = _coerce_results(shallow)
-
-            pdf_candidates = _collect_pdf_candidates(url, shallow_results)
-            pdf_results = asyncio.run(_async_scrape_pdf_candidates(pdf_candidates, timeout_per_pdf=60, max_pdfs=3))
-
-            all_results = shallow_results + pdf_results
-            combined = _concat_sources(url, all_results, truncation_length)
-
-            if combined is None:
-                logger.error(f"Shallow crawl and PDF fallback produced no content for {url}")
-            return combined
-
+            return _scrape_shallow_with_pdfs(url, truncation_length)
         except Exception as e:
             logger.error(f"Shallow crawl failed for {url}: {e}")
             return None

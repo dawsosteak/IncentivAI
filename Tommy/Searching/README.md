@@ -1,10 +1,10 @@
-# Clone and build V 0.5.4
-git clone https://github.com/karust/openserp.git
-cd openserp
-go build -o openserp .
+# Get start
+pip install openpyxl
 
-# Run the server
-./openserp serve
+# Run the API server via prebuilt image
+docker run -p 127.0.0.1:7000:7000 -it karust/openserp serve -a 0.0.0.0 -p 7000
 
 # searching 
-python states.py "Texas"
+cd Tommy
+cd Searching
+python energy_search.py Texas

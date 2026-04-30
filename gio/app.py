@@ -16,6 +16,8 @@ from main import run_pipeline
 from config import (
     DEFAULT_TEMPERATURE,
     DEFAULT_TRUNCATION,
+    DEFAULT_USE_DEEP_CRAWL,
+    DEFAULT_DEEP_CRAWL_TIMEOUT_SEC,
     UI_POLL_INTERVAL_SEC,
     CANCEL_BUTTON_LABEL,
 )
@@ -75,7 +77,7 @@ if st.session_state.pipeline_done:
                 file_name="incentives_output.csv",
                 key="download_csv_completed",
             )
-    st.divider()
+    st.markdown("---")
 
 # Sidebar
 st.sidebar.header("Configuration")
@@ -98,6 +100,20 @@ else:
 #variables we can set for scraping or looking forurls and doing
 temperature = st.sidebar.number_input("Temperature", value=DEFAULT_TEMPERATURE, step=0.1)
 truncation_length = st.sidebar.number_input("Max Scrape Length", value=DEFAULT_TRUNCATION)
+use_deep_crawl = st.sidebar.checkbox(
+    "Deep crawl (multi-page)",
+    value=DEFAULT_USE_DEEP_CRAWL,
+    help="When off, only the seed page is fetched (faster; may miss linked detail pages).",
+)
+deep_crawl_timeout_sec = st.sidebar.number_input(
+    "Deep crawl timeout (seconds)",
+    min_value=30,
+    max_value=600,
+    value=DEFAULT_DEEP_CRAWL_TIMEOUT_SEC,
+    step=30,
+    disabled=not use_deep_crawl,
+    help="Max time for the full multi-page crawl before falling back to a single page.",
+)
 #create button to press
 run_button = st.sidebar.button(
     "Run Extraction",
@@ -140,6 +156,8 @@ if run_button:
                     truncation_length=truncation_length,
                     progress_callback=progress_callback,
                     should_cancel=cancel_event.is_set,
+                    use_deep_crawl=use_deep_crawl,
+                    deep_crawl_timeout_sec=int(deep_crawl_timeout_sec),
                 )
                 result_holder["path"] = path
                 result_holder["cancelled"] = cancelled
