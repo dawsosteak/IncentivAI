@@ -2,25 +2,22 @@
 
 --- SOURCE: hunting_ehawaii_gov_2f821754.md ---
 
-# Program Name: Hawaii Hunting License
-# Program URL: https://hunting.ehawaii.gov/hunting/license.html
+# Program Name: Hawaii Hunting License Rebate Program
+
+#Program URL: https://hunting.ehawaii.gov/hunting/license.html
 
 ## Program Details
-- **Offering Entity:** Hawaii Department of Forestry and Wildlife
-- **Status / Dates:** Active, valid from date of purchase through Fiscal Year 2026 (Date of purchase - June 30, 2026)
-- **Service Territory:** State of Hawaii
-- **Eligible Measures / Equipment:** N/A
 - **Concrete Rebate Amounts:**
-  - Resident Hunting License: $10.00
-  - Non-Resident Hunting License: $105.00
-- **Caps / Limits:** N/A
+  - $10.00 for residents
+  - $95.00 for non-residents
+  - $10.00 for seniors
+  - $10.00 for Kalaupapa patients
 
 ## Eligibility
-- **Who Can Apply:** All hunters, with non-residents requiring an exemption request form
-- **Eligibility Requirements:** None specified
-- **Exclusions:** N/A
+- **Eligibility Requirements:**
+  - Valid Hawaii hunting license required for all hunting in the state
+  - Resident and non-resident licenses available for sale at this site
 
-## Application
-- **How to Apply:** Online purchase through the Hawaii Department of Forestry and Wildlife website
-- **Required Documentation:** Education Card or Exemption Number
-- **Where to Apply (link if present):** https://hunting.ehawaii.gov/hunting/login
+## Utility Information
+- **Utility Company Name:** Not applicable (state government)
+- **Utility Company Size:** Not applicable (state government)

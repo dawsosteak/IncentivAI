@@ -1,0 +1,86 @@
+--- SOURCE: https://www.cpuc.ca.gov/proceedings-and-rulemaking/decisions-and-resolutions-related-to-practice-before-the-cpuc ---
+
+[Skip to Main Content](https://www.cpuc.ca.gov/proceedings-and-rulemaking/decisions-and-resolutions-related-to-practice-before-the-cpuc#main-content)
+[ CA.gov ](http://www.ca.gov)
+[Share via Facebook](https://www.cpuc.ca.gov/proceedings-and-rulemaking/decisions-and-resolutions-related-to-practice-before-the-cpuc) [Share via Twitter](https://www.cpuc.ca.gov/proceedings-and-rulemaking/decisions-and-resolutions-related-to-practice-before-the-cpuc) [Share via LinkedIn](https://www.cpuc.ca.gov/proceedings-and-rulemaking/decisions-and-resolutions-related-to-practice-before-the-cpuc) Share via Email
+[Contact Us](https://www.cpuc.ca.gov/about-cpuc/contacting-the-puc) Translate Settings
+Default
+High Contrast
+Reset
+Increase Font Size Increase  Font Size 
+Decrease Font Size Decrease  Font Size 
+Translate this website:  
+
+Select Language Abkhaz Acehnese Acholi Afar Afrikaans Albanian Alur Amharic Arabic Armenian Assamese Avar Awadhi Aymara Azerbaijani Balinese Baluchi Bambara Baoulé Bashkir Basque Batak Karo Batak Simalungun Batak Toba Belarusian Bemba Bengali Betawi Bhojpuri Bikol Bosnian Breton Bulgarian Buryat Cantonese Catalan Cebuano Chamorro Chechen Chichewa Chinese (Simplified) Chinese (Traditional) Chuukese Chuvash Corsican Crimean Tatar (Cyrillic) Crimean Tatar (Latin) Croatian Czech Danish Dari Dhivehi Dinka Dogri Dombe Dutch Dyula Dzongkha Esperanto Estonian Ewe Faroese Fijian Filipino Finnish Fon French French (Canada) Frisian Friulian Fulani Ga Galician Georgian German Greek Guarani Gujarati Haitian Creole Hakha Chin Hausa Hawaiian Hebrew Hiligaynon Hindi Hmong Hungarian Hunsrik Iban Icelandic Igbo Ilocano Indonesian Inuktut (Latin) Inuktut (Syllabics) Irish Italian Jamaican Patois Japanese Javanese Jingpo Kalaallisut Kannada Kanuri Kapampangan Kazakh Khasi Khmer Kiga Kikongo Kinyarwanda Kituba Kokborok Komi Konkani Korean Krio Kurdish (Kurmanji) Kurdish (Sorani) Kyrgyz Lao Latgalian Latin Latvian Ligurian Limburgish Lingala Lithuanian Lombard Luganda Luo Luxembourgish Macedonian Madurese Maithili Makassar Malagasy Malay Malay (Jawi) Malayalam Maltese Mam Manx Maori Marathi Marshallese Marwadi Mauritian Creole Meadow Mari Meiteilon (Manipuri) Minang Mizo Mongolian Myanmar (Burmese) Nahuatl (Eastern Huasteca) Ndau Ndebele (South) Nepalbhasa (Newari) Nepali NKo Norwegian Nuer Occitan Odia (Oriya) Oromo Ossetian Pangasinan Papiamento Pashto Persian Polish Portuguese (Brazil) Portuguese (Portugal) Punjabi (Gurmukhi) Punjabi (Shahmukhi) Quechua Qʼeqchiʼ Romani Romanian Rundi Russian Sami (North) Samoan Sango Sanskrit Santali (Latin) Santali (Ol Chiki) Scots Gaelic Sepedi Serbian Sesotho Seychellois Creole Shan Shona Sicilian Silesian Sindhi Sinhala Slovak Slovenian Somali Spanish Sundanese Susu Swahili Swati Swedish Tahitian Tajik Tamazight Tamazight (Tifinagh) Tamil Tatar Telugu Tetum Thai Tibetan Tigrinya Tiv Tok Pisin Tongan Tshiluba Tsonga Tswana Tulu Tumbuka Turkish Turkmen Tuvan Twi Udmurt Ukrainian Urdu Uyghur Uzbek Venda Venetian Vietnamese Waray Welsh Wolof Xhosa Yakut Yiddish Yoruba Yucatec Maya Zapotec Zulu
+Powered by [![Google Translate](https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png)Translate](https://translate.google.com)
+[ ![California Public Utilities Commission](https://www.cpuc.ca.gov/assets/img/cpuc/cpuc-logo-md.png) California Public Utilities Commission ](https://www.cpuc.ca.gov/)
+Site Search
+Clear
+SearchLoading
+  1. [Home](https://www.cpuc.ca.gov/)
+  2. [Proceedings and Rulemaking](https://www.cpuc.ca.gov/proceedings-and-rulemaking)
+  3. [Decisions and Resolutions Re CPUC Practice](https://www.cpuc.ca.gov/proceedings-and-rulemaking/decisions-and-resolutions-related-to-practice-before-the-cpuc)
+
+
+#  California Public Utilities Commission Decisions and Resolutions Related to Practice Before the Commission
+These documents establish additional requirements as they relate to practice and procedure at the Commission that are not part of the Rules of Practice and Procedure or General Orders.
+  * **Decisions and Resolutions Related to Practice and Procedure**
+    * [**D.06-06-066**](https://docs.cpuc.ca.gov/PUBLISHED/FINAL_DECISION/57772.htm "D.06-06-066"), as modified by [**D.07-05-032**](https://docs.cpuc.ca.gov/PUBLISHED/FINAL_DECISION/67665.htm "D.07-05-032"); [**D.06-12-030**](https://docs.cpuc.ca.gov/PUBLISHED/FINAL_DECISION/62944.htm "D.06-12-030");  
+[**D.08-04-023**](https://docs.cpuc.ca.gov/PUBLISHED/FINAL_DECISION/94606.htm "D.08-04-023") - Decisions Concerning Confidentiality of Electric Procurement Data
+    * **[ALJ-181](https://docs.cpuc.ca.gov/word_pdf/FINAL_RESOLUTION/2853.doc "ALJ-181")** - Rules Governing Filings Made Pursuant to the Telecommunications Act of 1996 (colloquially known as the Telco Arbitration Rules)
+  * **Citation and Appeals Procedure Resolutions** - The Commission has delegated to its staff the ability to issue citations for specified violations. These resolutions lay out the authority and appeals procedures. 
+    * [**E-4257**](https://docs.cpuc.ca.gov/PUBLISHED/FINAL_RESOLUTION/109286.htm "https://docs.cpuc.ca.gov/PUBLISHED/FINAL_RESOLUTION/109286.htm") - Renewables Portfolio Standard Filing Requirements; Citation Program and Appeal Procedure
+    * **[E-4195](https://docs.cpuc.ca.gov/WORD_PDF/FINAL_RESOLUTION/93662.PDF "E-4195")** - Resource Adequacy Filing Requirements; Citation Program and Appeal Procedure
+    * **[ALJ-187](https://docs.cpuc.ca.gov/WORD_PDF/FINAL_RESOLUTION/49792.PDF "ALJ-187")** - Procedures for Appeal of Citations Issued to Household Goods Carriers, Charter Party Carriers, and Passenger Stage Corporations
+    * **[UEB-001](https://docs.cpuc.ca.gov/WORD_PDF/FINAL_RESOLUTION/59232.PDF "UEB-001")** - Third Party Verification Requirements; Citation Program and Appeal Procedure
+    * **[ROSB-002](https://docs.cpuc.ca.gov/WORD_PDF/FINAL_RESOLUTION/97902.PDF "ROSB-002")** , as modified by **[D.09-05-020](https://docs.cpuc.ca.gov/WORD_PDF/FINAL_RESOLUTION/100918.PDF "D.09-05-020")** - Railroad Citation Program and Appeal Procedure
+    * **[USRB-001](https://docs.cpuc.ca.gov/WORD_PDF/FINAL_RESOLUTION/86010.PDF "USRB-001")** - Propane Gas Distribution System Safety Regulation Enforcement; Citation Program and Appeal Procedure
+    * **[W-4799](https://docs.cpuc.ca.gov/WORD_PDF/FINAL_RESOLUTION/109215.PDF "W-4799")** - Water and Sewer Utilities Citation Program and Appeal Procedure
+
+
+##  How can we help?
+Emergency? **Call 911**  
+
+[File a Complaint](https://www.cpuc.ca.gov/consumer-support/file-a-complaint)
+[Late Bill Assistance](https://www.cpuc.ca.gov/consumer-support/late-bill-assistance)
+[Power Outage Map](https://www.cpuc.ca.gov/consumer-support/power-outage-maps)
+[Are you in a high fire-threat area?](https://ia.cpuc.ca.gov/firemap/)
+[Financial Assistance](https://www.cpuc.ca.gov/consumer-support/financial-assistance-savings-and-discounts)
+[Consumer Programs and Services](https://www.cpuc.ca.gov/consumer-support/consumer-programs-and-services)
+[Electric Rate Comparison Website](https://www.cpuc.ca.gov/about-cpuc/divisions/news-and-public-information-office/public-advisors-office/consumer-choices-in-california)
+Website Feedback
+##  More Information
+[Consumer Support](https://www.cpuc.ca.gov/consumer-support)
+[Regulatory Services](https://www.cpuc.ca.gov/regulatory-services)
+[Industries and Topics](https://www.cpuc.ca.gov/industries-and-topics)
+[News and Updates](https://www.cpuc.ca.gov/news-and-updates)
+[Events and Meetings](https://www.cpuc.ca.gov/events-and-meetings)
+[Proceedings and Rulemaking](https://www.cpuc.ca.gov/proceedings-and-rulemaking)
+[Public Advocates Office](https://www.publicadvocates.cpuc.ca.gov/)
+[Office of the Tribal Advisor](https://www.cpuc.ca.gov/about-cpuc/divisions/office-of-the-tribal-advisor)
+[About CPUC](https://www.cpuc.ca.gov/about-cpuc)
+[Careers](https://www.cpuc.ca.gov/careers)
+##  California State Campaigns
+[Register to Vote](https://registertovote.ca.gov/)
+[Save our Water](https://saveourwater.com/)
+[Flex Alert](https://www.flexalert.org/)
+  * [Back to Top](https://www.cpuc.ca.gov/proceedings-and-rulemaking/decisions-and-resolutions-related-to-practice-before-the-cpuc#skip-to-content)
+  * [Conditions of Use](https://www.cpuc.ca.gov/about-cpuc/conditions-of-use)
+  * [Privacy Policy](https://www.cpuc.ca.gov/about-cpuc/privacy-policy)
+  * [Accessibility](https://www.cpuc.ca.gov/about-cpuc/accessibility)
+  * [Contact us](https://www.cpuc.ca.gov/about-cpuc/contacting-the-puc)
+  * [Employees](https://www.cpuc.ca.gov/about-cpuc/employee-information)
+
+
+  * [ X ](https://x.com/californiapuc)
+  * [ Facebook ](https://www.facebook.com/CaliforniaPUC)
+  * [ Instagram ](https://www.instagram.com/californiapuc)
+  * [ YouTube ](https://www.youtube.com/user/CaliforniaPUC)
+  * [ Linked In ](https://www.linkedin.com/company/californiapuc)
+
+
+Copyright © 2026 State of California 
+![](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
+Original text
+Rate this translation
+Your feedback will be used to help improve Google Translate
