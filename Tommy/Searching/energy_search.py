@@ -28,7 +28,7 @@ except ImportError:
     print("⚠️  openpyxl not found — run: pip install openpyxl")
 
 # ── Configuration ─────────────────────────────────────────────────────────────
-OPENSERP_URL  = "http://localhost:7070"
+OPENSERP_URL  = "http://localhost:7000"
 SEARCH_ENGINE = "google"
 NUM_RESULTS   = 8       # more results per query to maximize new URL discovery
 COUNTRY       = "us"

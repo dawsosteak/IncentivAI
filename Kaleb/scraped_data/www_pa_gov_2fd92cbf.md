@@ -1,0 +1,754 @@
+--- SOURCE: https://www.pa.gov/agencies/dhs/resources/snap ---
+
+[ Skip to agency navigation ](https://www.pa.gov/agencies/dhs/resources/snap#agencynav)
+[ Skip to main content ](https://www.pa.gov/agencies/dhs/resources/snap#content)
+![Commonwealth of Pennsylvania ; Home](https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/bannerimage.png)
+Official website
+Official website
+of the Commonwealth of Pennsylvania
+[ ![Commonwealth of Pennsylvania | Home](https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/CoPA%20Logo%20-%20Horizontal%20Lockup%201.svg) ](https://www.pa.gov/)
+Translate
+  * [ Services ](https://www.pa.gov/services)
+  * [ Agency Directory ](https://www.pa.gov/agencies)
+  * Your Government
+    * [The Governor ](https://www.pa.gov/governor)
+    * [Lt. Governor ](https://www.pa.gov/ltgovernor)
+    * [Legislation (opens in a new tab)](https://www.palegis.us/)
+    * [Courts (opens in a new tab)](https://www.pacourts.us/)
+    * [State House (opens in a new tab)](https://www.palegis.us/house)
+    * [State Senate (opens in a new tab)](https://www.palegis.us/senate)
+    * [Attorney General (opens in a new tab)](https://www.attorneygeneral.gov/)
+    * [Auditor General (opens in a new tab)](https://www.paauditor.gov/)
+    * [Treasurer (opens in a new tab)](https://www.patreasury.gov/)
+  * [ Visit PA (opens in a new tab)](https://visitpa.com/)
+  * [ News (opens in a new tab)](https://pacast.com/)
+
+
+## The .gov means it's official. 
+Local, state, and federal government websites often end in .gov. Commonwealth of Pennsylvania government websites and email systems use "pennsylvania.gov" or "pa.gov" at the end of the address. Before sharing sensitive or personal information, make sure you're on an official state website. 
+##  [Department of Human Services](https://www.pa.gov/agencies/dhs)
+  * [About ](https://www.pa.gov/agencies/dhs/about)
+    * [Benefits Explained ](https://www.pa.gov/agencies/dhs/about/benefits-explained)
+    * [Councils & Committees ](https://www.pa.gov/agencies/dhs/about/councils-committees)
+      * [Consumer Subcommittee ](https://www.pa.gov/agencies/dhs/about/councils-committees/consumer-subcommittee)
+      * [Developmental Disabilities Council ](https://www.pa.gov/agencies/dhs/about/councils-committees/developmental-disabilities-council)
+      * [Doula Advisory Board ](https://www.pa.gov/agencies/dhs/about/councils-committees/doula-advisory-board)
+      * [​Drug Utilization Review (DUR) Board ](https://www.pa.gov/agencies/dhs/about/councils-committees/drug-utilization-subcommittee)
+      * [ ​Fee-For-Service Subcommittee ](https://www.pa.gov/agencies/dhs/about/councils-committees/fee-for-service-subcommittee)
+      * [​HCBS Stakeholder Waiver and Planning Team ](https://www.pa.gov/agencies/dhs/about/councils-committees/hcbs-waiver-planning-team)
+      * [ ​Income Maintenance Advisory Committee ](https://www.pa.gov/agencies/dhs/about/councils-committees/income-maintenance-advisory-committee)
+      * [Low-Income Home Energy Assistance Program (LIHEAP) Advisory Committee ](https://www.pa.gov/agencies/dhs/about/councils-committees/liheap-advisory-committee)
+      * [​Long-Term Services and Supports Subcommittee ](https://www.pa.gov/agencies/dhs/about/councils-committees/long-term-services-subcommittee)
+      * [LTSS Subcommittee Minutes Archive ](https://www.pa.gov/agencies/dhs/about/councils-committees/mltss-minutes-archive)
+      * [Managed Care Delivery System Subcommittee of the Medical Assistance Advisory Committee ](https://www.pa.gov/agencies/dhs/about/councils-committees/managed-care-subcommittee)
+      * [​Managed Long-Term Services and Supports Subcommittee ](https://www.pa.gov/agencies/dhs/about/councils-committees/managed-long-term-subcommittee)
+      * [​Medical Assistance Advisory Committee (MAAC) ](https://www.pa.gov/agencies/dhs/about/councils-committees/maac)
+      * [​Pharmacy and Therapeutics (P&T) Committee ](https://www.pa.gov/agencies/dhs/about/councils-committees/pharmacy-committee)
+    * [​Dennis Marion Impact Award ](https://www.pa.gov/agencies/dhs/about/dennis-marion-impact-award)
+    * [DHS ​Budget Information ](https://www.pa.gov/agencies/dhs/about/budget-information)
+      * [Human Services Block Grant ](https://www.pa.gov/agencies/dhs/about/budget-information/block-grants)
+      * [County Human Services Plans ](https://www.pa.gov/agencies/dhs/about/budget-information/county-hs-plans-block-grant-reports)
+      * [​Human Services Development Fund ](https://www.pa.gov/agencies/dhs/about/budget-information/human-services-developmental-fund)
+    * [DHS Disclaimer ](https://www.pa.gov/agencies/dhs/about/dhs-disclaimer)
+    * [DHS Jobs ](https://www.pa.gov/agencies/dhs/about/dhs-jobs)
+  * [Contact ](https://www.pa.gov/agencies/dhs/contact)
+    * [DHS Feedback Form ](https://www.pa.gov/agencies/dhs/contact/feedback)
+    * [COMPASS ](https://www.pa.gov/agencies/dhs/contact/compass)
+    * [Child Support Contact ](https://www.pa.gov/agencies/dhs/contact/child-support-contact)
+    * [County Assistance Offices (CAO) ](https://www.pa.gov/agencies/dhs/contact/cao-information)
+    * [​County Mental Health/Intellectual Disabilities (MH/ID) Offices ](https://www.pa.gov/agencies/dhs/contact/county-mh-id-offices)
+    * [DHS Press Office ](https://www.pa.gov/agencies/dhs/contact/dhs-press-office)
+    * [Helpful Phone Numbers ](https://www.pa.gov/agencies/dhs/contact/helpful-phone-numbers)
+    * [Homeless Assistance Contacts ](https://www.pa.gov/agencies/dhs/contact/homeless-assistance-contacts)
+    * [HSDF County Contacts ](https://www.pa.gov/agencies/dhs/contact/hsdf-county-contacts)
+    * [Intellectual Disabilities Contacts ](https://www.pa.gov/agencies/dhs/contact/intellectual-disabilities-contacts)
+    * [Long-Term Care Contacts ](https://www.pa.gov/agencies/dhs/contact/long-term-care-contacts)
+    * [Newsletters and Listservs ](https://www.pa.gov/agencies/dhs/contact/newsletters-listservs)
+    * [Regional Child Development Offices ](https://www.pa.gov/agencies/dhs/contact/regional-child-development-offices)
+    * [Regional Intellectual Developmental Contacts ](https://www.pa.gov/agencies/dhs/contact/regional-intellectual-developmental-contacts)
+    * [Regional OCYF Offices ](https://www.pa.gov/agencies/dhs/contact/ocyf-regional-offices)
+    * [Regional OMHSAS Contacts ](https://www.pa.gov/agencies/dhs/contact/regional-omhsas-contacts)
+    * [Right To Know ](https://www.pa.gov/agencies/dhs/contact/right-to-know)
+    * [Text Messaging ](https://www.pa.gov/agencies/dhs/contact/text-messaging)
+    * [Mail Delay ](https://www.pa.gov/agencies/dhs/contact/mail-delay)
+  * [Departments & Offices ](https://www.pa.gov/agencies/dhs/departments-offices)
+    * [DHS Executive Leadership ](https://www.pa.gov/agencies/dhs/departments-offices/dhs-executive-leadership)
+    * [OA Info ](https://www.pa.gov/agencies/dhs/departments-offices/oa-info)
+      * [OA-Bureau of Program Integrity ](https://www.pa.gov/agencies/dhs/departments-offices/oa-info/oa-bureau-program-integrity)
+      * [OA-Bureau of Administrative Services ](https://www.pa.gov/agencies/dhs/departments-offices/oa-info/oa-bureau-administrative-services)
+      * [OA-Bureau of Procurement and Contract Management ](https://www.pa.gov/agencies/dhs/departments-offices/oa-info/oa-bureau-procurement-contract-management)
+      * [OA-Bureau of Equal Opportunity ](https://www.pa.gov/agencies/dhs/departments-offices/oa-info/oa-bureau-equal-opportunity)
+      * [OA-Bureau of Financial Operations ](https://www.pa.gov/agencies/dhs/departments-offices/oa-info/oa-bureau-financial-operations)
+      * [Language Services ](https://www.pa.gov/agencies/dhs/departments-offices/oa-info/language-services)
+      * [OA-Bureau of Hearings and Appeals ](https://www.pa.gov/agencies/dhs/departments-offices/oa-info/oa-bureau-hearings-appeals)
+      * [OMAP-Bureau of Program Integrity ](https://www.pa.gov/agencies/dhs/departments-offices/oa-info/omap-bureau-program-integrity)
+    * [OCYF Info ](https://www.pa.gov/agencies/dhs/departments-offices/ocyf-info)
+      * [OCYF-Bureau of Budget and Fiscal Support ](https://www.pa.gov/agencies/dhs/departments-offices/ocyf-info/ocyf-bureau-budget-fiscal-support)
+      * [OCYF-Bureau of Child and Family Services ](https://www.pa.gov/agencies/dhs/departments-offices/ocyf-info/ocyf-bureau-family-services)
+      * [OCYF-Bureau of Juvenile Justice Services ](https://www.pa.gov/agencies/dhs/departments-offices/ocyf-info/ocyf-bureau-juvenile-justice-services)
+      * [OCYF-Bureau of Policy Programs and Operations ](https://www.pa.gov/agencies/dhs/departments-offices/ocyf-info/ocyf-bureau-policy-programs-operations)
+      * [CWIS ](https://www.pa.gov/agencies/dhs/departments-offices/ocyf-info/cwis)
+      * [Child Youth and Family Service Plan ](https://www.pa.gov/agencies/dhs/departments-offices/ocyf-info/child-youth-family-service-plan)
+    * [OCDEL Info ](https://www.pa.gov/agencies/dhs/departments-offices/ocdel-info)
+      * [OCDEL-Bureau of Certification Services ](https://www.pa.gov/agencies/dhs/departments-offices/ocdel-info/ocdel-bureau-certification-services)
+      * [OCDEL-Bureau of Early Intervention Services and Family Supports ](https://www.pa.gov/agencies/dhs/departments-offices/ocdel-info/ocdel-bureau-early-intervention-services-and-family-supports)
+      * [OCDEL-Bureau of Policy and Professional Development ](https://www.pa.gov/agencies/dhs/departments-offices/ocdel-info/ocdel-bureau-policy-professional-development)
+      * [OCDEL-Operations and Monitoring ](https://www.pa.gov/agencies/dhs/departments-offices/ocdel-info/ocdel-operations-monitoring)
+    * [ODP Info ](https://www.pa.gov/agencies/dhs/departments-offices/odp-info)
+      * [ODP-Bureau of Autism Services ](https://www.pa.gov/agencies/dhs/departments-offices/odp-info/odp-bureau-autism-services)
+      * [ODP-Bureau of Financial Management and Program Support ](https://www.pa.gov/agencies/dhs/departments-offices/odp-info/odp-bureau-financial-management-program-support)
+      * [ODP-Bureau of Policy and Quality Management ](https://www.pa.gov/agencies/dhs/departments-offices/odp-info/odp-bureau-policy-quality-management)
+      * [ODP Bureau of Community Services ](https://www.pa.gov/agencies/dhs/departments-offices/odp-info/odp-bureau-community-services)
+      * [ODP-Bureau of State-Operated Facilities ](https://www.pa.gov/agencies/dhs/departments-offices/odp-info/odp-bureau-state-operated-facilities)
+      * [Performance-Based Contracting Residential Provider Directory ](https://www.pa.gov/agencies/dhs/departments-offices/odp-info/pbc-provider-directory)
+      * [Supports Coordination Organization Directory ](https://www.pa.gov/agencies/dhs/departments-offices/odp-info/pbc-sco-directory)
+    * [OIM Info ](https://www.pa.gov/agencies/dhs/departments-offices/oim-info)
+      * [OIM-Bureau of Child Support Enforcement ](https://www.pa.gov/agencies/dhs/departments-offices/oim-info/oim-bureau-child-support-enforcement)
+      * [OIM-Bureau of Employment Programs ](https://www.pa.gov/agencies/dhs/departments-offices/oim-info/oim-bureau-employment-programs)
+      * [OIM-Bureau of Operations ](https://www.pa.gov/agencies/dhs/departments-offices/oim-info/oim-bureau-operations)
+      * [OIM-Bureau of Policy ](https://www.pa.gov/agencies/dhs/departments-offices/oim-info/oim-bureau-policy)
+      * [OIM-Bureau of Program Evaluation ](https://www.pa.gov/agencies/dhs/departments-offices/oim-info/oim-bureau-program-evaluation)
+      * [OIM-Bureau of Program Support ](https://www.pa.gov/agencies/dhs/departments-offices/oim-info/oim-bureau-program-support)
+      * [Policy Handbooks and Manuals Archive ](https://www.pa.gov/agencies/dhs/departments-offices/oim-info/policy-handbook-manuals-archive)
+      * [OIM Ops Memos and Policy Clarification Archive ](https://www.pa.gov/agencies/dhs/departments-offices/oim-info/oim-ops-memo-pc-archive)
+      * [Recent OIM Ops Memos and Policy Clarifications ](https://www.pa.gov/agencies/dhs/departments-offices/oim-info/recent-oim-ops-memos-pcs)
+    * [OLTL Info ](https://www.pa.gov/agencies/dhs/departments-offices/oltl-info)
+      * [OLTL-Bureau of Coordinated and Integrated Services ](https://www.pa.gov/agencies/dhs/departments-offices/oltl-info/oltl-bureau-coordinated-integrated-services)
+      * [OLTL-Bureau of Fee-for-Service Programs ](https://www.pa.gov/agencies/dhs/departments-offices/oltl-info/oltl-bureau-fee-for-service-programs)
+      * [OLTL-Bureau of Finance ](https://www.pa.gov/agencies/dhs/departments-offices/oltl-info/oltl-bureau-finance)
+      * [OLTL-Bureau of Human Services Licensing ](https://www.pa.gov/agencies/dhs/departments-offices/oltl-info/oltl-bureau-human-services-licensing)
+      * [OLTL-Bureau of Policy Development and Communications Management ](https://www.pa.gov/agencies/dhs/departments-offices/oltl-info/oltl-bureau-policy-dev-comms-management)
+      * [OLTL-Bureau of Quality Assurance and Program Analytics ](https://www.pa.gov/agencies/dhs/departments-offices/oltl-info/oltl-bureau-quality-assurance-program-analytics)
+    * [OMAP Info ](https://www.pa.gov/agencies/dhs/departments-offices/omap-info)
+      * [OMAP-Bureau of Data Claims Management ](https://www.pa.gov/agencies/dhs/departments-offices/omap-info/omap-bureau-data-claims-management)
+      * [OMAP-Bureau of Fee-For-Service Programs ](https://www.pa.gov/agencies/dhs/departments-offices/omap-info/omap-bureau-fee-for-services-programs)
+      * [OMAP-Bureau of Fiscal Management ](https://www.pa.gov/agencies/dhs/departments-offices/omap-info/omap-bureau-fiscal-management)
+      * [OMAP-Bureau of Managed Care Operations ](https://www.pa.gov/agencies/dhs/departments-offices/omap-info/omap-bureau-managed-care-operations)
+      * [OMAP-Bureau of Policy Analysis Planning ](https://www.pa.gov/agencies/dhs/departments-offices/omap-info/omap-bureau-policy-analysis-planning)
+      * [Access Monitoring Plan ](https://www.pa.gov/agencies/dhs/departments-offices/omap-info/access-monitoring-plan)
+      * [What's New at OMAP ](https://www.pa.gov/agencies/dhs/departments-offices/omap-info/whats-new-at-omap)
+      * [eHealth Partnership ](https://www.pa.gov/agencies/dhs/departments-offices/omap-info/ehealth-partnership)
+      * [Pennsylvania HealthChoices Extranet ](https://www.pa.gov/agencies/dhs/departments-offices/omap-info/hc-extranet)
+    * [OMHSAS Info ](https://www.pa.gov/agencies/dhs/departments-offices/omhsas-info)
+      * [OMSHAS-Bureau of Childrens Behavioral Health Services ](https://www.pa.gov/agencies/dhs/departments-offices/omhsas-info/omshas-childrens-behavioral-health-services)
+      * [OMHSAS-Bureau of Community and Hospital Operations ](https://www.pa.gov/agencies/dhs/departments-offices/omhsas-info/omhsas-bureau-community-hospital-operations)
+      * [OMHSAS-Bureau of Financial Management and Administration ](https://www.pa.gov/agencies/dhs/departments-offices/omhsas-info/omhsas-bureau-financial-management-administration)
+      * [OMHSAS-Bureau of Policy Planning Program Development ](https://www.pa.gov/agencies/dhs/departments-offices/omhsas-info/omhsas-bureau-policy-planning-program-development)
+      * [OMHSAS-Bureau of Quality Management and Data Review ](https://www.pa.gov/agencies/dhs/departments-offices/omhsas-info/omhsas-bureau-quality-management-data-review)
+      * [OMHSAS-Medical Director ](https://www.pa.gov/agencies/dhs/departments-offices/omhsas-info/omhsas-medical-director)
+    * [DHS Facilities ](https://www.pa.gov/agencies/dhs/departments-offices/dhs-facilities)
+      * [State Centers ](https://www.pa.gov/agencies/dhs/departments-offices/dhs-facilities/state-centers)
+      * [State Hospitals ](https://www.pa.gov/agencies/dhs/departments-offices/dhs-facilities/state-hospitals)
+      * [Personal Care Home Field Offices ](https://www.pa.gov/agencies/dhs/departments-offices/dhs-facilities/pch-field-offices)
+      * [South Mountain Restoration Center ](https://www.pa.gov/agencies/dhs/departments-offices/dhs-facilities/south-mountain-restoration-center)
+  * [Programs and Services ](https://www.pa.gov/agencies/dhs/programs-services)
+    * [Apply for Benefits ](https://www.pa.gov/agencies/dhs/programs-services/apply-for-benefits)
+    * [Aging & Physical Disabilities ](https://www.pa.gov/agencies/dhs/resources/aging-physical-disabilities)
+    * [Behavioral Health ](https://www.pa.gov/agencies/dhs/programs-services/behavioral-health)
+    * [Early Learning & Child Care ](https://www.pa.gov/agencies/dhs/programs-services/early-learning-child-care)
+    * [Healthcare ](https://www.pa.gov/agencies/dhs/programs-services/healthcare)
+      * [Rural Health ](https://www.pa.gov/agencies/dhs/programs-services/healthcare/rural-health)
+      * [Maternal Health Strategic Action Plan ](https://www.pa.gov/agencies/dhs/programs-services/healthcare/maternal-health-strategic-action-plan)
+      * [Maternal Health Survey Summary ](https://www.pa.gov/agencies/dhs/programs-services/healthcare/maternal-health-survey-summary)
+    * [Food Assistance ](https://www.pa.gov/agencies/dhs/programs-services/food-assistance)
+    * [Housing & Utilities ](https://www.pa.gov/agencies/dhs/programs-services/housing-utilities)
+    * [Intellectual Disabilities & Autism ](https://www.pa.gov/agencies/dhs/programs-services/intellectual-disabilities)
+    * [Families & Children ](https://www.pa.gov/agencies/dhs/programs-services/families-children)
+    * [Employment & Training Programs ](https://www.pa.gov/agencies/dhs/programs-services/employment-and-training-programs)
+    * [Providers & Licensing ](https://www.pa.gov/agencies/dhs/programs-services/provider-licensing)
+  * [Resources & Information ](https://www.pa.gov/agencies/dhs/resources)
+    * [For Providers ](https://www.pa.gov/agencies/dhs/resources/for-providers)
+      * [1099 Information ](https://www.pa.gov/agencies/dhs/resources/for-providers/1099-information)
+      * [ACA Information for Providers ](https://www.pa.gov/agencies/dhs/resources/for-providers/aca-for-providers)
+      * [Act 62 Diagnostic ](https://www.pa.gov/agencies/dhs/resources/for-providers/act-62-diagnostic)
+      * [Budget Adjustment Factor ](https://www.pa.gov/agencies/dhs/resources/for-providers/budget-adjustment-factor)
+      * [Bulletin Search ](https://www.pa.gov/agencies/dhs/resources/for-providers/bulletin-search)
+      * [Burial and Cremation ](https://www.pa.gov/agencies/dhs/resources/for-providers/burial-and-cremation)
+      * [Child Care for Providers ](https://www.pa.gov/agencies/dhs/resources/for-providers/child-care-for-providers)
+      * [Child Welfare for Providers ](https://www.pa.gov/agencies/dhs/resources/for-providers/child-welfare-providers)
+      * [Credentialing Standards ](https://www.pa.gov/agencies/dhs/resources/for-providers/credentialing-standards)
+      * [Developmental Programs for Providers ](https://www.pa.gov/agencies/dhs/resources/for-providers/developmental-programs-for-providers)
+      * [Disproportionate Share Incentive Payments ](https://www.pa.gov/agencies/dhs/resources/for-providers/disproportionate-share-incentive-payments)
+      * [eHealth for Providers ](https://www.pa.gov/agencies/dhs/resources/for-providers/ehealth-providers)
+      * [Electronic Remittance Advice (ERA) ](https://www.pa.gov/agencies/dhs/resources/for-providers/electronic-remittance-advice)
+      * [External Resources ](https://www.pa.gov/agencies/dhs/resources/for-providers/external-resources)
+      * [Electronic Visit Verification (EVV) ](https://www.pa.gov/agencies/dhs/resources/for-providers/evv)
+      * [Employment Training Resources ](https://www.pa.gov/agencies/dhs/resources/for-providers/employment-training-resources)
+      * [FAQ-ACCESS EVS ](https://www.pa.gov/agencies/dhs/resources/for-providers/faq-access-evs)
+      * [FAQ-Assessment Program ](https://www.pa.gov/agencies/dhs/resources/for-providers/faq-assessment-programs)
+      * [FAQ-Checks Payment Remittance ](https://www.pa.gov/agencies/dhs/resources/for-providers/faq-checks-payment-remitttance)
+      * [FAQ-Claim Check ](https://www.pa.gov/agencies/dhs/resources/for-providers/faq-claim-check)
+      * [FAQ-Forms Invoices Handbooks ](https://www.pa.gov/agencies/dhs/resources/for-providers/faq-forms-invoices-handbooks)
+      * [Field Office Rate Setting ](https://www.pa.gov/agencies/dhs/resources/for-providers/field-office-rate-setting)
+      * [Form Search ](https://www.pa.gov/agencies/dhs/resources/for-providers/form-search)
+      * [HAI Payments ](https://www.pa.gov/agencies/dhs/resources/for-providers/hai-payments)
+      * [Health Care Quality Units ](https://www.pa.gov/agencies/dhs/resources/for-providers/health-care-quality-units)
+      * [Limited English Proficiency Services ](https://www.pa.gov/agencies/dhs/resources/for-providers/limited-english-proficiency-services)
+      * [Long-Term Care for Providers ](https://www.pa.gov/agencies/dhs/resources/for-providers/ltc-providers)
+      * [Medicaid/Medical Assistance Provider Quick Tips ](https://www.pa.gov/agencies/dhs/resources/for-providers/providers-quick-tips)
+      * [Medical Assistance for Providers ](https://www.pa.gov/agencies/dhs/resources/for-providers/ma-for-providers)
+      * [Medication Administration Training Program ](https://www.pa.gov/agencies/dhs/resources/for-providers/medication-administration-training-program)
+      * [Medication Side Effects ](https://www.pa.gov/agencies/dhs/resources/for-providers/medication-side-effects)
+      * [Mental Health for Providers ](https://www.pa.gov/agencies/dhs/resources/for-providers/mental-health-for-providers)
+      * [MDS CMS Data ](https://www.pa.gov/agencies/dhs/resources/for-providers/mds-cms-data)
+      * [Orientation Training Schedule for Prospective Operators of Child Care Facilities ](https://www.pa.gov/agencies/dhs/resources/for-providers/training-schedule-child-care-group-homes)
+      * [Pay for Performance (P4P) Incentive Payments ](https://www.pa.gov/agencies/dhs/resources/for-providers/pay-for-performance)
+      * [PROMISE ](https://www.pa.gov/agencies/dhs/resources/for-providers/promise)
+      * [Provider Enrollment Information ](https://www.pa.gov/agencies/dhs/resources/for-providers/provider-enrollment-information)
+      * [Provider Trainings ](https://www.pa.gov/agencies/dhs/resources/for-providers/provider-trainings)
+      * [RA Mailing Dates ](https://www.pa.gov/agencies/dhs/resources/for-providers/ra-mailing-dates)
+      * [TPL Web Portal ](https://www.pa.gov/agencies/dhs/resources/for-providers/tpl-web-portal)
+      * [Prior Authorization Portal ](https://www.pa.gov/agencies/dhs/resources/for-providers/prior-authorization-portal)
+    * [For Advocates ](https://www.pa.gov/agencies/dhs/resources/for-advocates)
+    * [For DHS Partners ](https://www.pa.gov/agencies/dhs/resources/for-dhs-partners)
+      * [COMPASS Partners.aspx ](https://www.pa.gov/agencies/dhs/resources/for-dhs-partners/compass-partners)
+      * [Contractor Partnership Program ](https://www.pa.gov/agencies/dhs/resources/for-dhs-partners/contractor-partnership-program)
+      * [Stakeholder Quality ](https://www.pa.gov/agencies/dhs/resources/for-dhs-partners/stakeholder-quality)
+    * [Additional Resources for Residents ](https://www.pa.gov/agencies/dhs/resources/for-residents)
+      * [Burial and Cremation ](https://www.pa.gov/agencies/dhs/resources/for-residents/burial-cremation)
+      * [Casualty Recovery ](https://www.pa.gov/agencies/dhs/resources/for-residents/casualty-recovery)
+      * [eHealth for Citizens ](https://www.pa.gov/agencies/dhs/resources/for-residents/ehealth-citizens)
+      * [Employment & Training Programs ](https://www.pa.gov/agencies/dhs/resources/for-residents/employment-training-programs)
+      * [Estate Recovery ](https://www.pa.gov/agencies/dhs/resources/for-residents/estate-recovery)
+      * [Guaranteed Income Pilot Projects ](https://www.pa.gov/agencies/dhs/resources/for-residents/guaranteed-income-pilot-projects)
+      * [Health Equity ](https://www.pa.gov/agencies/dhs/resources/for-residents/health-equity)
+      * [Homeless Assistance ](https://www.pa.gov/agencies/dhs/resources/for-residents/homeless-assistance)
+      * [Housing Resources ](https://www.pa.gov/agencies/dhs/resources/for-residents/housing-resources)
+      * [Legal Help ](https://www.pa.gov/agencies/dhs/resources/for-residents/legal-help)
+      * [Mass Care & Emergency Assistance ](https://www.pa.gov/agencies/dhs/resources/for-residents/masscare)
+      * [PA Navigate ](https://www.pa.gov/agencies/dhs/resources/for-residents/pa-navigate)
+      * [Perinatal and Parenting Support ](https://www.pa.gov/agencies/dhs/resources/for-residents/perinatal-parenting-support)
+      * [Semi-Annual Reporting ](https://www.pa.gov/agencies/dhs/resources/for-residents/semi-annual-reporting)
+      * [Student Assistance Program ](https://www.pa.gov/agencies/dhs/resources/for-residents/student-assistance-program)
+      * [Value Based Purchasing ](https://www.pa.gov/agencies/dhs/resources/for-residents/value-based-purchasing)
+    * [Adopt PA Kids ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids)
+      * [About the Adoption Process ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/adoption-process)
+      * [Adoption Assistance: Q&A ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/adoption-assistance)
+      * [Adoption Terminology ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/adoption-terminology)
+      * [Adoption & Fostering FAQ ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/faq)
+      * [Adoption & Fostering Forms ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/forms)
+      * [Adoption & Fostering Resources ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/resources)
+      * [Adoption & Fostering Support Services ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/support-services)
+      * [Become an Adoptive Parent ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/adoptive-parent)
+      * [Become a Foster Parent ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/foster-parent)
+      * [Case Advocacy ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/case-advocacy)
+      * [Contact SWAN ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/contact-swan)
+      * [Five Things You Should Know ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/five-things)
+      * [Waiting Kids ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/waiting-kids)
+      * [PA Adoption Exchange ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/pa-adoption-exchange)
+      * [Meet The Kids ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/meet-the-kids)
+      * [Post-Permanency Respite Services ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/respite-services)
+      * [Post Permanency Services ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/post-permanency-services)
+      * [​Pennsylvania Adoption Information Registry (PAIR) ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/pair)
+      * [Resource Centers ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/resource-centers)
+      * [Roles Responsibilities of CCYA Education Liaisons ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/roles-responsibilies-ccya-education-liaisons)
+      * [Search & Reunion ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/search-reunion)
+      * [SWAN ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/swan)
+      * [SWAN News ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/swan-news)
+      * [SWAN Events ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/swan-events)
+      * [Support Groups ](https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids/support-groups)
+    * [​Affordable Care Act (ACA) ](https://www.pa.gov/agencies/dhs/resources/affordable-care-act)
+      * [American Rescue Plan Act Initiatives ](https://www.pa.gov/agencies/dhs/resources/affordable-care-act/american-rescue-plan-act-initiatives)
+      * [American Rescue Plan HCBS Public Comment ](https://www.pa.gov/agencies/dhs/resources/affordable-care-act/american-rescue-plan-hcbs-public-comment)
+      * [ARPA Act 2 of 2022 FAQ ](https://www.pa.gov/agencies/dhs/resources/affordable-care-act/arpa-act-2-2022-faq)
+    * [Aging & Physical Disabilities ](https://www.pa.gov/agencies/dhs/resources/aging-physical-disabilities)
+      * [Alternatives to Nursing Homes ](https://www.pa.gov/agencies/dhs/resources/aging-physical-disabilities/alternatives-to-nursing-homes)
+      * [Assistive Technology ](https://www.pa.gov/agencies/dhs/resources/aging-physical-disabilities/assistive-technology)
+      * [Consumer Directed Services ](https://www.pa.gov/agencies/dhs/resources/aging-physical-disabilities/consumer-directed-services)
+      * [Independent Enrollment Broker ](https://www.pa.gov/agencies/dhs/resources/aging-physical-disabilities/independent-enrollment-broker)
+      * [​Living Independence for the Elderly (LIFE) ](https://www.pa.gov/agencies/dhs/resources/aging-physical-disabilities/life)
+      * [Long-Term Care Services ](https://www.pa.gov/agencies/dhs/resources/aging-physical-disabilities/long-term-care-services)
+      * [MA and payment of Long-Term Care ](https://www.pa.gov/agencies/dhs/resources/aging-physical-disabilities/medicaid-payment-long-term-care)
+      * [Medicaid for Older People and People with Disabilities ](https://www.pa.gov/agencies/dhs/resources/aging-physical-disabilities/medicaid-older-people-and-people-with-disabilities)
+      * [Nursing Home Transition ](https://www.pa.gov/agencies/dhs/resources/aging-physical-disabilities/nursing-home-transition)
+      * [OBRA ](https://www.pa.gov/agencies/dhs/resources/aging-physical-disabilities/obra)
+      * [Personal Care Homes ](https://www.pa.gov/agencies/dhs/resources/aging-physical-disabilities/personal-care-homes)
+      * [Services for Persons with Disabilities ](https://www.pa.gov/agencies/dhs/resources/aging-physical-disabilities/services-for-persons-with-disabilities)
+      * [Sign Language Interpretation for Medical Appointments ](https://www.pa.gov/agencies/dhs/resources/aging-physical-disabilities/sign-language-interpretation-for-medical-appointments)
+    * [Cash Assistance ](https://www.pa.gov/agencies/dhs/resources/cash-assistance)
+      * [Diversion Program ](https://www.pa.gov/agencies/dhs/resources/cash-assistance/diversion-program)
+      * [Employment Training for TANF ](https://www.pa.gov/agencies/dhs/resources/cash-assistance/employment-training-tanf)
+      * [Apply for the State Blind Pension Program ](https://www.pa.gov/services/dhs/apply-for-the-state-blind-pension-program)
+      * [Temporary Assistance for Needy Families (TANF) ](https://www.pa.gov/agencies/dhs/resources/cash-assistance/tanf)
+    * [CHIP ](https://www.pa.gov/agencies/dhs/resources/chip)
+      * [About Chip ](https://www.pa.gov/agencies/dhs/resources/chip/about-chip)
+      * [CHIP Coverage ](https://www.pa.gov/agencies/dhs/resources/chip/chip-coverage)
+      * [CHIP Insurance Companies ](https://www.pa.gov/agencies/dhs/resources/chip/chip-insurance-companies)
+      * [CHIP Resources ](https://www.pa.gov/agencies/dhs/resources/chip/chip-resources)
+      * [CHIP FAQ ](https://www.pa.gov/agencies/dhs/resources/chip/faq-chip)
+      * [Eligibility and Benefits ](https://www.pa.gov/agencies/dhs/resources/chip/eligibility-and-benefits)
+      * [CHIP State Plan ](https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/docs/publications/documents/2023-medicaid-state-plan/chip-current-state-plan.pdf)
+    * [Children and Families Complex Needs Planning ](https://www.pa.gov/agencies/dhs/resources/children-families-complex-needs-planning)
+      * [Complex Needs Planning ](https://www.pa.gov/agencies/dhs/resources/children-families-complex-needs-planning/complex-needs-planning)
+      * [Children with Medically Complex Conditions ](https://www.pa.gov/agencies/dhs/resources/children-families-complex-needs-planning/children-with-medically-complex-conditions)
+      * [Personal Stories of Children with Medically Complex Conditions ](https://www.pa.gov/agencies/dhs/resources/children-families-complex-needs-planning/personal-stories-cmc)
+      * [Complex Behavioral Health Blueprint ](https://www.pa.gov/agencies/dhs/resources/children-families-complex-needs-planning/complex-behavioral-health-blueprint)
+      * [Pediatric Capacity Building Institute ](https://www.pa.gov/agencies/dhs/resources/children-families-complex-needs-planning/pediatric-capacity-building-institute)
+      * [Complex Needs Planning Suggested Resources ](https://www.pa.gov/agencies/dhs/resources/children-families-complex-needs-planning/complex-needs-planning-suggested-resources)
+    * [Choking Prevention ](https://www.pa.gov/agencies/dhs/resources/choking-prevention)
+    * [Clearances ](https://www.pa.gov/agencies/dhs/resources/clearances)
+    * [Data Dashboards & Reports ](https://www.pa.gov/agencies/dhs/resources/data-reports)
+      * [About Child Fatality Near Fatality Reports ](https://www.pa.gov/agencies/dhs/resources/data-reports/about-child-fatality-near-fatality-reports)
+      * [Child Abuse Reports ](https://www.pa.gov/agencies/dhs/resources/data-reports/child-abuse-reports)
+      * [​Child Fatality & Near Fatality Reports ](https://www.pa.gov/agencies/dhs/resources/data-reports/child-fatality-near-fatality-reports)
+      * [DHS Services Map ](https://www.pa.gov/agencies/dhs/resources/data-reports/dhs-services-map)
+      * [Early Learning Dashboards ](https://www.pa.gov/agencies/dhs/resources/data-reports/early-learning-dashboards)
+      * [Federal Poverty Income Guidelines ](https://www.pa.gov/agencies/dhs/resources/data-reports/federal-poverty-income-guidelines)
+      * [Highlighted Reports ](https://www.pa.gov/agencies/dhs/resources/data-reports/highlighted-reports)
+      * [OCYF Reports ](https://www.pa.gov/agencies/dhs/resources/data-reports/ocyf-reports)
+      * [OLTL Data Dashboard Archive ](https://www.pa.gov/agencies/dhs/resources/data-reports/oltl-data-dashboard-archive)
+      * [People Enrolled in DHS Benefits ](https://www.pa.gov/agencies/dhs/resources/data-reports/people-enrolled-in-dhs-benefits)
+      * [Personal Care Homes Monthly Report ](https://www.pa.gov/agencies/dhs/resources/data-reports/personal-care-homes-monthly-report)
+      * [Quarterly Summaries Child Abuse ](https://www.pa.gov/agencies/dhs/resources/data-reports/quarterly-summaries-child-abuse)
+      * [Quarterly Licensing Report ](https://www.pa.gov/agencies/dhs/resources/data-reports/quarterly-licensing-report)
+    * [Early Learning & Child Care ](https://www.pa.gov/agencies/dhs/resources/early-learning-child-care)
+      * [5 Steps to Selecting Child Care ](https://www.pa.gov/agencies/dhs/resources/early-learning-child-care/5-steps-selecting-child-care)
+      * [CCDF Executive Summary ](https://www.pa.gov/agencies/dhs/resources/early-learning-child-care/ccdf-executive-summary)
+      * [Child Care Works (CCW) ](https://www.pa.gov/agencies/dhs/resources/early-learning-child-care/child-care-works)
+      * [Child Health Services ](https://www.pa.gov/agencies/dhs/resources/early-learning-child-care/child-health-services)
+      * [Early Intervention Services ](https://www.pa.gov/agencies/dhs/resources/early-learning-child-care/early-intervention-services)
+      * [Early Learning Main ](https://www.pa.gov/agencies/dhs/resources/early-learning-child-care/early-learning-main)
+      * [Early Learning Federal Requirements Monitoring ](https://www.pa.gov/agencies/dhs/resources/early-learning-child-care/early-learning-federal-requirements-monitoring)
+      * [Early Learning Resources Centers (ELRC) ](https://www.pa.gov/agencies/dhs/resources/early-learning-child-care/elrc)
+      * [ECCS Prenatal to Three Project ](https://www.pa.gov/agencies/dhs/resources/early-learning-child-care/eccs-prenatal-three-project)
+      * [Education Stability by Child Welfare Services ](https://www.pa.gov/agencies/dhs/resources/early-learning-child-care/education-stability-child-welfare-services)
+      * [Head Start ](https://www.pa.gov/agencies/dhs/resources/early-learning-child-care/head-start)
+      * [Integrated Childrens Services ](https://www.pa.gov/agencies/dhs/resources/early-learning-child-care/integrated-childrens-services)
+      * [Infant Toddlers Families Waiver ](https://www.pa.gov/agencies/dhs/resources/early-learning-child-care/infant-toddler-families-waiver)
+    * [​Emergency Rental Assistance Program (ERAP) ](https://www.pa.gov/agencies/dhs/resources/erap)
+      * [ERAP Reports and Resources ](https://www.pa.gov/agencies/dhs/resources/erap/erap-reports-and-resources)
+    * [Ending Hunger ](https://www.pa.gov/agencies/dhs/resources/ending-hunger)
+      * [Food Pantries ](https://www.pa.gov/agencies/dhs/resources/ending-hunger/food-pantries)
+      * [Food Programs ](https://www.pa.gov/agencies/dhs/resources/ending-hunger/food-programs)
+      * [Food Programs For Children ](https://www.pa.gov/agencies/dhs/resources/ending-hunger/food-programs-for-children)
+      * [Food Programs For Older Adults ](https://www.pa.gov/agencies/dhs/resources/ending-hunger/food-programs-for-older-adults)
+    * [Enterprise Case Management (ECM) ](https://www.pa.gov/agencies/dhs/resources/ecm)
+      * [About ECM ](https://www.pa.gov/agencies/dhs/resources/ecm/about-ecm)
+      * [ECM Development ](https://www.pa.gov/agencies/dhs/resources/ecm/ecm-development)
+      * [Change & Training ](https://www.pa.gov/agencies/dhs/resources/ecm/change-training)
+      * [ECM Individuals Participants ](https://www.pa.gov/agencies/dhs/resources/ecm/ecm-individual-participants)
+      * [ECM Contact Information ](https://www.pa.gov/agencies/dhs/resources/ecm/ecm-contact-information)
+      * [ECM FAQ ](https://www.pa.gov/agencies/dhs/resources/ecm/faq-ecm)
+      * [ECM News ](https://www.pa.gov/agencies/dhs/resources/ecm/ecm-news)
+      * [ECM Stakeholders ](https://www.pa.gov/agencies/dhs/resources/ecm/ecm-stakeholders)
+      * [ECM Subsystems ](https://www.pa.gov/agencies/dhs/resources/ecm/ecm-subsystems)
+    * [Enterprise Licensing System ](https://www.pa.gov/agencies/dhs/resources/els)
+    * [Federal Cuts ](https://www.pa.gov/agencies/dhs/resources/federal-cuts)
+    * [Find a Facility or Provider ](https://www.pa.gov/agencies/dhs/resources/find-a-facility-or-provider)
+    * [Hearings and Appeals ](https://www.pa.gov/agencies/dhs/resources/hearings-and-appeals)
+      * [BHA Offices and Contact Information ](https://www.pa.gov/agencies/dhs/resources/hearings-and-appeals/bha-offices-contact-info)
+      * [Hearing and Appeals Process ](https://www.pa.gov/agencies/dhs/resources/hearings-and-appeals/hearing-appeals-process)
+    * [Home and Community Based Services ](https://www.pa.gov/agencies/dhs/resources/home-community-based-services-hcbs)
+      * [OLTL-HCBS Plans ](https://www.pa.gov/agencies/dhs/resources/home-community-based-services-hcbs/oltl-hcbs-plans)
+      * [HCBS Statewide Transition Plan ](https://www.pa.gov/agencies/dhs/resources/home-community-based-services-hcbs/hcbs-statewide-transition-plan)
+    * [Intellectual Disabilities & Autism ](https://www.pa.gov/agencies/dhs/resources/intellectual-disabilities-autism)
+      * [Autism Services ](https://www.pa.gov/agencies/dhs/resources/intellectual-disabilities-autism/autism-services)
+      * [Intellectual and Developmental Disability Services ](https://www.pa.gov/agencies/dhs/resources/intellectual-disabilities-autism/intellectual-disabilities-services)
+      * [Everyday Lives ](https://www.pa.gov/agencies/dhs/resources/intellectual-disabilities-autism/everyday-lives)
+      * [We Can Work ](https://www.pa.gov/agencies/dhs/resources/intellectual-disabilities-autism/we-can-work)
+      * [Lifesharing ](https://www.pa.gov/agencies/dhs/resources/intellectual-disabilities-autism/lifesharing)
+      * [Person/Family Directed Support Waiver (PFDS) Waiver ](https://www.pa.gov/agencies/dhs/resources/intellectual-disabilities-autism/pfds-waiver)
+    * [Juvenile Justice ](https://www.pa.gov/agencies/dhs/resources/juvenile-justice)
+      * [Pennsylvania Academic, Career and Technical Training (PACTT) Alliance ](https://www.pa.gov/agencies/dhs/resources/juvenile-justice/pactt)
+      * [​Prison Rape Elimination Act (PREA) ](https://www.pa.gov/agencies/dhs/resources/juvenile-justice/prison-rape-elimination-act)
+      * [Treatment Approaches and Planning ](https://www.pa.gov/agencies/dhs/resources/juvenile-justice/treatment-approaches-planning)
+      * [Youth Development Centers/Youth Forestry Camp ](https://www.pa.gov/agencies/dhs/resources/juvenile-justice/forestry-programs)
+    * [Keep Kids Safe ](https://www.pa.gov/agencies/dhs/resources/keep-kids-safe)
+      * [About Keep Kids Safe ](https://www.pa.gov/agencies/dhs/resources/keep-kids-safe/about-keep-kids-safe)
+      * [Child Abuse Clearances ](https://www.pa.gov/agencies/dhs/resources/keep-kids-safe/child-abuse-clearances)
+      * [Contact Keep Kids Safe ](https://www.pa.gov/agencies/dhs/resources/keep-kids-safe/contact-keep-kids-safe)
+      * [Family First ](https://www.pa.gov/agencies/dhs/resources/keep-kids-safe/family-first)
+      * [FAQ - Keep Kids Safe ](https://www.pa.gov/agencies/dhs/resources/keep-kids-safe/faq-kks)
+      * [Keep Kids Safe Media ](https://www.pa.gov/agencies/dhs/resources/keep-kids-safe/keep-kids-safe-media)
+      * [Mandated Reporter Training ](https://www.pa.gov/agencies/dhs/resources/keep-kids-safe/mandated-reporter-training)
+      * [Report Child Abuse ](https://www.pa.gov/agencies/dhs/resources/keep-kids-safe/report-child-abuse)
+      * [Resources ](https://www.pa.gov/agencies/dhs/resources/keep-kids-safe/resources)
+      * [Safe Sleep Resources ](https://www.pa.gov/agencies/dhs/resources/keep-kids-safe/sudden-unexpected-infant-death)
+    * [Keystones of Health ](https://www.pa.gov/agencies/dhs/resources/keystones-of-health)
+      * [Public Input Process 1115 ](https://www.pa.gov/agencies/dhs/resources/keystones-of-health/public-input-process-1115)
+    * [Licensing by DHS ](https://www.pa.gov/agencies/dhs/resources/licensing)
+      * [Children and Youth Residential Licensing ](https://www.pa.gov/agencies/dhs/resources/licensing/children-youth-residential-licensing)
+      * [Developmental Programs Licensing ](https://www.pa.gov/agencies/dhs/resources/licensing/developmental-programs-licensing)
+      * [Licensing Webinars ](https://www.pa.gov/agencies/dhs/resources/licensing/licensing-webinars)
+      * [Mental Health Programs Licensing ](https://www.pa.gov/agencies/dhs/resources/licensing/mental-health-programs-licensing)
+      * [PCH & ALR Licensing ](https://www.pa.gov/agencies/dhs/resources/licensing/pch-alr-licensing)
+    * [Low-Income Home Energy Assistance Program (LIHEAP) ](https://www.pa.gov/agencies/dhs/resources/liheap)
+      * [Information for LIHEAP Vendors ](https://www.pa.gov/agencies/dhs/resources/liheap/liheap-vendors)
+    * [Medicaid ](https://www.pa.gov/agencies/dhs/resources/medicaid)
+      * [1095-B Tax Form ](https://www.pa.gov/agencies/dhs/resources/medicaid/1095-b-tax-form)
+      * [ASL Interpretation Services for Medical Appointments ](https://www.pa.gov/agencies/dhs/resources/medicaid/asl-interpretation-services)
+      * [Behavioral HealthChoices ](https://www.pa.gov/agencies/dhs/resources/medicaid/bhc)
+      * [Breast and Cervical Cancer Prevention and Treatment (BCCPT) ](https://www.pa.gov/agencies/dhs/resources/medicaid/bccpt)
+      * [Community HealthChoices (CHC) ](https://www.pa.gov/agencies/dhs/resources/medicaid/chc)
+      * [Copay Help ](https://www.pa.gov/agencies/dhs/resources/medicaid/copay-help)
+      * [FAQ-Medicaid Citizenship ](https://www.pa.gov/agencies/dhs/resources/medicaid/faq-medicaid-citizenship)
+      * [Interoperability ](https://www.pa.gov/agencies/dhs/resources/medicaid/interoperability)
+      * [MA Providers Contact ](https://www.pa.gov/agencies/dhs/resources/medicaid/ma-providers-contact)
+      * [Managed Care Quality Strategy ](https://www.pa.gov/agencies/dhs/resources/medicaid/managed-care-quality-strategy)
+      * [Medicaid & CHIP Renewals Home ](https://www.pa.gov/agencies/dhs/resources/medicaid/medicaid-chip-renewals)
+      * [Medicaid General Eligibility ](https://www.pa.gov/agencies/dhs/resources/medicaid/medicaid-general-eligibility)
+      * [Medicaid for-Workers with Disabilities ](https://www.pa.gov/agencies/dhs/resources/medicaid/medicaid-workers-disabilities)
+      * [Medicaid State Plan ](https://www.pa.gov/agencies/dhs/resources/medicaid/medicaid-state-plan)
+      * [Physical HealthChoices Home ](https://www.pa.gov/agencies/dhs/resources/medicaid/hc)
+      * [Pregnancy and Family Planning ](https://www.pa.gov/agencies/dhs/resources/medicaid/pregnancy-family-planning)
+      * [Medicaid for Children with Special Needs ](https://www.pa.gov/agencies/dhs/resources/medicaid/medicaid-children-special-needs-ph95)
+      * [Medicaid Dental-Services ](https://www.pa.gov/agencies/dhs/resources/medicaid/dental-services)
+      * [MIPPA Documents ](https://www.pa.gov/agencies/dhs/resources/medicaid/mippa)
+      * [Pediatric Complex Care Resource Centers ](https://www.pa.gov/agencies/dhs/resources/medicaid/pediatric-complex-care-resource-centers)
+      * [Prescription Drug Coverage ](https://www.pa.gov/agencies/dhs/resources/medicaid/prescription-drug-coverage)
+      * [Post-Award Forum for the Section 1115 Demonstration: Medicaid Coverage for Former Foster Care Youth (FFCY) from a Different State and Substance Use Disorders (SUD) ](https://www.pa.gov/agencies/dhs/resources/medicaid/medicaid-coverage-former-foster-care-youth-different-state-substance-use-disorder-section-1115)
+      * [Statewide MCO Map ](https://www.pa.gov/agencies/dhs/resources/medicaid/statewide-mco-map)
+      * [Waivers ](https://www.pa.gov/agencies/dhs/resources/medicaid/waivers)
+    * [Mental Health & Substance Use Disorder ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder)
+      * [988 ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/988)
+      * [Act 65 of 2020 ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/act-65-of-2020)
+      * [Adult Mental Health Commission ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/adult-mental-health-commission)
+      * [Assertive Community Treatment (ACT)​ ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/assertive-community-treatment)
+      * [Behavioral Health Services for LGBTQI ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/lgbtqi-individuals)
+      * [CASSP ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/cassp)
+      * [CDP Clubhouses ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/cdp-clubhouses)
+      * [CDP Fairweather Lodge ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/cdp-fairweather-lodge)
+      * [Community Support Program ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/csp)
+      * [Compeer ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/compeer)
+      * [Consumer Driven Programs ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/consumer-driven-programs)
+      * [Crisis Intervention Services ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/crisis-intervention-services)
+      * [Crisis Intervention ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/crisis-intervention)
+      * [Disaster Human Services ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/disaster-human-services)
+      * [Drop-In Centers ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/drop-in-centers)
+      * [​Fetal Alcohol Spectrum Disorder (FASD) ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/fetal-alcohol-spectrum-disorder)
+      * [Find Services ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/find-services)
+      * [First Episode Psychosis ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/first-episode-psychosis)
+      * [Housing Financing Funding ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/housing-financing-funding)
+      * [Justice Related Services ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/justice-related-services)
+      * [Mental Health Planning Council ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/mental-health-planning-council)
+      * [​Mental Health Statistical Improvement Program (MHSIP) Survey ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/mhsip)
+      * [Older Adult Initiatives ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/older-adult-initiatives)
+      * [Olmstead Plan ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/olmstead-plan)
+      * [OMHSAS Behavioral Health Telehealth ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/omhsas-behavioral-health-telehealth)
+      * [PA Peer Support ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/pa-peer-support)
+      * [PA Recovery Housing ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/pa-recovery-housing)
+      * [Peer Support Providers ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/peer-support-providers)
+      * [Peer Support Services ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/peer-support-services)
+      * [Peer Support Training ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/peer-support-training)
+      * [Projects for Assistance in Transition from Homelessness (PATH) ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/path)
+      * [School Based Behavioral Health ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/school-based-behavioral-health)
+      * [Substance Use Disorder ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/substance-use-disorder)
+      * [SUD 1115 Waiver ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/sud-1115-waiver)
+      * [Suicide Prevention ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/suicide-prevention)
+      * [Supportive Housing ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/supportive-housing)
+      * [Veterans & Military Families ](https://www.pa.gov/agencies/dhs/resources/mental-health-substance-use-disorder/veterans-military-families)
+    * [Pharmacy Services ](https://www.pa.gov/agencies/dhs/resources/pharmacy-services)
+      * [340B ](https://www.pa.gov/agencies/dhs/resources/pharmacy-services/340b)
+      * [Clinical Guidelines ](https://www.pa.gov/agencies/dhs/resources/pharmacy-services/clinical-guidelines)
+      * [FFS Naloxone ](https://www.pa.gov/agencies/dhs/resources/pharmacy-services/ffs-naloxone)
+      * [Pharmacy Prior Authorization General Requirements ](https://www.pa.gov/agencies/dhs/resources/pharmacy-services/pharmacy-prior-authorization-general-requirements)
+      * [Pharmacy Services Fax Forms ](https://www.pa.gov/agencies/dhs/resources/pharmacy-services/pharmacy-services-fax-forms)
+      * [Preferred Drug List ](https://www.pa.gov/agencies/dhs/resources/pharmacy-services/preferred-drug-list)
+      * [Quantity Limits and Daily Dose Limits ](https://www.pa.gov/agencies/dhs/resources/pharmacy-services/quantity-limits-daily-dose-limits)
+      * [Special Pharmaceuticals ](https://www.pa.gov/agencies/dhs/resources/pharmacy-services/special-pharmaceuticals)
+      * [Specialty Pharmacy Program ](https://www.pa.gov/agencies/dhs/resources/pharmacy-services/specialty-pharmacy-program)
+      * [State MAC List ](https://www.pa.gov/agencies/dhs/resources/pharmacy-services/state-mac-list)
+    * [Policy Handbooks and Manuals ](https://www.pa.gov/agencies/dhs/resources/policy-handbooks-manuals)
+    * [Refugees In PA ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa)
+      * [About Refugees in PA ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/about-refugees-in-pa)
+      * [PA Refugee Service Contractors Directory ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/directory-service-contractors)
+      * [FAQs for Refugees in PA ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/faq-refugees)
+      * [Health Resources ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/health-resources-refugees)
+      * [Unaccompanied Refugee Minors Program ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/unaccompanied-refugee-minors)
+      * [Refugee Health Assessment ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/refugee-health-assessment)
+      * [Health Promotion Programs ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/refugee-health-promotion-programs)
+      * [Refugee Mental and Behavioral Health ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/refugee-mental-health)
+      * [Client Eligibility ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/refugee-client-eligibility)
+      * [​Resources for Cuban and Haitian Entrants ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/cuban-haitian-entrants)
+      * [Refugee Health Program ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/refugee-health-program)
+      * [Refugee Network Organizations ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/refugee-network-organizations)
+      * [​Citizenship Preparation ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/citizenship-prep)
+      * [Refugee Employment Training ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/refugee-employment-training)
+      * [Older Refugees ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/older-refugees)
+      * [Employing Refugees ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/employing-refugees)
+      * [​​Good Job Happy Family Program ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/gjhf)
+      * [Contact PA's Refugee Resettlement Program ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/refugee-contact)
+      * [Refugee Cash Assistance Program ](https://www.pa.gov/agencies/dhs/resources/refugees-in-pa/refugee-cash-assistance-program)
+    * [Secret Safe ](https://www.pa.gov/agencies/dhs/resources/secret-safe)
+      * [Find A Safe Haven ](https://www.pa.gov/agencies/dhs/resources/secret-safe/find-a-safe-haven)
+      * [FAQ-Secret Safe ](https://www.pa.gov/agencies/dhs/resources/secret-safe/faq-secret-safe)
+    * [Summer EBT ](https://www.pa.gov/agencies/dhs/resources/summer-ebt)
+    * [Supplemental Nutrition Assistance Program (SNAP) ](https://www.pa.gov/agencies/dhs/resources/snap)
+      * [SNAP Work Requirements (PEERs) ](https://www.pa.gov/agencies/dhs/resources/snap/snap-work-requirements-abawds)
+      * [SNAP Work Requirements Through Education and Training ](https://www.pa.gov/agencies/dhs/resources/snap/snap-work-requirements-education-training)
+      * [SNAP Income Limits ](https://www.pa.gov/agencies/dhs/resources/snap/snap-income-limits)
+      * [Electronic Benefits Transfer (EBT) ](https://www.pa.gov/agencies/dhs/resources/snap/ebt)
+      * [SNAP Older Adults ](https://www.pa.gov/agencies/dhs/resources/snap/snap-older-adults)
+      * [SNAP for College Students ](https://www.pa.gov/agencies/dhs/resources/snap/snap-college-students)
+      * [SNAP College Employability Program ](https://www.pa.gov/agencies/dhs/resources/snap/snap-college-employability-programs)
+      * [SNAP for Farmers Markets ](https://www.pa.gov/agencies/dhs/resources/snap/snap-for-farmers-markets)
+      * [Employment Training for SNAP ](https://www.pa.gov/agencies/dhs/resources/snap/snap-employment-training)
+      * [SNAP Mass Grant ](https://www.pa.gov/agencies/dhs/resources/snap/snap-mass-grant)
+      * [SNAP Online Purchasing ](https://www.pa.gov/agencies/dhs/resources/snap/snap-online-purchasing)
+      * [SNAP Online Purchasing FAQ ](https://www.pa.gov/agencies/dhs/resources/snap/snap-online-purchasing-faq)
+      * [SNAP Quality Control ](https://www.pa.gov/agencies/dhs/resources/snap/snap-quality-control)
+      * [SNAP Policies & Procedures ](https://www.pa.gov/agencies/dhs/resources/snap/snap-policies-procedures)
+      * [Noncitizen Eligibility ](https://www.pa.gov/agencies/dhs/resources/snap/noncitizen-eligibility)
+      * [SNAP Data ](https://www.pa.gov/agencies/dhs/resources/snap/snap-data)
+      * [SNAP Toolkit ](https://www.pa.gov/agencies/dhs/resources/snap/snap-toolkit)
+      * [SNAP Nutrition Education ](https://www.pa.gov/agencies/dhs/resources/snap/snap-nutrition-education)
+      * [Other Food Assistance Resources ](https://www.pa.gov/agencies/dhs/resources/snap/other-food-assistance-resources)
+      * [Heating and Shelter Utility Allowance ](https://www.pa.gov/agencies/dhs/resources/snap/hsua)
+  * [Report Abuse ](https://www.pa.gov/agencies/dhs/report-abuse)
+    * [Adult Protective Services ](https://www.pa.gov/agencies/dhs/report-abuse/adult-protective-services)
+      * [APS Media Toolkit ](https://www.pa.gov/agencies/dhs/report-abuse/adult-protective-services/aps-media-toolkit)
+  * [Report Fraud ](https://www.pa.gov/agencies/dhs/report-fraud)
+    * [Scams ](https://www.pa.gov/agencies/dhs/report-fraud/scams)
+    * [Fraud, abuse, and misuse prevention ](https://www.pa.gov/agencies/dhs/report-fraud/fraud-abuse-misuse-prevention)
+    * [Medicaid Fraud and Abuse ](https://www.pa.gov/agencies/dhs/report-fraud/medicaid-fraud-abuse)
+    * [Medicaid Provider Compliance Hotline ](https://www.pa.gov/agencies/dhs/report-fraud/medicaid-provider-compliance-hotline)
+    * [Medicaid Fraud Compliance Websites ](https://www.pa.gov/agencies/dhs/report-fraud/medicaid-fraud-compliance-websites)
+    * [Medicheck List ](https://www.pa.gov/agencies/dhs/report-fraud/medicheck-list)
+    * [RAC Providers Review ](https://www.pa.gov/agencies/dhs/report-fraud/rac-providers-review)
+    * [Credit Balance Self Review ](https://www.pa.gov/agencies/dhs/report-fraud/credit-balance-self-review)
+    * [Medicaid Provider Self Audit Protocol ](https://www.pa.gov/agencies/dhs/report-fraud/medicaid-provider-self-audit-protocol)
+    * [MIC Initiative ](https://www.pa.gov/agencies/dhs/report-fraud/mic-initiative)
+    * [Post and Prepayment Review ](https://www.pa.gov/agencies/dhs/report-fraud/post-prepayment-review)
+    * [CAP Guidelines ](https://www.pa.gov/agencies/dhs/report-fraud/cap-guidelines)
+  * [Search DHS ](https://www.pa.gov/agencies/dhs/dhs-search)
+    * [Search DHS Publications ](https://www.pa.gov/agencies/dhs/dhs-search/dhs-publications)
+  * [Newsroom ](https://www.pa.gov/agencies/dhs/newsroom)
+    * [ Shapiro Administration Announces Child Care Recruitment and Retention Grant for Harrisburg Child Care Center, Supporting Child Care Workers & Families ](https://www.pa.gov/agencies/dhs/newsroom/shapiro-administration-announces-child-care-recruitment-and-rete)
+  * [HIPAA: Your Privacy Rights ](https://www.pa.gov/agencies/dhs/hipaa-privacy)
+    * [HIPAA Definition ](https://www.pa.gov/agencies/dhs/hipaa-privacy/hipaa-definition)
+    * [Aviso de Privacidad ](https://www.pa.gov/agencies/dhs/hipaa-privacy/aviso-de-privacidad)
+
+
+  1. [ Agencies ](https://www.pa.gov/agencies)
+  2. [ Department of Human Services ](https://www.pa.gov/agencies/dhs)
+  3. [ Resources & Information ](https://www.pa.gov/agencies/dhs/resources)
+  4. Supplemental Nutrition Assistance Program (SNAP)
+
+
+# Supplemental Nutrition Assistance Program (SNAP)
+SNAP, formerly called food stamps, helps Pennsylvanians buy groceries with an EBT Card. If you need help paying for food, you can apply.
+[ Apply for SNAP (opens in a new tab)](https://www.compass.dhs.pa.gov/home/#/)
+[ Find out if you're eligible (opens in a new tab)](https://www.compass.dhs.pa.gov/intake/#/getstarted)
+## Important Notice About Medicaid and SNAP Benefits
+In July 2025, Republicans in Congress passed a bill that will change programs run by the Pennsylvania Department of Human Services (DHS). President Trump signed that bill into law.
+The law makes changes to [Medicaid (Medical Assistance)](https://www.pa.gov/agencies/dhs/resources/medicaid "https://www.pa.gov/agencies/dhs/resources/medicaid") and the [Supplemental Nutrition Assistance Program (SNAP)](https://www.pa.gov/agencies/dhs/resources/snap "https://www.pa.gov/agencies/dhs/resources/snap"). There are currently no changes to Medicaid. Information about changes to Medicaid will be available in late 2026. DHS will keep Medicaid recipients updated about their benefits and what they need to do to maintain their Medicaid coverage.
+Changes to SNAP include new work reporting requirements that are effective at application, or on your next renewal date. [Learn more about SNAP work requirements,](https://www.pa.gov/agencies/dhs/resources/snap/snap-work-requirements-abawds) how they affect SNAP benefits, and how to report that you are meeting these requirements.  
+  
+**Your benefits will not change without notice from DHS. You will have the opportunity to update your case information before any changes are made.**  
+  
+DHS will help you prepare for changes to your benefits as they come. Be on the lookout for more information from DHS about your benefits.  
+  
+You can help be ready for any changes by keeping your address and other contact information up-to-date with DHS and the US Postal Service.
+## Apply for SNAP
+Apply online, in person, or by mail. All Pennsylvanians who need help are encouraged to apply. You do not need to know whether you are eligible to apply for SNAP. DHS will review your application and let you know.
+### Do I qualify? 
+To qualify for SNAP, you must meet certain rules. These are set by the federal government.
+**Your eligibility depends on:**
+#### Total Household Income:
+Your household income must be within federal limits.
+#### **Details of your Household:**
+Health, disability status, and household size can affect eligibility.
+#### Work and volunteering:
+Some adults must work or volunteer to stay eligible.
+#### Training and education:
+In some cases, going to school or being in a job training program can meet the requirement.
+[ Learn more about SNAP eligibility ](https://www.pa.gov/services/dhs/apply-for-the-supplemental-nutrition-assistance-program-snap#eligibility)
+Some SNAP recipients may also have to [meet work, education, or volunteering requirements](https://www.pa.gov/agencies/dhs/resources/snap/snap-work-requirements-abawds) to stay eligible.
+### Income eligibility for benefits
+Factors that determine your eligibility include household size, monthly income, and if a member of your household is 60 years old or older, or has a disability. The best way to determine if and how much your household will qualify for SNAP is to apply.
+[ Income Verification Walkthrough video (opens in a new tab)](https://www.youtube.com/watch?v=Xbluhwilj9g)
+###  Maximum Benefit Amounts (effective **October 1, 2025)**
+**How much might SNAP help my family?  
+**The table shows the highest monthly benefit a family can receive based on family size. These benefits are not cash and can only be used on food purchases.
+Family Size | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | Each Additional  
+---|---|---|---|---|---|---|---|---|---  
+Maximum | $298  
+| $546  
+| $785  
+| $994  
+| $1,183  
+| $1,421  
+| $1,571  
+| $1,789  
+| Add $218  
+###  SNAP Income Guidelines (effective **October 1, 2025)**
+**What is the income limit for my family size?**  
+Your household’s SNAP income limit depends on multiple factors. The table shows the maximum monthly income, but the best way to know what you qualify for is to apply.
+Household Size | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | Each Addt’l  
+---|---|---|---|---|---|---|---|---|---|---|---  
+Maximum Gross Monthly Income | $2,610 | $3,526 | $4,442 | $5,360 | $6,276 | $7,192 | $8,110 | $9,026 | $9,944 | $10,862 | $918  
+## How to apply
+**Who can apply:**
+  * The head of the household
+  * The spouse of the head of household
+  * Any other responsible household member
+  * A designated authorized representative (can be a friend, relative, neighbor, or community organization) anyone else the applicant trusts to go food shopping and use their SNAP benefits)
+
+
+## Apply now
+### Apply Online
+Apply for SNAP online via COMPASS, Pennsylvania’s benefits management website
+[ Go to COMPASS (opens in a new tab)](https://www.compass.dhs.pa.gov/home/#/)
+### Apply In Person
+You can apply for SNAP and other benefits at your local county assistance office
+[ Find Your County Assistance Office ](https://www.pa.gov/agencies/dhs/contact/cao-information)
+### Print an Application
+You can download a paper application, complete and deliver it in person, or mail it to your local county assistance office.
+[ English Application ](https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/services/assistance/documents/benefits-applications/PA%20600%20FS%20SG%20%E2%80%94%20SNAP.pdf)
+### Imprima una solicitud en Espanol
+Puede descargar una solicitud en papel, completarla y entregarla en persona o enviarla por correo a la oficina de asistencia de su condado local.
+[ Solicitud en Espanol ](https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/services/assistance/documents/benefits-applications/pa-600-fs-s.pdf)
+## SNAP Work Requirements
+A new federal law requires some SNAP recipients to work, volunteer, or be in school or a job training program to stay eligible. To keep getting benefits, you may need to report this to DHS.
+[ Learn what this means for you and how to report your work requirements ](https://www.pa.gov/agencies/dhs/resources/snap/snap-work-requirements-abawds)
+## Get help with:
+Resources to help you report scams, replace lost benefits, fix account issues, and find assistance offices.
+  * [ Report a scam or fraud  ](https://www.pa.gov/agencies/dhs/report-fraud/scams)
+  * [ Replace food bought with benefits after a disaster  ](https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/services/assistance/documents/snap/replacement-snap-flyer-english-pa-1986-05012025-v2.pdf)
+  * [ Fix problems with your account  ](https://www.pa.gov/agencies/dhs/contact/helpful-phone-numbers)
+  * [ Find a County Assistance Office near you  ](https://www.pa.gov/agencies/dhs/contact/cao-information)
+
+
+## Track your application status
+After you apply for benefits, you can check your application at any time. Go to trackmybenefits.pa.gov to see updates on your LIHEAP, Medicaid, SNAP, or TANF application.
+[ Check your status (opens in a new tab)](https://trackmybenefits.pa.gov)
+## SNAP Resources for Residents 
+Learn about specific support for different populations across Pennsylvania. 
+### Older adults 
+Check your eligibility for SNAP if you’re more than 60 years old. 
+[ Check eligibility ](https://www.pa.gov/agencies/dhs/resources/snap/snap-older-adults)
+### College students 
+See if you’re eligible for SNAP benefits as a college student. 
+[ See if you qualify ](https://www.pa.gov/agencies/dhs/resources/snap/snap-college-students)
+### Summer EBT benefits
+Benefits for children may be automatically applied to eligible households. Check your eligibility for summer assistance. 
+[ Check summer benefits ](https://www.pa.gov/agencies/dhs/resources/summer-ebt)
+### Vendors
+Apply to be an authorized SNAP retailer for farmers markets and direct-marketing farmers. 
+[ Apply to be a vendor ](https://www.pa.gov/agencies/dhs/resources/snap/snap-for-farmers-markets)
+## SNAP Policies & Procedures
+View current SNAP policies and procedures. This includes the policy handbook, information about quality control, grants, and semi-annual reporting requirements. 
+[ View all policy-related content ](https://www.pa.gov/agencies/dhs/resources/snap/snap-policies-procedures)
+## Questions?
+Call the Department of Human Services Helpline, toll-free, at [**1-800-692-7462**](tel:18006927462) (1-800-451-5886 for individuals with hearing impairments) or your [county assistance office](https://www.pa.gov/agencies/dhs/contact/cao-information).
+Return to top 
+[ ![Commonwealth of Pennsylvania Home](https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/CoPA%20Logo%20-%20Horizontal%20Lockup%201.svg) ](https://www.pa.gov/en)
+Proudly founded in 1681 as a place of tolerance and freedom.
+  * [ Commonwealth of Pennsylvania Social Media Follow on Facebook ](https://www.facebook.com/GovernorShapiro)
+  * [ Commonwealth of Pennsylvania Social Media Follow on X ](https://x.com/GovernorShapiro)
+  * [ Commonwealth of Pennsylvania Social Media Follow on Bluesky ](https://bsky.app/profile/governor.pa.gov)
+  * [ Commonwealth of Pennsylvania Social Media Follow on Threads ](https://www.threads.net/@governorshapiro)
+  * [ Commonwealth of Pennsylvania Social Media Follow on Instagram ](https://www.instagram.com/GovernorShapiro/)
+  * [ Commonwealth of Pennsylvania Social Media Follow on TikTok ](https://www.tiktok.com/@governorshapiro)
+  * [ Commonwealth of Pennsylvania Social Media Follow on YouTube ](https://www.youtube.com/@GovernorShapiro)
+  * [ Commonwealth of Pennsylvania Social Media Follow on Flickr ](https://www.flickr.com/photos/pagovernor/)
+  * [ Commonwealth of Pennsylvania Social Media Follow on WhatsApp ](https://www.whatsapp.com/channel/0029VbBAs2o6mYPMP8MQsg1b)
+
+
+## Top services
+  * [Register to Vote](https://www.pa.gov/services/vote/register-to-vote)
+  * [Find a DMV](https://www.pa.gov/agencies/dmv/find-a-location)
+  * [Get a Birth Certificate](https://www.pa.gov/agencies/health/programs/vital-records/birth-certificates)
+  * [Join the Veterans Registry](https://www.pa.gov/services/dmva/subscribe-to-veterans--registry-and-monthly-publication)
+  * [PAyback(opens in a new tab)](https://payback.pa.gov/Home/Who)
+
+
+## PA.gov
+  * [Careers & Internships ](https://www.pa.gov/agencies/employment/open-jobs)
+  * [PennWatch(opens in a new tab)](https://pennwatch.pa.gov/Pages/default.aspx)
+  * [Right-to-Know Law(opens in a new tab)](https://www.openrecords.pa.gov/RTKL/CitizensGuide.cfm)
+
+
+Copyright © 2026 Commonwealth of Pennsylvania. All rights reserved.
+  * [Accessibility](https://www.pa.gov/accessibility-policy)
+  * [Privacy & Disclaimers](https://www.pa.gov/privacy-policy)
+  * [Translation Disclaimer](https://www.pa.gov/translation-disclaimer)
+  * [Security](https://www.pa.gov/security-policy)
+  * [Social Media Policy & Disclaimer](https://www.pa.gov/social-media-policy-and-disclaimer)
+
+
+Loading ...
+
+
+--- EMBEDDED FILE CONTENT: https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/services/assistance/documents/benefits-applications/pa-600-fs-s.pdf ---
+
+PA 600 FS-S (SG) 9/19PA 600 FS-S (SG) 9/19 Solicitud para el Programa Suplementario de Asistencia Nutricional (SNAP) de Pennsylvania Pennsylvania recibe información de las agencias federales y de otros estados para verificar los datos que usted brinda. Si usted distorsiona, oculta u omite mencionar hechos que pueden afectar su derecho a los beneficios, es posible que se le requiera reembolsarlos, que sea enjuiciado y que se lo descalifique y no pueda recibir determinados beneficios futuros. Puede presentar su solicitud en línea en: www.compass.state.pa.us ¡Presentar la solicitud es muy fácil! 1. Complete este formulario. 2. Fírmelo y féchelo en las páginas 1 y 5. 3. Traiga el formulario, envíelo por fax o por correo a la oficina de ayuda del condado. Si usted tiene una discapacidad y necesita obtener esta solicitud en letra más grande o en otro formato, llame a nuestra línea de ayuda al 1-800-692-7462. Las personas sordas, con problemas de audición o con discapacidades del habla que desean comunicarse con este centro de atención pueden llamar a los Servicios de Mensajes (PA Relay Services) al 711. Para uso exclusivo de la CAO • CAO Use Only APPLICATION REGISTRATION NUMBER CASELOAD COUNTY DISTRICT RECORD NUMBER DATE STAMP Esta es una solicitud de beneficios de SNAP. Si necesita esta solicitud en otro idioma o alguien para que interprete, comuníquese con la oficina de asistencia de su condado. La asistencia bilingüe será gratuita. This is an application for SNAP benefits. If you need this application in another language or someone to interpret, please contact your local county assistance office. Language assistance will be provided free of charge.
+* * *
+PA 600 FS-S (SG) 9/19PA 600 FS-S (SG) 9/19 Página 1 Introducción Para tomar una decisión en cuanto a su elegibilidad es necesario que responda todas las preguntas, a menos que las instrucciones indiquen que se puede optar por no responder. El procedimiento de solicitud puede comenzarse desde el momento en que escriba su nombre y dirección, firme y envíe la presente solicitud. De ser elegible, sus beneficios de SNAP comienzan desde la fecha de recepción de su solicitud. En un plazo de 30 días se le informará si es elegible o no. Si necesita ayuda con la presente solicitud, llame a la oficina de ayuda del condado local o llame a la línea de ayuda al 1-800-692-7462. What language do you prefer? ¿Qué idioma prefiere usted? English/Inglés Spanish/Español Other/Otro (specify/especifique) Do you need an interpreter? ¿Necesita un intérprete? Yes/Sí No If yes, what language? En caso afirmativo, ¿de qué idioma? APELLIDO NOMBRE INICIAL DEL SEGUNDO NOMBRE DIRECCIÓN (incluya la ciudad, el estado y el código postal) CONDADO TELÉFONO (del domicilio) TELÉFONO (otro) MEJOR HORARIO PARA LLAMAR ¡SNAP rápido! Es posible que obtenga los beneficios de SNAP en el plazo de cinco días. Si la respuesta a cualquiera de estas respuestas es afirmativa, es posible que tenga derecho a beneficios expeditos de SNAP. Esto significa que puede obtener beneficios de SNAP en el plazo de cinco días calendario desde la fecha de su solicitud. Solicite más información comunicándose con la oficina de ayuda del condado local. Sí No ¿Su hogar cuenta con $100 o menos disponibles entre dinero en efectivo y cuentas bancarias, y espera recibir menos de $150 en ingresos este mes? Sí No ¿Es migrante o trabajador agropecuario estacional? Sí No ¿Su ingreso bruto mensual y el dinero en efectivo en mano suman menos que el importe de su alquiler/hipoteca y sus costos de servicios públicos de este mes? Mencione a TODOS los ocupantes de su hogar de ESTE LADO DE LA LÍNEA Detalle la información de ESTE LADO de la línea SOLAMENTE si la persona en cuestión solicita beneficios de SNAP. Apellido, nombre, inicial del segundo nombre: Sexo: ¿Estudia? Fecha de nacimiento: (mm/dd/aaaa) Vínculo con usted: Número de seguro social: ¿Es ciudadano de EE.UU.?* (Si la respuesta es NO, se requiere la presentación de documentos de residente extranjero) M F Sí No SELF Sí No M F Sí No Sí No M F Sí No Sí No M F Sí No Sí No M F Sí No Sí No M F Sí No Sí No M F Sí No Sí No M F Sí No Sí No *La información sobre situación como residente extranjero puede someterse a verificación mediante el Servicio de Ciudadanía e Inmigración de Estados Unidos y puede afectar la elegibilidad familiar y su nivel de beneficios. Certifico que la información incluida en esta página es verídica, a mi leal saber y entender, y que existen sanciones por no decir la verdad en cuanto a mi familia y a mi mismo/a. Firme a continuación y continúe con las siguientes páginas. FIRMA DEL SOLICITANTE FECHA
+* * *
+PA 600 FS-S (SG) 9/19PA 600 FS-S (SG) 9/19 Página 2 Ingresos ¿Alguna de las personas mencionadas recibe algún tipo de ingreso? Sí No En caso afirmativo, detalle los ingresos ya recibidos o que espera recibir este mes. Los ingresos incluyen (aunque no se limitan a) lo siguiente: Salarios Comisiones/regalías Beneficios por enfermedad Trabajo por cuenta propia Alquiler Seguridad social Beneficios por huelga Beneficios para veteranos Pensiones Alojamiento y comidas Pago por cuidado de niños Ingreso Suplementario del Seguro Social (SSI) Apuestas Dividendos o intereses Pensión para hijos menores Pensión alimenticia o compensatoria Dinero para la universidad o para capacitación Indemnización por desempleo o compensación al trabajador Persona con ingresos: Tipo/fuente del ingreso: Monto: Frecuencia: Fecha de recepción: $ $ $ $ $ Adjunte prueba de los ingresos recibidos por los miembros de su familia durante los últimos 30 días. Las pruebas se incluyen los comprobantes de pago o una copia de las cartas de concesión o los cheques de pago correspondientes. Consulta de antecedentes penales Sí No ¿Usted o alguien en su hogar es un delincuente prófugo o se encuentra prófugo para evitar un proceso judicial, custodia o confinamiento en instalaciones correccionales por intento de delito grave o por violar las condiciones de libertad provisional o libertad vigilada impuestas por una ley estatal o federal? En caso afirmativo, detalle quién: Nombre del/de los miembro/s de la familia: Fecha: Estado: Sí No ¿Alguien ha sido hallado culpable de fraude de la asistencia pública? En caso afirmativo, detalle quién: Nombre del/de los miembro/s de la familia: Fecha: Estado: Sí No ¿Usted o alguien en su hogar ha sido descalificado, o ha acordado ser descalificado, y no puede recibir cupones de alimentos o beneficios de SNAP en otro estado? En caso afirmativo, detalle quién:
+* * *
+PA 600 FS-S (SG) 9/19PA 600 FS-S (SG) 9/19 Página 3 Gastos del hogar Cuéntenos sobre sus gastos. Es posible que deba brindar pruebas de sus gastos. Sí No ¿Alguien en su hogar paga manutención de menores a un tercero que no vive con ustedes? En caso afirmativo, ¿lo hace por orden judicial? Sí No Sí No ¿Las comidas se incluyen en el importe de su alquiler? Sí No ¿Paga por la calefacción? Sí No ¿Alguien en su hogar recibe ayuda para la vivienda? En caso afirmativo, ¿de qué tipo? ¿Recibe una asignación para servicios públicos? Sí No Sí No ¿Algún tercero fuera de su hogar paga alguno de sus gastos? En caso afirmativo, ¿qué gastos? ¿Monto? ¿Con qué frecuencia? ¿A quién? Sí No ¿Paga por aire acondicionado central o para usar un equipo de aire acondicionado para una habitación? Marque los gastos pagados mensualmente por usted o un integrante de su hogar. Marque el gasto incluso si usted paga solamente parte de la factura. Teléfono Agua Extracción de basura Instalación de servicios públicos Electricidad Aceite, carbón, madera, queroseno Alcantarillado Gas Propano Otro: Sí No ¿Alguien en su hogar paga por cuidado infantil o cuidado de un adulto con una discapacidad para poder ir a trabajar, a la escuela o a capacitarse? En caso afirmativo, ¿cuánto paga por mes? $ mensuales ¿Quién recibe ese cuidado? Si tiene alguno de los siguientes gastos, ¿cuánto paga por mes? Alquiler: $ Gastos de mantenimiento del condominio: $ Hipoteca: $ Fuentes de propiedades: $ Seguro de propietario: $ Gastos médicos Usted puede obtener más beneficios de SNAP si en su hogar hay alguna persona de 60 años o mayor, o discapacitado, y usted tiene gastos médicos. Marque todos los gastos médicos entre los listados a continuación pagado por usted o alguien en su hogar. Facturas odontológicas Facturas médicas Equipo médico Primas de seguro médico o Medicare Facturas del hospital Medicamentos de venta bajo receta Auxiliares de salud (individuos que ayudan en el hogar con tratamientos médicos) Suministros relacionados con la salud (como lentes, audífonos, pañales para adultos) Todos los costos para concertar visitas médicas, obtener tratamiento médico o retirar recetas. Esto puede incluir costos como los de trasporte público o taxis. Otro: Si no informa gastos del hogar o no los comprueba (en caso de que lo requieran), se supondrá que usted no desea deducciones para tales gastos. (Servicio de Alimentos y Nutrición del Departamento de Agricultura de EE. UU., Región del Atlántico Medio, Aviso Administrativo 6-99, fechado 4 de enero de 1999)
+* * *
+PA 600 FS-S (SG) 9/19PA 600 FS-S (SG) 9/19 Página 4 Para uso execlusivo de la CAO (CAO USE ONLY) 1. Yes No Is anyone in the application group receiving SNAP and not living in a certified shelter for battered women and children? 2. Yes No Is there any postponed verification from a previous expedited issuance that the household must provide? 3. Yes No Are the household liquid resources equal to or less than $100? 4. Yes No Is the countable monthly gross income less than $150? 5. Yes No Is this a migrant or seasonal farm worker household? 6. Yes No Is the household destitute? 7. Yes No Are combined monthly gross income and liquid resources less than monthly shelter expenses? EXPEDITED REVIEW Initials: Date: Eligible Denied CLIENT NOTIFIED Reason for denial: REGISTERED FOR CATEGORIES Si no está inscrito para votar en el lugar donde vive actualmente, ¿desea presentar una solicitud para inscribirse para votar aquí hoy? Sí No SI NO MARCA NINGUNA CASILLA, CONSIDERAREMOS QUE DECIDIÓ NO INSCRIBIRSE PARA VOTAR EN ESTE MOMENTO. Solicitar la inscripción o negarse a inscribirse para votar no afectará la cantidad de la asistencia que recibirá de parte de esta agencia. Si desea ayuda para completar el formulario de solicitud de inscripción de electores, podemos ayudarle. La decisión de buscar o aceptar ayuda es suya. Puede completar el formulario de solicitud en privado. Comuníquese con la oficina de asistencia del condado si desea ayuda. Si cree que alguna persona ha interferido con su derecho a inscribirse para votar o a rechazar la inscripción para votar, su derecho a la privacidad para decidir si se inscribe o para solicitar la inscripción para votar, o su derecho a elegir su propio partido político u otra preferencia política, usted puede presentar una queja ante la Secretaría de Estado en: Secretary of the Commonwealth, PA, Department of State, Harrisburg, PA 17120. (Número de teléfono sin cargo 1-877-VOTESPA). Para inscribirse, usted debe: 1) tener por lo menos 18 años de edad el día de la próxima elección; 2) haber sido ciudadano de los Estados Unidos por un mes como mínimo ANTES DE LA PRÓXIMA ELECCIÓN; 3) residir en Pennsylvania y en el distrito de votación al menos 30 días antes de la próxima elección. Inscripción de electores (opcional) EL PERSONAL DE LA OFICINA DE ASISTENCIA DEL CONDADO COMPLETARÁ ESTA SECCIÓN SEGÚN LO QUE USTED HAYA RESPONDIDO ARRIBA Given to Client __/__/__ Declined, not interested __/__/__ Sent to voter registration __/__/__ Not a U.S. citizen __/__/__ Declined, already registered __/__/__ Mailed to Client __/__/__ Información étnica y racial (opcional) Completar la presente sección no es obligatorio. Detalle la información étnica y racial de quienes viven con usted. Comience por usted mismo. NOMBRE (SUYO) Negro o afroamericano Caucásico Nativo americano o de Alaska Asiático Nativo de Hawái o de islas del Pacífico Hispano No hispano NOMBRE (INDIVIDUO 2) Negro o afroamericano Caucásico Nativo americano o de Alaska Asiático Nativo de Hawái o de islas del Pacífico Hispano No hispano NOMBRE (INDIVIDUO 3) Negro o afroamericano Caucásico Nativo americano o de Alaska Asiático Nativo de Hawái o de islas del Pacífico Hispano No hispano NOMBRE (INDIVIDUO 4) Negro o afroamericano Caucásico Nativo americano o de Alaska Asiático Nativo de Hawái o de islas del Pacífico Hispano No hispano NOMBRE (INDIVIDUO 5) Negro o afroamericano Caucásico Nativo americano o de Alaska Asiático Nativo de Hawái o de islas del Pacífico Hispano No hispano NOMBRE (INDIVIDUO 6) Negro o afroamericano Caucásico Nativo americano o de Alaska Asiático Nativo de Hawái o de islas del Pacífico Hispano No hispano
+* * *
+PA 600 FS-S (SG) 9/19PA 600 FS-S (SG) 9/19 Página 5 ¿Tiene preguntas? Llame a su oficina de asistencia del condado o a nuestro CENTRO DE ATENCIÓN AL CLIENTE al 1-877-395-8930. En Philadelphia, llame al 1-215-560-7226. Estamos para ayudarle. Llame de lunes a viernes, de 8:30 a. m. a 5:00 p. m. TTY/TDD 711 Lea sobre sus derechos y responsabilidades, y después firme. • Entiendo que la información incluida en este formulario se mantendrá en confidencialidad. • Entiendo que Pennsylvania recibe información del Sistema de Verificación de Elegibilidad de Ingresos (IEVS, por sus siglas en inglés) y de otras agencias estatales y federales para verificar la información que he brindado. La información disponible mediante el IEVS se solicitará, usará y podrá verificarse mediante contactos relacionados en caso de que la agencia estatal encuentre detalles contradictorios, y tal información puede afectar la elegibilidad familiar y su nivel de beneficios. Si distorsiono, oculto u omito mencionar hechos que pueden afectar mi derecho a los beneficios, es posible que se me exija que los reembolse, que sea enjuiciado y que se me descalifique y no pueda recibir determinados beneficios futuros. • Autorizo a que se comunique mi información médica, financiera y personal al Departamento de Servicios Humanos de Pennsylvania, y que este la comunique, a los efectos de determinar mi derecho a los beneficios de SNAP. • Entiendo que los cambios que tengo obligación de informar deben informarse en el plazo de los primeros 10 días del mes siguiente al mes del cambio. Entiendo que para los beneficios de SNAP esto incluye lotería o ganancias de apuestas de $3,500 o más, lo cual puede resultar en el cierre inmediato de los beneficios. • Entiendo que puedo solicitar una audiencia si no estoy de acuerdo con la decisión que se haya tomado con referencia a la presente solicitud. • Entiendo que mi situación se encuentra sujeta a verificación por parte de empleadores, fuentes de financiación y otros terceros. • Entiendo que la ley federal requiere que quienes soliciten los beneficios de SNAP informen su número de seguro social. Si no se informa o solicita el número de seguro social, tal individuo no tendrá derecho a SNAP. Estos números podrán usarse para verificar la información incluida en la presente solicitud. (7CFR273.6) Estos números serán verificados en comparación con los registros de la Policía Estatal de Pennsylvania, los registros judiciales de Pennsylvania y otros registros disponibles. • Entiendo que tengo derecho a la asistencia de traductores e intérpretes si no hablo o leo en idioma inglés. Tal servicio se brindará en el plazo requerido para el procesamiento de la solicitud. • Certifico que, a mi leal saber y entender, entiendo mis derechos y obligaciones. • Certifico que toda la información incluida en la presente solicitud es verídica, bajo pena de perjurio (penal). • El no informar o brindar pruebas de los gastos del hogar se considerará como afirmación de que no deseo recibir deducciones por los gastos no informados o no comprobados (autoridad: Servicio de Alimentos y Nutrición del Departamento de Agricultura de EE. UU., Región del Atlántico Medio, aviso administrativo 6-99, fechado 4 de enero de 1999). Entiendo que tengo derecho a recibir crédito por los gastos del hogar en el momento en que lo informe y que es posible que se me solicite que brinde pruebas de ellos en cualquier momento durante mi período de certificación. • Entiendo que puedo designar a un representante autorizado al completar la sección “Representante autorizado” que se incluye a continuación. Al firmar a continuación, certifico que los individuos por los cuales realizo la solicitud son ciudadanos de EE. UU. o no ciudadanos con una situación de inmigrante legal. Debo firmar el presente formulario para tener derecho a los beneficios de SNAP según la ley. SU FIRMA FECHA FIRMA DEL PROVEEDOR/EMPLEADO/TESTIGO FIRMA DEL REPRESENTANTE AUTORIZADO FECHA IMPORTANTE: Si su hogar es elegible para recibir SNAP, podrá recibir un formato de autorización Vía Rápida (Fast Track) por correo, que le permitirá, así como a los miembros de su hogar, ser inscritos automáticamente para recibir Asistencia Médica (Medical Assistance). Nombre del representante autorizado Dirección del representante autorizado Número de teléfono
+* * *
+PA 600 FS-S (SG) 9/19PA 600 FS-S (SG) 9/19 Página 6 Sus derechos y obligaciones DERECHO A LA NO DISCRIMINACIÓN De conformidad con la Ley Federal de Derechos Civiles y los reglamentos y políticas de derechos civiles del Departamento de Agricultura de los EE. UU. (USDA, por sus siglas en inglés), se prohíbe que el USDA, sus agencias, oficinas, empleados e instituciones que participan o administran programas del USDA discriminen sobre la base de raza, color, nacionalidad, sexo, credo religioso, discapacidad, edad, creencias políticas, o en represalia o venganza por actividades previas de derechos civiles en algún programa o actividad realizados o financiados por el USDA. Las personas con discapacidades que necesiten medios alternativos para la comunicación de la información del programa (por ejemplo, sistema Braille, letras grandes, cintas de audio, lenguaje de señas americano, etc.), deben ponerse en contacto con la agencia (estatal o local) en la que solicitaron los beneficios. Las personas sordas, con dificultades de audición o con discapacidades del habla pueden comunicarse con el USDA por medio del Federal Relay Service [Servicio Federal de Retransmisión] llamando al (800) 877-8339. Además, la información del programa se puede proporcionar en otros idiomas. Para presentar una denuncia de discriminación, complete el Formulario de Denuncia de Discriminación del Programa del USDA, (AD-3027) que está disponible en línea en: http://www.ascr.usda.gov/complaint_filing_cust.html y en cualquier oficina del USDA, o bien escriba una carta dirigida al USDA e incluya en la carta toda la información solicitada en el formulario. Para solicitar una copia del formulario de denuncia, llame al (866) 632-9992. Haga llegar su formulario lleno o carta al USDA por: (1) correo: U.S. Department of Agriculture Office of the Assistant Secretary for Civil Rights
+* * *
+## _1400 Independence Avenue, SW_
+Washington, D.C. 20250-9410;
+* * *
+(2) fax: (202) 690-7442; or (3) correo electrónico: program.intake@usda.gov. Esta institución es un proveedor que ofrece igualdad de oportunidades. DECLARACIÓN DE LA LEY DE PRIVACIDAD (i) La recopilación de esta información, incluyendo el número de Seguro Social (SSN) de cada uno de los miembros del grupo familiar, está autorizada de conformidad la Ley de Alimentación y Nutrición (en inglés, Food and Nutrition Act) de 2008, según se enmienda en el Título 7 del U.S.C. 2011-2036. La información se usará para determinar si su grupo familiar tiene este derecho y continúa teniéndolo para participar en el Programa SNAP. Verificaremos esta información usando programas de verificación por computadora. Esta información se usará también para monitorear el cumplimiento de los reglamentos del programa y para la administración del programa. (ii) Esta información se divulgará a otras agencias federales y estatales para evaluación oficial, y a funcionarios de la policía para arrestar a personas fugitivas de la ley. (iii) Si se presenta una reclamación de SNAP contra su grupo familiar, es posible que la información contenida en esta solicitud, incluyendo todos los SSN, se envíe a las agencias federales y estatales, así como a agencias de cobranza privadas, para procesos de cobro por reclamaciones. (iv) Proporcionar la información solicitada, incluso el SSN de cada uno de los miembros del grupo familiar, es voluntario. Sin embargo, si no se proporciona un SSN, esto podría resultar en la denegación de los beneficios de SNAP a cada una de las personas que no lo proporcionen. Todos los SSN proporcionados se usarán y divulgarán de la misma manera que los SSN de los miembros elegibles del grupo familiar. DERECHO A LA CONFIDENCIALIDAD Mantendremos la confidencialidad de su información. Se utilizará solamente para determinar los programas en los que pueda participar según su elegibilidad. Cuando se le solicite, la oficina de asistencia del condado (por sus siglas en inglés, CAO) deberá proporcionarles a los agentes de policía federales, estatales y locales la dirección, el número de Seguro Social (por sus siglas en inglés, SSN) y la fotografía (si estuviera disponible) de cualquier persona que esté fugada para evitar acciones legales, arresto o encarcelamiento por haber cometido un delito grave o violado la libertad bajo palabra o condicional. Toda persona que intencionalmente viole cualquiera de las reglas y reglamentos de este departamento será culpable de una infracción menor y, una vez definida la condena, será sentenciada a pagar una multa que no excederá los cien dólares ($100) o a una pena de prisión por un período que no excederá los seis meses, o ambos (Título 62 de la Ley Estatal de Pennsylvania [por sus siglas en inglés, P.S.], sección 483). DERECHO A UNA NOTIFICACIÓN ESCRITA Le entregaremos una notificación escrita para explicarle sus beneficios. Si denegamos, cambiamos, suspendemos o interrumpimos los beneficios, le entregaremos una explicación escrita de los motivos. Usted tiene 90 días desde la fecha de la notificación para solicitar una audiencia DERECHO DE APELACIÓN Usted tiene derecho a solicitar una audiencia del Departamento de Servicios Humanos (por sus siglas en inglés, DHS) para apelar una decisión que usted considere injusta o incorrecta, o si el DHS no toma medidas con relación a su solicitud de beneficios. Puede presentar la apelación ante la CAO. Si interpone una apelación, también puede solicitar una conferencia con la agencia antes de la audiencia. Si su apelación involucra beneficios de SNAP expeditos, tiene derecho a tener esta conferencia con un supervisor en un plazo de dos días hábiles. En la audiencia, usted puede representarse a sí mismo o puede representarlo otra persona, tal como un abogado, amigo o familiar. RESPONSABILIDAD DE BRINDAR INFORMACIÓN Usted debe brindar información verídica, correcta y completa. Debe ayudar a comprobar la información que brinda. Si no proporciona determinadas pruebas, es posible que se le nieguen los beneficios. Si no puede brindar pruebas, debe solicitarle a la oficina de ayuda del condado que le ayude a obtenerlas. Si el Departamento de Servicios Humanos o la Oficina del Inspector General se comunican con usted, debe cooperar plenamente con tales individuos o investigadores. RESPONSABILIDAD DE INFORMAR CAMBIOS Una vez que califique para los beneficios, se le requerirá que le informe al trabajador social asignado a su caso o al Centro de Atención al Cliente de todo cambio en sus circunstancias. Entre los cambios informados se incluyen la mudanza de individuos a su hogar o de él, una nueva dirección, el nuevo empleo de un individuo, la pérdida del empleo de un individuo, el nacimiento de un niño, nuevas fuentes de ingresos o cambios en los ingresos. El trabajador social asignado a su caso y los avisos que recibirá le informarán los requerimientos específicos en detalle según los programas y beneficios a los que usted tenga derecho. No informar cambios en el plazo determinado por las pautas del programa podría causar la pérdida de beneficios, sanciones o acciones civiles o penales. Puede informar cambios mediante una cuenta COMPASS o por teléfono al Centro de Atención al Cliente, al 1-877-395 8930, o, para Philadelphia, al 1-215-560-7226. También puede informar cambios a su oficina de ayuda del condado por teléfono, fax o correo electrónico.
+* * *
+PA 600 FS-S (SG) 9/19PA 600 FS-S (SG) 9/19 Página 7 Prohibiciones y penalizaciones Lea acerca de sus responsabilidades: SI ESTO SUCEDE SIN CAUSA JUSTIFICADA PUEDE PASAR ESTO (PENALIZACIÓN) Usar indebidamente la tarjeta de Transferencia Electrónica de Beneficios (EBT) o la tarjeta PA ACCESS. Multa, prisión o ambas. No informar cambios, según corresponda. Se reducirán o interrum pirán los beneficios. Deliberadamente proporcionar información que es falsa, incorrecta o incompleta, o no informar cambios. Multa, descalificación y/o prisión por fraude a la asistencia pública, descalificación para procedimientos de audiencias administrativas. Se cancela su derecho para recibir beneficios de SNAP: • Primera vez: 12 meses. • Segunda vez: 24 meses. • Tercera vez: indefinidamente. Comercializar, vender o intentar comercializar, vender o utilizar la tarjeta ACCESS de otra persona. Se cancela su derecho: • Todas las condenas judiciales: 12 meses. Usar indebidamente los beneficios de SNAP de manera deliberada, por ejemplo, canjear, vender o comprar Tarjetas de EBT o beneficios de SNAP; convertir los beneficios; o vaciar envases o recipientes comprados con beneficios de SNAP para cobrar el depósito reembolsable — o comprar artículos que no son cubiertos por SNAP, tales como alcohol o tabaco — o usar los beneficios de SNAP para pagar alimentos que ya se recibieron o comprar alimentos a crédito. Se cancela su derecho: • Primera vez: 12 meses. • Segunda vez: 24 meses. • Tercera vez: indefinidamente. • Primera condena judicial de más de $500: indefinidamente. Comprar un producto con beneficios de SNAP con la intención de obtener dinero en efectivo o una contraprestación que no sean los alimentos elegibles mediante la reventa del producto a cambio de dinero en efectivo o una contraprestación que no sean los alimentos elegibles. Comprar intencionalmente productos que originalmente se compraron con beneficios de SNAP a cambio de dinero en efectivo o una contraprestación que no sean los alimentos elegibles. Usar/recibir beneficios de SNAP para comprar drogas o sustancias controladas. Se cancela su derecho: • Primera vez: 24 meses. • Segunda vez: indefinidamente. Usar/recibir beneficios de SNAP en una venta de armas de fuego, municiones o explosivos.Primera vez: no ser elegible indefinidamente. Ser sentenciado por comprar, vender o canjear beneficios de SNAP por un total de $500 o más.Se cancela su derecho indefinidamente. Mentir sobre su identidad o sobre el lugar donde vive para recibir más de un beneficio de SNAP. Se cancela su derecho por 10 años. Fugarse para evitar acciones legales, arresto o prisión por haber cometido un delito grave/tentativa de delito grave o violado la libertad bajo palabra o condicional. Se cancela su derecho hasta que usted cumpla lo que exige la ley. Si lo declaran culpable de fraude o de violar las reglas antes mencionadas: • multa de hasta $250,000 en el programa SNAP; • prisión durante un máximo de veinte años en el programa SNAP; y/o • reintegrar los beneficios recibidos. • Descalificación para recibir beneficios por los períodos indicados arriba para cada programa. REGLAS DE TRABAJO DEL PROGRAMA SNAP En el caso de miembros del grupo familiar —que sean física y mental mente aptos y tengan más de 15 y menos de 60 años de edad— que no estén exentos de otra manera o que tengan causa justificada. Se cancela su derecho: • Primera vez: un mes y hasta que usted haga lo que corresponda. • Segunda vez: tres meses y hasta que usted haga lo que corresponda. • Tercera vez y subsiguientes: seis meses cada vez y hasta que usted haga lo que corresponda. Rehusarse a: • Aceptar un empleo. • Informarle a la CAO el estado laboral y la disponibilidad para el trabajo. Deliberadamente, tomar medidas para: • Renunciar a un empleo. • Reducir las horas de trabajo a menos de 30 por semana (a menos que otro empleo ya cumpla los requisitos de trabajo).
+* * *
+PA 600 FS-S (SG) 9/19PA 600 FS-S (SG) 9/19 Página 8 CLIENTE Sus derechos y obligaciones DERECHO A LA NO DISCRIMINACIÓN De conformidad con la Ley Federal de Derechos Civiles y los reglamentos y políticas de derechos civiles del Departamento de Agricultura de los EE. UU. (USDA, por sus siglas en inglés), se prohíbe que el USDA, sus agencias, oficinas, empleados e instituciones que participan o administran programas del USDA discriminen sobre la base de raza, color, nacionalidad, sexo, credo religioso, discapacidad, edad, creencias políticas, o en represalia o venganza por actividades previas de derechos civiles en algún programa o actividad realizados o financiados por el USDA. Las personas con discapacidades que necesiten medios alternativos para la comunicación de la información del programa (por ejemplo, sistema Braille, letras grandes, cintas de audio, lenguaje de señas americano, etc.), deben ponerse en contacto con la agencia (estatal o local) en la que solicitaron los beneficios. Las personas sordas, con dificultades de audición o con discapacidades del habla pueden comunicarse con el USDA por medio del Federal Relay Service [Servicio Federal de Retransmisión] llamando al (800) 877-8339. Además, la información del programa se puede proporcionar en otros idiomas. Para presentar una denuncia de discriminación, complete el Formulario de Denuncia de Discriminación del Programa del USDA, (AD-3027) que está disponible en línea en: http://www.ascr.usda.gov/complaint_filing_cust.html y en cualquier oficina del USDA, o bien escriba una carta dirigida al USDA e incluya en la carta toda la información solicitada en el formulario. Para solicitar una copia del formulario de denuncia, llame al (866) 632-9992. Haga llegar su formulario lleno o carta al USDA por: (1) correo: U.S. Department of Agriculture Office of the Assistant Secretary for Civil Rights
+* * *
+## _1400 Independence Avenue, SW_
+Washington, D.C. 20250-9410;
+* * *
+(2) fax: (202) 690-7442; or (3) correo electrónico: program.intake@usda.gov. Esta institución es un proveedor que ofrece igualdad de oportunidades. DECLARACIÓN DE LA LEY DE PRIVACIDAD (i) La recopilación de esta información, incluyendo el número de Seguro Social (SSN) de cada uno de los miembros del grupo familiar, está autorizada de conformidad la Ley de Alimentación y Nutrición (en inglés, Food and Nutrition Act) de 2008, según se enmienda en el Título 7 del U.S.C. 2011-2036. La información se usará para determinar si su grupo familiar tiene este derecho y continúa teniéndolo para participar en el Programa SNAP. Verificaremos esta información usando programas de verificación por computadora. Esta información se usará también para monitorear el cumplimiento de los reglamentos del programa y para la administración del programa. (ii) Esta información se divulgará a otras agencias federales y estatales para evaluación oficial, y a funcionarios de la policía para arrestar a personas fugitivas de la ley. (iii) Si se presenta una reclamación de SNAP contra su grupo familiar, es posible que la información contenida en esta solicitud, incluyendo todos los SSN, se envíe a las agencias federales y estatales, así como a agencias de cobranza privadas, para procesos de cobro por reclamaciones. (iv) Proporcionar la información solicitada, incluso el SSN de cada uno de los miembros del grupo familiar, es voluntario. Sin embargo, si no se proporciona un SSN, esto podría resultar en la denegación de los beneficios de SNAP a cada una de las personas que no lo proporcionen. Todos los SSN proporcionados se usarán y divulgarán de la misma manera que los SSN de los miembros elegibles del grupo familiar. DERECHO A LA CONFIDENCIALIDAD Mantendremos la confidencialidad de su información. Se utilizará solamente para determinar los programas en los que pueda participar según su elegibilidad. Cuando se le solicite, la oficina de asistencia del condado (por sus siglas en inglés, CAO) deberá proporcionarles a los agentes de policía federales, estatales y locales la dirección, el número de Seguro Social (por sus siglas en inglés, SSN) y la fotografía (si estuviera disponible) de cualquier persona que esté fugada para evitar acciones legales, arresto o encarcelamiento por haber cometido un delito grave o violado la libertad bajo palabra o condicional. Toda persona que intencionalmente viole cualquiera de las reglas y reglamentos de este departamento será culpable de una infracción menor y, una vez definida la condena, será sentenciada a pagar una multa que no excederá los cien dólares ($100) o a una pena de prisión por un período que no excederá los seis meses, o ambos (Título 62 de la Ley Estatal de Pennsylvania [por sus siglas en inglés, P.S.], sección 483). DERECHO A UNA NOTIFICACIÓN ESCRITA Le entregaremos una notificación escrita para explicarle sus beneficios. Si denegamos, cambiamos, suspendemos o interrumpimos los beneficios, le entregaremos una explicación escrita de los motivos. Usted tiene 90 días desde la fecha de la notificación para solicitar una audiencia DERECHO DE APELACIÓN Usted tiene derecho a solicitar una audiencia del Departamento de Servicios Humanos (por sus siglas en inglés, DHS) para apelar una decisión que usted considere injusta o incorrecta, o si el DHS no toma medidas con relación a su solicitud de beneficios. Puede presentar la apelación ante la CAO. Si interpone una apelación, también puede solicitar una conferencia con la agencia antes de la audiencia. Si su apelación involucra beneficios de SNAP expeditos, tiene derecho a tener esta conferencia con un supervisor en un plazo de dos días hábiles. En la audiencia, usted puede representarse a sí mismo o puede representarlo otra persona, tal como un abogado, amigo o familiar. RESPONSABILIDAD DE BRINDAR INFORMACIÓN Usted debe brindar información verídica, correcta y completa. Debe ayudar a comprobar la información que brinda. Si no proporciona determinadas pruebas, es posible que se le nieguen los beneficios. Si no puede brindar pruebas, debe solicitarle a la oficina de ayuda del condado que le ayude a obtenerlas. Si el Departamento de Servicios Humanos o la Oficina del Inspector General se comunican con usted, debe cooperar plenamente con tales individuos o investigadores. RESPONSABILIDAD DE INFORMAR CAMBIOS Una vez que califique para los beneficios, se le requerirá que le informe al trabajador social asignado a su caso o al Centro de Atención al Cliente de todo cambio en sus circunstancias. Entre los cambios informados se incluyen la mudanza de individuos a su hogar o de él, una nueva dirección, el nuevo empleo de un individuo, la pérdida del empleo de un individuo, el nacimiento de un niño, nuevas fuentes de ingresos o cambios en los ingresos. El trabajador social asignado a su caso y los avisos que recibirá le informarán los requerimientos específicos en detalle según los programas y beneficios a los que usted tenga derecho. No informar cambios en el plazo determinado por las pautas del programa podría causar la pérdida de beneficios, sanciones o acciones civiles o penales. Puede informar cambios mediante una cuenta COMPASS o por teléfono al Centro de Atención al Cliente, al 1-877-395 8930, o, para Philadelphia, al 1-215-560-7226. También puede informar cambios a su oficina de ayuda del condado por teléfono, fax o correo electrónico.
+* * *
+PA 600 FS-S (SG) 9/19PA 600 FS-S (SG) 9/19 Página 9 CLIENTE Prohibiciones y penalizaciones Lea acerca de sus responsabilidades: SI ESTO SUCEDE SIN CAUSA JUSTIFICADA PUEDE PASAR ESTO (PENALIZACIÓN) Usar indebidamente la tarjeta de Transferencia Electrónica de Beneficios (EBT) o la tarjeta PA ACCESS. Multa, prisión o ambas. No informar cambios, según corresponda. Se reducirán o interrum pirán los beneficios. Deliberadamente proporcionar información que es falsa, incorrecta o incompleta, o no informar cambios. Multa, descalificación y/o prisión por fraude a la asistencia pública, descalificación para procedimientos de audiencias administrativas. Se cancela su derecho para recibir beneficios de SNAP: • Primera vez: 12 meses. • Segunda vez: 24 meses. • Tercera vez: indefinidamente. Comercializar, vender o intentar comercializar, vender o utilizar la tarjeta ACCESS de otra persona. Se cancela su derecho: • Todas las condenas judiciales: 12 meses. Usar indebidamente los beneficios de SNAP de manera deliberada, por ejemplo, canjear, vender o comprar Tarjetas de EBT o beneficios de SNAP; convertir los beneficios; o vaciar envases o recipientes comprados con beneficios de SNAP para cobrar el depósito reembolsable — o comprar artículos que no son cubiertos por SNAP, tales como alcohol o tabaco — o usar los beneficios de SNAP para pagar alimentos que ya se recibieron o comprar alimentos a crédito. Se cancela su derecho: • Primera vez: 12 meses. • Segunda vez: 24 meses. • Tercera vez: indefinidamente. • Primera condena judicial de más de $500: indefinidamente. Comprar un producto con beneficios de SNAP con la intención de obtener dinero en efectivo o una contraprestación que no sean los alimentos elegibles mediante la reventa del producto a cambio de dinero en efectivo o una contraprestación que no sean los alimentos elegibles. Comprar intencionalmente productos que originalmente se compraron con beneficios de SNAP a cambio de dinero en efectivo o una contraprestación que no sean los alimentos elegibles. Usar/recibir beneficios de SNAP para comprar drogas o sustancias controladas. Se cancela su derecho: • Primera vez: 24 meses. • Segunda vez: indefinidamente. Usar/recibir beneficios de SNAP en una venta de armas de fuego, municiones o explosivos.Primera vez: no ser elegible indefinidamente. Ser sentenciado por comprar, vender o canjear beneficios de SNAP por un total de $500 o más.Se cancela su derecho indefinidamente. Mentir sobre su identidad o sobre el lugar donde vive para recibir más de un beneficio de SNAP. Se cancela su derecho por 10 años. Fugarse para evitar acciones legales, arresto o prisión por haber cometido un delito grave/tentativa de delito grave o violado la libertad bajo palabra o condicional. Se cancela su derecho hasta que usted cumpla lo que exige la ley. Si lo declaran culpable de fraude o de violar las reglas antes mencionadas: • multa de hasta $250,000 en el programa SNAP; • prisión durante un máximo de veinte años en el programa SNAP; y/o • reintegrar los beneficios recibidos. • Descalificación para recibir beneficios por los períodos indicados arriba para cada programa. REGLAS DE TRABAJO DEL PROGRAMA SNAP En el caso de miembros del grupo familiar —que sean física y mental mente aptos y tengan más de 15 y menos de 60 años de edad— que no estén exentos de otra manera o que tengan causa justificada. Se cancela su derecho: • Primera vez: un mes y hasta que usted haga lo que corresponda. • Segunda vez: tres meses y hasta que usted haga lo que corresponda. • Tercera vez y subsiguientes: seis meses cada vez y hasta que usted haga lo que corresponda. Rehusarse a: • Aceptar un empleo. • Informarle a la CAO el estado laboral y la disponibilidad para el trabajo. Deliberadamente, tomar medidas para: • Renunciar a un empleo. • Reducir las horas de trabajo a menos de 30 por semana (a menos que otro empleo ya cumpla los requisitos de trabajo).
+* * *
+PA 600 FS-S (SG) 9/19PA 600 FS-S (SG) 9/19
+* * *
+
+
+
+--- EMBEDDED FILE CONTENT: https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/services/assistance/documents/benefits-applications/PA%20600%20FS%20SG%20%E2%80%94%20SNAP.pdf ---
+
+PA 600 FS (SG) 9/19PA 600 FS (SG) 9/19 Pennsylvania Application for the Supplemental Nutrition Assistance Program (SNAP) Pennsylvania receives information from other state and federal agencies to verify the information you give us. If you misrepresent, hide or withhold facts which may affect your eligibility for benefits, you may be required to repay your benefits, and you may be prosecuted and disqualified from receiving certain future benefits. You can apply online at: www.compass.state.pa.us It’s easy to apply! 1. Fill out this form. 2. Sign and date it on page 1 and page 5. 3. Bring, fax, or mail your form to your county assistance office. If you have a disability and need this application in large print or another format, please call our helpline at 1-800-692-7462. Individuals who are deaf, hard of hearing, or have speech disabilities and wish to communicate with the helpline may call PA Relay Services by dialing 711. Esta es una solicitud de beneficios de SNAP. Si necesita esta solicitud en otro idioma o alguien para que interprete, comuníquese con la oficina de asistencia de su condado. La asistencia bilingüe será gratuita. This is an application for SNAP benefits. If you need this application in another language or someone to interpret, please contact your local county assistance office. Language assistance will be provided free of charge. CAO Use Only APPLICATION REGISTRATION NUMBER CASELOAD COUNTY DISTRICT RECORD NUMBER DATE STAMP
+* * *
+PA 600 FS (SG) 9/19PA 600 FS (SG) 9/19 Page 1 Getting Started We need answers to all questions to make a decision on your eligibility, unless the instructions tell you that you can choose not to answer. We can start your application as soon as you write your name and address, sign and return this application. If you are eligible, SNAP benefits start from the date we receive your application. We will tell you within 30 days if you are eligible or not. If you need help with this application, please call your local county assistance office or call the helpline at 1-800-692-7462. YOUR LAST NAME YOUR FIRST NAME MIDDLE INITIAL YOUR ADDRESS (Include city, state, & ZIP code) COUNTY PHONE NUMBER (Home) PHONE NUMBER (Other) BEST TIME TO CALL Quick SNAP! You may be able to get SNAP benefits within five days. If the answer to any of these questions is yes, you may have the right to expedited SNAP benefits. This means you can get SNAP benefits within five calendar days of the date you apply. Ask for more information by contacting your local county assistance office. Yes No Does your household have $100 or less in available cash and bank accounts and expect to receive less than $150 in income this month? Yes No Are you a migrant or seasonal farm worker? Yes No Is your monthly gross income and cash on hand less than your rent/mortgage and utility costs for this month? List EVERYONE in your home on THIS SIDE OF THE LINE List information on THIS SIDE of the line ONLY if the person is requesting SNAP benefits. Last name, first name, middle initial: Sex: Student? Birthdate: (mm/dd/yyyy) Relationship to you: Social Security number: U.S. Citizen?* (If NO, Alien documentation is required.) M F Yes No SELF Yes No M F Yes No Yes No M F Yes No Yes No M F Yes No Yes No M F Yes No Yes No M F Yes No Yes No M F Yes No Yes No M F Yes No Yes No *Alien status information may be subject to verification through United States Citizen and Immigration Services and such information may affect the household’s eligibility and level of benefits. I certify that the information contained on this page is true to the best of my knowledge and belief, and that there are penalties for not telling the truth about my family and myself. Please sign below and continue to the following pages. SIGNATURE OF APPLICANT DATE What language do you prefer? ¿Qué idioma prefiere usted? English/Inglés Spanish/Español Other/Otro (specify/especifique) Do you need an interpreter? ¿Necesita un intérprete? Yes/Sí No If yes, what language? En caso afirmativo, ¿de qué idioma?
+* * *
+PA 600 FS (SG) 9/19PA 600 FS (SG) 9/19 Page 2 Income Does anyone have any income? Yes No If yes, list income you have already received this month or expect to receive. Income includes but is not limited to: Wages Rent Alimony/Support Pensions Sick benefits Self employment Social Security Unemployment or Workers’ Compensation Commissions/Royalties Veteran’s benefits SSI Money for college or training Baby sitting Strike benefits Room and board Dividends or interest Child support Gambling Person with income Type/source of income How much? How often? Date received $ $ $ $ $ Attach proof of income your household received for the last 30 days. Proof includes pay stubs or a copy of award letters or pay checks. Criminal History Inquiry Yes No Are you or anyone in your household a fleeing felon or fleeing to avoid prosecution, custody, or confinement in a correctional facility for an attempted felony, or violating a condition of probation or parole imposed under a federal or state law? If yes, tell us who: Name of household member(s): Date: State: Yes No Has anyone been convicted of welfare fraud? If yes, tell us who: Name of household member(s): Date: State: Yes No Have you or anyone in your household been disqualified or agreed to be disqualified for food stamps or SNAP benefits in another state? If yes, tell us who:
+* * *
+PA 600 FS (SG) 9/19PA 600 FS (SG) 9/19 Page 3 Household Expenses Please tell us about your expenses. You may need to provide proof of your expenses. Yes No Does anyone in your home pay child support to a person who does not live with you? If yes, is it court ordered? Yes No Yes No Are meals included in your rent? Yes No Do you pay for heat? Yes No Does anyone in your home get housing assistance? If yes, what kind? Do you get a utility allowance? Yes No Yes No Is there anyone outside of your household who pays any of your expenses? If yes, what expenses? How much? How often? To whom? Yes No Do you pay for central air or to run a room air conditioner(s)? Check any expenses paid each month by you or anyone in your home. Please check even if you only pay part of the bill. Telephone Water Garbage Utility installation Electric Oil, coal, wood, kerosene Sewer Gas Propane Other: Yes No Does anyone pay for childcare or care for an adult with a disability so he or she can go to work, school or training? If yes, how much per month? $ monthly Who receives care? If you have any of these expenses, how much do you pay per month? Rent: $ Condo fees: $ Mortgage: $ Property fees: $ Homeowner’s insurance: $ Medical Expenses You may get more SNAP benefits if someone in your home is 60 years old or older, or disabled, and you have medical expenses. Check any medical expense below that you or someone in your home pays. Dental bills Doctor bills Medical equipment Health insurance or Medicare premiums Hospital bills Prescription medicines Health aides (people in your home to help with medical treatments Health-related supplies (such as eyeglasses, hearing aids, adult diapers) Any costs to get medical appointments, medical treatment, or to pick up prescriptions. These can be costs such as taxis and public transportation. Other: If you do not report household expenses and give proof of them (if required), we will assume that you do not want a deduc tion for those expenses. (U.S. Department of Agriculture, Food and Nutrition Service, Mid-Atlantic region, Administrative Notice 6-99, issued January 4, 1999)
+* * *
+PA 600 FS (SG) 9/19PA 600 FS (SG) 9/19 Page 4 CAO USE ONLY 1. Yes No Is anyone in the application group receiving SNAP and not living in a certified shelter for battered women and children? 2. Yes No Is there any postponed verification from a previous expedited issuance that the household must provide? 3. Yes No Are the household liquid resources equal to or less than $100? 4. Yes No Is the countable monthly gross income less than $150? 5. Yes No Is this a migrant or seasonal farm worker household? 6. Yes No Is the household destitute? 7. Yes No Are combined monthly gross income and liquid resources less than monthly shelter expenses? EXPEDITED REVIEW Initials: Date: Eligible Denied CLIENT NOTIFIED Reason for denial: REGISTERED FOR CATEGORIES If you are not registered to vote where you live now, would you like to apply to register to vote here today? Yes No IF YOU DO NOT CHECK EITHER BOX, YOU WILL BE CONSIDERED TO HAVE DECIDED NOT TO REGISTER TO VOTE AT THIS TIME. Applying to register or declining to register to vote will not affect the amount of assistance you will be provided by this agency. If you would like help filling out the voter registration application form, we will help you. The decision whether to seek or accept help is yours. You may fill out the application form in private. Please contact the county assistance office if you would like help. If you believe that someone has interfered with your right to register or to decline to register to vote, your right to privacy in deciding whether to register or in applying to register to vote, or your right to choose your own political party or other political preference, you may file a complaint with the Secretary of the Commonwealth, PA Department of State, Harrisburg, PA 17120. (Toll-free telephone number 1-877-VOTESPA.) To register, you must: 1) Be at least 18 on the day of the next election; 2) Be a citizen of the United States for at least one month PRIOR TO THE NEXT ELECTION; 3) Reside in Pennsylvania and the voting district at least 30 days prior to the next election. Voter Registration (Optional) COUNTY ASSISTANCE OFFICE STAFF WILL COMPLETE THIS BOX BASED UPON YOUR RESPONSE ABOVE Given to Client __/__/__ Declined, not interested __/__/__ Sent to voter registration __/__/__ Not a U.S. citizen __/__/__ Declined, already registered __/__/__ Mailed to Client __/__/__ Racial and Ethnic Information (Optional) You are not required to complete this section. Please list the racial and ethnic information about the people who live with you. Start with yourself. NAME (YOURSELF) Black or African American White American Indian or Alaska Native Asian Native Hawaiian or Pacific Islander Hispanic Non-Hispanic NAME (PERSON 2) Black or African American White American Indian or Alaska Native Asian Native Hawaiian or Pacific Islander Hispanic Non-Hispanic NAME (PERSON 3) Black or African American White American Indian or Alaska Native Asian Native Hawaiian or Pacific Islander Hispanic Non-Hispanic NAME (PERSON 4) Black or African American White American Indian or Alaska Native Asian Native Hawaiian or Pacific Islander Hispanic Non-Hispanic NAME (PERSON 5) Black or African American White American Indian or Alaska Native Asian Native Hawaiian or Pacific Islander Hispanic Non-Hispanic NAME (PERSON 6) Black or African American White American Indian or Alaska Native Asian Native Hawaiian or Pacific Islander Hispanic Non-Hispanic
+* * *
+PA 600 FS (SG) 9/19PA 600 FS (SG) 9/19 Page 5 Questions? Call your CAO or our CUSTOMER SERVICE CENTER at 1-877-395-8930. In Philadelphia, call 1-215-560-7226. We are here to help you. Call Monday thru Friday 8:30 a.m. to 5 p.m. TTY/TDD 711 Read about your rights and responsibilities and then sign. • I understand that the information on this form will be kept confidential. • I understand that Pennsylvania receives information from the Income Eligibility Verification System (IEVS) and other state and federal agencies to verify the information I give them. Information available through IEVS will be requested, used and may be verified through collateral contact when conflicting details are found by the state agency, and such information may affect the household’s eligibility and level of benefits. If I misrepresent, hide or withhold facts which may affect my eligibility for benefits, I may be required to repay my benefits and I may be prosecuted and disqualified from receiving certain future benefits. • I authorize the release of personal, financial, and medical information to and from the PA Department of Human Services for the purpose of determining eligibility for SNAP. • I understand that any changes I am required to report must be reported within the first 10 days of the month following the month of change. I understand that for SNAP benefits this includes lottery or gambling winnings of $3,500 or more, which may result in immediate benefit closure. • I understand that I can request a hearing if I do not agree with a decision made on this application. • I understand that my situation is subject to verification from employers, financial sources and other third parties. • I understand that federal law requires SNAP applicants to provide Social Security numbers. If Social Security numbers are not provided or applied for, the person will not be eligible for SNAP. These numbers may be used to check the information on this application. (7CFR273.6) These numbers will be checked with PA State Police records, PA court files and other records that are made available. • I understand that I have a right to interpreting and translating help if I do not speak or read English. The service will be provided within the required time frames for processing an application. • I certify to the best of my knowledge that I understand my rights and responsibilities. • I certify that all information on this application is true, under penalty of perjury (criminal). • Failure to report or provide proof of household expenses will be regarded as my statement that I do not want to receive a deduction for unreported or unproven expenses (Authority: U.S. Department of Agriculture, Food & Nutrition Service, Mid Atlantic region, Administrative Notice 6-99 issued Jan. 4, 1999). I understand that I have the right to receive credit for household expenses at the time I report and that I may be asked to provide proof of them at any time during my certification period. • I understand that I can designate an authorized representative by completing the Authorized Representative section below. By signing my name below, I certify that the persons I am applying for are U.S. citizens or non-citizens in lawful immigration status. I must sign this form to be eligible for SNAP benefits under law. YOUR SIGNATURE DATE PROVIDER/EMPLOYEE/WITNESS SIGNATURE SIGNATURE OF AUTHORIZED REPRESENTATIVE DATE IMPORTANT: If your household is eligible for SNAP, you may receive a Fast Track consent form in the mail that could allow you and your household members to be automatically enrolled in Medical Assistance. Name of Authorized Representative Address of Authorized Representative Phone Number
+* * *
+PA 600 FS (SG) 9/19PA 600 FS (SG) 9/19 Page 6 Your Rights and Responsibilities RIGHT TO NONDISCRIMINATION In accordance with Federal civil rights law and U.S. Department of Agriculture (USDA) civil rights regulations and policies, the USDA, its Agencies, offices, and employees, and institutions participating in or administering USDA programs are prohibited from discriminating based on race, color, national origin, sex, religious creed, disability, age, political beliefs, or reprisal or retaliation for prior civil rights activity in any program or activity conducted or funded by USDA. Persons with disabilities who require alternative means of communication for program information (e.g. Braille, large print, audiotape, American Sign Language, etc.), should contact the Agency (State or local) where they applied for benefits. Individuals who are deaf, hard of hearing or have speech disabilities may contact USDA through the Federal Relay Service at (800) 877-8339. Additionally, program information may be made available in languages other than English. To file a program complaint of discrimination, complete the USDA Program Discrimination Complaint Form, (AD-3027) found online at: http://www. ascr.usda.gov/complaint_filing_cust.html, and at any USDA office, or write a letter addressed to USDA and provide in the letter all of the information requested in the form. To request a copy of the complaint form, call (866) 632-9992. Submit your completed form or letter to USDA by: (1) mail: U.S. Department of Agriculture Office of the Assistant Secretary for Civil Rights
+* * *
+## _1400 Independence Avenue, SW_
+Washington, D.C. 20250-9410;
+* * *
+(2) fax: (202) 690-7442; or (3) email: program.intake@usda.gov. This institution is an equal opportunity provider. PRIVACY ACT STATEMENT (i) The collection of this information, including the Social Security number (SSN) of each household member, is authorized under the Food and Nutrition Act of 2008, as amended, 7 U.S.C. 2011-2036. The information will be used to determine whether your household is eligible or continues to be eligible to participate in SNAP. We will verify this information through computer matching programs. This information will also be used to monitor compliance with program regulations and for program management. (ii) This information may be disclosed to other federal and state agencies for official examination, and to law enforcement officials for the purpose of apprehending persons fleeing to avoid the law. (iii) If a SNAP claim arises against your household, the information on this application, including all SSNs, may be referred to federal and state agencies, as well as private claims collection agencies, for claims collection action. (iv) Providing the requested information, including the SSN of each household member, is voluntary. However, failure to provide an SSN will result in the denial of SNAP benefits to each individual failing to provide an SSN. Any SSNs provided will be used and disclosed in the same manner as SSNs of eligible household members. RIGHT TO CONFIDENTIALITY We will keep your information private. It will only be used to decide which programs you may be eligible for. The county assistance office, when requested, must provide federal, state and local law enforcement officials with the address, SSN and photograph (if available) of an individual who is fleeing to avoid prosecution, custody or confinement for a felony or violating probation or parole. Any person knowingly violating any of the rules and regulations of this department shall be guilty of a misdemeanor and, upon conviction shall be sentenced to pay a fine, not exceeding one hundred ($100) dollars, or to undergo imprisonment, not exceeding six months, or both (62 P.S. section 483). RIGHT TO A WRITTEN NOTICE We will give you a written notice explaining your benefits. If we deny, change, suspend or stop benefits, we will give you a written explanation of why. You have 90 days from the mailing date of your written explanation/eligibility notice to ask for a hearing for your SNAP benefits. RIGHT TO APPEAL You have the right to ask for a Department of Human Services (DHS) hearing to appeal a decision if you believe it is unfair or incorrect, or if DHS fails to act on your application for benefits. You may file the appeal at the county assistance office. If you appeal, you may also request an agency conference before the hearing. If your appeal involves expedited SNAP benefits, you have the right to have this conference with a supervisor within two work days. At the hearing, you may represent yourself, or someone else, such as a lawyer, friend or relative, may represent you. RESPONSIBILITY TO PROVIDE INFORMATION You must give true, correct and complete information. You must help in proving the information you give. Benefits may be denied if you fail to provide certain proof. If you cannot provide proof, you should ask the county assistance office to help you obtain it. If you are contacted by DHS or the Office of Inspector General, you must fully cooperate with those persons or investigators. RESPONSIBILITY TO REPORT CHANGES Once you qualify for benefits, you will be required to report changes in your circumstances to your caseworker or to the Customer Service Center. Types of changes reported would include people leaving or moving into the house, a new address, a new job for someone, if someone loses a job, birth of a child, new sources of income or changes to income. Your caseworker and notices you receive will cover the specifics in detail based on the programs and benefits you are eligible for. Failure to report changes within the program guidelines could result in a loss of benefits, sanctions, or civil or criminal charges. You may report changes through a COMPASS account or by phone to the Customer Service Center at 1-877-395-8930, or for Philadelphia, 1-215-560-7226. You may also report changes to your county assistance office by phone, fax or mail.
+* * *
+PA 600 FS (SG) 9/19PA 600 FS (SG) 9/19 Page 7 Prohibitions and Penalties Read about your responsibilities: IF THIS HAPPENS WITHOUT GOOD CAUSE THIS MAY HAPPEN (PENALTY) Misuse Electronic Benefits Transfer (EBT) Card or PA ACCESS Card. Fine, prison, or both. Do not report changes, as required. Benefits cut or stopped. On purpose, give information that is false, incorrect or incomplete, or not report changes. Fine, disqualification and/or jail time for Welfare Fraud, disqualification for administrative hearing proceedings. Not eligible for SNAP: • First time12 months. • Second time24 months. • Third timeforever. Trade, sell or attempt to trade, sell, buy or use another person’s ACCESS Card. Not eligible: • All court convictions12 months. On purpose, misuse SNAP benefits, for example, trade, sell, or buy EBT Card or SNAP benefits; convert benefits; or dump containers purchased with SNAP benefits to receive deposits – or buy things not covered by SNAP, such as alcohol or tobacco – or use SNAP benefits to pay for food already received or food on credit. Not eligible: • First time12 months. • Second time24 months. • Third timeforever. • First time court conviction over $500forever. Purchase a product with SNAP benefits with the intent of obtaining cash or consideration other than eligible food by reselling the product in exchange for cash or consideration other than eligible food. Purposefully, purchase products originally purchased with SNAP benefits in exchange for cash or consideration other than eligible food. Use/receive SNAP benefits to buy drugs or controlled substances. Not eligible: • First time24 months. • Second timeforever. Use/receive SNAP benefits in sale of firearms, ammunition, or explosives. First timenot eligible forever. Be convicted for buying, selling or trading SNAP benefits for total of $500 or more. Not eligible forever. Lie about who you are or where you live to receive more than one SNAP benefit. Not eligible for 10 years. Flee to avoid prosecution, custody, or confinement because of a felony/attempted felony – or flee because of breaking probation or parole. Not eligible until you do what the law says. If you are found guilty of fraud or breaking the above rules: • Fine up to $250,000 for SNAP; • Jail up to 20 years for SNAP; and/or • Paying back benefits received. • Disqualification from benefits for periods stated above by program. SNAP WORK RULES For household members – physically and mentally fit – over age 15 and under 60 – not otherwise exempt or with good cause. Not eligible: • First timeone month and until you do what is required. • Second timethree months and until you do what is required. • Three or more timessix months each time and until you do what is required. Refuse to: • Accept a job. • Tell CAO about work status and job availability. On purpose, take action to: • Quit a job. • Cut work hours to less than 30 per week (unless another job already meets work requirements).
+* * *
+PA 600 FS (SG) 9/19PA 600 FS (SG) 9/19 Page 8 CLIENT This is a copy of your rights and responsibilities. Please keep this page for your records. Your Rights and Responsibilities RIGHT TO NONDISCRIMINATION In accordance with Federal civil rights law and U.S. Department of Agriculture (USDA) civil rights regulations and policies, the USDA, its Agencies, offices, and employees, and institutions participating in or administering USDA programs are prohibited from discriminating based on race, color, national origin, sex, religious creed, disability, age, political beliefs, or reprisal or retaliation for prior civil rights activity in any program or activity conducted or funded by USDA. Persons with disabilities who require alternative means of communication for program information (e.g. Braille, large print, audiotape, American Sign Language, etc.), should contact the Agency (State or local) where they applied for benefits. Individuals who are deaf, hard of hearing or have speech disabilities may contact USDA through the Federal Relay Service at (800) 877-8339. Additionally, program information may be made available in languages other than English. To file a program complaint of discrimination, complete the USDA Program Discrimination Complaint Form, (AD-3027) found online at: http://www. ascr.usda.gov/complaint_filing_cust.html, and at any USDA office, or write a letter addressed to USDA and provide in the letter all of the information requested in the form. To request a copy of the complaint form, call (866) 632-9992. Submit your completed form or letter to USDA by: (1) mail: U.S. Department of Agriculture Office of the Assistant Secretary for Civil Rights
+* * *
+## _1400 Independence Avenue, SW_
+Washington, D.C. 20250-9410;
+* * *
+(2) fax: (202) 690-7442; or (3) email: program.intake@usda.gov. This institution is an equal opportunity provider. PRIVACY ACT STATEMENT (i) The collection of this information, including the Social Security number (SSN) of each household member, is authorized under the Food and Nutrition Act of 2008, as amended, 7 U.S.C. 2011-2036. The information will be used to determine whether your household is eligible or continues to be eligible to participate in SNAP. We will verify this information through computer matching programs. This information will also be used to monitor compliance with program regulations and for program management. (ii) This information may be disclosed to other federal and state agencies for official examination, and to law enforcement officials for the purpose of apprehending persons fleeing to avoid the law. (iii) If a SNAP claim arises against your household, the information on this application, including all SSNs, may be referred to federal and state agencies, as well as private claims collection agencies, for claims collection action. (iv) Providing the requested information, including the SSN of each household member, is voluntary. However, failure to provide an SSN will result in the denial of SNAP benefits to each individual failing to provide an SSN. Any SSNs provided will be used and disclosed in the same manner as SSNs of eligible household members. RIGHT TO CONFIDENTIALITY We will keep your information private. It will only be used to decide which programs you may be eligible for. The county assistance office, when requested, must provide federal, state and local law enforcement officials with the address, SSN and photograph (if available) of an individual who is fleeing to avoid prosecution, custody or confinement for a felony or violating probation or parole. Any person knowingly violating any of the rules and regulations of this department shall be guilty of a misdemeanor and, upon conviction shall be sentenced to pay a fine, not exceeding one hundred ($100) dollars, or to undergo imprisonment, not exceeding six months, or both (62 P.S. section 483). RIGHT TO A WRITTEN NOTICE We will give you a written notice explaining your benefits. If we deny, change, suspend or stop benefits, we will give you a written explanation of why. You have 90 days from the mailing date of your written explanation/eligibility notice to ask for a hearing for your SNAP benefits. RIGHT TO APPEAL You have the right to ask for a Department of Human Services (DHS) hearing to appeal a decision if you believe it is unfair or incorrect, or if DHS fails to act on your application for benefits. You may file the appeal at the county assistance office. If you appeal, you may also request an agency conference before the hearing. If your appeal involves expedited SNAP benefits, you have the right to have this conference with a supervisor within two work days. At the hearing, you may represent yourself, or someone else, such as a lawyer, friend or relative, may represent you. RESPONSIBILITY TO PROVIDE INFORMATION You must give true, correct and complete information. You must help in proving the information you give. Benefits may be denied if you fail to provide certain proof. If you cannot provide proof, you should ask the county assistance office to help you obtain it. If you are contacted by DHS or the Office of Inspector General, you must fully cooperate with those persons or investigators. RESPONSIBILITY TO REPORT CHANGES Once you qualify for benefits, you will be required to report changes in your circumstances to your caseworker or to the Customer Service Center. Types of changes reported would include people leaving or moving into the house, a new address, a new job for someone, if someone loses a job, birth of a child, new sources of income or changes to income. Your caseworker and notices you receive will cover the specifics in detail based on the programs and benefits you are eligible for. Failure to report changes within the program guidelines could result in a loss of benefits, sanctions, or civil or criminal charges. You may report changes through a COMPASS account or by phone to the Customer Service Center at 1-877-395-8930, or for Philadelphia, 1-215-560-7226. You may also report changes to your county assistance office by phone, fax or mail.
+* * *
+PA 600 FS (SG) 9/19PA 600 FS (SG) 9/19 Page 9 CLIENT Prohibitions and Penalties Read about your responsibilities: IF THIS HAPPENS WITHOUT GOOD CAUSE THIS MAY HAPPEN (PENALTY) Misuse Electronic Benefits Transfer (EBT) Card or PA ACCESS Card. Fine, prison, or both. Do not report changes, as required. Benefits cut or stopped. On purpose, give information that is false, incorrect or incomplete, or not report changes. Fine, disqualification and/or jail time for Welfare Fraud, disqualification for administrative hearing proceedings. Not eligible for SNAP: • First time12 months. • Second time24 months. • Third timeforever. Trade, sell or attempt to trade, sell, buy or use another person’s ACCESS Card. Not eligible: • All court convictions12 months. On purpose, misuse SNAP benefits, for example, trade, sell, or buy EBT Card or SNAP benefits; convert benefits; or dump containers purchased with SNAP benefits to receive deposits – or buy things not covered by SNAP, such as alcohol or tobacco – or use SNAP benefits to pay for food already received or food on credit. Not eligible: • First time12 months. • Second time24 months. • Third timeforever. • First time court conviction over $500forever. Purchase a product with SNAP benefits with the intent of obtaining cash or consideration other than eligible food by reselling the product in exchange for cash or consideration other than eligible food. Purposefully, purchase products originally purchased with SNAP benefits in exchange for cash or consideration other than eligible food. Use/receive SNAP benefits to buy drugs or controlled substances. Not eligible: • First time24 months. • Second timeforever. Use/receive SNAP benefits in sale of firearms, ammunition, or explosives. First timenot eligible forever. Be convicted for buying, selling or trading SNAP benefits for total of $500 or more. Not eligible forever. Lie about who you are or where you live to receive more than one SNAP benefit. Not eligible for 10 years. Flee to avoid prosecution, custody, or confinement because of a felony/attempted felony – or flee because of breaking probation or parole. Not eligible until you do what the law says. If you are found guilty of fraud or breaking the above rules: • Fine up to $250,000 for SNAP; • Jail up to 20 years for SNAP; and/or • Paying back benefits received. • Disqualification from benefits for periods stated above by program. SNAP WORK RULES For household members – physically and mentally fit – over age 15 and under 60 – not otherwise exempt or with good cause. Not eligible: • First timeone month and until you do what is required. • Second timethree months and until you do what is required. • Three or more timessix months each time and until you do what is required. Refuse to: • Accept a job. • Tell CAO about work status and job availability. On purpose, take action to: • Quit a job. • Cut work hours to less than 30 per week (unless another job already meets work requirements).
+* * *
+PA 600 FS (SG) 9/19PA 600 FS (SG) 9/19
+* * *
+
+
+
+--- EMBEDDED FILE CONTENT: https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/services/assistance/documents/snap/replacement-snap-flyer-english-pa-1986-05012025-v2.pdf ---
+
+## PA 1986 12/23
+Did you use SNAP benefits to purchase food that was lost in a power outage, flood, or fire? Ask for Replacement SNAP benefits to get new food! If you receive SNAP (formerly known as food stamps) and you lost food during a power outage, fire, or other household misfortune, tell your county assistance office right away! Is there a limit? The law allows you to receive replacement SNAP benefits for the amount of food you lost — up to one month’s benefits. To get replacement SNAP Benefits: • Y ou must ask within 10 days of when the disaster occurred. • Contact your local county assistance office (CAO) or the Statewide Customer Service Center at 1-877-395-8930 (215-560-7226 in Philadelphia). • Complete the replacement affadavit form saying how much food you lost. Forms are available at your local CAO or at www.dhs.pa.gov/SNAP. • Upload the completed affidavit form to COMPASS or the myCOMPASS PA mobile app.
+* * *
+Affidavit for Replacement of Food Destroyed in a Household Disaster I certify/affirm that my household lost _____________________ of food on _______________ due to ____________________________________________. Dollar Amount Date Example Reasons: power outage, fire, flood, etc. CLIENT SIGNATURE DATE CLIENT NAME SOCIAL SECURITY NUMBER PA 1896 7/23 Your claim will be verified. By signing this form; I certify, under penalty of perjury, that the information I have given is true, correct and complete to the best of my knowledge. I understand that if I intentionally misrepresent the facts or give false, misleading, purposely wrong, or incomplete information, benefits may be denied, and I may be disqualified from the Supplemental Nutrition Assistance Program (SNAP), fined and/or jailed. This form must be received by the CAO within 10 days of the date you reported food lost due to household misfortune. The replacement benefit is limited to a maximum of a one-month allotment, unless the monthly issuance includes restored benefits, which can also be replaced up to their full value. CAO NAME AND ADDRESS CASE IDENTIFICATION CO RECORD NUMBER CAT CSLD DIST RECORD NAME DATE
+* * *
+

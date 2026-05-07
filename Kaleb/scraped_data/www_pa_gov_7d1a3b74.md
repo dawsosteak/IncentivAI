@@ -1,0 +1,1852 @@
+--- SOURCE: https://www.pa.gov/agencies/health/health-statistics/whats-new ---
+
+Exit Site
+If you are in danger, call 911. If you need to exit this website quickly, click on the ESCAPE button. This button will immediately open a browser window for weather.com and replace your current window with google.com. 
+[ Skip to agency navigation ](https://www.pa.gov/agencies/health/health-statistics/whats-new#agencynav)
+[ Skip to main content ](https://www.pa.gov/agencies/health/health-statistics/whats-new#content)
+![Commonwealth of Pennsylvania ; Home](https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/bannerimage.png)
+Official website
+Official website
+of the Commonwealth of Pennsylvania
+[ ![Commonwealth of Pennsylvania | Home](https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/CoPA%20Logo%20-%20Horizontal%20Lockup%201.svg) ](https://www.pa.gov/)
+Translate
+  * [ Services ](https://www.pa.gov/services)
+  * [ Agency Directory ](https://www.pa.gov/agencies)
+  * Your Government
+    * [The Governor ](https://www.pa.gov/governor)
+    * [Lt. Governor ](https://www.pa.gov/ltgovernor)
+    * [Legislation (opens in a new tab)](https://www.palegis.us/)
+    * [Courts (opens in a new tab)](https://www.pacourts.us/)
+    * [State House (opens in a new tab)](https://www.palegis.us/house)
+    * [State Senate (opens in a new tab)](https://www.palegis.us/senate)
+    * [Attorney General (opens in a new tab)](https://www.attorneygeneral.gov/)
+    * [Auditor General (opens in a new tab)](https://www.paauditor.gov/)
+    * [Treasurer (opens in a new tab)](https://www.patreasury.gov/)
+  * [ Visit PA (opens in a new tab)](https://visitpa.com/)
+  * [ News (opens in a new tab)](https://pacast.com/)
+
+
+## The .gov means it's official. 
+Local, state, and federal government websites often end in .gov. Commonwealth of Pennsylvania government websites and email systems use "pennsylvania.gov" or "pa.gov" at the end of the address. Before sharing sensitive or personal information, make sure you're on an official state website. 
+##  [Department of Health](https://www.pa.gov/agencies/health)
+  * [Newsroom ](https://www.pa.gov/agencies/health/newsroom)
+  * [Diseases and Conditions ](https://www.pa.gov/agencies/health/diseases-conditions)
+    * [Acute Flaccid Myelitis (AFM) ](https://www.pa.gov/agencies/health/diseases-conditions/afm)
+    * [Amyotrophic Lateral Sclerosis (ALS) ](https://www.pa.gov/agencies/health/diseases-conditions/als)
+    * [Brain and Neurological ](https://www.pa.gov/agencies/health/diseases-conditions/brain-and-neurological)
+      * [Alzheimer's Disease and Related Disorders ](https://www.pa.gov/agencies/health/diseases-conditions/brain-and-neurological/alzheimers)
+      * [Autism Diagnostic Clinic (ADC) ](https://www.pa.gov/agencies/health/diseases-conditions/brain-and-neurological/autism-diagnostic-clinic)
+      * [Head Injury ](https://www.pa.gov/agencies/health/diseases-conditions/brain-and-neurological/head-injury)
+      * [NeuroResource Facilitation Program ](https://www.pa.gov/agencies/health/diseases-conditions/brain-and-neurological/neuroresource-facilitation-program)
+      * [Tourette Syndrome ](https://www.pa.gov/agencies/health/diseases-conditions/brain-and-neurological/tourette-syndrome)
+      * [Traumatic Brain Injury ](https://www.pa.gov/agencies/health/diseases-conditions/brain-and-neurological/traumatic-brain-injury)
+    * [Cancer ](https://www.pa.gov/agencies/health/diseases-conditions/cancer)
+      * [Pennsylvania Breast & Cervical Cancer Early Detection Program (PA-BCCEDP) ](https://www.pa.gov/agencies/health/diseases-conditions/cancer/pa-bccedp)
+      * [Pennsylvania Comprehensive Cancer Control Program (PACCCP) ](https://www.pa.gov/agencies/health/diseases-conditions/cancer/pacccp)
+    * [Chronic Illness ](https://www.pa.gov/agencies/health/diseases-conditions/chronic-disease)
+      * [Arthritis ](https://www.pa.gov/agencies/health/diseases-conditions/chronic-disease/arthritis)
+      * [Asthma ](https://www.pa.gov/agencies/health/diseases-conditions/chronic-disease/asthma)
+      * [Chronic Renal Disease ](https://www.pa.gov/agencies/health/diseases-conditions/chronic-disease/chronic-renal-disease)
+      * [Diabetes ](https://www.pa.gov/agencies/health/diseases-conditions/chronic-disease/diabetes)
+      * [Heart Disease and Stroke ](https://www.pa.gov/agencies/health/diseases-conditions/chronic-disease/heart-disease-stroke)
+      * [Obesity ](https://www.pa.gov/agencies/health/diseases-conditions/chronic-disease/obesity)
+    * [Down Syndrome ](https://www.pa.gov/agencies/health/diseases-conditions/down-syndrome)
+    * [Foodborne Diseases ](https://www.pa.gov/agencies/health/diseases-conditions/foodborne-illness)
+    * [Heat-related Illness ](https://www.pa.gov/agencies/health/diseases-conditions/heat-illness)
+    * [Infectious Disease ](https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease)
+      * [Hepatitis ](https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/hepatitis)
+      * [HIV/AIDS Services and Epidemiology ](https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/hiv)
+      * [Measles ](https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/measles)
+      * [Mpox ](https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/mpox)
+      * [Respiratory Viruses ](https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/respiratory-viruses)
+      * [Sexually Transmitted Diseases ](https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/std)
+      * [Travelers Health ](https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/travelers-health)
+      * [Tuberculosis ](https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/tuberculosis)
+      * [Vectorborne Diseases​ ](https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/vectorborne-diseases)
+    * [Lead Poisoning ](https://www.pa.gov/agencies/health/diseases-conditions/lead-poisoning)
+      * [FAQ ](https://www.pa.gov/agencies/health/diseases-conditions/lead-poisoning/lead-faq)
+      * [Lead Poisoning Information Line ](https://www.pa.gov/agencies/health/diseases-conditions/lead-poisoning/lead-information-line)
+      * [Lead Surveillance ](https://www.pa.gov/agencies/health/diseases-conditions/lead-poisoning/lead-surveillance)
+    * [Legionella ](https://www.pa.gov/agencies/health/diseases-conditions/legionella)
+    * [Lupus ](https://www.pa.gov/agencies/health/diseases-conditions/lupus)
+    * [Rabies ](https://www.pa.gov/agencies/health/diseases-conditions/rabies)
+    * [Reflex Sympathetic Dystrophy Syndrome (RSDS) ](https://www.pa.gov/agencies/health/diseases-conditions/rsds)
+    * [Sickle Cell Disease (SCD) Community-Based Services and Support (CBSS) Program ](https://www.pa.gov/agencies/health/diseases-conditions/scd-cbss)
+  * [Programs and Topics ](https://www.pa.gov/agencies/health/programs)
+    * [Blood and Organ Donation ](https://www.pa.gov/agencies/health/programs/blood-and-organ-donation)
+      * [Blood Donation ](https://www.pa.gov/agencies/health/programs/blood-and-organ-donation/blood-donation)
+      * [Cord Blood Banking ](https://www.pa.gov/agencies/health/programs/blood-and-organ-donation/cord-blood-banking)
+      * [Organ Donation ](https://www.pa.gov/agencies/health/programs/blood-and-organ-donation/organ-donation)
+    * [Environmental Health ](https://www.pa.gov/agencies/health/programs/environmental-health)
+      * [Children's Environmental Health ](https://www.pa.gov/agencies/health/programs/environmental-health/children)
+      * [CSPECE ](https://www.pa.gov/agencies/health/programs/environmental-health/cspece)
+      * [Environmental Health Indicators (EHI) Map ](https://www.pa.gov/agencies/health/programs/environmental-health/ehi)
+      * [Environmental Health Concerns ](https://www.pa.gov/agencies/health/programs/environmental-health/concern)
+      * [Environmental Health Tracking Program ](https://www.pa.gov/agencies/health/programs/environmental-health/epht)
+      * [Fact Sheets ](https://www.pa.gov/agencies/health/programs/environmental-health/fact-sheets)
+      * [Harmful Algal Blooms (HABs) ](https://www.pa.gov/agencies/health/programs/environmental-health/habs)
+      * [HABs Dashboard ](https://www.pa.gov/agencies/health/programs/environmental-health/habs-dashboard)
+      * [HC-PHA ](https://www.pa.gov/agencies/health/programs/environmental-health/hc-pha)
+      * [Environmental Health Assessment Program (HAP) ](https://www.pa.gov/agencies/health/programs/environmental-health/health-assessment-program)
+      * [Pennsylvania Adult Blood Lead Epidemiology and Surveillance (ABLES) ](https://www.pa.gov/agencies/health/programs/environmental-health/lead)
+      * [Newsletters ](https://www.pa.gov/agencies/health/programs/environmental-health/newsletters)
+      * [Oil and Natural Gas Production (ONGP) ](https://www.pa.gov/agencies/health/programs/environmental-health/oilgas)
+      * [Pennsylvania Wastewater Surveillance System (PaWSS) ](https://www.pa.gov/agencies/health/programs/environmental-health/pawss)
+      * [PennOSHS ](https://www.pa.gov/agencies/health/programs/environmental-health/pennoshs)
+      * [PFAS ](https://www.pa.gov/agencies/health/programs/environmental-health/pfas)
+      * [Well Water ](https://www.pa.gov/agencies/health/programs/environmental-health/well-water)
+    * [Healthy Living ](https://www.pa.gov/agencies/health/programs/healthy-living)
+      * [Antibiotic Awareness ](https://www.pa.gov/agencies/health/programs/healthy-living/antibiotic-awareness)
+      * [Bullying Prevention and Safe Relationships Program (BPSR) ](https://www.pa.gov/agencies/health/programs/healthy-living/bpsr)
+      * [Pennsylvania Child Death Review Program ](https://www.pa.gov/agencies/health/programs/healthy-living/child-death-review)
+      * [Community to Home Program ](https://www.pa.gov/agencies/health/programs/healthy-living/community-to-home)
+      * [Federally Qualified Health Center (FQHC) Program ](https://www.pa.gov/agencies/health/programs/healthy-living/fqhc)
+      * [Healthy Families ](https://www.pa.gov/agencies/health/programs/healthy-living/healthy-families)
+      * [Healthy Pantry ](https://www.pa.gov/agencies/health/programs/healthy-living/healthy-pantry)
+      * [Help in PA ](https://www.pa.gov/agencies/health/programs/healthy-living/help-in-pa)
+      * [Nutrition ](https://www.pa.gov/agencies/health/programs/healthy-living/nutrition)
+      * [Oral Health ](https://www.pa.gov/agencies/health/programs/healthy-living/oral-health)
+      * [Physical Activity ](https://www.pa.gov/agencies/health/programs/healthy-living/physical-activity)
+      * [SPAN ](https://www.pa.gov/agencies/health/programs/healthy-living/span)
+      * [Special Kids Network ](https://www.pa.gov/agencies/health/programs/healthy-living/special-kids-network)
+      * [Teen Health ](https://www.pa.gov/agencies/health/programs/healthy-living/teen-health)
+      * [Tobacco Prevention ](https://www.pa.gov/agencies/health/programs/healthy-living/tobacco-prevention-and-control)
+      * [WalkWorks ](https://www.pa.gov/agencies/health/programs/healthy-living/walkworks)
+    * [Immunizations ](https://www.pa.gov/agencies/health/programs/immunizations)
+      * [General Immunization Guidance ](https://www.pa.gov/agencies/health/programs/immunizations/general-immunization-guidance)
+      * [Adolescent ](https://www.pa.gov/agencies/health/programs/immunizations/adolescent)
+      * [Adult ](https://www.pa.gov/agencies/health/programs/immunizations/adult)
+      * [Childhood ](https://www.pa.gov/agencies/health/programs/immunizations/infants-and-children)
+      * [Immunization Materials and Resources ](https://www.pa.gov/agencies/health/programs/immunizations/forms-publications)
+      * [Perinatal Hepatitis B Program ](https://www.pa.gov/agencies/health/programs/immunizations/perinatal-hepatitis-b)
+      * [PIERS Public Portal ](https://www.pa.gov/agencies/health/programs/immunizations/piers-public-portal)
+      * [School ](https://www.pa.gov/agencies/health/programs/immunizations/school)
+      * [School Rates ](https://www.pa.gov/agencies/health/programs/immunizations/rates)
+      * [School Frequently Asked Questions ](https://www.pa.gov/agencies/health/programs/immunizations/school-faq)
+      * [Vaccines for Children (VFC) Program ](https://www.pa.gov/agencies/health/programs/immunizations/vaccines-for-children)
+      * [VFC Program Overview ](https://www.pa.gov/agencies/health/programs/immunizations/vfc-overview)
+      * [VFC Resources and Forms ](https://www.pa.gov/agencies/health/programs/immunizations/vfc-resources)
+    * [Maternal & Infant Health ](https://www.pa.gov/agencies/health/programs/maternal-health-and-infant-care)
+      * [Abortion ](https://www.pa.gov/agencies/health/programs/maternal-health-and-infant-care/abortion)
+      * [Breastfeeding ](https://www.pa.gov/agencies/health/programs/maternal-health-and-infant-care/breastfeeding)
+      * [Maternal Mortality ](https://www.pa.gov/agencies/health/programs/maternal-health-and-infant-care/maternal-mortality)
+      * [Newborn Screening & Genetics Program ](https://www.pa.gov/agencies/health/programs/maternal-health-and-infant-care/newborn-screening)
+      * [PA Perinatal TiPS ](https://www.pa.gov/agencies/health/programs/maternal-health-and-infant-care/pa-perinatal-tips)
+      * [Perinatal Mood and Anxiety Disorders (PMADs) ](https://www.pa.gov/agencies/health/programs/maternal-health-and-infant-care/pmad)
+      * [Postpartum Depression ](https://www.pa.gov/agencies/health/programs/maternal-health-and-infant-care/postpartum-depression)
+      * [Pregnancy ](https://www.pa.gov/agencies/health/programs/maternal-health-and-infant-care/pregnancy)
+      * [Regional Maternal Health Coalitions ](https://www.pa.gov/agencies/health/programs/maternal-health-and-infant-care/regional-maternal-health-coalitions)
+      * [Reproductive Health ](https://www.pa.gov/agencies/health/programs/maternal-health-and-infant-care/reproductive-health)
+      * [Infant Safe Sleep ](https://www.pa.gov/agencies/health/programs/maternal-health-and-infant-care/sids)
+      * [Shaken Baby Syndrome ](https://www.pa.gov/agencies/health/programs/maternal-health-and-infant-care/shaken-baby-syndrome)
+      * [Title V ](https://www.pa.gov/agencies/health/programs/maternal-health-and-infant-care/title-v)
+      * [Women, Infants and Children (WIC) ](https://www.pa.gov/agencies/health/programs/maternal-health-and-infant-care/wic)
+    * [Medical Marijuana ](https://www.pa.gov/agencies/health/programs/medical-marijuana)
+      * [Act 63 ](https://www.pa.gov/agencies/health/programs/medical-marijuana/act-63)
+      * [Advisory Board ](https://www.pa.gov/agencies/health/programs/medical-marijuana/advisory-board)
+      * [Announcements ](https://www.pa.gov/agencies/health/programs/medical-marijuana/announcements)
+      * [Dispensaries ](https://www.pa.gov/agencies/health/programs/medical-marijuana/dispensaries)
+      * [GPD Forms ](https://www.pa.gov/agencies/health/programs/medical-marijuana/gpd-forms)
+      * [Growers-Processors ](https://www.pa.gov/agencies/health/programs/medical-marijuana/growers-processors)
+      * [Laboratories ](https://www.pa.gov/agencies/health/programs/medical-marijuana/laboratories)
+      * [Medical Marijuana Assistance Program (MMAP) ](https://www.pa.gov/agencies/health/programs/medical-marijuana/mmap)
+      * [Medical Marijuana Patients ](https://www.pa.gov/agencies/health/programs/medical-marijuana/medical-marijuana-patients)
+      * [Resources for Medical Professionals in the Medical Marijuana Program ](https://www.pa.gov/agencies/health/programs/medical-marijuana/physicians)
+      * [Regulations ](https://www.pa.gov/agencies/health/programs/medical-marijuana/medical-marijuana-regulations)
+      * [Renew ](https://www.pa.gov/agencies/health/programs/medical-marijuana/renew)
+      * [Research ](https://www.pa.gov/agencies/health/programs/medical-marijuana/clinical-research)
+      * [School ](https://www.pa.gov/agencies/health/programs/medical-marijuana/medical-marijuana-school)
+    * [Opioid Use Disorder ](https://www.pa.gov/agencies/health/programs/opioids)
+      * [Individuals and Families ](https://www.pa.gov/agencies/health/programs/opioids/individuals-families)
+      * [Naloxone ](https://www.pa.gov/agencies/health/programs/opioids/naloxone)
+      * [Pennsylvania Substance Use Navigation (PA-SUN) Program ](https://www.pa.gov/agencies/health/programs/opioids/pa-sun)
+      * [Patient Advocacy Program - for Patients Who are Prescribed Controlled Substances ](https://www.pa.gov/agencies/health/programs/opioids/patient-advocacy-program)
+      * [Prescribers and Providers ](https://www.pa.gov/agencies/health/programs/opioids/prescribers-and-providers)
+      * [First Responder Addiction and Connection to Treatment (FR-ACT) ](https://www.pa.gov/agencies/health/programs/opioids/fr-act)
+    * [School Health ](https://www.pa.gov/agencies/health/programs/school-health)
+      * [Abuse (Adult and Child) ](https://www.pa.gov/agencies/health/programs/school-health/abuse)
+      * [Act 117 - Parental Education of Type 1 Diabetes ](https://www.pa.gov/agencies/health/programs/school-health/act-117)
+      * [Act 48 ](https://www.pa.gov/agencies/health/programs/school-health/act-48)
+      * [Seizure Recognition and Related Training (Act 84) ](https://www.pa.gov/agencies/health/programs/school-health/act-84)
+      * [Automated External Defibrillator (AED)/CPR Requirements for Schools ](https://www.pa.gov/agencies/health/programs/school-health/aed-cpr)
+      * [Allergies/Epinephrine Administration ](https://www.pa.gov/agencies/health/programs/school-health/allergies)
+      * [Multi-Hazards School Safety Planning Toolkit ](https://www.pa.gov/agencies/health/programs/school-health/all-hazard-planning-toolkit)
+      * [Asthma ](https://www.pa.gov/agencies/health/programs/school-health/asthma)
+      * [Communicable and Vaccine-Preventable Diseases ](https://www.pa.gov/agencies/health/programs/school-health/communicable-disease)
+      * [Concussion Management ](https://www.pa.gov/agencies/health/programs/school-health/concussion)
+      * [Confidentiality/HIPAA/FERPA ](https://www.pa.gov/agencies/health/programs/school-health/confidentiality)
+      * [Continuing Education ](https://www.pa.gov/agencies/health/programs/school-health/continuing-education0)
+      * [Delegation ](https://www.pa.gov/agencies/health/programs/school-health/delegation)
+      * [Dental Health Program ](https://www.pa.gov/agencies/health/programs/school-health/dental-health)
+      * [Diabetes ](https://www.pa.gov/agencies/health/programs/school-health/diabetes)
+      * [Do Not Resuscitate (DNR) ](https://www.pa.gov/agencies/health/programs/school-health/dnr)
+      * [Documentation/Health Records ](https://www.pa.gov/agencies/health/programs/school-health/documentation)
+      * [Environmental ](https://www.pa.gov/agencies/health/programs/school-health/environmental)
+      * [Epinephrine ](https://www.pa.gov/agencies/health/programs/school-health/epinephrine)
+      * [Epinephrine Training ](https://www.pa.gov/agencies/health/programs/school-health/epinephrine-training)
+      * [Growth Screen ](https://www.pa.gov/agencies/health/programs/school-health/growth-screen)
+      * [Hearing Screen ](https://www.pa.gov/agencies/health/programs/school-health/hearing-screen)
+      * [Homeless Students ](https://www.pa.gov/agencies/health/programs/school-health/homeless-students)
+      * [Laws and Regulations ](https://www.pa.gov/agencies/health/programs/school-health/laws-and-regulations0)
+      * [Mandated School Health Program ](https://www.pa.gov/agencies/health/programs/school-health/mandated-school-health-programs)
+      * [Medication Administration ](https://www.pa.gov/agencies/health/programs/school-health/medications)
+      * [Mental Health ](https://www.pa.gov/agencies/health/programs/school-health/mental-health)
+      * [Naloxone in Schools ](https://www.pa.gov/agencies/health/programs/school-health/naloxone-program)
+      * [Plans of Care ](https://www.pa.gov/agencies/health/programs/school-health/plans-of-care)
+      * [Private and Non-Public School Health Services ](https://www.pa.gov/agencies/health/programs/school-health/private-school-services)
+      * [Physical Exams ](https://www.pa.gov/agencies/health/programs/school-health/physical-exams)
+      * [Medical Personnel Assisting with School Health Program ](https://www.pa.gov/agencies/health/programs/school-health/school-health-staff)
+      * [Scoliosis Screen ](https://www.pa.gov/agencies/health/programs/school-health/scoliosis-screen)
+      * [SHARRS ](https://www.pa.gov/agencies/health/programs/school-health/sharrs)
+      * [Special Health Care Needs ](https://www.pa.gov/agencies/health/programs/school-health/special-health-care-needs)
+      * [Sudden Cardiac Arrest ](https://www.pa.gov/agencies/health/programs/school-health/sudden-cardiac-arrest)
+      * [Tally Sheets ](https://www.pa.gov/agencies/health/programs/school-health/tally-sheets)
+      * [Teen Pregnancy ](https://www.pa.gov/agencies/health/programs/school-health/teen-pregnancy)
+      * [Smoking ](https://www.pa.gov/agencies/health/programs/school-health/tobacco)
+      * [Tuberculosis ](https://www.pa.gov/agencies/health/programs/school-health/tuberculosis)
+      * [Wellness ](https://www.pa.gov/agencies/health/programs/school-health/wellness-policies)
+      * [Updates ](https://www.pa.gov/agencies/health/programs/school-health/updates)
+      * [Vision Screen ](https://www.pa.gov/agencies/health/programs/school-health/vision-screen)
+      * [Whole School, Whole Community, Whole Child ](https://www.pa.gov/agencies/health/programs/school-health/whole-school)
+      * [Requirements ](https://www.pa.gov/agencies/health/programs/school-health/requirements)
+    * [Violence and Injury Prevention ](https://www.pa.gov/agencies/health/programs/violence-and-injury-prevention)
+      * [Sexual Violence Education ](https://www.pa.gov/agencies/health/programs/violence-and-injury-prevention/sexual-violence-education)
+      * [Sexual Assault Evidence Collection ](https://www.pa.gov/agencies/health/programs/violence-and-injury-prevention/sexual-assault-evidence-collection)
+      * [VDRS ](https://www.pa.gov/agencies/health/programs/violence-and-injury-prevention/vdrs)
+    * [Vital Records ](https://www.pa.gov/agencies/health/programs/vital-records)
+      * [Acceptable-ID ](https://www.pa.gov/agencies/health/programs/vital-records/acceptable-id)
+      * [Adoptions ](https://www.pa.gov/agencies/health/programs/vital-records/adoptions)
+      * [Birth Certificates ](https://www.pa.gov/agencies/health/programs/vital-records/birth-certificates)
+      * [Death Certificates ](https://www.pa.gov/agencies/health/programs/vital-records/death-certificates)
+      * [Genealogy ](https://www.pa.gov/agencies/health/programs/vital-records/genealogy)
+      * [Multi-Year Searches ](https://www.pa.gov/agencies/health/programs/vital-records/multi-year-searches)
+      * [New Parent Information ](https://www.pa.gov/agencies/health/programs/vital-records/new-parent-information)
+      * [Processing Times ](https://www.pa.gov/agencies/health/programs/vital-records/processing-times)
+      * [Public Offices ](https://www.pa.gov/agencies/health/programs/vital-records/public-offices)
+      * [Vital Records Forms ](https://www.pa.gov/agencies/health/programs/vital-records/forms)
+  * [Facilities and Licensing ](https://www.pa.gov/agencies/health/facilities)
+    * [In-Patient Healthcare Facilities ](https://www.pa.gov/agencies/health/facilities/in-patient-healthcare-facilities)
+      * [Hospitals ](https://www.pa.gov/agencies/health/facilities/in-patient-healthcare-facilities/hospitals)
+      * [Intermediate Care Facilities ](https://www.pa.gov/agencies/health/facilities/in-patient-healthcare-facilities/intermediate-care-facilities)
+      * [Nursing Homes ](https://www.pa.gov/agencies/health/facilities/in-patient-healthcare-facilities/nursing-homes)
+    * [Out-Patient Healthcare Facilities ](https://www.pa.gov/agencies/health/facilities/out-patient-healthcare-facilities)
+      * [Ambulatory Surgical Facilities ](https://www.pa.gov/agencies/health/facilities/out-patient-healthcare-facilities/ambulatory-surgical-facilities)
+      * [Birth Centers ](https://www.pa.gov/agencies/health/facilities/out-patient-healthcare-facilities/birth-centers)
+      * [Comprehensive Outpatient Rehabilitation Facilities (CORF) ](https://www.pa.gov/agencies/health/facilities/out-patient-healthcare-facilities/corf)
+      * [Federally Qualified Health Centers (FQHC) ](https://www.pa.gov/agencies/health/facilities/out-patient-healthcare-facilities/fqhc)
+      * [Home Care ](https://www.pa.gov/agencies/health/facilities/out-patient-healthcare-facilities/home-care)
+      * [Home Health ](https://www.pa.gov/agencies/health/facilities/out-patient-healthcare-facilities/home-health)
+      * [Hospice ](https://www.pa.gov/agencies/health/facilities/out-patient-healthcare-facilities/hospice)
+      * [Kidney Dialysis ](https://www.pa.gov/agencies/health/facilities/out-patient-healthcare-facilities/kidney-dialysis)
+      * [Pediatric Extended Care Facility ](https://www.pa.gov/agencies/health/facilities/out-patient-healthcare-facilities/pediatric-extended-care-facility)
+      * [Rehabilitation Agencies ](https://www.pa.gov/agencies/health/facilities/out-patient-healthcare-facilities/rehabilitation-agencies)
+      * [Rural Health Clinics ](https://www.pa.gov/agencies/health/facilities/out-patient-healthcare-facilities/rural-health-clinics)
+    * [Long Term Care Grant ](https://www.pa.gov/agencies/health/facilities/long-term-care-grant)
+    * [​Long-Term Care Transformation Office (LTCTO) ](https://www.pa.gov/agencies/health/facilities/ltcto)
+  * [Business Registration and Regulation ](https://www.pa.gov/agencies/health/business-registration-and-regulation)
+    * [​​​Act 128 of 2022 - Registration of Temporary Health Care Services Agencies ](https://www.pa.gov/agencies/health/business-registration-and-regulation/act-128)
+    * [Bathing Places ](https://www.pa.gov/agencies/health/business-registration-and-regulation/bathing-places)
+      * [Pool Safety ](https://www.pa.gov/agencies/health/business-registration-and-regulation/bathing-places/pool-safety)
+      * [Public Bathing Place Application ](https://www.pa.gov/agencies/health/business-registration-and-regulation/bathing-places/application)
+      * [Public Bathing Place Laws and Regulations ](https://www.pa.gov/agencies/health/business-registration-and-regulation/bathing-places/laws-and-regulations)
+      * [Public Bathing Place Resources ](https://www.pa.gov/agencies/health/business-registration-and-regulation/bathing-places/resources)
+    * [Building Safety ](https://www.pa.gov/agencies/health/business-registration-and-regulation/building-safety)
+      * [Building Safety Checklist ](https://www.pa.gov/agencies/health/business-registration-and-regulation/building-safety/checklist)
+      * [Building Safety Contact ](https://www.pa.gov/agencies/health/business-registration-and-regulation/building-safety/contact)
+      * [Review ](https://www.pa.gov/agencies/health/business-registration-and-regulation/building-safety/review)
+    * [Clean Indoor Air Act (CIAA) ](https://www.pa.gov/agencies/health/business-registration-and-regulation/clean-indoor-air-act)
+      * [CIAA FAQ ](https://www.pa.gov/agencies/health/business-registration-and-regulation/clean-indoor-air-act/faq)
+      * [CIAA Forms ](https://www.pa.gov/agencies/health/business-registration-and-regulation/clean-indoor-air-act/forms)
+      * [CIAA Reports ](https://www.pa.gov/agencies/health/business-registration-and-regulation/clean-indoor-air-act/reports)
+      * [Guidance ](https://www.pa.gov/agencies/health/business-registration-and-regulation/clean-indoor-air-act/guidance)
+      * [Toolkit ](https://www.pa.gov/agencies/health/business-registration-and-regulation/clean-indoor-air-act/toolkit)
+    * [Drug, Devices and Cosmetics Program ](https://www.pa.gov/agencies/health/business-registration-and-regulation/drugs-devices-and-cosmetics)
+    * [Hearing Aid ](https://www.pa.gov/agencies/health/business-registration-and-regulation/hearing-aid)
+      * [Continuing Education ](https://www.pa.gov/agencies/health/business-registration-and-regulation/hearing-aid/continuing-education)
+      * [Hearing Aid Apprentice Exam ](https://www.pa.gov/agencies/health/business-registration-and-regulation/hearing-aid/apprentice-exam)
+      * [Hearing Aid FAQ ](https://www.pa.gov/agencies/health/business-registration-and-regulation/hearing-aid/faq)
+      * [Hearing Aid Fee Schedule ](https://www.pa.gov/agencies/health/business-registration-and-regulation/hearing-aid/fee-schedule)
+      * [Hearing Aid Forms ](https://www.pa.gov/agencies/health/business-registration-and-regulation/hearing-aid/forms)
+      * [Hearing Aid Laws ](https://www.pa.gov/agencies/health/business-registration-and-regulation/hearing-aid/laws)
+      * [Resources ](https://www.pa.gov/agencies/health/business-registration-and-regulation/hearing-aid/resources)
+    * [Indoor Tanning ](https://www.pa.gov/agencies/health/business-registration-and-regulation/indoor-tanning)
+    * [Mothers' Milk Bank Licensure ](https://www.pa.gov/agencies/health/business-registration-and-regulation/mothers-milk-bank-licensure)
+    * [Nurse Aide ](https://www.pa.gov/agencies/health/business-registration-and-regulation/nurse-aide)
+      * [Nurse Aide Contact ](https://www.pa.gov/agencies/health/business-registration-and-regulation/nurse-aide/contact)
+      * [Nurse Aide Testing ](https://www.pa.gov/agencies/health/business-registration-and-regulation/nurse-aide/nurse-aide-testing)
+    * [Organized Camps ](https://www.pa.gov/agencies/health/business-registration-and-regulation/organized-camps)
+  * [Healthcare and Public Health Professionals ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals)
+    * [Cancer Registry ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/cancer-registry)
+      * [Education ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/cancer-registry/education)
+      * [Hospital ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/cancer-registry/hospital)
+      * [Law ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/cancer-registry/law)
+      * [Pathology ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/cancer-registry/pathology)
+      * [Physician ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/cancer-registry/physician)
+      * [Statistics ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/cancer-registry/statistics)
+    * [Electronic Prescribing ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/electronic-prescribing)
+      * [Patients ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/electronic-prescribing/patients)
+      * [Electronic Prescribing Information for Dispensers ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/electronic-prescribing/dispensers)
+      * [Electronic Prescribing Information for Prescribers ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/electronic-prescribing/prescribers)
+    * [Emergency Medical Services (EMS) ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/ems)
+      * [Behavioral Health Resources ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/ems/behavioral-health-resources)
+      * [Bulletins ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/ems/bulletins)
+      * [EMS Regulations ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/ems/ems-regulations)
+      * [EMS Resources ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/ems/ems-resources)
+      * [Epi-Pen Training ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/ems/epi-pen-training)
+      * [Mental Health ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/ems/mental-health)
+      * [Recognized Stroke Centers ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/ems/recognized-stroke-centers)
+    * [Emergency Preparedness ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/emergency-preparedness)
+      * [Assessment Tool ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/emergency-preparedness/assessment-tool)
+      * [Businesses ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/emergency-preparedness/businesses)
+      * [Disasters ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/emergency-preparedness/disasters)
+      * [HCC ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/emergency-preparedness/hcc)
+      * [Pandemic ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/emergency-preparedness/pandemic)
+      * [Pediatrician Public Health Prep ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/emergency-preparedness/pediatrician-public-health-prep)
+      * [Pharmacy LOU ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/emergency-preparedness/pharmacy-lou)
+      * [Publications and Tools ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/emergency-preparedness/publications-and-tools)
+    * [eVitals ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/evitals)
+      * [Login Issues ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/evitals/login-issues)
+      * [Document & Video Library ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/evitals/document-library)
+      * [eVitals Sign Up ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/evitals/evitals-sign-up)
+      * [Facility Admin ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/evitals/facility-admin)
+      * [All Users ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/evitals/all-users)
+      * [eVitals Onboarding FAQs ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/evitals/faqs)
+      * [Local Registrars ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/evitals/local-registrars)
+      * [Local Registrar Videos ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/evitals/local-registrar-videos)
+    * [Health Alert Network (HAN) ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/han)
+    * [Healthcare-Associated Infection Prevention (HAIP) ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/haip)
+      * [Antimicrobial Stewardship ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/haip/antimicrobial-stewardship)
+      * [Data Dashboards ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/haip/data-dashboards)
+      * [HAI Summit ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/haip/hai-summit)
+      * [Infection Control Plan Submission ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/haip/infection-control-plan-submission)
+      * [Invasive Group A Streptococcus ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/haip/invasive-group-a-streptococcus)
+      * [Multidrug-Resistant Organisms (MDRO) ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/haip/mdro)
+      * [Other Infection Prevention and Control Resources ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/haip/other-haip-resources)
+      * [PA Project Firstline ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/haip/pa-project-firstline)
+    * [Laboratories ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories)
+      * [Bacteriology ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories/bacteriology)
+      * [Biosafety ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories/biosafety)
+      * [Bioterrorism ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories/bioterrorism)
+      * [Bordetella ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories/bordetella)
+      * [Chemistry and Toxicology ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories/chemistry-and-toxicology)
+      * [Microbiology ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories/clinical-microbiology)
+      * [Demographic Reporting ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories/demographic-reporting)
+      * [Influenza ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories/influenza)
+      * [Laboratory Improvement ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories/laboratory-improvement)
+      * [Minimum Levels ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories/minimum-levels)
+      * [Parasitology ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories/parasitology)
+      * [Proficiency Testing ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories/proficiency-testing)
+      * [Rabies ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories/rabies)
+      * [Stool Pathogens ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories/stool-pathogens)
+      * [Tuberculosis ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories/tuberculosis)
+      * [West Nile ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories/west-nile)
+    * [PA-ELR ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/pa-elr)
+    * [PA-NEDSS ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/pa-nedss)
+    * [PIERS ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/piers)
+      * [PIERS Login Issues ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/piers/piers-login-issues)
+      * [HL7 ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/piers/hl7)
+      * [PIERS Library ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/piers/piers-library)
+      * [School Nurses ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/piers/school-nurses)
+    * [Prescription Drug Monitoring Program ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/pdmp)
+      * [Clinical ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/pdmp/clinical)
+      * [Contact ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/pdmp/contact)
+      * [Data ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/pdmp/data)
+      * [Dispensers ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/pdmp/dispensers)
+      * [Education ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/pdmp/education)
+      * [Integration ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/pdmp/integration)
+      * [Interstate ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/pdmp/interstate)
+      * [Opioid Treatment Agreements ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/pdmp/opioid-treatment-agreements)
+      * [Outreach ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/pdmp/outreach)
+      * [Patients ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/pdmp/patients1)
+      * [Prescribers ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/pdmp/prescribers)
+      * [QA ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/pdmp/qa)
+      * [Resource Library ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/pdmp/resource-library)
+      * [Tutorial ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/pdmp/tutorial)
+    * [Primary Care Office ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/primary-care)
+      * [Loan Repayment ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/primary-care/loan-repayment)
+      * [National Health Service Corps (NHSC) ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/primary-care/nhsc)
+      * [Physician Visa Waiver ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/primary-care/physician-visa-waiver)
+      * [​​​Health Care Workforce Dashboards ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/primary-care/reports)
+      * [Shortage Designations ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/primary-care/shortage-designations)
+      * [Community-Based Health Care Program ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/primary-care/cbhcp)
+    * [Reportable Diseases ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/reportable-diseases)
+    * [State Registrar Notices ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/state-registrar-notices)
+    * [Suicide & Overdose Death Review Team ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/suicide-overdose-death-review)
+    * [Vital Events Registry ](https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/vital-events-registry)
+  * [Health Statistics ](https://www.pa.gov/agencies/health/health-statistics)
+    * [Birth, Death, and Other Vital Statistics ](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics)
+      * [Birth Statistics ](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/birth-statistics)
+      * [County Health Profiles ](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/county-health-profiles)
+      * [Birth First Name Occurrences ](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/birth-first-name-occurrences)
+      * [Marriage and Divorce Statistics ](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/marriage-and-divorce-statistics)
+      * [Maternal and Child Health ](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/maternal-and-child-health)
+      * [Vital Statistics Annual Report ](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/vital-statistics-annual-report)
+      * [Death Statistics ](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/death-statistics)
+    * [Cancer Statistics ](https://www.pa.gov/agencies/health/health-statistics/cancer-statistics)
+      * [Cancer Dashboard ](https://www.pa.gov/agencies/health/health-statistics/cancer-statistics/cancer-dashboard)
+      * [Cancer Tables ](https://www.pa.gov/agencies/health/health-statistics/cancer-statistics/cancer-tables)
+    * [EDDIE (About) ](https://www.pa.gov/agencies/health/health-statistics/eddie-about)
+      * [EDDIE FAQs ](https://www.pa.gov/agencies/health/health-statistics/eddie-about/eddie-faqs)
+      * [EDDIE Video Library ](https://www.pa.gov/agencies/health/health-statistics/eddie-about/eddie-video-library)
+      * [Communicable Disease Race Data Warning ](https://www.pa.gov/agencies/health/health-statistics/eddie-about/std-cd-race-warning)
+    * [Statistical Resources ](https://www.pa.gov/agencies/health/health-statistics/statistical-resources)
+      * [Community Health Assessment Resources ](https://www.pa.gov/agencies/health/health-statistics/statistical-resources/community-health-assessment-resources)
+      * [Understanding Health Statistics ](https://www.pa.gov/agencies/health/health-statistics/statistical-resources/understanding-health-statistics)
+    * [Healthy People 2030 ](https://www.pa.gov/agencies/health/health-statistics/healthy-people-2030)
+    * [Minority Health Statistics ](https://www.pa.gov/agencies/health/health-statistics/minority-health-statistics)
+    * [Health Facilities ](https://www.pa.gov/agencies/health/health-statistics/health-facilities)
+      * [Ambulatory Surgery Center Reports ](https://www.pa.gov/agencies/health/health-statistics/health-facilities/ambulatory-surgery-center-reports)
+      * [Hospital Reports ](https://www.pa.gov/agencies/health/health-statistics/health-facilities/hospital-reports)
+      * [Nursing Home Reports ](https://www.pa.gov/agencies/health/health-statistics/health-facilities/nursing-home-reports)
+    * [Behavioral Risk, Tobacco, and Injury ](https://www.pa.gov/agencies/health/health-statistics/behavioral-risk-tobacco-and-injury)
+      * [Injury Statistics ](https://www.pa.gov/agencies/health/health-statistics/behavioral-risk-tobacco-and-injury/injury-statistics)
+      * [Behavioral Risks, PA Adults ](https://www.pa.gov/agencies/health/health-statistics/behavioral-risk-tobacco-and-injury/behavioral-risks-pa-adults)
+      * [Synar ](https://www.pa.gov/agencies/health/health-statistics/behavioral-risk-tobacco-and-injury/synar)
+    * [Health Statistics A to Z ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z)
+      * [West Nile Virus ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/west-nile-virus---health-statistics-a-to-z)
+      * [Water pollution ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/water-pollution---health-statistics-a-to-z)
+      * [Abortions ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/abortions---health-statistics-a-to-z)
+      * [Births and pregnancies ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/births-and-pregnancies---health-statistics-a-to-z)
+      * [Bites and stings ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/bites-and-stings---health-statistics-a-to-z)
+      * [Accidental and injury deaths ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/accidental-and-injury-deaths---health-statistics-a-to-z)
+      * [Boating accidents ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/boating-accidents---health-statistics-a-to-z)
+      * [Breastfeeding ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/breastfeeding---health-statistics-a-to-z)
+      * [Burns ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/burns---health-statistics-a-to-z)
+      * [Cancer ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/cancer---health-statistics-a-to-z)
+      * [Cancer screening ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/cancer-screening---health-statistics-a-to-z)
+      * [Cardiovascular disease ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/cardiovascular-disease---health-statistics-a-to-z)
+      * [Care giving ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/care-giving---health-statistics-a-to-z)
+      * [Arthritis ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/arthritis---health-statistics-a-to-z)
+      * [Cerebrovascular disease ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/cerebrovascular-disease---health-statistics-a-to-z)
+      * [Child abuse ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/child-abuse---health-statistics-a-to-z)
+      * [Childhood disabilities ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/childhood-disabilities---health-statistics-a-to-z)
+      * [Adverse Childhood Experiences ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/adverse-childhood-experiences---health-statistics-a-to-z)
+      * [Childhood obesity ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/childhood-obesity---health-statistics-a-to-z)
+      * [Cholesterol ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/cholesterol---health-statistics-a-to-z)
+      * [Cognitive Impairment ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/cognitive-impairment---health-statistics-a-to-z)
+      * [College education ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/college-education---health-statistics-a-to-z)
+      * [Crime ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/crime---health-statistics-a-to-z)
+      * [Deaths ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/deaths---health-statistics-a-to-z)
+      * [Assaults (injuries) ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/assaults-injuries---health-statistics-a-to-z)
+      * [Diabetes ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/diabetes---health-statistics-a-to-z)
+      * [Drug abuse ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/drug-abuse---health-statistics-a-to-z)
+      * [Drug overdose deaths ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/drug-overdose-deaths---health-statistics-a-to-z)
+      * [Education (K-12) ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/education-k-12---health-statistics-a-to-z)
+      * [Aging ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/aging---health-statistics-a-to-z)
+      * [Exercise and physical activity ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/exercise-and-physical-activity---health-statistics-a-to-z)
+      * [Family health ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/family-health---health-statistics-a-to-z)
+      * [Fetal deaths ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/fetal-deaths---health-statistics-a-to-z)
+      * [Head injuries ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/head-injuries---health-statistics-a-to-z)
+      * [Health care costs ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/health-care-costs---health-statistics-a-to-z)
+      * [Asthma ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/asthma---health-statistics-a-to-z)
+      * [Sexual violence ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/sexual-violence---health-statistics-a-to-z)
+      * [Health care insurance ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/health-care-insurance---health-statistics-a-to-z)
+      * [Health care personnel ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/health-care-personnel---health-statistics-a-to-z)
+      * [Health education ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/health-education---health-statistics-a-to-z)
+      * [Health facilities ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/health-facilities---health-statistics-a-to-z)
+      * [Health profiles ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/health-profiles---health-statistics-a-to-z)
+      * [AIDS and HIV infection ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/aids-and-hiv-infection---health-statistics-a-to-z)
+      * [Healthy people ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/healthy-people---health-statistics-a-to-z)
+      * [Heart disease ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/heart-disease---health-statistics-a-to-z)
+      * [HMO enrollment ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/hmo-enrollment---health-statistics-a-to-z)
+      * [Atherosclerosis ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/atherosclerosis---health-statistics-a-to-z)
+      * [HMO evaluation ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/hmo-evaluation---health-statistics-a-to-z)
+      * [Home health care ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/home-health-care---health-statistics-a-to-z)
+      * [Homeless ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/homeless---health-statistics-a-to-z)
+      * [Hospitalization ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/hospitalization---health-statistics-a-to-z)
+      * [Hypertension ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/hypertension---health-statistics-a-to-z)
+      * [Immunization ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/immunization---health-statistics-a-to-z)
+      * [Air quality ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/air-quality---health-statistics-a-to-z)
+      * [Injuries ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/injuries---health-statistics-a-to-z)
+      * [Kidney and renal diseases ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/kidney-and-renal-diseases---health-statistics-a-to-z)
+      * [Lead poisoning ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/lead-poisoning---health-statistics-a-to-z)
+      * [Autopsies ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/autopsies---health-statistics-a-to-z)
+      * [Lung disease (work-related) ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/lung-disease-work-related---health-statistics-a-to-z)
+      * [Lyme disease ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/lyme-disease---health-statistics-a-to-z)
+      * [Medicaid ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/medicaid---health-statistics-a-to-z)
+      * [Medicare ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/medicare---health-statistics-a-to-z)
+      * [Mental health ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/mental-health---health-statistics-a-to-z)
+      * [Minority health ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/minority-health---health-statistics-a-to-z)
+      * [Notifiable diseases ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/notifiable-diseases---health-statistics-a-to-z)
+      * [Alcohol use ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/alcohol-use---health-statistics-a-to-z)
+      * [Occupational injuries ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/occupational-injuries---health-statistics-a-to-z)
+      * [Oral health ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/oral-health---health-statistics-a-to-z)
+      * [Behavioral risk factors ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/behavioral-risk-factors---health-statistics-a-to-z)
+      * [Osteoporosis ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/osteoporosis---health-statistics-a-to-z)
+      * [Overweight prevalence ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/overweight-prevalence---health-statistics-a-to-z)
+      * [Personal care homes ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/personal-care-homes---health-statistics-a-to-z)
+      * [Poisoning ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/poisoning---health-statistics-a-to-z)
+      * [Population ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/population---health-statistics-a-to-z)
+      * [Radon ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/radon---health-statistics-a-to-z)
+      * [Rural and urban health ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/rural-and-urban-health---health-statistics-a-to-z)
+      * [School health statistics ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/school-health-statistics---health-statistics-a-to-z)
+      * [Bicycle injuries ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/bicycle-injuries---health-statistics-a-to-z)
+      * [Alzheimer’s disease deaths ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/alzheimers-disease-deaths---health-statistics-a-to-z)
+      * [School violence ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/school-violence---health-statistics-a-to-z)
+      * [Seat belt use ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/seat-belt-use---health-statistics-a-to-z)
+      * [Self-inflicted injuries ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/self-inflicted-injuries---health-statistics-a-to-z)
+      * [Sexually transmitted diseases ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/sexually-transmitted-diseases---health-statistics-a-to-z)
+      * [Smoke detectors ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/smoke-detectors---health-statistics-a-to-z)
+      * [Social Determinants of Health ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/social-determinants-of-health)
+      * [Synar survey ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/synar-survey---health-statistics-a-to-z)
+      * [Tobacco use ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/tobacco-use---health-statistics-a-to-z)
+      * [Birth defects ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/birth-defects---health-statistics-a-to-z)
+      * [Traffic accidents ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/traffic-accidents---health-statistics-a-to-z)
+      * [Ambulatory surgery centers ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/ambulatory-surgery-centers---health-statistics-a-to-z)
+      * [Tuberculosis ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/tuberculosis---health-statistics-a-to-z)
+      * [Unemployment ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/unemployment---health-statistics-a-to-z)
+      * [Vision impairments ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/vision-impairments---health-statistics-a-to-z)
+      * [Vital statistics ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/vital-statistics---health-statistics-a-to-z)
+      * [Vitamin use ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/vitamin-use---health-statistics-a-to-z)
+      * [Water (drinking quality) ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/water-drinking-quality---health-statistics-a-to-z)
+      * [Chronic Obstructive Pulmonary Disease (COPD) ](https://www.pa.gov/agencies/health/health-statistics/health-statistics-a-to-z/chronic-obstructive-pulmonary-disease-copd---health-statistics-a-to-z)
+    * [What's New ](https://www.pa.gov/agencies/health/health-statistics/whats-new)
+    * [About Us ](https://www.pa.gov/agencies/health/health-statistics/about-us)
+    * [Contact Us ](https://www.pa.gov/agencies/health/health-statistics/contact-us0)
+    * [Communicable Diseases ](https://www.pa.gov/agencies/health/health-statistics/communicable-diseases)
+  * [Public Health Research ](https://www.pa.gov/agencies/health/research)
+    * [Health Research ](https://www.pa.gov/agencies/health/research/research)
+      * [CURE ](https://www.pa.gov/agencies/health/research/research/cure)
+      * [HRO ](https://www.pa.gov/agencies/health/research/research/hro)
+      * [IRB ](https://www.pa.gov/agencies/health/research/research/irb)
+      * [JDRF ](https://www.pa.gov/agencies/health/research/research/jdrf)
+      * [PCRF ](https://www.pa.gov/agencies/health/research/research/pcrf)
+      * [PHHSBG ](https://www.pa.gov/agencies/health/research/research/phhsbg)
+      * [PRAMS ](https://www.pa.gov/agencies/health/research/research/prams)
+    * [Vital Records Services for Government Agencies and Public Health Researchers ](https://www.pa.gov/agencies/health/research/vital-records-government-public-health)
+      * [Vital Records Govt and Researchers Document Library ](https://www.pa.gov/agencies/health/research/vital-records-government-public-health/vital-records-govt-researchers-document-library)
+  * [Resources ](https://www.pa.gov/agencies/health/resources)
+    * [Contractor-Grantee ](https://www.pa.gov/agencies/health/resources/contractor-grantee)
+    * [E-Library ](https://www.pa.gov/agencies/health/resources/e-library)
+    * [Health Literacy Program ](https://www.pa.gov/agencies/health/resources/health-literacy)
+    * [HIPAA ](https://www.pa.gov/agencies/health/resources/hipaa)
+    * [Medical Record Fees ](https://www.pa.gov/agencies/health/resources/medical-record-fees)
+    * [Medical Records Request ](https://www.pa.gov/agencies/health/resources/medical-records-request)
+    * [Provider Fee Schedules ](https://www.pa.gov/agencies/health/resources/provider-fee-schedules)
+  * [Bureaus and Offices ](https://www.pa.gov/agencies/health/bureaus-and-offices)
+    * [Bureau of Family Health (BFH) ](https://www.pa.gov/agencies/health/bureaus-and-offices/bfh)
+    * [Bureau of Health Promotion and Risk Reduction (BHPRR) ](https://www.pa.gov/agencies/health/bureaus-and-offices/bhprr)
+    * [Communications ](https://www.pa.gov/agencies/health/bureaus-and-offices/communications)
+    * [Health Equity ](https://www.pa.gov/agencies/health/bureaus-and-offices/health-equity)
+      * [Background ](https://www.pa.gov/agencies/health/bureaus-and-offices/health-equity/background)
+      * [CLAS ](https://www.pa.gov/agencies/health/bureaus-and-offices/health-equity/clas)
+      * [Contact Health Equity ](https://www.pa.gov/agencies/health/bureaus-and-offices/health-equity/contact)
+      * [HEAT ](https://www.pa.gov/agencies/health/bureaus-and-offices/health-equity/heat)
+      * [Implicit Bias ](https://www.pa.gov/agencies/health/bureaus-and-offices/health-equity/implicit-bias)
+      * [Partnership ](https://www.pa.gov/agencies/health/bureaus-and-offices/health-equity/partnership)
+      * [PIHET ](https://www.pa.gov/agencies/health/bureaus-and-offices/health-equity/pihet)
+      * [Health Equity Summit ](https://www.pa.gov/agencies/health/bureaus-and-offices/health-equity/summit)
+    * [Legal ](https://www.pa.gov/agencies/health/bureaus-and-offices/legal)
+      * [Right-to-Know Law Requests (RTK) ](https://www.pa.gov/agencies/health/bureaus-and-offices/legal/rtk)
+    * [Operational Excellence (OpEx) ](https://www.pa.gov/agencies/health/bureaus-and-offices/operational-excellence-opex)
+  * [About Us ](https://www.pa.gov/agencies/health/about-us)
+    * [County-Municipal Health Depts ](https://www.pa.gov/agencies/health/about-us/county-municipal-health-depts)
+    * [Department of Health Leadership ](https://www.pa.gov/agencies/health/about-us/leadership)
+    * [Health Plans Development ](https://www.pa.gov/agencies/health/about-us/health-plans-development)
+      * [Department Plans ](https://www.pa.gov/agencies/health/about-us/health-plans-development/department-plans)
+      * [Healthy Pennsylvania Partnership ](https://www.pa.gov/agencies/health/about-us/health-plans-development/hpp)
+      * [SHA Dashboard ](https://www.pa.gov/agencies/health/about-us/health-plans-development/sha-dashboard)
+      * [Healthy Pennsylvania Partnership State Health Assessment ](https://www.pa.gov/agencies/health/about-us/health-plans-development/state-health-assessment)
+      * [Healthy Pennsylvania Partnership State Health Improvement Plan ](https://www.pa.gov/agencies/health/about-us/health-plans-development/state-health-improvement-plan)
+      * [Department of Health Strategic Plan ](https://www.pa.gov/agencies/health/about-us/health-plans-development/strategic-plan)
+    * [State Health Centers ](https://www.pa.gov/agencies/health/about-us/state-health-centers)
+    * [Budget ](https://www.pa.gov/agencies/health/about-us/budget)
+  * [Contact Us ](https://www.pa.gov/agencies/health/contact-us)
+    * [Customer Service ](https://www.pa.gov/agencies/health/contact-us/customer-service)
+  * [Dashboards ](https://www.pa.gov/agencies/health/dashboards)
+
+
+  1. [ Agencies ](https://www.pa.gov/agencies)
+  2. [ Department of Health ](https://www.pa.gov/agencies/health)
+  3. [ Health Statistics ](https://www.pa.gov/agencies/health/health-statistics)
+  4. What's New
+
+
+# What's New in PA Health Stats
+This is the page for what's new in Pennsylvania health statistics.
+### Childhood Cancer Incidence EDDIE Dataset Updates
+Posted April 13, 2026  
+
+The Childhood Cancer Incidence dataset in [EDD​IE](https://www.pa.gov/agencies/health/health-statistics/eddie-about) was recently updated to include data through 2023. The datasets are available featuring tables, charts, and maps.
+* * *
+### 2024 Reported Pregnancy EDDIE Dataset Updates
+Posted April 10, 2026
+The Reported Pregnancy dataset in [EDDIE](https://www.pa.gov/agencies/health/health-statistics/eddie-about) was recently updated to include data through 2024. The datasets are available featuring tables, charts, and maps.
+* * *
+### 2025 Marriage and Divorce Statistics
+Posted March 20, 2026
+The 2025 Marriage and Divorce Statistics report is now available. The [rep​​ort](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/marriage-and-divorce-statistics) contains marriage and divorce statistics by county and age.
+* * *
+### BRFSS EDDIE Dataset Updates
+Posted March 9, 2026
+The Behavioral Risk Factor Surveillance System (BRFSS) dataset in [EDDIE](https://www.pa.gov/agencies/health/health-statistics/eddie-about) was recently updated to include prevalence estimates through 2024. The dataset is available featuring tables, charts, and maps.
+* * *
+### 2024 BRFSS State Report
+Posted February 9, 2026  
+
+The 2024 Behavioral Risk Factor Surveillance System (BRFSS) [report](https://www.pa.gov/agencies/health/health-statistics/behavioral-risk-tobacco-and-injury/behavioral-risks-pa-adults) is now available. The 2024 BRFSS report has transitioned to a user-friendly interactive, web-based report. Included in the report you will find analysis of all 33 topic areas.
+* * *
+### 2024-2025 Nursing Home Reports
+Posted February 3, 2026
+The 2024-2025 Nursing Home reports are now available. Data found in the [reports](https://www.pa.gov/agencies/health/health-statistics/health-facilities/nursing-home-reports) were obtained from the annual Long Term Care Facility survey.
+### 
+* * *
+### 2024 Births EDDIE Dataset Updates
+Posted January 27, 2026
+The Births dataset in [EDDIE](https://www.pa.gov/agencies/health/health-statistics/eddie-about) was recently updated to include data through 2024. The datasets are available featuring tables, charts, and maps.
+* * *
+### **2023 Maternal Deaths Report Update**
+Posted January 13, 2026
+The Maternal Deaths [report](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics) for 2023 is now available.
+* * *
+###  2024 Abortion Report Update
+Posted January 5, 2026
+The Abortion [report](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics) for 2024 is now available.
+* * *
+### **Violence Dashboard Updates**
+Posted December 10, 2025
+The Violence [dashboard](https://www.pa.gov/agencies/health/health-statistics/behavioral-risk-tobacco-and-injury/injury-statistics/violence-dashboard) was updated with 2024 acute hospital discharge data.
+* * *
+### 2024 Population EDDIE Dataset Updates
+Posted November 26, 2025
+The Population dataset in [EDDIE](https://www.pa.gov/agencies/health/health-statistics/eddie-about) was recently updated to include data through 2024. The dataset is available featuring tables and charts.
+* * *
+### Birth Defects EDDIE Dataset Updates
+Posted November 26, 2025
+The Birth Defects dataset in [EDDIE](https://www.pa.gov/agencies/health/health-statistics/eddie-about) was recently updated to include data through 2024. The datasets are available featuring tables, charts, and maps.
+* * *
+### 2024 County Injury Profiles Report
+Posted November 17, 2025
+The 2024 County Injury Profiles [report](https://www.pa.gov/content/dam/copapwp-pagov/en/health/documents/topics/healthstatistics/behavioralstatistics/injurystatistics/documents/2024%20county%20injury%20profile.pdf) is now available. This report provides detailed county-specific hospitalization data.
+* * *
+### **2024 Hospital Discharge dataset Updates**
+Posted November 14, 2025
+The 2024 Hospital Discharge datasets are now available. The datasets are available in [EDDIE](https://www.pa.gov/agencies/health/health-statistics/eddie-about) with tables, maps, and charts.
+* * *
+### 2024 Hospital Facilities Reports
+Posted October 10, 2025  
+
+The 2024 Hospital Facilities [reports](https://www.pa.gov/agencies/health/health-statistics/health-facilities/hospital-reports) are now available. These facility level reports provide information on utilization, medical staff, and personnel.
+* * *
+### Birth Standard Output Reports Updated
+Posted October 9, 2025
+Data in the Birth Standard Output Reports for state/county and municipality [reports](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/birth-statistics) was recently updated through 2024. These reports contain various tables of birth statistics organized by levels of geography available and the primary topic for each report.
+* * *
+### The Birth Projections by County Updated
+Posted October 9, 2025
+Data in the Birth Projections by County [reports](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/birth-statistics) was recently updated through 2027. This reports displays the results of calculated projections for the number of Pennsylvania resident births from 2025 to 2027.
+* * *
+### Cancer Statistics Dashboard Updates
+Posted September 5, 2025
+The cancer statistics [dashboard](https://www.pa.gov/agencies/health/health-statistics/cancer-statistics/cancer-dashboard) was updated with 2022 cancer incidence and mortality data.
+* * *
+### 2024 Ambulatory Surgery Center Reports
+Posted August 1, 2025  
+
+The 2024 Ambulatory Surgery Center (ASC) [reports](https://www.pa.gov/agencies/health/health-statistics/health-facilities/ambulatory-surgery-center-reports) are now available. These facility level reports provide information on utilization, medical staff, and personnel.
+* * *
+### 2024 Marriage and Divorce Statistics
+Posted July 9, 2025
+The 2024 Marriage and Divorce Statistics report is now available. The [rep​​ort](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/marriage-and-divorce-statistics) contains marriage and divorce statistics by county and age.
+* * *
+### Cancer Incidence EDDIE Dataset Updates
+Posted June 5, 2025
+The Cancer Incidence dataset in [ED​DIE](https://www.pa.gov/agencies/health/health-statistics/eddie-about) was recently updated to include data through 2022. The datasets are available featuring tables, charts, and maps.
+* * *
+2023 Maternal and Child Health Status Indicators Report
+Posted April 25, 2025
+The 2023 Maternal and Child Health Status Indicators [re​​po​​rt](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/maternal-and-child-health) is now available. It includes 29 individual reports (for 28 select municipalities and PA) with statistics on birth data, deaths among youth, and infant deaths.
+* * *
+### Pennsylvania Birth Forecasts
+Posted April 22, 2025
+The Pennsylvania Birth Forecast [report](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/birth-statistics) is now available. It consists of forecasts for the estimated number of Pennsylvania resident births from 2024 to 2026 by state, county, municipality, and mother’s age.
+* * *
+### 2023 Pennsylvania Vital Statistics
+Posted March 27, 2025
+The 2023 Pennsylvania Vital Statistics [report](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/vital-statistics-annual-report) is now available. The report contains birth, death, abortion, reported pregnancy, and population statistics by state, county, and major municipality.
+* * *
+### 2023 Infant Death EDDIE Dataset Updates
+Posted March 14, 2025  
+
+The Infant Death dataset in [EDDIE](https://www.pa.gov/agencies/health/health-statistics/eddie-about) was recently updated to include data through 2023. The datasets are available featuring tables and charts.
+* * *
+### 2023 Reproductive Health Outcomes EDDIE Dataset Updates
+Posted March 14, 2025
+The Reproductive Health Outcomes dataset in [EDDIE](https://www.pa.gov/agencies/health/health-statistics/eddie-about) was recently updated to include data through 2023. The datasets are available featuring tables, charts, and maps.
+* * *
+### 2023 Reported Pregnancy EDDIE Dataset Updates
+Posted March 14, 2025
+The Reported Pregnancy dataset in [EDDIE](https://www.pa.gov/agencies/health/health-statistics/eddie-about) was recently updated to include data through 2023. The datasets are available featuring tables and charts.
+* * *
+### 2023 Cancer Death Tables  
+
+Posted March 3, 2025
+The 2023 cancer death tables are now available. The [standard output tables](https://www.pa.gov/agencies/health/health-statistics/cancer-statistics/cancer-tables) for cancer deaths include a large volume of all the latest available and historical annual and five-year frequency counts for the state, counties, and municipalities by age, sex, race, and primary site.
+* * *
+### County Health Profiles
+Posted Febraury 28, 2025
+The [County Health Prof​iles](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/county-health-profiles) have been updated. Th​e County Health Profiles have been updated with the most recent population, birth, death, cancer, and diseases (communicable and stds) data available.
+* * *
+### Pennsylvania Death Forecasts
+Posted February 20, 2025
+The Pennsylvania Death Forecast [report](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/death-statistics) is now available. It consists of forecasts for the estimated number of Pennsylvania resident death from 2024 to 2026 by state, county, municipality, select causes of death, gender, and age group.
+* * *
+### 2023 Births EDDIE Dataset Updates
+Posted February 10, 2025
+The Births dataset in [EDDIE](https://www.pa.gov/agencies/health/health-statistics/eddie-about) was recently updated to include data through 2023. The datasets are available featuring tables, charts, and maps.
+* * *
+### 2023-2024 Nursing Home Reports
+Posted January 30, 2025
+The 2023-2024 Nursing Home reports are now ava​ilable. Data found in the [reports](https://www.pa.gov/agencies/health/health-statistics/health-facilities/nursing-home-reports) were obtained from the annual Long Term Care Facility survey.
+* * *
+### Birth Standard Output Reports Updated
+Posted January 16, 2025
+Data in the Birth Standard Output Reports for state/county and municipality [reports](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/birth-statistics) was recently updated through 2023. These reports contain various tables of birth statistics organized by levels of geography available and the primary topic for each report.
+* * *
+### The Birth Projections by County Updated
+Posted January 16, 2025
+Data in the Birth Projections by County [reports](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/birth-statistics) was recently updated through 2026. This reports displays the results of calculated projections for the number of Pennsylvania resident births from 2024 to 2026.
+* * *
+### 2023 Carbon Monoxide Poisoning Mortality Dataset Update
+Posted December 16, 2024
+The Birth Defects dataset in [EDDIE](https://www.pa.gov/agencies/health/health-statistics/eddie-about) was recently updated to include data through 2023. The datasets are available featuring tables, charts, and maps.
+* * *
+### 2023 Acute Hospital Discharge dataset Updates
+Posted November 20, 2024
+The 2023 Acute Hospital Discharge datasets are now available. The datasets are available in [EDDIE](https://www.pa.gov/agencies/health/health-statistics/eddie-about) with tables, maps, and charts.  
+
+* * *
+### 2023 Hospital Facilities Reports
+Posted November 13, 2024  
+
+The 2023 Hospital Facilities [reports](https://www.pa.gov/agencies/health/health-statistics/health-facilities/hospital-reports) are now available. These facility level reports provide information on utilization, medical staff, and personnel.
+### 
+* * *
+### 2023 Death EDDIE Dataset Updates  
+
+Posted October 31, 2024
+The 2023 death statistics are now available. The dataset is available in [EDDIE](https://www.pa.gov/agencies/health/health-statistics/eddie-about) with tables, maps, and charts.
+* * *
+### 2023 Population EDDIE Dataset Updates  
+
+Posted October 31, 2024  
+
+The 2023 population statistics are now available. The dataset is available in [EDDIE](https://www.pa.gov/agencies/health/health-statistics/eddie-about) with tables and charts.
+* * *
+### 2023 Death Statistics Standard Output Reports
+Posted October 24, 2024
+The 2023 death statistics standard output [reports](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/death-statistics) are now available. The death statistics reports include a large volume of the latest available and historical state, county, and municipality data by age, race/ethnicity, and various death-related topics.
+* * *
+### **2022 Pennsylvania Vital Statistics**
+Posted October 7, 2024
+The 2022 Pennsylvania Vital Statistics [report](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/vital-statistics-annual-report) is now available. The report contains birth, death, abortion, reported pregnancy, and population statistics by state, county, and major municipality.
+* * *
+### 2023 Ambulatory Surgery Center Reports
+Posted September 18, 2024  
+
+The 2023 Ambulatory Surgery Center (ASC) [reports](https://www.pa.gov/agencies/health/health-statistics/health-facilities/ambulatory-surgery-center-reports) are now available. These facility level reports provide information on utilization, medical staff, and personnel.
+* * *
+**Birth Defects EDDIE Dataset Updates**
+Posted August 21, 2024
+The Birth Defects dataset in [EDDIE](https://www.pa.gov/agencies/health/health-statistics/eddie-about) was recently updated to include data through 2022. The datasets are available featuring tables, charts, and maps.
+* * *
+**Carbon Monoxide Poisoning Mortality Dataset Update**
+Posted August 21, 2024
+The Birth Defects dataset in [EDDIE](https://www.pa.gov/agencies/health/health-statistics/eddie-about) was recently updated to include data through 2022. The datasets are available featuring tables, charts, and maps.
+* * *
+**2023 Marriage and Divorce Statistics**
+Posted July 1, 2024
+The 2022 Marriage and Divorce Statistics report is now available. The [rep​​ort](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/marriage-and-divorce-statistics) contains marriage and divorce statistics by county and age.
+* * *
+**2022 Maternal and Child Health Status Indicators Report**  
+Posted July 1, 2024
+The 2022 Maternal and Child Health Status Indicators [re​​po​​rt](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/maternal-and-child-health) is now available. It includes 29 individual reports (for 28 select municipalities and PA) with statistics on birth data, deaths among youth, and infant deaths.
+* * *
+**Reproductive Health Outcomes EDDIE Dataset Updates**  
+Posted June 14, 2024
+The Reproductive Health Outcomes dataset in [EDDIE](https://www.pa.gov/agencies/health/health-statistics/eddie-about) was recently updated to include data through 2022. The datasets are available featuring tables, charts, and maps.
+* * *
+**Birth Standard Output Reports Updated**  
+Posted May 22, 2024
+Data in the Birth Standard Output Reports for state/county and municipality [reports](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/birth-statistics) was recently updated through 2022. These reports contain various tables of birth statistics organized by levels of geography available and the primary topic for each report.
+* * *
+**The Birth Projections by County Updated**  
+Posted May 22, 2024
+Data in the Birth Projections by County [reports](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/birth-statistics) was recently updated through 2020. This reports displays the results of calculated projections for the number of Pennsylvania resident births from 2023 to 2024.
+* * *
+**2021 Maternal and Child Health Status Indicators Report**
+Posted May 13, 2024
+The 2021 Maternal and Child Health Status Indicators [re​​port](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/maternal-and-child-health) is now available. It includes 29 individual reports (for 28 select municipalities and PA) with statistics on birth data, deaths among youth, and infant deaths.  
+
+* * *
+### County Health Profiles
+Posted April 19, 2024  
+
+The [County Health Prof​iles](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/county-health-profiles) have been updated. Th​e County Health Profiles have been updated with the most recent population, birth, death, cancer, diseases (communicable and stds), and behavior (BRFSS) data available.
+* * *
+### Childhood Cancer Incidence EDDIE Dataset Updates
+Posted April 10, 2024  
+
+The Childhood Cancer Incidence dataset in [EDD​IE](https://www.pa.gov/agencies/health/health-statistics/eddie-about) was recently updated to include data through 2021. The datasets are available featuring tables, charts, and maps.
+* * *
+### Cancer Incidence EDDIE Dataset Updates
+Posted April 10, 2024
+The Cancer Incidence dataset in [ED​DIE](https://www.pa.gov/agencies/health/health-statistics/eddie-about) was recently updated to include data through 2021. The datasets are available featuring tables, charts, and maps.
+* * *
+### 2021 Cancer Incidence Standard Output Tables
+Posted April 10, 2024
+The 2021 cancer incidence tables are now available. The [stand​ard output tables](https://www.pa.gov/agencies/health/health-statistics/cancer-statistics/cancer-tables) for cancer incidence include a large volume of all the latest available and historical annual and five-year frequency counts for the state, counties, and municipalities by age, sex, race, and primary site.
+* * *
+**Reproductive Health Outcomes EDDIE Dataset Updates**
+Posted March 27, 2024​  
+
+The Reproductive Health Outcomes dataset in [EDDIE](https://www.pa.gov/agencies/health/health-statistics/eddie-about) was recently updated to include data through 2021. The dataset is available featuring tables, charts, and maps.
+* * *
+### 2022 Death Statistics Standard Output Reports
+Posted February 6, 2024  
+
+The 2022 death statistics standard output reports are now available. The death statistics [r​​eports](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/death-statistics) include a large volume of the latest available and historical state, county, and municipality data by age, race/ethnicity, and various death-related topics.
+* * *
+### 2021 Pennsylvania Vital Statistics
+Posted February 6, 2024
+The 2021 Pennsylvania Vital Statistics [report](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/vital-statistics-annual-report) is now available. The report contains birth, death, abortion, reported pregnancy, and population statistics by state, county, and major municipality.
+* * *
+### 2022-2023 Nursing Home Reports
+Posted February 2, 2024  
+
+The 2022-2023 Nursing Home [reports](https://www.pa.gov/agencies/health/health-statistics/health-facilities/nursing-home-reports) are now ava​ilable. Data found in the reports were obtained from the annual Long Term Care Facility survey.
+* * *
+### 2021 Infant Death EDDIE Dataset Updates
+Posted December 7, 2023  
+
+The Infant Death dataset in [EDDIE](https://www.pa.gov/agencies/health/health-statistics/eddie-about) was recently updated to include data through 2021. The datasets are available featuring tables, charts, and maps.
+* * *
+### 2021 Reported Pregnancy EDDIE Dataset Updates
+Posted December 7, 2023
+The Reported Pregnancy dataset in [EDDIE](https://www.pa.gov/agencies/health/health-statistics/eddie-about) was recently updated to include data through 2021. The datasets are available featuring tables, charts, and maps.
+* * *
+### BRFSS EDDIE Dataset Updates
+Posted December 7, 2023
+The Behavioral Risk Factor Surveillance System (BRFSS) dataset in [EDDIE](https://www.pa.gov/agencies/health/health-statistics/eddie-about) was recently updated to include prevalence estimates through 2022. The dataset is available featuring tables, charts, and maps.
+* * *
+### 2021 Births EDDIE Dataset Updates
+Posted December 7, 2023
+The Births dataset in [EDDIE](https://www.pa.gov/agencies/health/health-statistics/eddie-about) was recently updated to include data through 2021. The datasets are available featuring tables, charts, and maps.
+* * *
+### 2022 Marriage and Divorce Statistics
+Posted November 17, 2023
+The 2022 Marriage and Divorce Statistics report is now available. The [report](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/marriage-and-divorce-statistics) contains marriage and divorce statistics by county and age.
+* * *
+### 2021 Death EDDIE Dataset Updates  
+
+Posted November 7, 2023  
+
+The 2021 death statistics are now available. The dataset is available in [EDDIE](https://www.pa.gov/agencies/health/health-statistics/eddie-about) with tables, maps, and charts.
+* * *
+### Birth Standard Output Reports Updated  
+
+Posted October 30, 2023
+Data in the Birth Standard Output Reports for state/county and municipality [reports](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/birth-statistics) was recently updated through 2021. These reports contain various tables of birth statistics organized by levels of geography available and the primary topic for each report.
+* * *
+### 2021 Cancer Death Tables  
+
+Posted September 14, 2023
+The 2021 cancer death tables are now available. The [standard output tables](https://www.pa.gov/agencies/health/health-statistics/cancer-statistics/cancer-tables) for cancer deaths include a large volume of all the latest available and historical annual and five-year frequency counts for the state, counties, and municipalities by age, sex, race, and primary site.
+* * *
+### Cancer Statistics Dashboard Updates
+Posted September 14, 2023
+The cancer statistics [dashboard](https://www.pa.gov/agencies/health/health-statistics/cancer-statistics/cancer-dashboard) was updated with 2020 cancer incidence and mortality data.
+* * *
+### 2021 Death Statistics Standard Output Reports
+Posted August 21, 2023  
+
+The 2021 death statistics standard output reports are now available. The death statistics [reports](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/death-statistics) include a large volume of the latest available and historical state, county, and municipality data by age, race/ethnicity, and various death-related topics.
+* * *
+### 2022 Hospital Reports  
+
+Posted August 11, 2023  
+
+The 2022 hospital [reports](https://www.pa.gov/agencies/health/health-statistics/health-facilities/hospital-reports) are now available. These facility level reports provide information on utilization, inpatient unit data, admissions and discharges, medical staff and personnel, and more.
+* * *
+### 2022 Ambulatory Surgery Center Reports
+Posted August 11, 2023  
+
+The 2022 Ambulatory Surgery Center (ASC) [reports](https://www.pa.gov/agencies/health/health-statistics/health-facilities/ambulatory-surgery-center-reports) are now available. These facility level reports provide information on utilization, medical staff, and personnel.
+* * *
+### Childhood Cancer Incidence EDDIE Dataset Updates
+Posted July 18, 2023  
+
+The Childhood Cancer Incidence dataset in [EDDIE](https://www.pa.gov/agencies/health/health-statistics/eddie-about) was recently updated to include data through 2020. The datasets are available featuring tables, charts, and maps.
+* * *
+### Cancer Incidence EDDIE Dataset Updates
+Posted May 9, 2023
+The Cancer Incidence dataset in [EDDIE](https://www.pa.gov/agencies/health/health-statistics/eddie-about) was recently updated to include data through 2020. The datasets are available featuring tables, charts, and maps.
+* * *
+### 2020 Cancer Incidence Standard Output Tables
+Posted May 9, 2023
+The 2020 cancer incidence tables are now available. The [standard output tables](https://www.pa.gov/agencies/health/health-statistics/cancer-statistics/cancer-tables) for cancer incidence include a large volume of all the latest available and historical annual and five-year frequency counts for the state, counties, and municipalities by age, sex, race, and primary site.
+* * *
+### 2020 Pennsylvania Vital Statistics
+Posted February 15, 2023
+The 2020 Pennsylvania Vital Statistics [report](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/vital-statistics-annual-report) is now available. The report contains birth, death, abortion, reported pregnancy, and population statistics by state, county, and major municipality.
+* * *
+### 2020 Cancer Death Tables  
+
+Posted February 6, 2023
+The 2020 cancer death tables are now available. The [standard output tables](https://www.pa.gov/agencies/health/health-statistics/cancer-statistics/cancer-tables) for cancer deaths include a large volume of all the latest available and historical annual and five-year frequency counts for the state, counties, and municipalities by age, sex, race, and primary site.
+* * *
+### 2021 Population EDDIE Dataset Updates
+Posted February 3, 2023
+The Population dataset in [EDDIE](https://www.pa.gov/agencies/health/health-statistics/eddie-about) was recently updated to include data through 2021. The dataset is available featuring tables and charts.
+* * *
+### Reported Pregnancies EDDIE Dataset Updates
+Posted January 18, 2023  
+
+The Reported Pregnancies dataset in [EDDIE](https://www.pa.gov/agencies/health/health-statistics/eddie-about) was recently updated to include data through 2020. The datasets are available featuring tables, charts, and maps.
+* * *
+### Carbon Monoxide Poisoning Mortality EDDIE Dataset Updates  
+
+Posted January 18, 2023  
+
+The Carbon Monoxide Poisoning Mortality dataset in [EDDIE](https://www.pa.gov/agencies/health/health-statistics/eddie-about) was recently updated to include data through 2020. The datasets are available featuring tables, charts, and maps.
+* * *
+### 2021 BRFSS State Report
+Posted January 6, 2023  
+
+The 2021 Behavioral Risk Factor Surveillance System (BRFSS) [report](https://www.pa.gov/agencies/health/health-statistics/behavioral-risk-tobacco-and-injury/behavioral-risks-pa-adults) is now available. The report is an interactive, web-based report that includes estimates produced from the 2021 BRFSS telephone survey of Pennsylvania adults. Included in the report is analysis of 27 topic areas, health district and regional maps and health district-level reports with comparisons to Pennsylvania.
+* * *
+### 2021 Adverse Childhood Experiences (ACEs) report
+Posted January 6, 2023
+The 2021 Adverse Childhood Experiences (ACEs) [report](https://www.pa.gov/content/dam/copapwp-pagov/en/health/documents/topics/healthstatistics/behavioralstatistics/behavioralriskpaadults/documents/ACE%20Report%202021.pdf) is now available. Questions from the ACE module that was included in the 2021 BRFSS survey address negative childhood experiences that often lead to risky behavior and chronic conditions later in life. This ACE report provides statistics and ACE scores based off responses from questions in the ACE module.
+* * *
+### 2021-2022 Nursing Home Reports
+Posted January 4, 2023  
+
+The 2021-2022 Nursing Home [reports](https://www.pa.gov/agencies/health/health-statistics/health-facilities/nursing-home-reports) are now available. Data found in the reports were obtained from the annual Long Term Care Facility survey.
+* * *
+### 2020 Maternal and Child Health Status Indicators Report
+Posted January 4, 2023
+The 2020 Maternal and Child Health Status Indicators [_report_](https://www.pa.gov/agencies/health/health-statistics/birth-death-and-other-vital-statistics/maternal-and-child-health) is now available. It includes 29 individual reports (for 28 select municipalities and PA) with statistics on birth data, deaths among youth, and infant deaths.
+* * *
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+Return to top 
+[ ![Commonwealth of Pennsylvania Home](https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/CoPA%20Logo%20-%20Horizontal%20Lockup%201.svg) ](https://www.pa.gov/en)
+Proudly founded in 1681 as a place of tolerance and freedom.
+  * [ Commonwealth of Pennsylvania Social Media Follow on Facebook ](https://www.facebook.com/GovernorShapiro)
+  * [ Commonwealth of Pennsylvania Social Media Follow on X ](https://x.com/GovernorShapiro)
+  * [ Commonwealth of Pennsylvania Social Media Follow on Bluesky ](https://bsky.app/profile/governor.pa.gov)
+  * [ Commonwealth of Pennsylvania Social Media Follow on Threads ](https://www.threads.net/@governorshapiro)
+  * [ Commonwealth of Pennsylvania Social Media Follow on Instagram ](https://www.instagram.com/GovernorShapiro/)
+  * [ Commonwealth of Pennsylvania Social Media Follow on TikTok ](https://www.tiktok.com/@governorshapiro)
+  * [ Commonwealth of Pennsylvania Social Media Follow on YouTube ](https://www.youtube.com/@GovernorShapiro)
+  * [ Commonwealth of Pennsylvania Social Media Follow on Flickr ](https://www.flickr.com/photos/pagovernor/)
+  * [ Commonwealth of Pennsylvania Social Media Follow on WhatsApp ](https://www.whatsapp.com/channel/0029VbBAs2o6mYPMP8MQsg1b)
+
+
+## Top services
+  * [Register to Vote](https://www.pa.gov/services/vote/register-to-vote)
+  * [Find a DMV](https://www.pa.gov/agencies/dmv/find-a-location)
+  * [Get a Birth Certificate](https://www.pa.gov/agencies/health/programs/vital-records/birth-certificates)
+  * [Join the Veterans Registry](https://www.pa.gov/services/dmva/subscribe-to-veterans--registry-and-monthly-publication)
+  * [PAyback(opens in a new tab)](https://payback.pa.gov/Home/Who)
+
+
+## PA.gov
+  * [Careers & Internships ](https://www.pa.gov/agencies/employment/open-jobs)
+  * [PennWatch(opens in a new tab)](https://pennwatch.pa.gov/Pages/default.aspx)
+  * [Right-to-Know Law(opens in a new tab)](https://www.openrecords.pa.gov/RTKL/CitizensGuide.cfm)
+
+
+Copyright © 2026 Commonwealth of Pennsylvania. All rights reserved.
+  * [Accessibility](https://www.pa.gov/accessibility-policy)
+  * [Privacy & Disclaimers](https://www.pa.gov/privacy-policy)
+  * [Translation Disclaimer](https://www.pa.gov/translation-disclaimer)
+  * [Security](https://www.pa.gov/security-policy)
+  * [Social Media Policy & Disclaimer](https://www.pa.gov/social-media-policy-and-disclaimer)
+
+
+Loading ...
+
+
+--- EMBEDDED FILE CONTENT: https://www.pa.gov/content/dam/copapwp-pagov/en/health/documents/topics/healthstatistics/behavioralstatistics/injurystatistics/documents/2024%20county%20injury%20profile.pdf ---
+
+INJURIES IN PENNSYLVANIA:
+* * *
+## _2024 County Profiles_
+Violence and Injury
+* * *
+Prevention Program
+* * *
+November 2025
+* * *
+## _Table of Contents_
+E-code External cause of injury code
+* * *
+ICD-10-CM International Classification of Diseases, Tenth Edition, with Clinical Modification PHC4 Pennsylvania Health Care Cost Containment Council NEC Not elsewhere classifiable
+* * *
+MVT Motor vehicle traffic
+* * *
+Data used in this report were provided to the Pennsylvania Department of Health by the Pennsylvania Health Care Cost Containment Council. The Pennsylvania Health Care Cost Containment Council specifically disclaims responsibility for any interpretations or conclusions. Contents may be republished or reproduced whole or in part, with attribution. List of Abbreviations Acknowledgments
+* * *
+Please utilize the bookmarks included in the electronic document to navigate directly to the data for a desired county. This report provides detailed county -specific hospitalization data for 2024. This overview highlights several key variables for hospitalized Pennsylvanians as distributed among seven age groups: 1) under 5 years; 2) 5 to 14 years; 3) 15 to 24 years; 4) 25 to 44 years; 5) 45 to 64 years; 6) 65 to 74 years; and 7) 75 years and more. The median and total charges for the hospitalizations are also provided for each of the variables examined. The selected variables included demographic features on gender and race, cause of hospitalization or injury mechanism categories, the intent of the injury, whether a fatality resulted, and the payer source. The frequency or number of discharges is provided in the table. However, rates were not calculated, since, in many cases, the low counts when stratified by county did not warrant rate computations. The total hospital charges for all injuries exceeded $ 15 billion -- more than $ 9.1 billion from falls alone and approximately $889.3 million from injuries related to occupants of motor vehicles. Of the total hospital charges for all injuries, over 78 percent were paid by governmental sources such as Medicare/Medicaid, with 19 percent paid by non government sources, such as Blue Cross and other commercial insurance. The top injury causes, in terms of median charge, were those due to motor vehicle traffic, firearms, suffocation, and fire/flames.
+* * *
+Data Source
+* * *
+The 2024 statewide hospital discharge data compiled by the Pennsylvania Health Care Cost Containment Council (PHC4) was the primary data source for this report. PHC4 compiles data on inpatient discharges from all hospitals in Pennsylvania. The data set contains patient -specific data with numerous fields of interest for injury surveillance, including patient demographics (age, gender and race); discharge diagnoses (principal diagnosis, seventeen secondary diagnoses); type and source of admission; and characteristics of admission and discharge (admission quarter and year, discharge quarter and year). Data used for this report include all 2024 hospital discharges in acute care hospitals due to injuries to Pennsylvania residents.
+* * *
+Injury Definition Used
+* * *
+An injury hospital discharge was defined as one occurring in the Commonwealth of Pennsylvania that was assigned an ICD-10-CM code between T17 and T75 and between V01 and Y98 as its primary diagnosis, or one with any diagnosis outside ICD-10-CM codes T17-T75 and V01-Y98, but with a valid E-code. A few cases were excluded, including late effects and medical/surgical misadventures.
+* * *
+Data Limitations There were several data limitations that should be considered when interpreting the results presented in this report, including the following:
+* * *
+• Coders may have inconsistently utilized the E-code field, particularly in cases with multiple discharge diagnoses. • E-codes vary in specificity, with some that are non-specific or ambiguous. • Medical record injury documentation may be lacking in some cases. • Intentional injuries may be underreported, since undetermined intent might be coded as “unintentional” per national E-code assignment guidelines. • Due to readmissions or transfers, some injury events may be double counted. • The PHC4 editing process may not capture all errors in hospital coding. • Non-residents are excluded from analysis. • Finally, due to missing or out-of-range data, some tables may not add up to the total number of injury hospital discharges. Due to the limitations mentioned above, readers are cautioned about extrapolation of this data and comparison of 2024 data with those of other years.
+* * *
+Overview
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Adams County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 4 8 40 88 148 250 469 1,007 100.00 $47,702 $81,617,671 Gender Male 4 4 26 63 82 123 185 487 48.36 $46,852 $41,419,039 Female 0 4 14 25 66 127 284 520 51.64 $49,155 $40,198,632 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 4 5 37 75 140 239 451 951 94.44 $47,374 $77,575,144 Black 0 0 1 3 2 1 2 9 0.89 $51,855 $395,535 Asian/Pac. Isl. 0 0 0 0 0 0 1 1 0.10 $78,316 $78,316 Native Am./Esk. 0 0 0 0 0 0 1 1 0.10 $67,063 $67,063 Other 0 2 2 8 5 7 10 34 3.38 $60,802 $2,650,623 Unknown 0 1 0 2 1 3 4 11 1.09 $67,493 $850,990 Mechanism Bites and stings 0 0 0 1 2 3 2 8 0.79 $26,386 $525,665 Cut/pierce 0 0 0 2 5 1 1 9 0.89 $122,279 $896,095 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 3 1 7 22 66 189 412 700 69.51 $47,995 $49,214,416 Fire/flame 0 0 0 1 1 2 1 5 0.50 $353,759 $2,314,218 Firearm 0 0 0 1 3 0 0 4 0.40 $66,077 $277,837 Hot object/substance 0 0 0 1 1 1 0 3 0.30 $108,143 $907,041 Machinery 0 0 1 2 0 0 0 3 0.30 $49,643 $223,702 MVT Occupant 0 1 9 10 12 15 7 54 5.36 $48,280 $5,151,588 MVT Motorcyclist 0 0 7 10 10 2 0 29 2.88 $49,936 $4,461,948 MVT Pedalcyclist 0 1 0 0 0 0 0 1 0.10 $30,095 $30,095 MVT Pedestrian 0 0 1 1 1 0 0 3 0.30 $192,001 $515,714 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 1 0 0 0 2 3 2 8 0.79 $44,370 $541,340 Other specified and classifiable 0 0 1 0 0 2 1 4 0.40 $37,598 $189,283 Other specified, NEC 0 0 0 2 1 0 1 4 0.40 $34,768 $145,558 Overexertion 0 0 0 2 3 3 1 9 0.89 $55,510 $725,345 Pedal cyclist, other 0 1 0 0 0 0 0 1 0.10 $122,277 $122,277 Pedestrian, other 0 0 0 0 0 0 0 0 0.00 0 0 Poisoning 0 3 10 15 12 7 9 56 5.56 $36,715 $4,286,997 Struck by/against 0 1 1 3 5 4 6 20 1.99 $47,951 $1,592,146 Suffocation 0 0 0 0 3 1 0 4 0.40 $98,329 $541,949 Transport, other 0 0 0 0 1 0 0 1 0.10 $163,598 $163,598 Unspecified 0 0 3 15 20 17 26 81 8.04 $47,689 $8,790,860 Intent Unintentional 4 6 31 69 129 245 461 945 93.84 $48,270 $77,702,222 Self-Inflicted 0 0 0 5 9 0 0 14 1.39 $52,031 $1,140,231 Assault 0 0 0 1 0 0 0 1 0.10 $37,004 $37,004 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 0 2 9 13 10 5 8 47 4.67 $33,375 $2,738,214 Outcome Fatal 0 0 0 2 2 3 10 17 1.69 $67,275 $1,467,234 Nonfatal 4 8 40 86 146 247 459 990 98.31 $47,696 $80,150,437 Payor Uninsured 1 0 2 9 1 0 0 13 1.29 $27,128 $437,699 Medicare 0 0 1 7 37 222 446 713 70.80 $47,843 $52,169,104 Medicaid 1 4 9 33 21 0 3 71 7.05 $49,142 $5,791,399 Blue Cross 0 2 10 18 46 3 0 79 7.85 $47,564 $7,320,806 Commercial 2 2 18 17 36 20 5 100 9.93 $48,215 $10,166,283 Government 0 0 0 2 4 5 15 26 2.58 $44,476 $2,009,336 Other/Unknown 0 0 0 0 3 0 0 3 0.30 $853,143 $3,385,489 Payor Missing 0 0 0 2 0 0 0 2 0.20 $168,777 $337,555 Overall Total 4 8 40 88 148 250 469 1,007 100.00 $47,702 $81,617,671 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Allegheny County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 164 153 433 1,484 2,561 2,935 5,677 13,407 100.00 $72,519 $1,574,593,040 Gender Male 104 85 253 850 1,402 1,428 2,238 6,360 47.44 $76,419 $853,947,206 Female 60 68 179 634 1,159 1,507 3,439 7,046 52.55 $68,793 $720,594,199 Unknown 0 0 1 0 0 0 0 1 0.01 $51,635 $51,635 Race White 67 83 228 950 1,914 2,406 5,092 10,740 80.11 $71,240 $1,179,654,509 Black 52 56 162 431 536 445 351 2,033 15.16 $83,506 $328,081,646 Asian/Pac. Isl. 0 0 2 11 13 1 19 46 0.34 $51,390 $3,492,006 Native Am./Esk. 0 0 2 4 5 1 8 20 0.15 $65,052 $1,260,628 Other 3 2 7 25 18 11 30 96 0.72 $78,019 $11,851,330 Unknown 42 12 32 63 75 71 177 472 3.52 $45,473 $50,252,921 Mechanism Bites and stings 1 9 4 31 46 31 24 146 1.09 $40,709 $9,767,196 Cut/pierce 2 4 30 83 51 19 19 208 1.55 $47,310 $15,905,147 Drowning/submersion 0 0 0 0 1 0 0 1 0.01 $208,116 $208,116 Fall 46 37 55 336 1,274 2,052 4,787 8,587 64.05 $76,791 $978,118,232 Fire/flame 1 3 3 14 19 12 11 63 0.47 $72,754 $15,691,786 Firearm 0 2 37 74 23 14 2 152 1.13 $154,923 $58,468,663 Hot object/substance 14 5 7 18 32 14 15 105 0.78 $66,816 $11,283,268 Machinery 0 0 2 5 2 5 1 15 0.11 $102,967 $1,688,858 MVT Occupant 3 11 54 101 116 71 92 448 3.34 $90,711 $78,103,697 MVT Motorcyclist 0 1 17 37 45 12 9 121 0.90 $119,750 $33,439,208 MVT Pedalcyclist 0 3 0 5 12 10 1 31 0.23 $107,909 $4,667,230 MVT Pedestrian 1 1 5 22 13 10 5 57 0.43 $125,843 $13,870,681 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 5 1 2 14 12 22 24 80 0.60 $46,231 $5,783,418 Other specified and classifiable 13 5 8 21 11 6 3 67 0.50 $47,635 $7,672,401 Other specified, NEC 4 1 5 20 21 15 10 76 0.57 $62,663 $7,481,328 Overexertion 1 1 5 14 25 19 18 83 0.62 $65,111 $9,796,899 Pedal cyclist, other 1 11 3 6 12 17 5 55 0.41 $75,944 $6,286,043 Pedestrian, other 1 1 0 6 5 2 2 17 0.13 $74,769 $4,423,014 Poisoning 32 39 130 376 333 135 84 1,129 8.42 $39,721 $80,727,163 Struck by/against 6 9 26 66 87 57 88 339 2.53 $62,731 $32,243,094 Suffocation 1 0 2 7 28 29 53 120 0.90 $109,907 $28,838,693 Transport, other 0 0 1 7 5 2 1 16 0.12 $111,352 $2,456,956 Unspecified 32 9 37 221 388 381 423 1,491 11.12 $64,906 $167,671,950 Intent Unintentional 118 108 237 945 2,145 2,772 5,579 11,904 88.79 $75,472 $1,419,018,193 Self-Inflicted 1 1 26 71 39 17 11 166 1.24 $37,112 $17,615,868 Assault 15 5 40 112 57 27 6 262 1.95 $75,800 $62,043,778 Undetermined 0 0 0 3 4 0 0 7 0.05 $53,492 $462,732 Other/Unknown 30 39 130 353 316 119 81 1,068 7.97 $39,729 $75,452,470 Outcome Fatal 4 0 3 20 51 64 228 370 2.76 $125,579 $94,568,482 Nonfatal 160 153 430 1,464 2,510 2,871 5,449 13,037 97.24 $71,465 $1,480,024,559 Payor Uninsured 3 3 22 90 67 12 3 200 1.49 $53,619 $21,210,819 Medicare 0 0 4 148 726 2,567 5,261 8,706 64.94 $74,431 $965,278,697 Medicaid 106 90 204 730 810 33 33 2,006 14.96 $71,815 $288,448,020 Blue Cross 19 27 91 145 383 109 169 943 7.03 $59,499 $95,910,504 Commercial 36 32 108 354 547 197 184 1,458 10.87 $72,195 $193,005,428 Government 0 1 1 7 17 10 26 62 0.46 $50,011 $5,385,969 Other/Unknown 0 0 3 7 8 1 1 20 0.15 $15,682 $4,358,240 Payor Missing 0 0 0 3 3 6 0 12 0.09 $49,195 $995,364 Overall Total 164 153 433 1,484 2,561 2,935 5,677 13,407 100.00 $72,519 $1,574,593,040 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Armstrong County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 8 10 22 67 130 138 310 685 100.00 $51,923 $67,417,596 Gender Male 3 5 13 43 65 67 113 309 45.11 $59,442 $38,300,036 Female 5 5 9 24 65 71 197 376 54.89 $45,676 $29,117,560 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 7 10 21 63 122 136 304 663 96.79 $51,932 $64,011,724 Black 0 0 0 1 3 1 3 8 1.17 $105,378 $2,282,092 Asian/Pac. Isl. 0 0 0 0 0 0 0 0 0.00 0 0 Native Am./Esk. 0 0 0 0 1 0 0 1 0.15 $287,995 $287,995 Other 0 0 1 1 1 0 0 3 0.44 $50,386 $135,853 Unknown 1 0 0 2 3 1 3 10 1.46 $38,799 $699,933 Mechanism Bites and stings 0 1 0 3 2 0 5 11 1.61 $37,192 $557,778 Cut/pierce 0 0 2 4 2 4 1 13 1.90 $59,885 $1,418,805 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 3 3 8 11 61 87 241 414 60.44 $54,395 $37,497,926 Fire/flame 0 0 0 1 4 0 1 6 0.88 $66,118 $2,207,808 Firearm 0 0 0 1 0 0 0 1 0.15 $172,442 $172,442 Hot object/substance 0 0 0 0 2 1 0 3 0.44 $41,326 $169,741 Machinery 0 0 0 0 1 4 0 5 0.73 $89,236 $911,832 MVT Occupant 0 3 2 14 6 7 3 35 5.11 $92,964 $7,758,305 MVT Motorcyclist 0 0 2 2 4 1 0 9 1.31 $194,994 $1,634,290 MVT Pedalcyclist 0 0 0 0 0 0 0 0 0.00 0 0 MVT Pedestrian 0 0 0 0 3 0 0 3 0.44 $134,695 $559,424 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 0 0 0 0 3 1 4 0.58 $46,748 $603,377 Other specified and classifiable 1 0 0 2 3 0 0 6 0.88 $38,295 $317,719 Other specified, NEC 0 0 0 0 0 1 0 1 0.15 $46,042 $46,042 Overexertion 0 0 0 0 1 0 0 1 0.15 $58,302 $58,302 Pedal cyclist, other 0 0 0 0 0 2 0 2 0.29 $31,610 $63,219 Pedestrian, other 0 0 0 0 0 0 0 0 0.00 0 0 Poisoning 2 3 3 16 10 4 7 45 6.57 $26,929 $2,038,151 Struck by/against 0 0 2 7 3 2 3 17 2.48 $78,345 $1,973,068 Suffocation 0 0 0 0 3 1 4 8 1.17 $94,492 $1,113,280 Transport, other 0 0 1 0 0 0 1 2 0.29 $98,822 $197,644 Unspecified 2 0 2 6 25 21 43 99 14.45 $33,854 $8,118,445 Intent Unintentional 6 7 16 46 120 133 302 630 91.97 $53,822 $64,672,166 Self-Inflicted 0 0 2 1 1 1 1 6 0.88 $17,137 $130,475 Assault 0 0 2 4 1 0 0 7 1.02 $26,985 $375,725 Undetermined 0 0 0 1 0 0 0 1 0.15 $390,441 $390,441 Other/Unknown 2 3 2 15 8 4 7 41 5.99 $27,552 $1,848,790 Outcome Fatal 0 0 0 1 3 4 11 19 2.77 $93,524 $5,228,992 Nonfatal 8 10 22 66 127 134 299 666 97.23 $50,797 $62,188,605 Payor Uninsured 0 1 3 3 5 1 0 13 1.90 $66,595 $1,004,894 Medicare 0 0 1 9 37 114 280 441 64.38 $49,583 $36,106,106 Medicaid 5 3 6 32 35 2 0 83 12.12 $54,462 $11,454,792 Blue Cross 3 4 6 9 27 3 5 57 8.32 $70,101 $7,888,519 Commercial 0 2 6 13 23 9 18 71 10.36 $55,161 $9,898,610 Government 0 0 0 1 1 4 5 11 1.61 $53,604 $679,749 Other/Unknown 0 0 0 0 2 4 2 8 1.17 $39,364 $342,838 Payor Missing 0 0 0 0 0 1 0 1 0.15 $42,088 $42,088 Overall Total 8 10 22 67 130 138 310 685 100.00 $51,923 $67,417,596 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Beaver County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 12 17 73 180 340 361 729 1,712 100.00 $37,385 $149,977,557 Gender Male 5 11 42 108 182 185 269 802 46.85 $41,590 $85,883,080 Female 7 6 31 72 158 176 460 910 53.15 $34,970 $64,094,477 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 8 9 42 121 208 257 432 1,077 62.91 $50,069 $115,417,763 Black 0 4 18 26 18 5 9 80 4.67 $85,801 $13,689,575 Asian/Pac. Isl. 0 0 0 0 0 0 3 3 0.18 $26,668 $77,228 Native Am./Esk. 0 0 0 1 0 0 0 1 0.06 $47,185 $47,185 Other 2 1 1 0 3 0 1 8 0.47 $72,804 $938,547 Unknown 2 3 12 32 111 99 284 543 31.72 $24,177 $19,807,259 Mechanism Bites and stings 2 1 2 2 6 3 7 23 1.34 $20,029 $726,562 Cut/pierce 0 1 5 14 14 5 0 39 2.28 $29,943 $2,003,164 Drowning/submersion 0 0 1 0 0 0 0 1 0.06 $5,212 $5,212 Fall 2 1 12 27 177 261 611 1,091 63.73 $35,985 $92,853,239 Fire/flame 0 0 1 4 1 1 0 7 0.41 $98,811 $1,889,835 Firearm 0 0 5 8 2 1 2 18 1.05 $197,125 $5,032,566 Hot object/substance 0 0 0 0 3 0 1 4 0.23 $108,095 $391,928 Machinery 0 0 0 0 2 0 0 2 0.12 $127,590 $255,180 MVT Occupant 0 3 8 18 18 8 13 68 3.97 $92,564 $9,371,392 MVT Motorcyclist 0 0 2 9 5 5 0 21 1.23 $173,396 $4,220,334 MVT Pedalcyclist 0 0 2 0 0 1 0 3 0.18 $288,724 $920,493 MVT Pedestrian 0 0 0 4 0 1 3 8 0.47 $123,045 $2,062,136 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 2 0 1 0 3 5 5 16 0.93 $31,629 $1,011,223 Other specified and classifiable 1 0 0 5 0 1 1 8 0.47 $41,787 $573,598 Other specified, NEC 1 0 0 3 2 0 2 8 0.47 $36,514 $424,854 Overexertion 0 0 0 1 4 3 7 15 0.88 $35,657 $628,745 Pedal cyclist, other 0 1 0 0 2 0 0 3 0.18 $88,084 $253,050 Pedestrian, other 0 0 0 1 1 0 1 3 0.18 $46,779 $191,945 Poisoning 2 3 27 51 31 10 8 132 7.71 $18,718 $6,886,590 Struck by/against 0 3 2 14 18 6 10 53 3.10 $35,184 $3,478,223 Suffocation 0 0 0 0 2 3 4 9 0.53 $81,764 $2,332,355 Transport, other 0 1 0 1 1 0 0 3 0.18 $93,656 $343,965 Unspecified 2 3 5 18 48 47 54 177 10.34 $39,818 $14,120,966 Intent Unintentional 9 14 35 98 294 346 717 1,513 88.38 $38,898 $136,604,979 Self-Inflicted 0 0 8 18 9 3 3 41 2.39 $21,437 $1,871,102 Assault 0 0 4 15 10 3 1 33 1.93 $56,877 $5,095,455 Undetermined 0 0 0 1 1 0 0 2 0.12 $13,440 $26,880 Other/Unknown 3 3 26 48 26 9 8 123 7.18 $18,097 $6,379,140 Outcome Fatal 0 0 1 1 6 7 34 49 2.86 $67,639 $7,755,591 Nonfatal 12 17 72 179 334 354 695 1,663 97.14 $36,813 $142,221,966 Payor Uninsured 0 0 4 12 6 0 0 22 1.29 $28,847 $1,338,046 Medicare 0 0 1 17 124 321 670 1,133 66.18 $36,337 $93,768,307 Medicaid 6 8 31 66 73 1 1 186 10.86 $46,094 $23,516,410 Blue Cross 2 6 5 27 54 8 4 106 6.19 $37,676 $7,297,684 Commercial 4 3 32 51 76 13 17 196 11.45 $52,917 $22,039,101 Government 0 0 0 4 6 18 37 65 3.80 $19,567 $1,602,869 Other/Unknown 0 0 0 2 0 0 0 2 0.12 $74,140 $148,280 Payor Missing 0 0 0 1 1 0 0 2 0.12 $133,430 $266,861 Overall Total 12 17 73 180 340 361 729 1,712 100.00 $37,385 $149,977,557 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Bedford County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 4 3 8 29 68 86 214 412 100.00 $46,169 $31,581,914 Gender Male 1 3 5 21 37 44 82 193 46.84 $52,400 $16,284,862 Female 3 0 3 8 31 42 132 219 53.16 $42,095 $15,297,052 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 4 3 8 28 65 84 213 405 98.30 $45,247 $30,419,725 Black 0 0 0 0 0 1 0 1 0.24 $74,043 $74,043 Asian/Pac. Isl. 0 0 0 0 0 0 0 0 0.00 0 0 Native Am./Esk. 0 0 0 0 0 0 0 0 0.00 0 0 Other 0 0 0 0 0 0 0 0 0.00 0 0 Unknown 0 0 0 1 3 1 1 6 1.46 $96,269 $1,088,147 Mechanism Bites and stings 1 0 0 3 2 0 1 7 1.70 $20,632 $144,808 Cut/pierce 0 0 0 3 2 0 2 7 1.70 $67,974 $610,032 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 1 1 2 5 25 57 171 262 63.59 $46,959 $18,541,013 Fire/flame 0 0 0 1 0 0 1 2 0.49 $258,189 $516,377 Firearm 0 0 0 0 0 0 0 0 0.00 0 0 Hot object/substance 0 0 0 1 0 1 1 3 0.73 $173,737 $486,200 Machinery 0 0 0 0 0 0 0 0 0.00 0 0 MVT Occupant 0 0 2 5 7 2 4 20 4.85 $65,713 $1,853,000 MVT Motorcyclist 0 0 0 2 2 0 1 5 1.21 $194,984 $864,152 MVT Pedalcyclist 0 0 0 0 0 0 0 0 0.00 0 0 MVT Pedestrian 0 0 0 0 0 0 0 0 0.00 0 0 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 1 0 0 0 1 0.24 $68,117 $68,117 Other natural and environmental factors 0 0 0 0 0 1 0 1 0.24 $105,944 $105,944 Other specified and classifiable 0 0 0 1 0 0 0 1 0.24 $24,186 $24,186 Other specified, NEC 0 0 0 0 0 0 0 0 0.00 0 0 Overexertion 0 0 0 0 0 0 0 0 0.00 0 0 Pedal cyclist, other 0 0 0 0 0 0 0 0 0.00 0 0 Pedestrian, other 0 0 0 0 0 0 0 0 0.00 0 0 Poisoning 0 0 2 3 7 2 1 15 3.64 $22,028 $566,230 Struck by/against 1 0 2 2 1 2 1 9 2.18 $29,892 $294,151 Suffocation 0 0 0 0 0 0 1 1 0.24 $35,721 $35,721 Transport, other 0 0 0 0 0 0 0 0 0.00 0 0 Unspecified 1 2 0 2 22 21 30 78 18.93 $50,039 $7,471,982 Intent Unintentional 4 3 6 24 59 84 213 393 95.39 $46,986 $30,833,669 Self-Inflicted 0 0 0 1 2 0 0 3 0.73 $13,766 $91,811 Assault 0 0 0 1 0 0 0 1 0.24 $90,203 $90,203 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 0 0 2 3 7 2 1 15 3.64 $22,028 $566,230 Outcome Fatal 0 0 0 0 1 3 15 19 4.61 $52,584 $2,024,860 Nonfatal 4 3 8 29 67 83 199 393 95.39 $45,247 $29,557,053 Payor Uninsured 0 0 0 0 4 2 0 6 1.46 $200,636 $978,769 Medicare 0 0 0 4 22 73 191 290 70.39 $42,780 $20,886,585 Medicaid 2 0 3 11 18 0 0 34 8.25 $49,817 $2,905,489 Blue Cross 0 1 2 4 8 1 4 20 4.85 $46,956 $1,064,364 Commercial 1 2 3 10 16 10 19 61 14.81 $61,213 $5,704,611 Government 1 0 0 0 0 0 0 1 0.24 $42,095 $42,095 Other/Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Payor Missing 0 0 0 0 0 0 0 0 0.00 0 0 Overall Total 4 3 8 29 68 86 214 412 100.00 $46,169 $31,581,914 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Berks County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 43 88 230 554 1,063 1,032 2,692 5,702 100.00 $53,832 $448,567,214 Gender Male 29 54 133 346 592 522 1,001 2,677 46.95 $55,826 $229,807,403 Female 14 34 96 208 471 510 1,691 3,024 53.03 $52,641 $218,724,197 Unknown 0 0 1 0 0 0 0 1 0.02 $35,614 $35,614 Race White 21 50 119 324 794 912 2,516 4,736 83.06 $54,681 $372,327,479 Black 2 2 24 58 70 37 38 231 4.05 $50,783 $19,310,496 Asian/Pac. Isl. 0 0 1 2 1 2 8 14 0.25 $32,534 $676,768 Native Am./Esk. 0 0 1 2 2 0 0 5 0.09 $27,084 $160,225 Other 16 32 69 146 169 68 96 596 10.45 $47,859 $41,795,852 Unknown 4 4 16 22 27 13 34 120 2.10 $63,567 $14,296,394 Mechanism Bites and stings 6 4 1 10 34 20 19 94 1.65 $38,011 $4,799,971 Cut/pierce 2 5 7 19 18 13 11 75 1.32 $44,943 $5,114,486 Drowning/submersion 0 0 0 1 0 0 0 1 0.02 $113,576 $113,576 Fall 15 37 41 122 518 730 2,284 3,747 65.71 $55,114 $279,333,725 Fire/flame 0 0 0 2 4 2 4 12 0.21 $130,645 $2,664,174 Firearm 0 0 11 14 1 2 2 30 0.53 $84,764 $3,108,834 Hot object/substance 6 1 0 2 7 1 1 18 0.32 $55,235 $1,734,647 Machinery 0 0 1 3 10 3 3 20 0.35 $46,007 $1,320,425 MVT Occupant 1 5 42 57 69 38 49 261 4.58 $66,374 $30,115,337 MVT Motorcyclist 0 2 25 25 27 7 6 92 1.61 $86,494 $13,409,011 MVT Pedalcyclist 0 3 3 6 2 2 1 17 0.30 $59,287 $2,313,236 MVT Pedestrian 0 5 5 11 11 3 3 38 0.67 $72,773 $4,617,438 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 3 1 4 14 8 9 39 0.68 $60,441 $3,705,347 Other specified and classifiable 0 0 3 4 7 5 5 24 0.42 $52,761 $3,392,072 Other specified, NEC 0 2 3 9 2 3 3 22 0.39 $56,164 $1,247,738 Overexertion 0 1 3 12 12 8 10 46 0.81 $37,959 $2,414,788 Pedal cyclist, other 1 2 2 3 5 7 3 23 0.40 $61,882 $1,559,675 Pedestrian, other 0 0 0 1 0 0 0 1 0.02 $27,621 $27,621 Poisoning 7 10 63 149 160 46 39 474 8.31 $35,533 $27,035,024 Struck by/against 3 2 6 28 39 21 52 151 2.65 $48,198 $12,809,637 Suffocation 0 0 0 2 1 4 6 13 0.23 $88,786 $1,784,124 Transport, other 0 0 1 9 2 0 4 16 0.28 $53,524 $2,397,342 Unspecified 2 6 12 61 120 109 178 488 8.56 $57,701 $43,548,985 Intent Unintentional 35 73 144 361 890 978 2,643 5,124 89.86 $55,497 $414,505,704 Self-Inflicted 0 3 11 11 6 9 9 49 0.86 $50,258 $3,502,212 Assault 2 2 12 38 16 8 5 83 1.46 $60,959 $5,815,963 Undetermined 0 0 2 1 0 1 0 4 0.07 $11,789 $151,025 Other/Unknown 6 10 61 143 151 36 35 442 7.75 $33,984 $24,592,309 Outcome Fatal 0 1 3 10 17 22 64 117 2.05 $96,862 $18,254,592 Nonfatal 43 87 227 544 1,046 1,010 2,628 5,585 97.95 $53,552 $430,312,622 Payor Uninsured 3 11 23 57 45 11 6 156 2.74 $49,765 $12,311,032 Medicare 0 0 5 67 292 814 2,357 3,535 62.00 $55,268 $268,064,881 Medicaid 23 34 86 224 308 29 28 732 12.84 $47,312 $57,801,594 Blue Cross 10 26 49 73 218 81 144 601 10.54 $49,820 $41,703,636 Commercial 7 15 65 124 189 84 132 616 10.80 $58,427 $61,251,084 Government 0 1 1 4 9 12 25 52 0.91 $50,085 $5,054,785 Other/Unknown 0 1 0 2 2 1 0 6 0.11 $215,675 $2,027,821 Payor Missing 0 0 1 3 0 0 0 4 0.07 $82,522 $352,380 Overall Total 43 88 230 554 1,063 1,032 2,692 5,702 100.00 $53,832 $448,567,214 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Blair County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 12 10 50 143 312 310 650 1,487 100.00 $44,212 $113,864,884 Gender Male 5 7 25 82 175 160 243 697 46.87 $48,501 $63,266,938 Female 7 3 25 61 137 150 407 790 53.13 $42,219 $50,597,946 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 10 10 42 122 294 307 645 1,430 96.17 $44,669 $109,138,976 Black 1 0 5 19 9 3 2 39 2.62 $34,406 $3,415,855 Asian/Pac. Isl. 0 0 0 0 1 0 0 1 0.07 $33,088 $33,088 Native Am./Esk. 0 0 0 0 0 0 0 0 0.00 0 0 Other 0 0 1 1 1 0 1 4 0.27 $27,315 $474,410 Unknown 1 0 2 1 7 0 2 13 0.87 $31,222 $802,554 Mechanism Bites and stings 1 1 0 1 6 0 2 11 0.74 $13,763 $193,524 Cut/pierce 0 0 7 11 5 2 2 27 1.82 $23,289 $1,375,728 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 2 1 6 26 151 197 542 925 62.21 $47,203 $72,022,044 Fire/flame 1 0 0 1 1 4 5 12 0.81 $62,589 $882,569 Firearm 0 0 0 1 2 1 2 6 0.40 $63,114 $2,719,543 Hot object/substance 4 0 0 1 1 0 0 6 0.40 $76,984 $531,824 Machinery 0 1 1 2 1 2 1 8 0.54 $99,791 $909,737 MVT Occupant 0 0 8 11 10 13 14 56 3.77 $60,513 $7,143,688 MVT Motorcyclist 0 0 1 2 9 0 0 12 0.81 $105,147 $1,362,616 MVT Pedalcyclist 0 0 0 3 3 1 0 7 0.47 $66,524 $1,069,090 MVT Pedestrian 0 0 0 2 0 1 1 4 0.27 $362,319 $1,679,360 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 0 0 1 3 1 2 7 0.47 $94,539 $791,244 Other specified and classifiable 1 1 1 3 1 4 1 12 0.81 $26,763 $990,988 Other specified, NEC 0 0 3 5 4 0 0 12 0.81 $20,813 $570,570 Overexertion 0 0 0 1 0 0 1 2 0.13 $27,814 $55,629 Pedal cyclist, other 0 0 0 0 0 1 2 3 0.20 $19,666 $103,977 Pedestrian, other 0 0 0 1 0 2 0 3 0.20 $88,186 $209,673 Poisoning 0 3 17 41 50 12 4 127 8.54 $28,894 $5,599,121 Struck by/against 2 3 3 6 8 4 5 31 2.08 $54,250 $2,276,908 Suffocation 0 0 0 0 0 2 1 3 0.20 $97,317 $274,406 Transport, other 0 0 0 3 0 0 1 4 0.27 $33,899 $140,536 Unspecified 1 0 3 21 57 63 64 209 14.06 $36,137 $12,962,110 Intent Unintentional 10 5 22 81 251 297 644 1,310 88.10 $46,816 $102,971,824 Self-Inflicted 0 0 10 18 7 2 2 39 2.62 $23,844 $3,662,909 Assault 2 3 2 4 3 1 0 15 1.01 $55,343 $1,944,173 Undetermined 0 0 0 1 1 0 0 2 0.13 $32,247 $64,495 Other/Unknown 0 2 16 39 50 10 4 121 8.14 $27,180 $5,221,483 Outcome Fatal 0 0 0 2 5 9 34 50 3.36 $90,834 $5,986,461 Nonfatal 12 10 50 141 307 301 616 1,437 96.64 $43,633 $107,878,423 Payor Uninsured 0 0 1 7 7 1 1 17 1.14 $24,529 $1,211,103 Medicare 0 0 0 10 103 272 575 960 64.56 $45,430 $68,421,151 Medicaid 7 8 19 66 81 3 4 188 12.64 $43,496 $14,829,382 Blue Cross 3 0 6 9 35 3 2 58 3.90 $39,949 $3,971,860 Commercial 2 2 22 50 84 30 67 257 17.28 $42,903 $24,870,912 Government 0 0 1 0 2 0 1 4 0.27 $18,710 $114,319 Other/Unknown 0 0 1 1 0 0 0 2 0.13 $210,020 $420,041 Payor Missing 0 0 0 0 0 1 0 1 0.07 $26,117 $26,117 Overall Total 12 10 50 143 312 310 650 1,487 100.00 $44,212 $113,864,884 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Bradford County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 7 11 41 89 160 126 336 770 100.00 $41,734 $49,769,079 Gender Male 6 5 25 61 87 71 134 389 50.52 $41,182 $27,190,844 Female 1 6 16 28 73 55 202 381 49.48 $42,179 $22,578,235 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 6 11 34 83 155 124 331 744 96.62 $41,564 $45,559,104 Black 1 0 1 4 2 1 0 9 1.17 $47,523 $915,590 Asian/Pac. Isl. 0 0 1 0 1 0 1 3 0.39 $152,199 $1,156,774 Native Am./Esk. 0 0 0 0 1 1 0 2 0.26 $170,179 $340,358 Other 0 0 4 0 1 0 1 6 0.78 $27,569 $349,631 Unknown 0 0 1 2 0 0 3 6 0.78 $160,709 $1,447,622 Mechanism Bites and stings 1 0 0 1 8 4 1 15 1.95 $22,525 $482,475 Cut/pierce 0 0 7 4 6 1 0 18 2.34 $18,312 $516,405 Drowning/submersion 0 1 0 0 0 0 0 1 0.13 $366,817 $366,817 Fall 1 1 2 16 70 91 282 463 60.13 $47,260 $28,102,048 Fire/flame 0 1 0 3 0 0 5 9 1.17 $46,468 $1,526,820 Firearm 0 0 0 0 0 0 2 2 0.26 $74,985 $149,969 Hot object/substance 0 0 0 0 1 0 0 1 0.13 $276,145 $276,145 Machinery 0 0 1 0 0 0 0 1 0.13 $18,265 $18,265 MVT Occupant 0 0 5 10 5 3 5 28 3.64 $51,724 $2,166,448 MVT Motorcyclist 0 0 2 5 6 3 0 16 2.08 $115,038 $3,041,268 MVT Pedalcyclist 0 0 0 0 0 0 0 0 0.00 0 0 MVT Pedestrian 0 1 0 3 1 0 0 5 0.65 $65,473 $671,468 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 1 1 1 3 0 1 7 0.91 $30,052 $437,057 Other specified and classifiable 0 0 0 1 1 1 1 4 0.52 $59,909 $309,958 Other specified, NEC 0 0 2 2 0 0 1 5 0.65 $28,604 $555,515 Overexertion 0 0 0 1 2 2 1 6 0.78 $52,722 $438,857 Pedal cyclist, other 0 0 1 3 0 0 2 6 0.78 $47,298 $338,735 Pedestrian, other 0 0 0 1 0 0 0 1 0.13 $30,808 $30,808 Poisoning 1 3 11 23 25 3 4 70 9.09 $27,388 $2,780,390 Struck by/against 2 1 5 1 6 0 3 18 2.34 $36,634 $1,882,828 Suffocation 0 0 0 0 1 1 2 4 0.52 $118,225 $878,403 Transport, other 0 0 0 0 1 2 0 3 0.39 $30,155 $95,444 Unspecified 2 2 4 14 24 15 26 87 11.30 $40,796 $4,702,955 Intent Unintentional 6 7 21 61 135 122 332 684 88.83 $45,584 $46,484,630 Self-Inflicted 0 1 9 7 0 0 0 17 2.21 $23,394 $830,211 Assault 0 0 2 1 3 1 0 7 0.91 $47,442 $387,524 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 1 3 9 20 22 3 4 62 8.05 $24,432 $2,066,714 Outcome Fatal 0 0 0 3 6 7 11 27 3.51 $85,049 $3,583,991 Nonfatal 7 11 41 86 154 119 325 743 96.49 $41,509 $46,185,088 Payor Uninsured 0 0 0 0 1 1 0 2 0.26 $94,643 $189,286 Medicare 0 0 1 10 40 101 299 451 58.57 $44,091 $28,841,850 Medicaid 5 4 15 39 30 1 2 96 12.47 $31,752 $6,650,834 Blue Cross 1 5 10 10 36 9 13 84 10.91 $43,417 $4,774,114 Commercial 1 2 7 12 34 6 7 69 8.96 $47,123 $5,517,818 Government 0 0 0 3 8 8 15 34 4.42 $44,498 $1,752,475 Other/Unknown 0 0 8 15 11 0 0 34 4.42 $33,738 $2,042,701 Payor Missing 0 0 0 0 0 0 0 0 0.00 0 0 Overall Total 7 11 41 89 160 126 336 770 100.00 $41,734 $49,769,079 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Bucks County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 29 65 193 700 1,260 1,352 3,534 7,133 100.00 $48,132 $556,306,462 Gender Male 18 40 108 431 719 658 1,358 3,332 46.71 $48,939 $290,987,038 Female 11 25 85 267 534 694 2,175 3,791 53.15 $47,278 $263,097,917 Unknown 0 0 0 2 7 0 1 10 0.14 $75,794 $2,221,507 Race White 13 42 144 572 1,112 1,216 3,331 6,430 90.14 $48,368 $481,773,266 Black 4 7 20 52 60 43 56 242 3.39 $44,323 $31,578,070 Asian/Pac. Isl. 1 2 4 9 15 30 61 122 1.71 $49,065 $11,681,169 Native Am./Esk. 1 0 0 0 2 2 4 9 0.13 $20,977 $330,667 Other 8 14 17 44 37 28 26 174 2.44 $43,842 $17,023,804 Unknown 2 0 8 23 34 33 56 156 2.19 $51,081 $13,919,486 Mechanism Bites and stings 1 3 7 16 34 15 22 98 1.37 $30,815 $5,882,712 Cut/pierce 0 2 8 25 26 12 12 85 1.19 $38,393 $6,094,308 Drowning/submersion 0 1 0 0 0 0 0 1 0.01 $70,700 $70,700 Fall 13 16 27 157 583 905 2,996 4,697 65.85 $49,541 $329,478,888 Fire/flame 1 0 0 3 12 3 3 22 0.31 $68,918 $4,912,457 Firearm 0 1 3 5 7 0 1 17 0.24 $76,126 $2,514,685 Hot object/substance 3 0 3 6 6 4 4 26 0.36 $40,085 $2,235,653 Machinery 0 0 0 3 3 2 1 9 0.13 $38,634 $490,015 MVT Occupant 1 1 22 61 66 45 54 250 3.50 $45,438 $25,137,468 MVT Motorcyclist 0 0 16 27 31 9 2 85 1.19 $79,928 $14,508,608 MVT Pedalcyclist 0 4 2 2 3 3 0 14 0.20 $50,374 $966,722 MVT Pedestrian 1 0 1 13 20 10 8 53 0.74 $99,830 $8,571,797 MVT Unspecified 0 0 0 1 0 0 0 1 0.01 $30,477 $30,477 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 2 0 2 5 8 10 15 42 0.59 $38,402 $3,094,175 Other specified and classifiable 1 2 4 4 6 13 8 38 0.53 $49,318 $4,082,394 Other specified, NEC 0 1 1 6 4 2 0 14 0.20 $64,287 $1,345,440 Overexertion 0 2 5 10 14 21 32 84 1.18 $49,220 $5,279,222 Pedal cyclist, other 0 3 1 3 5 7 1 20 0.28 $53,694 $1,529,424 Pedestrian, other 0 0 1 8 4 0 4 17 0.24 $41,506 $931,800 Poisoning 1 10 59 181 174 81 43 549 7.70 $35,030 $33,380,869 Struck by/against 0 7 8 28 38 28 37 146 2.05 $48,882 $13,197,482 Suffocation 0 0 0 2 18 17 25 62 0.87 $135,149 $14,448,636 Transport, other 0 1 0 0 1 0 0 2 0.03 $114,417 $228,833 Unspecified 5 11 23 134 197 165 266 801 11.23 $48,856 $77,893,696 Intent Unintentional 27 53 123 487 1,068 1,265 3,491 6,514 91.32 $49,568 $516,392,692 Self-Inflicted 0 0 6 16 20 6 0 48 0.67 $56,463 $6,373,048 Assault 1 1 8 29 14 8 5 66 0.93 $38,578 $5,518,755 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 1 11 56 168 158 73 38 505 7.08 $34,676 $28,021,966 Outcome Fatal 0 0 3 11 41 41 102 198 2.78 $87,084 $35,304,634 Nonfatal 29 65 190 689 1,219 1,311 3,432 6,935 97.22 $47,462 $521,001,827 Payor Uninsured 1 3 4 34 43 10 12 107 1.50 $37,621 $15,796,357 Medicare 0 0 2 60 302 1,100 3,140 4,604 64.55 $48,178 $325,501,360 Medicaid 13 17 45 301 258 8 15 657 9.21 $50,159 $63,919,117 Blue Cross 7 29 65 115 338 80 106 740 10.37 $53,936 $73,561,892 Commercial 8 15 72 170 294 144 237 940 13.18 $44,198 $70,929,949 Government 0 1 2 12 16 7 20 58 0.81 $52,928 $5,025,312 Other/Unknown 0 0 0 1 0 1 0 2 0.03 $139,723 $279,446 Payor Missing 0 0 3 7 9 2 4 25 0.35 $35,801 $1,293,029 Overall Total 29 65 193 700 1,260 1,352 3,534 7,133 100.00 $48,132 $556,306,462 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Butler County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 10 23 78 168 422 412 1,047 2,160 100.00 $47,208 $180,525,524 Gender Male 6 9 44 94 246 195 425 1,019 47.18 $48,654 $97,241,671 Female 4 14 34 74 176 217 622 1,141 52.82 $45,748 $83,283,854 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 9 22 72 157 403 397 1,031 2,091 96.81 $47,065 $172,624,916 Black 0 0 2 3 8 2 4 19 0.88 $31,762 $982,909 Asian/Pac. Isl. 0 0 0 0 0 0 0 0 0.00 0 0 Native Am./Esk. 0 0 0 0 2 1 2 5 0.23 $115,165 $757,327 Other 0 0 0 2 1 4 0 7 0.32 $99,338 $1,511,921 Unknown 1 1 4 6 8 8 10 38 1.76 $63,590 $4,648,452 Mechanism Bites and stings 1 0 2 3 11 3 8 28 1.30 $27,746 $923,854 Cut/pierce 0 3 13 16 13 3 2 50 2.31 $17,377 $2,042,375 Drowning/submersion 0 1 0 0 0 0 0 1 0.05 $141,802 $141,802 Fall 2 2 7 36 213 292 858 1,410 65.28 $52,725 $115,829,229 Fire/flame 0 1 0 4 4 3 2 14 0.65 $63,809 $1,780,840 Firearm 0 0 1 4 5 0 0 10 0.46 $179,076 $2,595,246 Hot object/substance 0 2 0 0 5 2 0 9 0.42 $83,785 $1,042,045 Machinery 0 0 0 1 2 1 3 7 0.32 $58,324 $1,209,097 MVT Occupant 0 2 13 11 16 5 11 58 2.69 $113,273 $12,940,954 MVT Motorcyclist 0 0 2 6 14 1 1 24 1.11 $120,847 $4,938,999 MVT Pedalcyclist 0 0 2 0 0 1 0 3 0.14 $27,207 $147,884 MVT Pedestrian 0 0 2 1 0 1 1 5 0.23 $141,388 $808,557 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 1 0 0 1 8 2 5 17 0.79 $38,743 $1,574,679 Other specified and classifiable 1 0 0 2 4 1 2 10 0.46 $44,252 $2,073,189 Other specified, NEC 2 0 3 1 1 1 1 9 0.42 $25,765 $558,914 Overexertion 0 1 0 4 4 4 7 20 0.93 $29,810 $874,899 Pedal cyclist, other 0 0 0 1 0 0 1 2 0.09 $37,051 $74,101 Pedestrian, other 1 0 0 1 1 0 0 3 0.14 $186,730 $514,453 Poisoning 1 10 21 36 36 20 11 135 6.25 $25,715 $6,188,429 Struck by/against 0 0 1 6 8 12 18 45 2.08 $45,965 $3,270,626 Suffocation 0 0 0 0 0 2 6 8 0.37 $56,637 $821,488 Transport, other 0 0 0 0 2 1 0 3 0.14 $29,648 $116,348 Unspecified 1 1 11 34 75 57 110 289 13.38 $34,465 $20,057,515 Intent Unintentional 6 12 46 120 376 391 1,034 1,985 91.90 $49,452 $169,830,410 Self-Inflicted 0 2 9 10 10 3 1 35 1.62 $16,060 $2,229,251 Assault 1 0 4 7 6 1 0 19 0.88 $54,581 $2,284,419 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 3 9 19 31 30 17 12 121 5.60 $25,844 $6,181,445 Outcome Fatal 1 1 0 2 10 10 53 77 3.56 $77,024 $10,237,782 Nonfatal 9 22 78 166 412 402 994 2,083 96.44 $46,638 $170,287,742 Payor Uninsured 0 0 0 6 9 1 3 19 0.88 $49,571 $1,149,335 Medicare 0 0 1 18 138 342 929 1,428 66.11 $47,831 $114,835,500 Medicaid 4 9 17 71 73 1 1 176 8.15 $42,270 $18,769,686 Blue Cross 2 3 19 19 82 21 20 166 7.69 $54,121 $15,383,892 Commercial 4 11 36 52 97 15 14 229 10.60 $51,888 $24,235,223 Government 0 0 2 1 19 28 59 109 5.05 $32,172 $4,488,362 Other/Unknown 0 0 2 1 4 3 20 30 1.39 $28,075 $1,511,612 Payor Missing 0 0 1 0 0 1 1 3 0.14 $24,410 $151,913 Overall Total 10 23 78 168 422 412 1,047 2,160 100.00 $47,208 $180,525,524 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Cambria County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 13 14 87 205 477 453 920 2,169 100.00 $43,062 $149,973,260 Gender Male 10 7 40 129 272 224 330 1,012 46.66 $42,755 $76,067,638 Female 3 7 47 76 205 229 590 1,157 53.34 $43,383 $73,905,622 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 8 8 68 163 429 431 902 2,009 92.62 $43,538 $139,293,207 Black 4 2 12 34 37 15 10 114 5.26 $40,655 $5,873,350 Asian/Pac. Isl. 0 0 0 0 0 0 0 0 0.00 0 0 Native Am./Esk. 0 0 0 0 1 1 1 3 0.14 $58,916 $161,270 Other 0 0 0 0 2 0 2 4 0.18 $62,345 $574,561 Unknown 1 4 7 8 8 6 5 39 1.80 $42,916 $4,070,873 Mechanism Bites and stings 0 0 0 3 5 4 4 16 0.74 $23,577 $926,697 Cut/pierce 1 4 14 12 20 3 3 57 2.63 $30,870 $2,431,926 Drowning/submersion 0 0 1 0 0 0 0 1 0.05 $94,036 $94,036 Fall 5 1 11 36 204 285 745 1,287 59.34 $47,072 $88,991,290 Fire/flame 0 1 2 1 6 7 4 21 0.97 $50,339 $2,517,304 Firearm 0 1 7 3 1 2 0 14 0.65 $74,972 $1,492,527 Hot object/substance 0 0 0 1 2 4 0 7 0.32 $49,158 $809,906 Machinery 0 0 1 0 0 0 1 2 0.09 $172,180 $344,360 MVT Occupant 0 0 8 11 19 10 16 64 2.95 $53,055 $6,197,115 MVT Motorcyclist 0 0 2 12 9 5 1 29 1.34 $56,140 $2,212,421 MVT Pedalcyclist 0 1 0 0 0 2 0 3 0.14 $303,629 $644,872 MVT Pedestrian 0 0 0 3 2 0 4 9 0.41 $111,822 $882,119 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 0 0 5 4 2 4 15 0.69 $45,203 $705,641 Other specified and classifiable 0 1 1 2 6 2 4 16 0.74 $26,190 $2,595,850 Other specified, NEC 0 0 2 1 0 0 0 3 0.14 $24,367 $77,385 Overexertion 0 0 0 3 5 4 6 18 0.83 $37,670 $1,553,888 Pedal cyclist, other 0 0 1 1 0 2 1 5 0.23 $29,821 $195,564 Pedestrian, other 0 0 0 0 1 1 2 4 0.18 $49,931 $443,591 Poisoning 4 3 22 57 61 20 9 176 8.11 $24,280 $10,221,620 Struck by/against 0 1 4 8 13 10 13 49 2.26 $39,963 $2,534,734 Suffocation 0 0 0 1 7 8 10 26 1.20 $52,271 $1,986,067 Transport, other 0 0 0 0 1 1 0 2 0.09 $56,673 $113,346 Unspecified 3 1 11 45 111 81 93 345 15.91 $38,529 $22,001,001 Intent Unintentional 10 11 46 134 399 430 910 1,940 89.44 $45,687 $136,908,373 Self-Inflicted 0 0 13 14 16 4 1 48 2.21 $25,876 $2,398,058 Assault 0 0 7 4 6 2 2 21 0.97 $43,942 $1,203,015 Undetermined 0 0 1 0 1 0 0 2 0.09 $40,144 $80,289 Other/Unknown 3 3 20 53 55 17 7 158 7.28 $24,026 $9,383,525 Outcome Fatal 0 0 1 6 12 12 34 65 3.00 $85,494 $7,267,821 Nonfatal 13 14 86 199 465 441 886 2,104 97.00 $42,584 $142,705,439 Payor Uninsured 1 0 9 18 36 24 27 115 5.30 $45,794 $7,443,988 Medicare 0 0 1 13 163 379 795 1,351 62.29 $44,748 $94,415,397 Medicaid 11 9 30 93 127 5 3 278 12.82 $38,405 $17,985,110 Blue Cross 1 4 13 18 60 10 37 143 6.59 $47,958 $11,219,128 Commercial 0 1 33 62 90 35 55 276 12.72 $38,376 $17,894,039 Government 0 0 1 1 0 0 2 4 0.18 $52,098 $438,599 Other/Unknown 0 0 0 0 1 0 1 2 0.09 $288,499 $576,998 Payor Missing 0 0 0 0 0 0 0 0 0.00 0 0 Overall Total 13 14 87 205 477 453 920 2,169 100.00 $43,062 $149,973,260 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Cameron County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 0 0 3 4 10 9 26 52 100.00 $24,272 $2,689,166 Gender Male 0 0 2 0 4 6 16 28 53.85 $21,921 $1,050,415 Female 0 0 1 4 6 3 10 24 46.15 $27,895 $1,638,750 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 0 0 3 4 10 8 24 49 94.23 $23,422 $2,551,459 Black 0 0 0 0 0 0 0 0 0.00 0 0 Asian/Pac. Isl. 0 0 0 0 0 0 0 0 0.00 0 0 Native Am./Esk. 0 0 0 0 0 0 0 0 0.00 0 0 Other 0 0 0 0 0 0 0 0 0.00 0 0 Unknown 0 0 0 0 0 1 2 3 5.77 $47,301 $137,707 Mechanism Bites and stings 0 0 1 0 0 0 1 2 3.85 $14,928 $29,855 Cut/pierce 0 0 1 1 0 0 0 2 3.85 $14,923 $29,845 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 0 0 0 2 6 7 20 35 67.31 $28,093 $2,170,758 Fire/flame 0 0 0 0 0 0 0 0 0.00 0 0 Firearm 0 0 0 0 0 0 0 0 0.00 0 0 Hot object/substance 0 0 0 0 1 0 0 1 1.92 $142,517 $142,517 Machinery 0 0 0 0 0 0 0 0 0.00 0 0 MVT Occupant 0 0 0 0 0 1 1 2 3.85 $45,866 $91,731 MVT Motorcyclist 0 0 0 0 0 0 0 0 0.00 0 0 MVT Pedalcyclist 0 0 0 0 0 0 0 0 0.00 0 0 MVT Pedestrian 0 0 0 0 0 0 0 0 0.00 0 0 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 0 0 0 0 0 0 0 0.00 0 0 Other specified and classifiable 0 0 0 0 0 0 0 0 0.00 0 0 Other specified, NEC 0 0 0 0 0 0 0 0 0.00 0 0 Overexertion 0 0 0 0 0 0 1 1 1.92 $3,436 $3,436 Pedal cyclist, other 0 0 0 0 0 0 0 0 0.00 0 0 Pedestrian, other 0 0 0 0 0 0 0 0 0.00 0 0 Poisoning 0 0 1 1 1 0 1 4 7.69 $12,888 $71,969 Struck by/against 0 0 0 0 1 0 0 1 1.92 $21,703 $21,703 Suffocation 0 0 0 0 0 0 0 0 0.00 0 0 Transport, other 0 0 0 0 1 0 0 1 1.92 $76,442 $76,442 Unspecified 0 0 0 0 0 1 2 3 5.77 $21,359 $50,908 Intent Unintentional 0 0 1 2 9 9 24 45 86.54 $27,696 $2,565,992 Self-Inflicted 0 0 1 1 0 0 0 2 3.85 $14,923 $29,845 Assault 0 0 0 0 0 0 0 0 0.00 0 0 Undetermined 0 0 0 0 0 0 1 1 1.92 $21,359 $21,359 Other/Unknown 0 0 1 1 1 0 1 4 7.69 $12,888 $71,969 Outcome Fatal 0 0 0 0 0 1 1 2 3.85 $161,819 $323,639 Nonfatal 0 0 3 4 10 8 25 50 96.15 $22,781 $2,365,527 Payor Uninsured 0 0 1 0 1 0 0 2 3.85 $29,985 $59,970 Medicare 0 0 0 0 2 6 18 26 50.00 $24,248 $1,631,965 Medicaid 0 0 0 3 3 1 1 8 15.38 $20,712 $219,040 Blue Cross 0 0 0 0 0 0 0 0 0.00 0 0 Commercial 0 0 2 1 3 1 3 10 19.23 $44,896 $619,382 Government 0 0 0 0 1 1 4 6 11.54 $23,413 $158,808 Other/Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Payor Missing 0 0 0 0 0 0 0 0 0.00 0 0 Overall Total 0 0 3 4 10 9 26 52 100.00 $24,272 $2,689,166 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Carbon County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 11 21 40 83 255 218 484 1,112 100.00 $82,814 $154,339,115 Gender Male 8 13 16 48 134 112 212 543 48.83 $85,319 $84,760,494 Female 3 8 24 35 120 106 272 568 51.08 $80,472 $69,223,209 Unknown 0 0 0 0 1 0 0 1 0.09 $355,413 $355,413 Race White 9 18 32 74 233 207 466 1,039 93.44 $83,242 $142,095,507 Black 1 1 3 2 8 4 5 24 2.16 $84,141 $2,879,605 Asian/Pac. Isl. 0 0 0 0 0 0 2 2 0.18 $42,821 $85,642 Native Am./Esk. 0 0 0 0 0 0 0 0 0.00 0 0 Other 0 0 2 5 2 5 6 20 1.80 $87,451 $6,111,648 Unknown 1 2 3 2 12 2 5 27 2.43 $69,500 $3,166,713 Mechanism Bites and stings 1 1 2 4 11 1 1 21 1.89 $37,652 $1,302,971 Cut/pierce 0 1 2 5 5 1 0 14 1.26 $64,865 $1,612,423 Drowning/submersion 0 1 0 0 0 0 0 1 0.09 $30,893 $30,893 Fall 3 5 6 25 125 163 395 722 64.93 $85,460 $92,849,783 Fire/flame 0 0 1 0 1 1 1 4 0.36 $73,608 $511,109 Firearm 0 0 0 0 0 0 0 0 0.00 0 0 Hot object/substance 0 0 0 1 1 0 1 3 0.27 $65,819 $206,154 Machinery 0 0 0 0 1 2 1 4 0.36 $62,951 $736,888 MVT Occupant 0 0 6 9 20 8 11 54 4.86 $121,669 $11,781,959 MVT Motorcyclist 0 1 1 8 5 2 0 17 1.53 $157,668 $6,834,662 MVT Pedalcyclist 0 1 0 0 1 1 0 3 0.27 $77,883 $224,166 MVT Pedestrian 1 1 0 1 0 0 0 3 0.27 $186,086 $1,352,114 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 1 0 0 1 1 2 1 6 0.54 $41,234 $294,303 Other specified and classifiable 0 0 0 1 1 0 1 3 0.27 $46,253 $435,740 Other specified, NEC 0 0 0 0 0 0 0 0 0.00 0 0 Overexertion 0 1 0 0 2 4 6 13 1.17 $65,335 $1,011,316 Pedal cyclist, other 0 0 0 0 0 3 1 4 0.36 $117,454 $517,123 Pedestrian, other 1 0 0 0 0 0 0 1 0.09 $61,830 $61,830 Poisoning 0 3 15 14 35 8 7 82 7.37 $61,883 $7,984,363 Struck by/against 1 3 3 6 14 0 12 39 3.51 $52,497 $3,474,313 Suffocation 0 0 0 1 1 2 1 5 0.45 $232,268 $1,539,096 Transport, other 0 0 0 0 0 0 0 0 0.00 0 0 Unspecified 3 3 4 7 31 20 45 113 10.16 $99,810 $21,577,908 Intent Unintentional 11 17 27 64 216 211 475 1,021 91.82 $86,850 $145,887,378 Self-Inflicted 0 1 0 2 2 0 1 6 0.54 $39,255 $325,610 Assault 0 1 2 3 4 0 1 11 0.99 $46,253 $873,052 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 0 2 11 14 33 7 7 74 6.65 $63,552 $7,253,076 Outcome Fatal 0 0 2 2 5 4 9 22 1.98 $135,085 $9,313,986 Nonfatal 11 21 38 81 250 214 475 1,090 98.02 $81,936 $145,025,130 Payor Uninsured 0 0 0 5 2 0 0 7 0.63 $32,683 $365,817 Medicare 0 0 0 9 89 184 444 726 65.29 $84,843 $100,165,366 Medicaid 6 6 7 39 62 1 0 121 10.88 $78,640 $17,108,445 Blue Cross 4 5 9 8 45 11 16 98 8.81 $76,529 $12,404,193 Commercial 1 10 21 19 50 19 14 134 12.05 $83,808 $21,633,885 Government 0 0 3 3 6 3 10 25 2.25 $75,947 $2,498,377 Other/Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Payor Missing 0 0 0 0 1 0 0 1 0.09 $163,032 $163,032 Overall Total 11 21 40 83 255 218 484 1,112 100.00 $82,814 $154,339,115 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Centre County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 5 13 78 115 220 246 688 1,365 100.00 $42,578 $101,225,215 Gender Male 2 8 43 70 115 111 269 618 45.27 $45,383 $49,880,557 Female 3 5 35 45 105 135 418 746 54.65 $39,941 $51,165,598 Unknown 0 0 0 0 0 0 1 1 0.07 $179,060 $179,060 Race White 4 11 64 102 202 243 673 1,299 95.16 $42,578 $95,662,142 Black 0 0 4 6 8 0 5 23 1.68 $40,765 $2,325,141 Asian/Pac. Isl. 1 2 4 1 4 0 6 18 1.32 $41,257 $1,084,524 Native Am./Esk. 0 0 0 0 0 0 0 0 0.00 0 0 Other 0 0 2 4 2 0 2 10 0.73 $39,413 $627,011 Unknown 0 0 4 2 4 3 2 15 1.10 $58,038 $1,526,397 Mechanism Bites and stings 1 1 0 5 9 4 5 25 1.83 $23,247 $866,233 Cut/pierce 0 0 6 4 0 0 2 12 0.88 $31,791 $503,840 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 2 4 10 29 110 167 520 842 61.68 $48,967 $65,926,762 Fire/flame 0 0 1 0 2 2 0 5 0.37 $523,209 $3,860,161 Firearm 0 0 0 1 0 0 1 2 0.15 $53,858 $107,715 Hot object/substance 0 0 0 1 3 1 4 9 0.66 $55,793 $598,993 Machinery 0 0 0 1 1 0 0 2 0.15 $32,162 $64,324 MVT Occupant 1 0 11 8 8 5 12 45 3.30 $69,600 $6,385,429 MVT Motorcyclist 0 0 1 2 1 0 3 7 0.51 $82,094 $557,953 MVT Pedalcyclist 0 1 2 0 0 0 0 3 0.22 $37,447 $89,807 MVT Pedestrian 0 0 2 0 0 0 1 3 0.22 $94,881 $559,577 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 0 0 1 1 3 6 11 0.81 $63,865 $890,257 Other specified and classifiable 0 3 0 2 3 0 3 11 0.81 $51,327 $1,034,554 Other specified, NEC 0 0 0 3 0 0 0 3 0.22 $35,104 $145,495 Overexertion 0 0 2 0 3 3 6 14 1.03 $23,860 $581,992 Pedal cyclist, other 0 0 2 0 2 1 2 7 0.51 $24,933 $399,338 Pedestrian, other 0 0 0 1 0 0 0 1 0.07 $211,131 $211,131 Poisoning 0 4 28 34 35 11 12 124 9.08 $20,938 $3,661,847 Struck by/against 0 0 2 6 6 6 18 38 2.78 $39,164 $1,950,358 Suffocation 0 0 0 0 2 4 5 11 0.81 $109,900 $2,290,754 Transport, other 0 0 0 0 0 1 0 1 0.07 $26,812 $26,812 Unspecified 1 0 11 17 34 38 88 189 13.85 $36,640 $10,511,884 Intent Unintentional 5 9 42 76 185 236 673 1,226 89.82 $45,733 $96,542,447 Self-Inflicted 0 0 11 10 0 0 2 23 1.68 $19,963 $621,272 Assault 0 0 0 4 2 0 2 8 0.59 $43,344 $813,938 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 0 4 25 25 33 10 11 108 7.91 $20,938 $3,247,558 Outcome Fatal 0 0 0 2 5 9 25 41 3.00 $84,707 $8,804,762 Nonfatal 5 13 78 113 215 237 663 1,324 97.00 $41,871 $92,420,453 Payor Uninsured 0 1 4 14 10 3 11 43 3.15 $24,815 $1,567,244 Medicare 0 0 6 5 50 215 630 906 66.37 $44,018 $64,347,627 Medicaid 1 3 18 53 61 0 3 139 10.18 $36,673 $13,516,447 Blue Cross 4 6 16 16 54 6 10 112 8.21 $43,471 $7,196,588 Commercial 0 3 31 25 39 12 13 123 9.01 $43,073 $12,715,044 Government 0 0 2 2 3 6 16 29 2.12 $33,077 $1,068,949 Other/Unknown 0 0 1 0 3 4 5 13 0.95 $66,924 $813,315 Payor Missing 0 0 0 0 0 0 0 0 0.00 0 0 Overall Total 5 13 78 115 220 246 688 1,365 100.00 $42,578 $101,225,215 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Chester County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 23 19 101 315 643 798 2,129 4,028 100.00 $65,612 $417,637,892 Gender Male 12 11 56 194 332 401 885 1,891 46.95 $68,024 $224,117,214 Female 11 8 45 120 311 397 1,244 2,136 53.03 $63,926 $193,378,899 Unknown 0 0 0 1 0 0 0 1 0.02 $141,779 $141,779 Race White 12 15 79 224 538 721 1,967 3,556 88.28 $65,339 $361,025,559 Black 3 1 8 29 63 49 76 229 5.69 $70,999 $26,738,171 Asian/Pac. Isl. 0 0 1 8 6 9 25 49 1.22 $74,266 $5,722,140 Native Am./Esk. 0 0 1 1 4 0 2 8 0.20 $71,538 $642,469 Other 4 2 9 50 25 16 35 141 3.50 $69,792 $16,444,316 Unknown 4 1 3 3 7 3 24 45 1.12 $61,812 $7,065,237 Mechanism Bites and stings 0 0 4 13 26 19 12 74 1.84 $38,735 $3,783,456 Cut/pierce 0 0 6 13 22 11 7 59 1.46 $54,556 $5,458,073 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 5 9 11 71 307 539 1,816 2,758 68.47 $67,178 $251,458,418 Fire/flame 0 0 3 3 4 5 2 17 0.42 $88,177 $6,996,090 Firearm 0 0 1 2 5 1 1 10 0.25 $104,185 $3,577,786 Hot object/substance 3 2 0 6 7 5 2 25 0.62 $97,208 $5,965,056 Machinery 1 0 1 3 3 3 0 11 0.27 $42,645 $820,838 MVT Occupant 1 1 17 44 51 26 35 175 4.34 $65,893 $19,711,057 MVT Motorcyclist 0 0 13 19 11 2 5 50 1.24 $70,851 $5,572,561 MVT Pedalcyclist 0 1 0 3 3 0 0 7 0.17 $56,211 $657,674 MVT Pedestrian 0 0 0 7 10 4 3 24 0.60 $134,762 $4,659,453 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 1 0 0 0 0 1 0.02 $27,967 $27,967 Other natural and environmental factors 0 0 0 0 9 4 13 26 0.65 $58,124 $3,032,069 Other specified and classifiable 2 0 2 6 4 3 7 24 0.60 $52,722 $2,501,687 Other specified, NEC 0 0 1 1 1 1 0 4 0.10 $54,587 $199,954 Overexertion 1 0 1 6 3 9 10 30 0.74 $50,730 $1,623,542 Pedal cyclist, other 0 3 1 3 6 3 2 18 0.45 $51,088 $1,382,789 Pedestrian, other 0 0 0 1 2 2 0 5 0.12 $100,310 $679,761 Poisoning 1 0 23 47 51 43 37 202 5.01 $50,625 $16,846,882 Struck by/against 1 1 5 21 19 13 30 90 2.23 $58,999 $7,652,071 Suffocation 0 1 0 3 5 3 7 19 0.47 $112,670 $33,609,572 Transport, other 0 0 0 1 1 0 1 3 0.07 $56,211 $162,884 Unspecified 8 1 11 42 93 102 139 396 9.83 $67,959 $41,258,253 Intent Unintentional 19 19 72 258 576 752 2,093 3,789 94.07 $66,258 $395,816,114 Self-Inflicted 0 0 6 4 13 3 2 28 0.70 $72,788 $3,462,967 Assault 3 0 3 12 8 3 1 30 0.74 $67,521 $3,808,935 Undetermined 0 0 0 0 0 0 1 1 0.02 $214,828 $214,828 Other/Unknown 1 0 20 41 46 40 32 180 4.47 $48,854 $14,335,049 Outcome Fatal 0 0 0 7 11 16 57 91 2.26 $106,341 $19,301,165 Nonfatal 23 19 101 308 632 782 2,072 3,937 97.74 $64,962 $398,336,727 Payor Uninsured 1 4 11 24 30 6 1 77 1.91 $66,715 $6,973,763 Medicare 0 0 2 28 146 641 1,953 2,770 68.77 $66,752 $255,559,634 Medicaid 8 0 16 104 127 16 16 287 7.13 $64,914 $34,096,221 Blue Cross 7 11 32 59 168 48 43 368 9.14 $59,754 $63,710,601 Commercial 7 4 40 99 162 64 81 457 11.35 $59,981 $44,495,380 Government 0 0 0 1 8 19 33 61 1.51 $70,261 $10,285,895 Other/Unknown 0 0 0 0 2 3 2 7 0.17 $114,482 $2,505,374 Payor Missing 0 0 0 0 0 1 0 1 0.02 $11,025 $11,025 Overall Total 23 19 101 315 643 798 2,129 4,028 100.00 $65,612 $417,637,892 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Clarion County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 3 4 21 24 89 73 143 357 100.00 $42,280 $36,086,741 Gender Male 0 2 11 15 40 38 57 163 45.66 $41,895 $22,440,341 Female 3 2 10 9 49 35 86 194 54.34 $42,296 $13,646,399 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 3 4 20 23 87 68 139 344 96.36 $42,296 $35,365,159 Black 0 0 0 1 1 0 1 3 0.84 $26,127 $88,574 Asian/Pac. Isl. 0 0 0 0 0 0 0 0 0.00 0 0 Native Am./Esk. 0 0 0 0 0 0 0 0 0.00 0 0 Other 0 0 0 0 0 0 0 0 0.00 0 0 Unknown 0 0 1 0 1 5 3 10 2.80 $47,290 $633,009 Mechanism Bites and stings 0 0 0 0 3 1 1 5 1.40 $10,483 $64,586 Cut/pierce 0 0 0 1 2 0 0 3 0.84 $23,002 $79,138 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 2 2 1 6 44 42 116 213 59.66 $45,042 $16,764,860 Fire/flame 0 0 0 0 1 1 0 2 0.56 $53,240 $106,480 Firearm 0 0 1 1 3 0 0 5 1.40 $28,813 $326,104 Hot object/substance 0 0 0 1 1 0 0 2 0.56 $116,837 $233,674 Machinery 0 0 0 0 0 0 0 0 0.00 0 0 MVT Occupant 0 1 7 3 5 4 1 21 5.88 $61,450 $9,914,090 MVT Motorcyclist 0 0 1 2 4 3 0 10 2.80 $63,636 $1,783,789 MVT Pedalcyclist 0 0 0 0 0 1 0 1 0.28 $32,150 $32,150 MVT Pedestrian 0 0 0 2 0 0 0 2 0.56 $344,931 $689,863 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 0 1 0 0 1 0 2 0.56 $62,732 $125,464 Other specified and classifiable 0 0 1 0 1 0 0 2 0.56 $41,607 $83,213 Other specified, NEC 0 0 0 0 1 0 0 1 0.28 $39,841 $39,841 Overexertion 0 0 1 0 1 1 1 4 1.12 $74,345 $419,814 Pedal cyclist, other 0 0 0 0 0 0 0 0 0.00 0 0 Pedestrian, other 0 0 0 0 0 0 0 0 0.00 0 0 Poisoning 1 0 4 4 10 1 1 21 5.88 $40,049 $994,049 Struck by/against 0 1 0 2 3 3 4 13 3.64 $45,415 $1,000,219 Suffocation 0 0 0 0 0 0 0 0 0.00 0 0 Transport, other 0 0 2 0 0 0 0 2 0.56 $300,605 $601,209 Unspecified 0 0 2 2 10 15 19 48 13.45 $25,392 $2,828,198 Intent Unintentional 3 4 14 20 78 72 142 333 93.28 $42,889 $34,855,901 Self-Inflicted 0 0 2 0 2 0 0 4 1.12 $88,172 $336,991 Assault 0 0 1 0 0 0 0 1 0.28 $21,332 $21,332 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 0 0 4 4 9 1 1 19 5.32 $37,059 $872,517 Outcome Fatal 0 0 0 0 0 2 4 6 1.68 $26,926 $183,939 Nonfatal 3 4 21 24 89 71 139 351 98.32 $42,280 $35,902,802 Payor Uninsured 0 0 1 0 3 1 0 5 1.40 $27,216 $285,284 Medicare 0 0 0 3 37 64 128 232 64.99 $36,988 $16,115,555 Medicaid 1 2 10 9 16 0 0 38 10.64 $54,920 $10,974,401 Blue Cross 2 2 4 2 15 0 3 28 7.84 $64,796 $3,001,133 Commercial 0 0 6 10 15 4 3 38 10.64 $69,777 $5,132,355 Government 0 0 0 0 3 3 9 15 4.20 $17,837 $545,607 Other/Unknown 0 0 0 0 0 1 0 1 0.28 $32,405 $32,405 Payor Missing 0 0 0 0 0 0 0 0 0.00 0 0 Overall Total 3 4 21 24 89 73 143 357 100.00 $42,280 $36,086,741 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Clearfield County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 8 7 29 92 212 219 514 1,081 100.00 $33,680 $60,664,091 Gender Male 6 4 14 54 106 98 222 504 46.62 $35,408 $32,533,833 Female 2 3 15 38 106 121 292 577 53.38 $32,084 $28,130,258 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 4 4 27 86 202 210 503 1,036 95.84 $33,435 $55,970,053 Black 0 0 1 3 3 2 1 10 0.93 $37,668 $475,095 Asian/Pac. Isl. 0 0 0 0 1 0 0 1 0.09 $76,726 $76,726 Native Am./Esk. 0 0 0 0 0 1 0 1 0.09 $36,806 $36,806 Other 0 0 0 0 2 6 8 16 1.48 $29,499 $548,386 Unknown 4 3 1 3 4 0 2 17 1.57 $105,555 $3,557,024 Mechanism Bites and stings 0 0 0 4 10 2 2 18 1.67 $17,495 $522,295 Cut/pierce 0 0 5 9 10 2 2 28 2.59 $19,681 $979,322 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 1 2 7 21 112 171 448 762 70.49 $34,479 $38,586,113 Fire/flame 0 0 1 3 3 0 0 7 0.65 $102,011 $647,889 Firearm 0 1 0 1 1 2 0 5 0.46 $105,894 $561,912 Hot object/substance 1 0 0 0 0 1 1 3 0.28 $16,321 $277,934 Machinery 0 0 0 0 0 0 0 0 0.00 0 0 MVT Occupant 0 0 4 9 14 5 5 37 3.42 $58,636 $4,559,168 MVT Motorcyclist 0 0 1 8 6 0 1 16 1.48 $64,686 $1,189,043 MVT Pedalcyclist 0 0 0 2 1 0 0 3 0.28 $38,484 $193,999 MVT Pedestrian 0 0 1 0 0 0 2 3 0.28 $48,594 $515,462 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 0 0 0 2 0 3 5 0.46 $26,302 $132,815 Other specified and classifiable 0 1 0 2 2 1 2 8 0.74 $19,227 $1,565,822 Other specified, NEC 1 0 1 3 0 0 1 6 0.56 $12,665 $201,379 Overexertion 0 0 0 0 3 1 3 7 0.65 $25,697 $279,915 Pedal cyclist, other 0 0 0 2 1 1 0 4 0.37 $40,840 $161,079 Pedestrian, other 0 0 0 0 0 0 0 0 0.00 0 0 Poisoning 2 2 8 19 18 5 6 60 5.55 $20,621 $2,029,584 Struck by/against 1 0 0 6 5 4 10 26 2.41 $28,610 $1,962,454 Suffocation 0 0 0 0 0 0 0 0 0.00 0 0 Transport, other 0 0 0 0 0 0 0 0 0.00 0 0 Unspecified 2 1 1 3 24 24 28 83 7.68 $30,826 $6,297,907 Intent Unintentional 5 4 17 59 189 210 507 991 91.67 $34,376 $55,012,877 Self-Inflicted 0 0 5 10 6 3 0 24 2.22 $22,186 $1,505,158 Assault 0 1 0 6 2 1 0 10 0.93 $36,590 $2,273,129 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 3 2 7 17 15 5 7 56 5.18 $19,040 $1,872,927 Outcome Fatal 0 1 0 2 5 10 25 43 3.98 $62,960 $4,789,241 Nonfatal 8 6 29 90 207 209 489 1,038 96.02 $33,074 $55,874,850 Payor Uninsured 0 0 1 6 8 0 0 15 1.39 $39,113 $985,930 Medicare 0 0 0 6 50 190 464 710 65.68 $33,648 $38,489,729 Medicaid 5 3 7 39 63 9 11 137 12.67 $33,282 $9,911,513 Blue Cross 3 0 6 18 35 4 1 67 6.20 $34,146 $3,076,530 Commercial 0 4 15 22 51 7 10 109 10.08 $29,851 $6,111,863 Government 0 0 0 1 4 8 28 41 3.79 $39,152 $1,872,370 Other/Unknown 0 0 0 0 1 1 0 2 0.19 $108,078 $216,157 Payor Missing 0 0 0 0 0 0 0 0 0.00 0 0 Overall Total 8 7 29 92 212 219 514 1,081 100.00 $33,680 $60,664,091 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Clinton County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 4 5 14 23 85 76 183 390 100.00 $66,971 $34,367,657 Gender Male 2 2 11 17 53 33 76 194 49.74 $68,094 $18,246,646 Female 2 3 3 6 32 43 107 196 50.26 $63,688 $16,121,011 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 4 5 14 20 82 76 181 382 97.95 $66,458 $33,823,483 Black 0 0 0 1 0 0 0 1 0.26 $98,461 $98,461 Asian/Pac. Isl. 0 0 0 0 0 0 0 0 0.00 0 0 Native Am./Esk. 0 0 0 0 0 0 0 0 0.00 0 0 Other 0 0 0 0 0 0 0 0 0.00 0 0 Unknown 0 0 0 2 3 0 2 7 1.79 $68,804 $445,713 Mechanism Bites and stings 0 0 0 0 0 2 3 5 1.28 $23,783 $120,794 Cut/pierce 0 0 0 3 2 0 0 5 1.28 $40,010 $296,237 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 1 1 3 4 50 55 159 273 70.00 $68,876 $24,505,385 Fire/flame 0 1 0 1 1 0 0 3 0.77 $110,134 $284,275 Firearm 0 0 0 1 0 0 0 1 0.26 $12,554 $12,554 Hot object/substance 0 0 0 0 1 0 0 1 0.26 $35,900 $35,900 Machinery 0 0 1 0 0 0 0 1 0.26 $218,870 $218,870 MVT Occupant 0 1 3 5 7 1 2 19 4.87 $58,802 $1,535,986 MVT Motorcyclist 0 0 1 0 0 0 1 2 0.51 $75,479 $150,957 MVT Pedalcyclist 0 0 0 0 0 0 0 0 0.00 0 0 MVT Pedestrian 0 0 0 0 0 0 0 0 0.00 0 0 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 0 0 0 0 2 2 4 1.03 $29,112 $136,806 Other specified and classifiable 0 0 1 0 1 1 0 3 0.77 $181,066 $505,407 Other specified, NEC 0 0 0 1 2 0 0 3 0.77 $22,552 $79,235 Overexertion 0 0 0 1 1 0 1 3 0.77 $463,417 $1,330,482 Pedal cyclist, other 0 1 0 0 0 0 0 1 0.26 $13,803 $13,803 Pedestrian, other 0 0 0 0 0 0 0 0 0.00 0 0 Poisoning 1 1 4 4 11 4 4 29 7.44 $41,826 $2,434,890 Struck by/against 2 0 0 1 2 1 2 8 2.05 $77,016 $598,946 Suffocation 0 0 0 0 1 1 0 2 0.51 $44,086 $88,173 Transport, other 0 0 0 0 0 0 0 0 0.00 0 0 Unspecified 0 0 1 2 6 9 9 27 6.92 $57,389 $2,018,956 Intent Unintentional 2 4 9 17 72 72 179 355 91.03 $67,836 $31,753,136 Self-Inflicted 0 0 1 1 2 0 0 4 1.03 $33,882 $206,702 Assault 1 0 0 1 0 0 0 2 0.51 $80,863 $161,726 Undetermined 0 0 0 0 1 0 0 1 0.26 $43,510 $43,510 Other/Unknown 1 1 4 4 10 4 4 28 7.18 $40,904 $2,202,583 Outcome Fatal 0 0 0 0 5 1 5 11 2.82 $108,805 $1,067,816 Nonfatal 4 5 14 23 80 75 178 379 97.18 $66,917 $33,299,841 Payor Uninsured 2 0 2 1 5 1 0 11 2.82 $75,842 $1,152,242 Medicare 0 0 0 1 30 68 168 267 68.46 $65,882 $22,719,741 Medicaid 2 4 5 7 18 0 0 36 9.23 $39,940 $2,656,769 Blue Cross 0 0 1 5 17 4 3 30 7.69 $83,179 $3,596,595 Commercial 0 1 6 9 15 3 12 46 11.79 $64,563 $4,242,310 Government 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Payor Missing 0 0 0 0 0 0 0 0 0.00 0 0 Overall Total 4 5 14 23 85 76 183 390 100.00 $66,971 $34,367,657 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Columbia County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 8 9 30 68 155 162 367 799 100.00 $104,335 $124,262,732 Gender Male 5 5 13 42 75 74 159 373 46.68 $105,053 $63,499,107 Female 3 4 17 26 80 88 208 426 53.32 $99,909 $60,763,624 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 8 8 27 64 150 159 361 777 97.25 $104,627 $120,442,307 Black 0 1 2 2 0 0 1 6 0.75 $65,470 $621,486 Asian/Pac. Isl. 0 0 0 0 2 1 2 5 0.63 $156,901 $594,896 Native Am./Esk. 0 0 0 0 0 0 0 0 0.00 0 0 Other 0 0 0 0 0 1 3 4 0.50 $299,031 $1,187,104 Unknown 0 0 1 2 3 1 0 7 0.88 $50,775 $1,416,938 Mechanism Bites and stings 0 0 1 1 9 4 3 18 2.25 $62,430 $2,047,213 Cut/pierce 0 0 1 5 3 1 2 12 1.50 $83,802 $1,386,819 Drowning/submersion 1 0 0 0 0 0 0 1 0.13 $75,969 $75,969 Fall 3 1 2 14 78 112 304 514 64.33 $114,440 $81,893,357 Fire/flame 0 0 1 2 2 0 0 5 0.63 $50,775 $1,192,217 Firearm 0 0 0 0 1 2 0 3 0.38 $60,230 $202,848 Hot object/substance 0 0 0 0 3 0 1 4 0.50 $510,824 $2,075,415 Machinery 0 1 0 0 0 0 1 2 0.25 $202,849 $405,699 MVT Occupant 0 1 2 5 12 4 13 37 4.63 $134,224 $6,294,629 MVT Motorcyclist 0 0 1 7 4 1 0 13 1.63 $164,666 $3,251,809 MVT Pedalcyclist 0 0 1 1 1 0 0 3 0.38 $164,294 $882,983 MVT Pedestrian 0 1 1 0 0 0 1 3 0.38 $73,757 $492,388 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 2 0 0 4 1 1 8 1.00 $140,149 $1,207,217 Other specified and classifiable 1 0 0 2 0 1 0 4 0.50 $43,222 $679,942 Other specified, NEC 0 0 0 0 1 0 0 1 0.13 $184,433 $184,433 Overexertion 0 0 1 1 0 1 3 6 0.75 $186,599 $1,414,830 Pedal cyclist, other 0 0 0 0 1 0 0 1 0.13 $110,207 $110,207 Pedestrian, other 0 0 0 0 0 0 0 0 0.00 0 0 Poisoning 1 1 15 18 13 12 7 67 8.39 $37,077 $4,458,999 Struck by/against 0 1 2 6 6 6 9 30 3.75 $96,189 $3,970,558 Suffocation 0 0 0 0 0 4 3 7 0.88 $105,053 $1,326,720 Transport, other 0 0 0 0 0 0 0 0 0.00 0 0 Unspecified 2 1 2 6 17 13 19 60 7.51 $85,589 $10,708,479 Intent Unintentional 7 8 12 44 137 149 361 718 89.86 $111,197 $118,533,468 Self-Inflicted 0 0 1 4 2 1 0 8 1.00 $32,035 $727,589 Assault 0 0 2 3 4 1 0 10 1.25 $79,105 $813,993 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 1 1 15 17 12 11 6 63 7.88 $36,166 $4,187,682 Outcome Fatal 0 0 0 0 3 4 21 28 3.50 $177,622 $5,757,786 Nonfatal 8 9 30 68 152 158 346 771 96.50 $99,949 $118,504,946 Payor Uninsured 0 2 1 2 3 0 0 8 1.00 $146,734 $1,188,532 Medicare 0 0 0 4 54 142 334 534 66.83 $107,220 $83,548,597 Medicaid 4 4 12 36 32 1 0 89 11.14 $63,437 $11,167,175 Blue Cross 1 0 4 10 24 3 0 42 5.26 $101,572 $6,988,667 Commercial 3 3 12 16 41 16 32 123 15.39 $119,408 $20,829,573 Government 0 0 0 0 1 0 1 2 0.25 $174,385 $348,771 Other/Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Payor Missing 0 0 1 0 0 0 0 1 0.13 $191,417 $191,417 Overall Total 8 9 30 68 155 162 367 799 100.00 $104,335 $124,262,732 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Crawford County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 7 18 79 100 199 195 415 1,013 100.00 $38,459 $87,425,673 Gender Male 1 8 29 61 120 97 163 479 47.29 $43,430 $49,707,520 Female 6 10 50 39 79 98 252 534 52.71 $35,524 $37,718,153 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 4 17 68 90 187 190 405 961 94.87 $38,459 $73,798,052 Black 0 0 8 6 4 1 3 22 2.17 $23,599 $8,692,182 Asian/Pac. Isl. 0 0 0 0 0 1 1 2 0.20 $37,471 $74,941 Native Am./Esk. 0 0 0 1 0 0 0 1 0.10 $11,300 $11,300 Other 0 0 3 2 4 1 2 12 1.18 $72,362 $1,306,748 Unknown 3 1 0 1 4 2 4 15 1.48 $92,325 $3,542,450 Mechanism Bites and stings 0 0 0 1 5 2 4 12 1.18 $24,443 $1,198,329 Cut/pierce 0 1 18 8 4 1 0 32 3.16 $12,529 $583,380 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 2 2 5 9 85 117 322 542 53.50 $46,483 $51,571,966 Fire/flame 0 0 0 1 2 0 0 3 0.30 $176,224 $435,048 Firearm 0 1 1 1 0 1 0 4 0.39 $108,677 $404,733 Hot object/substance 0 0 0 1 0 1 0 2 0.20 $33,447 $66,895 Machinery 0 0 0 2 0 1 2 5 0.49 $68,774 $281,416 MVT Occupant 0 1 8 7 16 4 9 45 4.44 $75,602 $5,268,195 MVT Motorcyclist 0 0 2 5 5 3 0 15 1.48 $131,723 $2,576,569 MVT Pedalcyclist 0 0 0 1 0 0 0 1 0.10 $158,372 $158,372 MVT Pedestrian 0 0 0 1 1 0 0 2 0.20 $625,558 $1,251,116 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 1 0 0 1 0.10 $212,209 $212,209 Other natural and environmental factors 0 0 0 4 0 3 2 9 0.89 $29,772 $598,725 Other specified and classifiable 1 3 1 0 2 1 0 8 0.79 $66,272 $1,448,615 Other specified, NEC 0 1 5 5 0 0 0 11 1.09 $9,234 $118,422 Overexertion 0 0 1 0 3 3 3 10 0.99 $36,656 $422,798 Pedal cyclist, other 0 0 0 2 0 2 0 4 0.39 $252,278 $1,100,374 Pedestrian, other 0 0 0 0 1 0 0 1 0.10 $39,126 $39,126 Poisoning 3 7 28 35 26 8 6 113 11.15 $12,487 $2,662,420 Struck by/against 0 2 4 3 6 5 6 26 2.57 $37,227 $1,520,379 Suffocation 0 0 1 0 2 2 5 10 0.99 $83,782 $3,099,991 Transport, other 0 0 0 1 2 0 0 3 0.30 $132,264 $380,754 Unspecified 1 0 5 13 38 41 56 154 15.20 $30,787 $12,025,842 Intent Unintentional 3 7 23 56 169 187 409 854 84.30 $45,241 $79,513,990 Self-Inflicted 0 2 28 10 5 0 0 45 4.44 $10,391 $4,260,175 Assault 1 1 0 2 0 0 0 4 0.39 $19,718 $1,027,372 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 3 8 28 32 25 8 6 110 10.86 $12,470 $2,624,136 Outcome Fatal 0 1 0 0 7 6 15 29 2.86 $140,284 $8,822,596 Nonfatal 7 17 79 100 192 189 400 984 97.14 $37,130 $78,603,077 Payor Uninsured 0 0 5 10 10 0 1 26 2.57 $28,743 $1,321,489 Medicare 0 0 2 10 51 154 337 554 54.69 $39,642 $40,197,704 Medicaid 6 10 37 42 47 3 13 158 15.60 $23,167 $22,453,437 Blue Cross 0 1 16 20 39 6 7 89 8.79 $44,744 $6,543,859 Commercial 1 7 19 16 48 22 16 129 12.73 $58,919 $14,232,360 Government 0 0 0 1 4 10 41 56 5.53 $33,957 $2,576,706 Other/Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Payor Missing 0 0 0 1 0 0 0 1 0.10 $100,117 $100,117 Overall Total 7 18 79 100 199 195 415 1,013 100.00 $38,459 $87,425,673 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Cumberland County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 14 15 79 242 401 514 1,332 2,597 100.00 $53,179 $215,328,288 Gender Male 10 7 38 133 215 253 500 1,156 44.51 $56,539 $105,239,169 Female 4 8 41 109 186 261 832 1,441 55.49 $50,243 $110,089,119 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 9 14 55 193 375 473 1,272 2,391 92.07 $53,278 $198,176,099 Black 0 0 8 24 14 11 14 71 2.73 $53,851 $6,349,102 Asian/Pac. Isl. 2 0 5 4 1 10 22 44 1.69 $37,635 $3,025,491 Native Am./Esk. 0 0 0 1 1 0 2 4 0.15 $31,574 $132,102 Other 2 1 10 12 7 14 14 60 2.31 $48,440 $4,595,317 Unknown 1 0 1 8 3 6 8 27 1.04 $86,819 $3,050,176 Mechanism Bites and stings 0 0 1 6 6 6 10 29 1.12 $30,516 $1,294,497 Cut/pierce 0 0 9 10 5 5 1 30 1.16 $38,353 $2,808,924 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 10 3 9 72 235 383 1,188 1,900 73.16 $54,516 $150,021,762 Fire/flame 0 0 1 1 0 1 1 4 0.15 $89,101 $369,883 Firearm 0 0 2 1 2 1 1 7 0.27 $178,587 $2,554,514 Hot object/substance 0 0 1 6 1 2 2 12 0.46 $53,446 $1,616,571 Machinery 0 0 0 0 1 0 1 2 0.08 $170,526 $341,051 MVT Occupant 0 0 9 30 19 22 23 103 3.97 $61,280 $13,101,040 MVT Motorcyclist 0 0 5 21 13 6 0 45 1.73 $105,973 $8,442,289 MVT Pedalcyclist 0 1 0 2 1 1 1 6 0.23 $183,160 $1,224,594 MVT Pedestrian 0 1 1 3 1 4 3 13 0.50 $130,683 $2,797,047 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 2 1 0 3 0.12 $105,306 $333,607 Other natural and environmental factors 1 0 0 3 5 6 4 19 0.73 $37,450 $1,141,272 Other specified and classifiable 0 0 0 0 3 1 2 6 0.23 $111,401 $656,388 Other specified, NEC 0 0 1 3 0 0 1 5 0.19 $13,412 $514,041 Overexertion 0 0 0 1 5 3 10 19 0.73 $44,541 $1,290,252 Pedal cyclist, other 0 0 1 0 1 2 0 4 0.15 $95,136 $356,049 Pedestrian, other 0 0 0 1 0 0 0 1 0.04 $238,261 $238,261 Poisoning 1 6 34 58 54 28 14 195 7.51 $33,290 $9,050,386 Struck by/against 0 3 2 9 10 12 14 50 1.93 $40,584 $4,043,417 Suffocation 0 0 0 0 3 1 6 10 0.39 $58,815 $865,450 Transport, other 0 0 0 1 1 2 0 4 0.15 $80,428 $340,186 Unspecified 2 1 3 14 33 27 50 130 5.01 $53,016 $11,926,807 Intent Unintentional 13 8 35 176 344 484 1,315 2,375 91.45 $54,678 $202,781,777 Self-Inflicted 0 0 9 6 4 7 3 29 1.12 $41,874 $3,480,444 Assault 0 1 2 8 3 0 0 14 0.54 $41,879 $682,384 Undetermined 0 0 0 0 1 0 0 1 0.04 $23,555 $23,555 Other/Unknown 1 6 33 52 49 23 14 178 6.85 $33,349 $8,360,127 Outcome Fatal 0 0 1 1 11 14 42 69 2.66 $88,886 $10,845,198 Nonfatal 14 15 78 241 390 500 1,290 2,528 97.34 $52,802 $204,483,090 Payor Uninsured 0 1 6 16 12 2 1 38 1.46 $59,666 $3,931,448 Medicare 0 0 0 23 112 430 1,251 1,816 69.93 $53,881 $134,823,546 Medicaid 8 5 30 95 97 5 4 244 9.40 $45,646 $21,973,523 Blue Cross 3 3 14 48 85 11 10 174 6.70 $45,170 $16,319,983 Commercial 3 5 27 58 79 48 35 255 9.82 $59,938 $33,132,838 Government 0 1 2 2 16 18 31 70 2.70 $50,187 $5,146,950 Other/Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Payor Missing 0 0 0 0 0 0 0 0 0.00 0 0 Overall Total 14 15 79 242 401 514 1,332 2,597 100.00 $53,179 $215,328,288 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Dauphin County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 20 36 108 290 498 547 1,098 2,597 100.00 $58,982 $249,192,779 Gender Male 13 15 67 170 266 297 442 1,270 48.90 $59,917 $132,756,414 Female 7 21 41 120 232 250 656 1,327 51.10 $57,945 $116,436,365 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 7 13 48 160 328 423 947 1,926 74.16 $60,411 $175,426,594 Black 5 17 44 79 117 89 83 434 16.71 $53,814 $44,796,928 Asian/Pac. Isl. 1 1 0 10 14 8 16 50 1.93 $54,193 $3,911,779 Native Am./Esk. 0 0 1 0 1 0 3 5 0.19 $87,180 $388,522 Other 6 5 13 32 29 17 42 144 5.54 $58,616 $17,207,327 Unknown 1 0 2 9 9 10 7 38 1.46 $61,164 $7,461,629 Mechanism Bites and stings 1 3 2 7 11 10 10 44 1.69 $30,242 $1,515,329 Cut/pierce 0 2 3 13 6 1 2 27 1.04 $39,026 $1,504,425 Drowning/submersion 0 2 0 0 2 0 0 4 0.15 $33,838 $1,605,094 Fall 9 6 19 82 272 423 975 1,786 68.77 $62,200 $160,613,822 Fire/flame 0 0 0 0 2 4 3 9 0.35 $81,832 $5,304,242 Firearm 0 1 13 18 7 1 0 40 1.54 $98,105 $8,112,804 Hot object/substance 0 0 3 3 5 4 1 16 0.62 $167,233 $3,118,919 Machinery 0 0 0 3 2 3 0 8 0.31 $83,028 $875,167 MVT Occupant 1 3 16 37 28 27 19 131 5.04 $80,418 $19,884,631 MVT Motorcyclist 0 0 6 8 10 3 2 29 1.12 $108,935 $4,522,292 MVT Pedalcyclist 1 2 1 1 1 0 0 6 0.23 $83,273 $690,880 MVT Pedestrian 0 0 2 8 6 3 3 22 0.85 $96,932 $3,672,038 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 0 2 2 7 3 6 20 0.77 $40,397 $1,009,700 Other specified and classifiable 1 0 2 3 2 4 3 15 0.58 $60,580 $3,140,632 Other specified, NEC 0 0 1 1 0 0 0 2 0.08 $42,221 $84,442 Overexertion 0 0 1 3 3 0 7 14 0.54 $42,063 $1,012,894 Pedal cyclist, other 0 0 1 1 0 2 2 6 0.23 $80,806 $624,780 Pedestrian, other 0 1 0 1 0 0 1 3 0.12 $156,083 $441,329 Poisoning 6 15 25 79 93 34 20 272 10.47 $36,268 $15,882,466 Struck by/against 0 1 5 6 11 10 12 45 1.73 $81,337 $4,036,260 Suffocation 0 0 0 0 0 0 3 3 0.12 $121,498 $443,970 Transport, other 0 0 0 1 0 0 1 2 0.08 $37,047 $74,093 Unspecified 1 0 6 13 30 15 28 93 3.58 $46,913 $11,022,570 Intent Unintentional 14 21 71 194 392 514 1,077 2,283 87.91 $62,670 $224,621,823 Self-Inflicted 0 0 5 5 7 0 1 18 0.69 $72,068 $6,372,684 Assault 0 0 7 15 12 3 4 41 1.58 $49,307 $3,273,083 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 6 15 25 76 87 30 16 255 9.82 $35,283 $14,925,190 Outcome Fatal 0 1 3 3 10 14 52 83 3.20 $120,731 $16,730,470 Nonfatal 20 35 105 287 488 533 1,046 2,514 96.80 $58,186 $232,462,309 Payor Uninsured 1 2 3 27 14 3 3 53 2.04 $38,375 $6,271,396 Medicare 0 0 0 30 154 463 1,010 1,657 63.80 $63,572 $159,270,999 Medicaid 16 14 51 135 141 2 7 366 14.09 $46,413 $33,020,300 Blue Cross 0 13 16 42 89 18 5 183 7.05 $50,828 $12,903,444 Commercial 2 6 36 54 83 39 39 259 9.97 $59,691 $29,717,210 Government 1 1 1 2 17 19 34 75 2.89 $59,334 $6,995,634 Other/Unknown 0 0 1 0 0 0 0 1 0.04 $21,836 $21,836 Payor Missing 0 0 0 0 0 3 0 3 0.12 $214,821 $991,959 Overall Total 20 36 108 290 498 547 1,098 2,597 100.00 $58,982 $249,192,779 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Delaware County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 37 44 219 772 1,260 1,212 2,728 6,272 100.00 $79,385 $782,268,048 Gender Male 12 27 138 486 703 599 1,064 3,029 48.29 $82,146 $416,055,445 Female 25 17 81 286 556 613 1,664 3,242 51.69 $77,123 $366,148,057 Unknown 0 0 0 0 1 0 0 1 0.02 $64,546 $64,546 Race White 8 23 83 371 842 925 2,391 4,643 74.03 $78,447 $556,548,739 Black 23 14 92 311 323 224 250 1,237 19.72 $83,167 $168,041,568 Asian/Pac. Isl. 2 0 6 18 17 17 37 97 1.55 $85,340 $14,232,166 Native Am./Esk. 0 0 0 2 3 1 2 8 0.13 $68,830 $727,443 Other 1 6 25 53 57 32 32 206 3.28 $80,578 $28,231,146 Unknown 3 1 13 17 18 13 16 81 1.29 $105,615 $14,486,985 Mechanism Bites and stings 0 2 1 24 28 13 17 85 1.36 $46,881 $5,131,824 Cut/pierce 0 0 19 38 20 8 7 92 1.47 $51,628 $6,941,172 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 11 9 30 171 567 845 2,223 3,856 61.48 $82,852 $456,052,846 Fire/flame 0 3 4 5 15 4 6 37 0.59 $81,610 $9,101,244 Firearm 1 1 27 57 20 1 0 107 1.71 $155,120 $26,644,418 Hot object/substance 8 4 5 11 8 4 4 44 0.70 $89,230 $9,002,824 Machinery 0 0 1 0 0 0 0 1 0.02 $39,694 $39,694 MVT Occupant 0 2 27 47 56 46 40 218 3.48 $81,139 $29,547,126 MVT Motorcyclist 0 1 6 21 25 1 0 54 0.86 $100,919 $7,995,215 MVT Pedalcyclist 0 2 0 0 2 1 1 6 0.10 $60,297 $385,672 MVT Pedestrian 0 4 6 18 12 5 4 49 0.78 $132,529 $15,071,251 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 1 1 2 3 15 16 24 62 0.99 $65,411 $6,696,965 Other specified and classifiable 2 0 2 14 9 2 4 33 0.53 $57,635 $5,345,975 Other specified, NEC 0 0 2 4 3 0 1 10 0.16 $40,910 $570,626 Overexertion 0 0 2 6 17 7 18 50 0.80 $63,422 $4,519,995 Pedal cyclist, other 0 0 0 2 7 4 3 16 0.26 $67,026 $1,275,809 Pedestrian, other 0 0 2 7 2 3 1 15 0.24 $114,039 $3,037,072 Poisoning 6 9 41 178 186 50 41 511 8.15 $56,237 $53,080,904 Struck by/against 1 3 21 38 38 20 48 169 2.69 $71,039 $16,903,149 Suffocation 0 0 3 8 15 14 22 62 0.99 $161,687 $21,000,484 Transport, other 0 0 0 1 0 1 0 2 0.03 $146,286 $292,572 Unspecified 7 3 18 119 215 167 264 793 12.64 $76,444 $103,631,213 Intent Unintentional 30 34 138 527 1,060 1,162 2,687 5,638 89.89 $81,752 $708,059,625 Self-Inflicted 0 0 18 21 9 1 2 51 0.81 $44,492 $5,525,144 Assault 2 1 24 63 38 5 3 136 2.17 $79,195 $24,082,603 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 5 9 39 161 153 44 36 447 7.13 $55,337 $44,600,676 Outcome Fatal 0 0 4 7 17 38 92 158 2.52 $133,352 $42,627,805 Nonfatal 37 44 215 765 1,243 1,174 2,636 6,114 97.48 $78,494 $739,640,243 Payor Uninsured 0 2 14 57 31 9 3 116 1.85 $65,168 $12,973,646 Medicare 0 0 3 58 304 956 2,542 3,863 61.59 $80,813 $455,337,045 Medicaid 26 18 82 399 470 34 19 1,048 16.71 $77,234 $152,649,222 Blue Cross 8 14 48 92 243 65 36 506 8.07 $74,192 $65,590,275 Commercial 3 9 54 109 163 90 78 506 8.07 $78,900 $68,539,032 Government 0 1 3 23 17 7 23 74 1.18 $71,467 $8,386,484 Other/Unknown 0 0 14 27 31 50 27 149 2.38 $84,736 $18,418,301 Payor Missing 0 0 1 7 1 1 0 10 0.16 $27,850 $374,041 Overall Total 37 44 219 772 1,260 1,212 2,728 6,272 100.00 $79,385 $782,268,048 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Elk County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 3 2 8 28 49 72 198 360 100.00 $30,750 $19,580,888 Gender Male 2 1 5 17 21 35 71 152 42.22 $32,152 $10,561,568 Female 1 1 3 11 28 37 127 208 57.78 $30,266 $9,019,320 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 1 1 8 27 47 70 194 348 96.67 $30,482 $16,432,006 Black 0 1 0 0 0 0 0 1 0.28 $9,889 $9,889 Asian/Pac. Isl. 0 0 0 0 0 0 0 0 0.00 0 0 Native Am./Esk. 0 0 0 0 1 0 0 1 0.28 $503,978 $503,978 Other 0 0 0 1 1 0 3 5 1.39 $37,164 $1,428,593 Unknown 2 0 0 0 0 2 1 5 1.39 $191,816 $1,206,422 Mechanism Bites and stings 0 0 0 0 2 2 1 5 1.39 $18,670 $236,859 Cut/pierce 0 0 1 2 0 0 0 3 0.83 $11,295 $32,725 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 0 0 0 7 28 56 169 260 72.22 $31,698 $12,337,326 Fire/flame 1 0 0 2 0 0 0 3 0.83 $97,967 $473,202 Firearm 0 0 0 0 1 0 0 1 0.28 $26,036 $26,036 Hot object/substance 0 0 0 0 0 0 0 0 0.00 0 0 Machinery 0 0 0 0 1 0 0 1 0.28 $437,453 $437,453 MVT Occupant 0 0 1 6 2 0 1 10 2.78 $37,418 $853,764 MVT Motorcyclist 0 0 1 5 0 0 0 6 1.67 $119,671 $921,148 MVT Pedalcyclist 0 0 0 0 0 0 0 0 0.00 0 0 MVT Pedestrian 0 0 0 1 0 0 1 2 0.56 $37,174 $74,348 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 0 0 0 1 2 2 5 1.39 $25,571 $114,848 Other specified and classifiable 0 0 0 0 1 0 0 1 0.28 $22,659 $22,659 Other specified, NEC 0 0 0 0 0 0 0 0 0.00 0 0 Overexertion 0 0 0 0 1 1 2 4 1.11 $10,019 $1,340,439 Pedal cyclist, other 0 0 0 0 0 0 0 0 0.00 0 0 Pedestrian, other 0 0 0 0 0 0 0 0 0.00 0 0 Poisoning 2 2 4 1 3 2 4 18 5.00 $11,268 $1,036,605 Struck by/against 0 0 1 1 3 3 4 12 3.33 $27,439 $308,381 Suffocation 0 0 0 0 0 0 1 1 0.28 $191,022 $191,022 Transport, other 0 0 0 0 0 0 1 1 0.28 $11,441 $11,441 Unspecified 0 0 0 3 6 6 12 27 7.50 $19,607 $1,162,633 Intent Unintentional 2 0 2 27 45 71 194 341 94.72 $31,414 $18,948,551 Self-Inflicted 0 0 1 1 0 0 0 2 0.56 $7,863 $15,726 Assault 0 0 1 0 1 0 0 2 0.56 $24,927 $49,854 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 1 2 4 0 3 1 4 15 4.17 $10,121 $566,758 Outcome Fatal 2 1 0 1 0 2 4 10 2.78 $60,824 $733,063 Nonfatal 1 1 8 27 49 70 194 350 97.22 $30,482 $18,847,825 Payor Uninsured 0 0 1 1 1 0 0 3 0.83 $12,746 $59,546 Medicare 0 0 0 1 9 61 185 256 71.11 $30,266 $11,059,830 Medicaid 3 1 0 13 7 7 2 33 9.17 $32,182 $2,709,794 Blue Cross 0 0 3 4 17 1 0 25 6.94 $38,775 $3,182,712 Commercial 0 1 4 9 15 2 2 33 9.17 $30,811 $2,185,006 Government 0 0 0 0 0 1 9 10 2.78 $31,886 $384,001 Other/Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Payor Missing 0 0 0 0 0 0 0 0 0.00 0 0 Overall Total 3 2 8 28 49 72 198 360 100.00 $30,750 $19,580,888 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Erie County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 37 76 195 374 578 639 1,219 3,118 100.00 $78,198 $338,589,507 Gender Male 18 32 88 237 300 295 493 1,463 46.92 $81,798 $172,220,144 Female 19 44 107 137 278 344 726 1,655 53.08 $75,230 $166,369,363 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 26 55 138 294 505 607 1,185 2,810 90.12 $80,401 $309,920,783 Black 8 8 35 59 58 25 23 216 6.93 $66,831 $22,171,666 Asian/Pac. Isl. 0 0 5 3 0 1 3 12 0.38 $50,799 $985,052 Native Am./Esk. 0 0 2 2 0 0 1 5 0.16 $25,168 $232,726 Other 1 5 7 3 6 1 1 24 0.77 $17,596 $1,000,055 Unknown 2 8 8 13 9 5 6 51 1.64 $53,394 $4,279,224 Mechanism Bites and stings 1 2 1 5 9 8 6 32 1.03 $61,137 $3,188,974 Cut/pierce 1 12 28 32 20 1 3 97 3.11 $19,582 $4,683,783 Drowning/submersion 0 1 1 0 0 0 0 2 0.06 $71,076 $142,152 Fall 11 12 18 83 250 447 1,009 1,830 58.69 $87,758 $205,726,797 Fire/flame 0 2 1 0 4 1 1 9 0.29 $110,747 $1,074,959 Firearm 0 0 9 5 0 0 1 15 0.48 $162,110 $4,905,330 Hot object/substance 4 1 0 2 3 1 0 11 0.35 $39,107 $3,381,383 Machinery 0 1 0 2 2 0 1 6 0.19 $132,457 $1,070,531 MVT Occupant 2 2 10 26 29 16 16 101 3.24 $112,822 $15,845,631 MVT Motorcyclist 0 1 6 12 21 1 0 41 1.31 $105,601 $7,145,313 MVT Pedalcyclist 0 2 0 4 4 1 3 14 0.45 $80,522 $2,125,316 MVT Pedestrian 0 0 0 6 5 1 0 12 0.38 $229,643 $2,867,186 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 1 0 0 1 8 5 6 21 0.67 $59,398 $1,260,005 Other specified and classifiable 3 6 2 5 4 1 2 23 0.74 $52,169 $3,508,388 Other specified, NEC 0 6 8 8 2 1 0 25 0.80 $19,680 $1,412,228 Overexertion 0 0 1 3 5 5 6 20 0.64 $87,921 $1,994,998 Pedal cyclist, other 0 2 2 4 4 3 2 17 0.55 $80,679 $1,484,177 Pedestrian, other 0 0 0 0 2 1 1 4 0.13 $166,974 $798,481 Poisoning 8 16 74 103 99 41 23 364 11.67 $29,599 $17,992,775 Struck by/against 0 5 22 29 17 15 25 113 3.62 $59,363 $8,277,109 Suffocation 0 0 0 1 5 8 21 35 1.12 $157,934 $6,933,461 Transport, other 0 0 3 0 2 1 0 6 0.19 $215,699 $1,514,161 Unspecified 6 5 9 43 83 81 93 320 10.26 $82,963 $41,256,369 Intent Unintentional 26 39 73 221 448 598 1,195 2,600 83.39 $87,349 $308,043,782 Self-Inflicted 0 19 38 35 24 0 4 120 3.85 $19,631 $7,459,302 Assault 3 3 15 22 13 1 2 59 1.89 $53,010 $6,907,261 Undetermined 0 0 1 0 0 0 0 1 0.03 $162,110 $162,110 Other/Unknown 8 15 68 96 93 40 18 338 10.84 $28,507 $16,017,053 Outcome Fatal 0 0 1 6 18 26 80 131 4.20 $142,638 $28,727,344 Nonfatal 37 76 194 368 560 613 1,139 2,987 95.80 $76,712 $309,862,163 Payor Uninsured 0 2 10 19 16 2 1 50 1.60 $66,050 $4,028,268 Medicare 0 0 3 52 167 551 1,095 1,868 59.91 $87,622 $212,032,045 Medicaid 23 24 72 157 171 7 1 455 14.59 $69,197 $52,215,503 Blue Cross 9 14 41 33 75 23 9 204 6.54 $54,943 $17,887,926 Commercial 4 36 66 107 137 43 67 460 14.75 $56,034 $44,888,860 Government 1 0 0 3 5 12 44 65 2.08 $67,552 $6,284,806 Other/Unknown 0 0 3 3 6 0 0 12 0.38 $40,690 $413,375 Payor Missing 0 0 0 0 1 1 2 4 0.13 $208,310 $838,723 Overall Total 37 76 195 374 578 639 1,219 3,118 100.00 $78,198 $338,589,507 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Fayette County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 10 22 49 157 371 373 703 1,685 100.00 $30,829 $112,143,146 Gender Male 6 11 29 100 186 190 276 798 47.36 $31,621 $60,986,803 Female 4 11 20 57 185 183 427 887 52.64 $29,833 $51,156,342 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 9 18 43 133 340 349 678 1,570 93.18 $30,999 $103,737,078 Black 1 2 4 15 24 22 14 82 4.87 $22,920 $4,772,886 Asian/Pac. Isl. 0 0 0 0 0 0 1 1 0.06 $170,157 $170,157 Native Am./Esk. 0 0 0 0 2 0 1 3 0.18 $22,321 $72,367 Other 0 2 0 1 0 0 2 5 0.30 $36,598 $232,043 Unknown 0 0 2 8 5 2 7 24 1.42 $94,972 $3,158,615 Mechanism Bites and stings 0 1 0 3 11 6 9 30 1.78 $17,076 $936,811 Cut/pierce 0 2 7 12 8 2 1 32 1.90 $12,037 $671,973 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 3 1 6 31 160 272 576 1,049 62.26 $32,607 $59,956,640 Fire/flame 1 1 1 4 4 3 1 15 0.89 $31,101 $1,677,240 Firearm 0 0 2 2 2 0 1 7 0.42 $44,874 $600,149 Hot object/substance 0 2 1 0 6 1 1 11 0.65 $72,453 $894,084 Machinery 0 1 0 0 1 0 0 2 0.12 $378,567 $757,133 MVT Occupant 0 3 1 14 15 8 10 51 3.03 $111,513 $14,097,304 MVT Motorcyclist 0 0 0 3 9 1 0 13 0.77 $98,146 $4,481,099 MVT Pedalcyclist 0 0 0 0 1 0 0 1 0.06 $58,374 $58,374 MVT Pedestrian 0 0 0 1 1 1 0 3 0.18 $29,199 $455,587 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 0 0 2 6 1 2 11 0.65 $23,165 $501,296 Other specified and classifiable 1 3 3 2 3 3 0 15 0.89 $60,514 $1,381,113 Other specified, NEC 0 0 1 2 1 1 0 5 0.30 $19,449 $1,851,388 Overexertion 0 0 1 4 3 7 7 22 1.31 $29,723 $1,717,467 Pedal cyclist, other 0 0 0 1 2 0 0 3 0.18 $82,996 $287,239 Pedestrian, other 0 0 0 0 0 1 1 2 0.12 $20,503 $41,006 Poisoning 2 5 18 44 71 23 10 173 10.27 $18,680 $6,757,482 Struck by/against 0 1 4 17 16 10 18 66 3.92 $22,522 $2,732,203 Suffocation 0 0 0 0 4 6 7 17 1.01 $84,416 $2,163,610 Transport, other 0 0 0 0 2 0 0 2 0.12 $26,243 $52,487 Unspecified 3 2 4 15 45 27 59 155 9.20 $30,096 $10,071,462 Intent Unintentional 7 14 23 95 293 347 692 1,471 87.30 $32,868 $102,365,228 Self-Inflicted 0 2 6 14 4 3 2 31 1.84 $12,851 $1,996,727 Assault 1 1 3 7 10 1 0 23 1.36 $35,699 $1,753,872 Undetermined 0 0 0 0 0 1 0 1 0.06 $68,484 $68,484 Other/Unknown 2 5 17 41 64 21 9 159 9.44 $18,001 $5,958,835 Outcome Fatal 0 0 0 2 6 15 25 48 2.85 $49,498 $6,473,492 Nonfatal 10 22 49 155 365 358 678 1,637 97.15 $30,416 $105,669,653 Payor Uninsured 0 2 0 2 7 0 0 11 0.65 $23,655 $364,646 Medicare 0 0 3 12 100 319 630 1,064 63.15 $30,628 $61,772,837 Medicaid 9 8 18 82 121 2 3 243 14.42 $35,699 $19,647,251 Blue Cross 1 3 8 12 63 12 5 104 6.17 $41,345 $8,839,431 Commercial 0 9 19 46 69 25 30 198 11.75 $24,927 $18,755,872 Government 0 0 0 1 8 14 32 55 3.26 $23,395 $2,360,640 Other/Unknown 0 0 0 0 1 0 0 1 0.06 $166,769 $166,769 Payor Missing 0 0 1 2 2 1 3 9 0.53 $25,700 $235,701 Overall Total 10 22 49 157 371 373 703 1,685 100.00 $30,829 $112,143,146 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Forest County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 0 0 3 7 19 18 26 73 100.00 $44,264 $5,326,771 Gender Male 0 0 3 7 13 9 15 47 64.38 $55,219 $3,964,950 Female 0 0 0 0 6 9 11 26 35.62 $31,586 $1,361,821 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 0 0 2 4 18 17 24 65 89.04 $47,441 $4,813,842 Black 0 0 1 3 1 0 1 6 8.22 $27,944 $350,703 Asian/Pac. Isl. 0 0 0 0 0 0 0 0 0.00 0 0 Native Am./Esk. 0 0 0 0 0 0 0 0 0.00 0 0 Other 0 0 0 0 0 0 0 0 0.00 0 0 Unknown 0 0 0 0 0 1 1 2 2.74 $81,113 $162,226 Mechanism Bites and stings 0 0 0 0 2 1 1 4 5.48 $19,958 $165,815 Cut/pierce 0 0 0 0 0 0 1 1 1.37 $33,253 $33,253 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 0 0 0 1 9 10 19 39 53.42 $41,284 $2,890,182 Fire/flame 0 0 0 0 0 0 0 0 0.00 0 0 Firearm 0 0 0 0 0 0 0 0 0.00 0 0 Hot object/substance 0 0 0 1 0 0 0 1 1.37 $25,747 $25,747 Machinery 0 0 0 0 0 0 0 0 0.00 0 0 MVT Occupant 0 0 0 0 3 2 3 8 10.96 $41,851 $420,048 MVT Motorcyclist 0 0 0 0 0 0 0 0 0.00 0 0 MVT Pedalcyclist 0 0 0 0 0 0 0 0 0.00 0 0 MVT Pedestrian 0 0 0 1 0 0 0 1 1.37 $111,312 $111,312 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 0 0 0 0 0 0 0 0.00 0 0 Other specified and classifiable 0 0 0 0 0 0 0 0 0.00 0 0 Other specified, NEC 0 0 1 0 0 0 0 1 1.37 $21,625 $21,625 Overexertion 0 0 0 0 0 0 0 0 0.00 0 0 Pedal cyclist, other 0 0 0 0 0 0 0 0 0.00 0 0 Pedestrian, other 0 0 0 0 0 0 0 0 0.00 0 0 Poisoning 0 0 1 1 2 1 0 5 6.85 $53,347 $505,817 Struck by/against 0 0 1 3 0 2 0 6 8.22 $92,425 $569,495 Suffocation 0 0 0 0 0 0 0 0 0.00 0 0 Transport, other 0 0 0 0 0 0 0 0 0.00 0 0 Unspecified 0 0 0 0 3 2 2 7 9.59 $47,441 $583,476 Intent Unintentional 0 0 1 3 17 17 26 64 87.67 $39,696 $4,506,917 Self-Inflicted 0 0 1 0 0 0 0 1 1.37 $21,625 $21,625 Assault 0 0 0 3 0 0 0 3 4.11 $64,185 $292,412 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 0 0 1 1 2 1 0 5 6.85 $53,347 $505,817 Outcome Fatal 0 0 0 0 0 0 1 1 1.37 $149,860 $149,860 Nonfatal 0 0 3 7 19 18 25 72 98.63 $42,774 $5,176,911 Payor Uninsured 0 0 0 0 0 0 0 0 0.00 0 0 Medicare 0 0 0 0 7 13 22 42 57.53 $44,768 $3,335,520 Medicaid 0 0 0 6 4 0 1 11 15.07 $47,441 $772,289 Blue Cross 0 0 1 0 3 3 0 7 9.59 $21,625 $467,436 Commercial 0 0 2 1 4 1 3 11 15.07 $45,015 $693,191 Government 0 0 0 0 1 1 0 2 2.74 $29,168 $58,335 Other/Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Payor Missing 0 0 0 0 0 0 0 0 0.00 0 0 Overall Total 0 0 3 7 19 18 26 73 100.00 $44,264 $5,326,771 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Franklin County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 9 7 51 151 328 328 919 1,793 100.00 $41,822 $125,778,462 Gender Male 6 3 34 92 189 168 349 841 46.90 $42,805 $66,775,097 Female 3 4 17 59 139 160 570 952 53.10 $40,799 $59,003,366 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 1 5 34 116 296 306 891 1,649 91.97 $42,055 $115,265,342 Black 2 0 4 14 16 11 10 57 3.18 $38,527 $4,300,366 Asian/Pac. Isl. 1 0 0 1 1 2 2 7 0.39 $52,188 $555,614 Native Am./Esk. 0 0 0 2 1 1 0 4 0.22 $74,224 $369,840 Other 2 2 10 16 8 4 8 50 2.79 $42,136 $4,128,663 Unknown 3 0 3 2 6 4 8 26 1.45 $28,219 $1,158,637 Mechanism Bites and stings 0 0 1 4 8 8 10 31 1.73 $24,898 $1,018,335 Cut/pierce 1 0 2 4 9 2 2 20 1.12 $42,947 $1,616,945 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 5 0 6 37 170 257 773 1,248 69.60 $44,774 $81,770,672 Fire/flame 0 0 0 1 2 0 1 4 0.22 $71,811 $1,143,137 Firearm 0 1 1 1 0 0 0 3 0.17 $162,313 $632,275 Hot object/substance 0 0 0 2 1 2 0 5 0.28 $13,415 $66,624 Machinery 0 0 0 0 2 1 0 3 0.17 $88,040 $241,431 MVT Occupant 0 0 12 20 19 3 14 68 3.79 $75,760 $10,802,319 MVT Motorcyclist 0 0 5 6 5 2 0 18 1.00 $99,344 $4,270,256 MVT Pedalcyclist 0 1 0 1 0 0 4 6 0.33 $48,155 $355,190 MVT Pedestrian 0 0 1 2 2 0 1 6 0.33 $78,298 $755,568 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 1 0 0 0 1 0.06 $151,799 $151,799 Other natural and environmental factors 0 0 0 4 10 1 10 25 1.39 $32,544 $2,403,227 Other specified and classifiable 0 0 0 1 4 0 2 7 0.39 $29,718 $366,609 Other specified, NEC 0 0 0 0 2 2 0 4 0.22 $40,574 $222,663 Overexertion 0 0 1 2 4 3 7 17 0.95 $34,756 $805,533 Pedal cyclist, other 0 0 0 1 0 2 1 4 0.22 $64,703 $662,259 Pedestrian, other 0 0 0 1 0 0 0 1 0.06 $42,805 $42,805 Poisoning 1 3 19 38 38 6 6 111 6.19 $27,584 $4,126,086 Struck by/against 0 1 1 6 5 7 9 29 1.62 $40,015 $3,842,094 Suffocation 0 0 0 0 3 0 2 5 0.28 $37,205 $320,335 Transport, other 0 0 0 0 1 0 0 1 0.06 $231,429 $231,429 Unspecified 2 1 2 19 43 32 77 176 9.82 $33,859 $9,930,871 Intent Unintentional 8 3 32 112 287 320 911 1,673 93.31 $42,805 $120,835,585 Self-Inflicted 0 0 0 1 0 1 0 2 0.11 $81,815 $163,629 Assault 0 0 0 5 4 0 3 12 0.67 $31,692 $602,061 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 1 4 19 33 37 7 5 106 5.91 $26,809 $4,177,188 Outcome Fatal 0 1 0 1 3 4 31 40 2.23 $61,169 $3,878,815 Nonfatal 9 6 51 150 325 324 888 1,753 97.77 $41,518 $121,899,647 Payor Uninsured 1 0 6 9 12 1 2 31 1.73 $36,926 $2,311,801 Medicare 0 0 0 19 95 295 885 1,294 72.17 $41,641 $77,653,823 Medicaid 7 5 14 52 67 1 1 147 8.20 $40,838 $12,923,538 Blue Cross 0 1 11 26 74 8 3 123 6.86 $41,518 $10,767,899 Commercial 1 1 20 41 71 14 15 163 9.09 $44,405 $19,364,102 Government 0 0 0 3 3 9 13 28 1.56 $40,993 $1,501,819 Other/Unknown 0 0 0 1 0 0 0 1 0.06 $691,151 $691,151 Payor Missing 0 0 0 0 6 0 0 6 0.33 $52,044 $564,329 Overall Total 9 7 51 151 328 328 919 1,793 100.00 $41,822 $125,778,462 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Fulton County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 0 1 4 9 12 23 91 140 100.00 $41,490 $10,444,096 Gender Male 0 1 1 3 7 11 48 71 50.71 $39,267 $5,954,377 Female 0 0 3 6 5 12 43 69 49.29 $44,545 $4,489,718 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 0 1 4 8 9 20 89 131 93.57 $40,458 $9,427,028 Black 0 0 0 0 0 1 0 1 0.71 $271,043 $271,043 Asian/Pac. Isl. 0 0 0 0 0 0 0 0 0.00 0 0 Native Am./Esk. 0 0 0 0 0 0 0 0 0.00 0 0 Other 0 0 0 0 0 0 0 0 0.00 0 0 Unknown 0 0 0 1 3 2 2 8 5.71 $67,598 $746,026 Mechanism Bites and stings 0 0 0 0 0 0 0 0 0.00 0 0 Cut/pierce 0 0 0 0 0 1 0 1 0.71 $61,221 $61,221 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 0 0 0 1 6 16 79 102 72.86 $42,020 $6,362,017 Fire/flame 0 1 0 0 0 0 1 2 1.43 $82,387 $164,775 Firearm 0 0 0 0 0 0 0 0 0.00 0 0 Hot object/substance 0 0 0 0 0 0 0 0 0.00 0 0 Machinery 0 0 0 0 0 2 0 2 1.43 $806,263 $1,612,527 MVT Occupant 0 0 1 3 0 0 4 8 5.71 $59,621 $826,603 MVT Motorcyclist 0 0 1 1 0 0 0 2 1.43 $119,903 $239,806 MVT Pedalcyclist 0 0 0 0 0 0 0 0 0.00 0 0 MVT Pedestrian 0 0 0 0 0 0 0 0 0.00 0 0 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 0 0 0 0 0 0 0 0.00 0 0 Other specified and classifiable 0 0 0 0 0 0 0 0 0.00 0 0 Other specified, NEC 0 0 0 0 1 0 0 1 0.71 $78,185 $78,185 Overexertion 0 0 0 0 0 0 2 2 1.43 $12,160 $24,319 Pedal cyclist, other 0 0 0 0 0 0 0 0 0.00 0 0 Pedestrian, other 0 0 0 0 0 0 0 0 0.00 0 0 Poisoning 0 0 2 3 1 1 0 7 5.00 $64,947 $667,684 Struck by/against 0 0 0 1 0 0 1 2 1.43 $27,243 $54,486 Suffocation 0 0 0 0 0 0 0 0 0.00 0 0 Transport, other 0 0 0 0 0 0 0 0 0.00 0 0 Unspecified 0 0 0 0 4 3 4 11 7.86 $21,374 $352,472 Intent Unintentional 0 1 2 6 10 23 91 133 95.00 $40,458 $9,714,621 Self-Inflicted 0 0 0 0 1 0 0 1 0.71 $78,185 $78,185 Assault 0 0 0 0 0 0 0 0 0.00 0 0 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 0 0 2 3 1 0 0 6 4.29 $72,310 $651,290 Outcome Fatal 0 0 0 0 1 0 1 2 1.43 $108,190 $216,381 Nonfatal 0 1 4 9 11 23 90 138 98.57 $41,149 $10,227,715 Payor Uninsured 0 0 0 0 0 0 0 0 0.00 0 0 Medicare 0 0 0 1 4 18 87 110 78.57 $40,635 $6,613,388 Medicaid 0 1 1 6 4 0 0 12 8.57 $71,566 $1,116,079 Blue Cross 0 0 1 0 2 3 0 6 4.29 $125,459 $2,129,246 Commercial 0 0 2 2 1 1 3 9 6.43 $17,493 $503,599 Government 0 0 0 0 1 1 1 3 2.14 $16,753 $81,783 Other/Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Payor Missing 0 0 0 0 0 0 0 0 0.00 0 0 Overall Total 0 1 4 9 12 23 91 140 100.00 $41,490 $10,444,096 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Greene County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 1 1 3 27 37 42 61 172 100.00 $27,156 $11,776,854 Gender Male 1 1 3 14 22 18 20 79 45.93 $30,746 $6,781,967 Female 0 0 0 13 15 24 41 93 54.07 $26,622 $4,994,887 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 1 1 3 24 34 41 61 165 95.93 $25,830 $10,354,925 Black 0 0 0 1 0 1 0 2 1.16 $211,914 $423,829 Asian/Pac. Isl. 0 0 0 0 0 0 0 0 0.00 0 0 Native Am./Esk. 0 0 0 0 0 0 0 0 0.00 0 0 Other 0 0 0 0 0 0 0 0 0.00 0 0 Unknown 0 0 0 2 3 0 0 5 2.91 $83,942 $998,100 Mechanism Bites and stings 0 0 0 0 0 1 0 1 0.58 $9,603 $9,603 Cut/pierce 0 0 0 2 1 1 0 4 2.33 $106,324 $521,853 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 0 1 0 4 17 29 46 97 56.40 $31,562 $6,778,531 Fire/flame 0 0 0 1 1 0 0 2 1.16 $52,637 $105,274 Firearm 0 0 0 0 0 0 0 0 0.00 0 0 Hot object/substance 0 0 0 0 0 0 0 0 0.00 0 0 Machinery 0 0 0 0 0 0 0 0 0.00 0 0 MVT Occupant 0 0 1 1 1 1 1 5 2.91 $79,084 $395,698 MVT Motorcyclist 0 0 0 0 0 0 0 0 0.00 0 0 MVT Pedalcyclist 0 0 0 0 0 0 0 0 0.00 0 0 MVT Pedestrian 0 0 0 0 0 0 0 0 0.00 0 0 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 0 0 0 0 0 0 0 0.00 0 0 Other specified and classifiable 0 0 0 1 0 1 0 2 1.16 $383,610 $767,220 Other specified, NEC 0 0 0 1 0 0 0 1 0.58 $391,636 $391,636 Overexertion 0 0 0 0 0 1 0 1 0.58 $34,376 $34,376 Pedal cyclist, other 0 0 0 0 0 0 0 0 0.00 0 0 Pedestrian, other 0 0 0 0 0 0 0 0 0.00 0 0 Poisoning 0 0 1 8 7 1 0 17 9.88 $7,765 $174,171 Struck by/against 0 0 1 2 0 1 2 6 3.49 $16,923 $104,110 Suffocation 0 0 0 0 0 0 1 1 0.58 $53,811 $53,811 Transport, other 0 0 0 0 0 0 0 0 0.00 0 0 Unspecified 1 0 0 7 10 6 11 35 20.35 $32,193 $2,440,570 Intent Unintentional 1 1 2 15 30 41 61 151 87.79 $32,193 $10,702,121 Self-Inflicted 0 0 0 2 1 0 0 3 1.74 $199,037 $508,243 Assault 0 0 0 2 0 0 0 2 1.16 $200,250 $400,501 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 0 0 1 8 6 1 0 16 9.30 $7,048 $165,989 Outcome Fatal 0 0 0 0 0 2 2 4 2.33 $49,911 $800,645 Nonfatal 1 1 3 27 37 40 59 168 97.67 $26,876 $10,976,209 Payor Uninsured 0 0 1 1 3 0 0 5 2.91 $6,229 $103,214 Medicare 0 0 0 3 9 36 54 102 59.30 $31,285 $6,748,732 Medicaid 1 1 1 15 15 1 0 34 19.77 $32,684 $2,751,110 Blue Cross 0 0 0 3 1 3 1 8 4.65 $92,097 $1,541,102 Commercial 0 0 1 4 8 2 5 20 11.63 $14,624 $596,242 Government 0 0 0 0 1 0 1 2 1.16 $11,229 $22,458 Other/Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Payor Missing 0 0 0 1 0 0 0 1 0.58 $13,996 $13,996 Overall Total 1 1 3 27 37 42 61 172 100.00 $27,156 $11,776,854 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Huntingdon County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 1 7 21 53 98 107 226 513 100.00 $33,388 $32,753,836 Gender Male 1 3 13 32 56 42 98 245 47.76 $35,856 $16,825,226 Female 0 4 8 21 42 65 128 268 52.24 $32,027 $15,928,610 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 1 6 17 47 91 105 222 489 95.32 $32,896 $31,002,103 Black 0 1 0 3 4 2 2 12 2.34 $31,927 $984,610 Asian/Pac. Isl. 0 0 0 0 0 0 0 0 0.00 0 0 Native Am./Esk. 0 0 0 1 0 0 0 1 0.19 $18,400 $18,400 Other 0 0 2 0 0 0 1 3 0.58 $7,762 $58,829 Unknown 0 0 2 2 3 0 1 8 1.56 $61,580 $689,895 Mechanism Bites and stings 0 0 2 4 3 3 6 18 3.51 $18,846 $443,370 Cut/pierce 0 2 3 4 1 2 3 15 2.92 $16,536 $734,888 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 1 1 1 16 50 76 171 316 61.60 $32,784 $19,754,433 Fire/flame 0 0 0 1 0 1 1 3 0.58 $37,689 $121,634 Firearm 0 0 0 0 3 0 0 3 0.58 $55,330 $301,165 Hot object/substance 0 0 0 0 0 0 0 0 0.00 0 0 Machinery 0 0 0 0 0 0 0 0 0.00 0 0 MVT Occupant 0 0 3 5 7 8 5 28 5.46 $57,242 $4,221,222 MVT Motorcyclist 0 0 2 0 3 1 0 6 1.17 $39,073 $426,618 MVT Pedalcyclist 0 0 0 0 1 0 0 1 0.19 $17,810 $17,810 MVT Pedestrian 0 0 0 0 0 2 0 2 0.39 $16,019 $32,038 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 0 0 2 0 0 1 3 0.58 $43,305 $416,359 Other specified and classifiable 0 0 0 0 0 0 2 2 0.39 $41,183 $82,366 Other specified, NEC 0 0 0 1 0 0 0 1 0.19 $17,047 $17,047 Overexertion 0 0 0 0 4 1 4 9 1.75 $22,788 $438,193 Pedal cyclist, other 0 1 0 0 0 0 0 1 0.19 $42,049 $42,049 Pedestrian, other 0 0 0 0 0 0 0 0 0.00 0 0 Poisoning 0 2 7 8 11 3 5 36 7.02 $23,229 $1,664,763 Struck by/against 0 1 1 2 4 0 9 17 3.31 $55,038 $1,155,561 Suffocation 0 0 0 0 2 0 0 2 0.39 $42,889 $85,778 Transport, other 0 0 0 0 0 0 0 0 0.00 0 0 Unspecified 0 0 2 10 9 10 19 50 9.75 $41,065 $2,798,543 Intent Unintentional 1 3 13 38 87 105 220 467 91.03 $34,911 $30,801,057 Self-Inflicted 0 2 3 6 0 0 0 11 2.14 $15,870 $211,807 Assault 0 0 0 2 1 0 1 4 0.78 $99,234 $361,214 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 0 2 5 7 10 2 5 31 6.04 $23,158 $1,379,758 Outcome Fatal 0 0 0 0 2 5 12 19 3.70 $91,159 $2,679,170 Nonfatal 1 7 21 53 96 102 214 494 96.30 $32,283 $30,074,666 Payor Uninsured 0 1 2 2 2 0 0 7 1.36 $44,018 $486,329 Medicare 0 0 0 8 27 93 196 324 63.16 $32,253 $17,887,067 Medicaid 1 4 5 22 26 1 2 61 11.89 $36,464 $4,759,639 Blue Cross 0 0 4 4 15 0 3 26 5.07 $37,004 $1,388,447 Commercial 0 2 10 15 26 9 15 77 15.01 $38,988 $6,470,881 Government 0 0 0 1 1 1 10 13 2.53 $17,851 $234,958 Other/Unknown 0 0 0 1 1 3 0 5 0.97 $63,772 $1,526,515 Payor Missing 0 0 0 0 0 0 0 0 0.00 0 0 Overall Total 1 7 21 53 98 107 226 513 100.00 $33,388 $32,753,836 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Indiana County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 6 20 38 72 213 255 548 1,152 100.00 $36,112 $79,773,847 Gender Male 3 11 24 53 132 128 224 575 49.91 $37,043 $46,348,216 Female 3 9 14 19 81 127 324 577 50.09 $35,226 $33,425,631 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 6 19 34 62 206 250 539 1,116 96.88 $36,134 $77,752,497 Black 0 0 2 9 6 2 4 23 2.00 $26,837 $912,331 Asian/Pac. Isl. 0 0 0 0 0 0 1 1 0.09 $32,056 $32,056 Native Am./Esk. 0 0 0 0 0 0 0 0 0.00 0 0 Other 0 0 2 0 0 1 1 4 0.35 $18,884 $213,502 Unknown 0 1 0 1 1 2 3 8 0.69 $69,198 $863,461 Mechanism Bites and stings 0 1 2 3 4 10 6 26 2.26 $25,581 $1,094,743 Cut/pierce 0 1 2 4 5 2 1 15 1.30 $48,734 $1,707,321 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 0 5 5 21 104 137 406 678 58.85 $37,725 $44,126,481 Fire/flame 0 2 1 1 3 2 2 11 0.95 $55,445 $1,202,373 Firearm 0 0 0 0 2 0 0 2 0.17 $81,050 $162,100 Hot object/substance 0 1 1 0 2 0 0 4 0.35 $174,721 $774,749 Machinery 0 0 1 0 1 1 0 3 0.26 $42,130 $112,819 MVT Occupant 0 1 7 8 11 6 12 45 3.91 $61,469 $5,776,693 MVT Motorcyclist 0 0 2 6 8 0 2 18 1.56 $58,792 $4,177,461 MVT Pedalcyclist 0 0 0 0 1 0 0 1 0.09 $55,155 $55,155 MVT Pedestrian 0 0 0 0 2 1 0 3 0.26 $67,080 $173,136 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 0 0 0 2 3 1 6 0.52 $21,156 $151,959 Other specified and classifiable 0 2 0 0 2 0 1 5 0.43 $49,391 $300,843 Other specified, NEC 0 0 0 1 0 0 1 2 0.17 $76,368 $152,737 Overexertion 0 0 0 1 0 2 6 9 0.78 $43,299 $662,361 Pedal cyclist, other 0 1 0 0 1 0 0 2 0.17 $61,698 $123,397 Pedestrian, other 0 0 0 0 0 1 1 2 0.17 $54,716 $109,432 Poisoning 4 4 10 14 16 16 6 70 6.08 $21,122 $4,121,651 Struck by/against 0 0 2 4 8 10 12 36 3.13 $35,056 $2,422,649 Suffocation 0 0 0 0 0 3 2 5 0.43 $46,564 $237,677 Transport, other 0 0 0 0 1 0 2 3 0.26 $220,803 $601,376 Unspecified 2 2 5 9 40 61 87 206 17.88 $31,039 $11,526,736 Intent Unintentional 2 15 28 54 194 240 541 1,074 93.23 $37,184 $75,892,591 Self-Inflicted 0 1 2 2 2 1 0 8 0.69 $38,792 $314,718 Assault 0 1 0 3 4 0 0 8 0.69 $109,734 $1,420,553 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 4 3 8 13 13 14 7 62 5.38 $20,260 $2,145,985 Outcome Fatal 0 2 0 1 8 4 22 37 3.21 $53,084 $4,622,823 Nonfatal 6 18 38 71 205 251 526 1,115 96.79 $35,631 $75,151,023 Payor Uninsured 0 0 2 8 4 3 1 18 1.56 $77,171 $2,089,116 Medicare 0 0 1 6 70 199 440 716 62.15 $34,416 $45,994,871 Medicaid 4 8 15 34 54 2 2 119 10.33 $37,209 $8,492,311 Blue Cross 1 2 7 3 29 11 42 95 8.25 $38,058 $6,631,855 Commercial 1 10 11 18 39 14 15 108 9.38 $45,792 $12,836,051 Government 0 0 0 3 2 7 11 23 2.00 $33,854 $962,894 Other/Unknown 0 0 2 0 15 19 37 73 6.34 $32,024 $2,766,748 Payor Missing 0 0 0 0 0 0 0 0 0.00 0 0 Overall Total 6 20 38 72 213 255 548 1,152 100.00 $36,112 $79,773,847 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Jefferson County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 3 5 20 40 82 115 259 524 100.00 $32,663 $33,863,999 Gender Male 0 3 11 24 51 51 114 254 48.47 $36,302 $19,728,391 Female 3 2 9 16 31 64 145 270 51.53 $31,429 $14,135,608 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 3 5 20 38 78 110 254 508 96.95 $32,266 $31,893,893 Black 0 0 0 1 0 0 0 1 0.19 $12,146 $12,146 Asian/Pac. Isl. 0 0 0 0 0 0 1 1 0.19 $41,318 $41,318 Native Am./Esk. 0 0 0 0 0 0 0 0 0.00 0 0 Other 0 0 0 0 1 0 2 3 0.57 $21,298 $89,544 Unknown 0 0 0 1 3 5 2 11 2.10 $73,578 $1,827,099 Mechanism Bites and stings 0 0 0 1 7 3 5 16 3.05 $34,048 $2,741,129 Cut/pierce 0 1 1 4 2 2 2 12 2.29 $43,607 $604,412 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 3 2 3 10 46 80 219 363 69.27 $32,039 $18,480,362 Fire/flame 0 1 0 1 2 1 0 5 0.95 $183,601 $749,686 Firearm 0 0 1 0 0 0 0 1 0.19 $91,440 $91,440 Hot object/substance 0 0 0 0 0 0 0 0 0.00 0 0 Machinery 0 0 0 0 0 1 1 2 0.38 $18,886 $37,772 MVT Occupant 0 0 2 5 6 4 3 20 3.82 $56,431 $1,844,293 MVT Motorcyclist 0 0 1 0 2 1 0 4 0.76 $63,002 $625,631 MVT Pedalcyclist 0 0 0 0 0 0 0 0 0.00 0 0 MVT Pedestrian 0 0 0 0 0 0 0 0 0.00 0 0 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 0 0 2 0 0 1 3 0.57 $30,130 $131,220 Other specified and classifiable 0 0 0 2 0 0 0 2 0.38 $88,505 $177,011 Other specified, NEC 0 0 0 0 0 0 0 0 0.00 0 0 Overexertion 0 0 0 0 0 0 0 0 0.00 0 0 Pedal cyclist, other 0 0 0 1 0 0 0 1 0.19 $39,589 $39,589 Pedestrian, other 0 0 0 0 0 0 0 0 0.00 0 0 Poisoning 0 0 4 5 1 5 4 19 3.63 $16,935 $801,334 Struck by/against 0 1 6 5 2 1 3 18 3.44 $25,242 $554,150 Suffocation 0 0 0 0 0 1 0 1 0.19 $648,033 $648,033 Transport, other 0 0 0 1 0 1 0 2 0.38 $222,657 $445,314 Unspecified 0 0 2 3 14 15 21 55 10.50 $42,288 $5,892,623 Intent Unintentional 3 4 14 31 78 110 255 495 94.47 $33,603 $32,690,955 Self-Inflicted 0 1 2 1 2 0 1 7 1.34 $41,310 $333,728 Assault 0 0 0 3 1 0 0 4 0.76 $20,622 $84,681 Undetermined 0 0 0 1 0 0 0 1 0.19 $11,423 $11,423 Other/Unknown 0 0 4 4 1 5 3 17 3.24 $16,535 $743,212 Outcome Fatal 0 0 2 1 1 4 15 23 4.39 $61,793 $2,303,660 Nonfatal 3 5 18 39 81 111 244 501 95.61 $32,299 $31,560,339 Payor Uninsured 0 0 3 2 3 0 0 8 1.53 $35,473 $309,306 Medicare 0 0 0 11 22 103 244 380 72.52 $32,013 $22,907,352 Medicaid 3 1 3 11 17 2 5 42 8.02 $39,376 $2,979,969 Blue Cross 0 1 3 3 24 3 0 34 6.49 $44,063 $3,442,964 Commercial 0 3 11 12 14 5 3 48 9.16 $37,287 $3,794,516 Government 0 0 0 1 2 2 7 12 2.29 $21,997 $429,893 Other/Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Payor Missing 0 0 0 0 0 0 0 0 0.00 0 0 Overall Total 3 5 20 40 82 115 259 524 100.00 $32,663 $33,863,999 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Juniata County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 2 3 7 21 36 53 120 242 100.00 $60,754 $28,524,397 Gender Male 2 1 5 9 21 26 48 112 46.28 $64,740 $17,547,117 Female 0 2 2 12 15 27 72 130 53.72 $58,411 $10,977,280 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 2 2 6 19 36 51 120 236 97.52 $61,008 $27,577,037 Black 0 0 0 0 0 0 0 0 0.00 0 0 Asian/Pac. Isl. 0 0 0 0 0 0 0 0 0.00 0 0 Native Am./Esk. 0 0 0 1 0 0 0 1 0.41 $26,904 $26,904 Other 0 1 0 1 0 1 0 3 1.24 $25,081 $78,057 Unknown 0 0 1 0 0 1 0 2 0.83 $421,199 $842,398 Mechanism Bites and stings 0 0 0 1 0 2 0 3 1.24 $15,357 $47,053 Cut/pierce 0 0 1 0 3 0 0 4 1.65 $50,866 $204,937 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 0 1 0 3 13 39 100 156 64.46 $62,002 $14,402,069 Fire/flame 1 0 1 0 2 1 0 5 2.07 $358,592 $3,587,554 Firearm 0 0 0 1 0 0 0 1 0.41 $248,475 $248,475 Hot object/substance 0 0 0 0 0 0 0 0 0.00 0 0 Machinery 0 0 0 0 0 0 1 1 0.41 $55,284 $55,284 MVT Occupant 0 2 1 3 4 1 3 14 5.79 $93,006 $2,205,483 MVT Motorcyclist 0 0 0 0 1 0 0 1 0.41 $54,009 $54,009 MVT Pedalcyclist 0 0 0 0 0 0 0 0 0.00 0 0 MVT Pedestrian 0 0 0 0 0 0 0 0 0.00 0 0 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 0 0 1 0 0 1 2 0.83 $106,232 $212,463 Other specified and classifiable 0 0 0 0 2 1 1 4 1.65 $75,547 $1,918,225 Other specified, NEC 0 0 0 0 0 0 0 0 0.00 0 0 Overexertion 0 0 0 0 0 1 0 1 0.41 $14,122 $14,122 Pedal cyclist, other 0 0 0 0 0 0 0 0 0.00 0 0 Pedestrian, other 0 0 0 0 0 0 0 0 0.00 0 0 Poisoning 0 0 1 9 3 2 0 15 6.20 $52,558 $1,385,660 Struck by/against 0 0 1 2 2 0 2 7 2.89 $33,740 $383,066 Suffocation 0 0 0 0 0 1 2 3 1.24 $58,353 $437,278 Transport, other 0 0 0 0 0 0 0 0 0.00 0 0 Unspecified 1 0 2 1 6 5 10 25 10.33 $61,085 $3,368,719 Intent Unintentional 2 3 5 11 32 51 120 224 92.56 $61,357 $27,062,920 Self-Inflicted 0 0 1 0 1 0 0 2 0.83 $28,902 $57,803 Assault 0 0 0 1 0 0 0 1 0.41 $18,014 $18,014 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 0 0 1 9 3 2 0 15 6.20 $52,558 $1,385,660 Outcome Fatal 0 0 0 1 1 4 3 9 3.72 $120,003 $1,376,826 Nonfatal 2 3 7 20 35 49 117 233 96.28 $60,499 $27,147,570 Payor Uninsured 0 0 0 3 3 0 1 7 2.89 $33,049 $457,894 Medicare 0 0 0 2 7 51 113 173 71.49 $60,931 $15,701,702 Medicaid 2 2 2 6 8 0 0 20 8.26 $60,512 $5,152,592 Blue Cross 0 0 1 3 7 0 0 11 4.55 $74,118 $1,837,096 Commercial 0 1 4 7 11 2 5 30 12.40 $66,535 $4,512,019 Government 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 0 0 0 0 0 0 1 1 0.41 $863,093 $863,093 Payor Missing 0 0 0 0 0 0 0 0 0.00 0 0 Overall Total 2 3 7 21 36 53 120 242 100.00 $60,754 $28,524,397 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Lackawanna County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 22 32 66 236 590 560 1,359 2,865 100.00 $93,941 $431,736,073 Gender Male 11 18 34 143 319 271 521 1,317 45.97 $100,192 $203,597,914 Female 11 13 31 92 271 288 838 1,544 53.89 $90,402 $227,551,503 Unknown 0 1 1 1 0 1 0 4 0.14 $155,779 $586,656 Race White 15 22 55 198 538 536 1,338 2,702 94.31 $95,112 $404,892,602 Black 5 6 6 21 33 13 6 90 3.14 $73,635 $12,380,652 Asian/Pac. Isl. 0 3 2 4 1 5 7 22 0.77 $61,718 $5,878,224 Native Am./Esk. 0 0 0 1 1 2 1 5 0.17 $60,965 $663,064 Other 0 1 2 1 4 1 2 11 0.38 $62,837 $795,873 Unknown 2 0 1 11 13 3 5 35 1.22 $120,994 $7,125,658 Mechanism Bites and stings 0 0 3 13 19 11 10 56 1.95 $38,775 $6,099,646 Cut/pierce 1 4 2 18 4 2 4 35 1.22 $66,895 $5,118,260 Drowning/submersion 2 0 0 0 0 0 0 2 0.07 $69,470 $138,939 Fall 5 8 18 67 337 421 1,144 2,000 69.81 $98,107 $282,803,021 Fire/flame 0 0 0 1 4 3 2 10 0.35 $232,247 $2,337,046 Firearm 0 0 0 4 1 1 0 6 0.21 $181,222 $2,344,872 Hot object/substance 5 3 0 1 8 2 1 20 0.70 $66,395 $5,374,657 Machinery 0 0 0 1 1 0 0 2 0.07 $67,413 $134,825 MVT Occupant 1 0 13 19 25 18 26 102 3.56 $95,754 $20,636,043 MVT Motorcyclist 0 0 4 9 13 1 2 29 1.01 $228,369 $10,593,650 MVT Pedalcyclist 0 3 1 1 3 1 0 9 0.31 $133,967 $1,234,800 MVT Pedestrian 1 3 0 2 3 3 3 15 0.52 $207,656 $4,430,449 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 1 0 0 1 0.03 $146,448 $146,448 Other natural and environmental factors 0 0 1 4 5 1 1 12 0.42 $64,788 $931,799 Other specified and classifiable 2 1 0 7 4 2 0 16 0.56 $88,788 $2,528,610 Other specified, NEC 0 0 0 1 1 0 2 4 0.14 $239,996 $992,302 Overexertion 0 0 0 3 5 4 7 19 0.66 $83,575 $1,936,493 Pedal cyclist, other 0 1 1 0 1 1 0 4 0.14 $102,372 $581,265 Pedestrian, other 0 0 1 0 0 0 0 1 0.03 $174,566 $174,566 Poisoning 3 4 14 48 59 18 9 155 5.41 $54,245 $16,210,500 Struck by/against 1 2 3 6 11 14 30 67 2.34 $63,963 $7,287,091 Suffocation 0 0 1 1 3 6 6 17 0.59 $395,044 $10,046,344 Transport, other 0 0 0 0 1 0 0 1 0.03 $47,203 $47,203 Unspecified 1 3 4 30 81 51 112 282 9.84 $80,857 $49,607,242 Intent Unintentional 16 23 49 174 520 539 1,349 2,670 93.19 $95,782 $406,568,005 Self-Inflicted 0 6 4 9 6 2 3 30 1.05 $85,948 $5,380,592 Assault 3 1 1 11 7 3 1 27 0.94 $82,011 $5,261,419 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 3 2 12 42 57 16 6 138 4.82 $53,361 $14,526,057 Outcome Fatal 1 0 2 8 12 14 50 87 3.04 $214,491 $41,353,328 Nonfatal 21 32 64 228 578 546 1,309 2,778 96.96 $92,338 $390,382,744 Payor Uninsured 0 0 4 16 9 2 0 31 1.08 $56,130 $2,443,522 Medicare 0 0 0 32 201 488 1,262 1,983 69.21 $97,091 $287,966,755 Medicaid 17 19 28 105 174 6 5 354 12.36 $90,117 $62,042,872 Blue Cross 3 9 10 36 99 21 8 186 6.49 $87,095 $29,742,630 Commercial 2 4 24 42 87 33 61 253 8.83 $95,797 $43,143,496 Government 0 0 0 1 0 1 2 4 0.14 $193,847 $847,788 Other/Unknown 0 0 0 4 19 7 16 46 1.61 $49,467 $4,536,818 Payor Missing 0 0 0 0 1 2 5 8 0.28 $44,927 $1,012,192 Overall Total 22 32 66 236 590 560 1,359 2,865 100.00 $93,941 $431,736,073 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Lancaster County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 43 52 179 465 821 994 2,396 4,950 100.00 $51,104 $388,791,580 Gender Male 22 33 110 309 455 487 942 2,358 47.64 $53,930 $205,928,975 Female 21 19 69 156 366 507 1,454 2,592 52.36 $48,460 $182,862,605 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 30 43 128 362 700 936 2,304 4,503 90.97 $51,164 $341,653,430 Black 9 2 16 35 39 20 26 147 2.97 $49,467 $13,307,276 Asian/Pac. Isl. 1 0 3 7 9 8 13 41 0.83 $45,847 $3,816,310 Native Am./Esk. 0 0 1 1 4 1 0 7 0.14 $61,443 $833,204 Other 2 6 24 44 57 21 32 186 3.76 $47,584 $16,937,989 Unknown 1 1 7 16 12 8 21 66 1.33 $78,916 $12,243,370 Mechanism Bites and stings 3 5 2 12 23 15 19 79 1.60 $30,148 $2,944,059 Cut/pierce 3 2 7 25 17 3 9 66 1.33 $43,421 $3,996,507 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 13 16 32 132 430 699 1,990 3,312 66.91 $52,228 $242,869,889 Fire/flame 0 4 1 6 5 6 4 26 0.53 $72,103 $7,268,757 Firearm 1 0 7 7 5 4 0 24 0.48 $108,603 $3,151,718 Hot object/substance 3 0 2 2 5 0 6 18 0.36 $72,471 $4,105,089 Machinery 1 0 1 5 2 1 2 12 0.24 $36,577 $962,269 MVT Occupant 0 2 25 37 51 42 68 225 4.55 $66,919 $24,777,396 MVT Motorcyclist 0 0 19 31 24 12 2 88 1.78 $87,471 $12,242,273 MVT Pedalcyclist 0 1 1 4 11 3 0 20 0.40 $37,169 $1,375,478 MVT Pedestrian 1 3 4 10 7 5 5 35 0.71 $81,577 $4,909,515 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 3 0 1 1 2 7 0.14 $39,275 $402,841 Other natural and environmental factors 3 1 3 7 9 7 13 43 0.87 $49,861 $3,746,915 Other specified and classifiable 1 0 7 11 4 4 1 28 0.57 $73,008 $5,242,288 Other specified, NEC 0 0 0 6 5 1 1 13 0.26 $35,478 $681,275 Overexertion 0 1 2 7 8 11 16 45 0.91 $34,094 $2,418,713 Pedal cyclist, other 0 0 1 2 7 11 5 26 0.53 $45,043 $1,484,433 Pedestrian, other 1 0 0 0 1 0 0 2 0.04 $17,537 $35,074 Poisoning 6 9 34 83 90 45 47 314 6.34 $35,094 $18,003,415 Struck by/against 3 7 11 17 28 20 48 134 2.71 $44,611 $8,830,723 Suffocation 1 0 2 1 6 9 13 32 0.65 $107,363 $6,865,300 Transport, other 0 0 0 0 2 0 1 3 0.06 $66,479 $278,527 Unspecified 3 1 15 60 80 95 144 398 8.04 $49,446 $32,199,125 Intent Unintentional 37 45 133 358 715 951 2,346 4,585 92.63 $52,115 $363,639,315 Self-Inflicted 0 0 5 9 10 4 2 30 0.61 $64,041 $3,744,642 Assault 0 0 8 22 16 3 4 53 1.07 $53,359 $4,389,410 Undetermined 0 0 0 1 0 0 0 1 0.02 $809,482 $809,482 Other/Unknown 6 7 33 75 80 36 44 281 5.68 $33,939 $16,208,731 Outcome Fatal 0 0 3 10 17 17 62 109 2.20 $79,616 $14,414,885 Nonfatal 43 52 176 455 804 977 2,334 4,841 97.80 $50,614 $374,376,694 Payor Uninsured 14 7 11 27 29 13 6 107 2.16 $51,629 $9,251,887 Medicare 0 0 2 36 238 843 2,208 3,327 67.21 $51,028 $240,215,290 Medicaid 15 19 68 179 187 8 6 482 9.74 $50,173 $43,834,557 Blue Cross 5 10 28 61 152 34 11 301 6.08 $45,040 $27,298,965 Commercial 7 13 57 124 178 69 82 530 10.71 $58,871 $51,172,009 Government 0 1 0 8 19 19 62 109 2.20 $57,192 $8,937,487 Other/Unknown 2 2 12 27 18 8 21 90 1.82 $46,357 $7,668,297 Payor Missing 0 0 1 3 0 0 0 4 0.08 $54,615 $413,086 Overall Total 43 52 179 465 821 994 2,396 4,950 100.00 $51,104 $388,791,580 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Lawrence County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 7 10 32 62 138 187 323 759 100.00 $40,513 $64,546,384 Gender Male 3 5 16 36 81 92 108 341 44.93 $46,264 $35,755,037 Female 4 5 16 26 57 95 215 418 55.07 $38,073 $28,791,347 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 7 7 26 51 131 168 302 692 91.17 $42,143 $60,903,447 Black 0 1 4 10 4 8 2 29 3.82 $46,264 $2,310,406 Asian/Pac. Isl. 0 0 0 0 0 1 0 1 0.13 $5,613 $5,613 Native Am./Esk. 0 0 0 0 0 0 0 0 0.00 0 0 Other 0 1 0 0 1 0 0 2 0.26 $23,355 $46,710 Unknown 0 1 2 1 2 10 19 35 4.61 $28,077 $1,280,208 Mechanism Bites and stings 0 0 1 2 1 1 2 7 0.92 $18,478 $131,200 Cut/pierce 1 2 2 2 1 1 1 10 1.32 $20,434 $647,126 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 3 1 5 9 68 147 272 505 66.53 $42,683 $40,594,700 Fire/flame 0 0 1 1 3 1 0 6 0.79 $92,000 $737,899 Firearm 0 0 0 2 1 0 1 4 0.53 $41,309 $308,677 Hot object/substance 0 0 0 1 3 2 0 6 0.79 $61,966 $474,128 Machinery 0 0 1 2 0 0 0 3 0.40 $255,132 $573,646 MVT Occupant 0 3 3 4 9 1 6 26 3.43 $92,470 $6,282,404 MVT Motorcyclist 0 0 0 3 1 1 0 5 0.66 $133,941 $1,191,405 MVT Pedalcyclist 0 0 0 0 0 0 1 1 0.13 $76,658 $76,658 MVT Pedestrian 0 0 0 0 1 0 0 1 0.13 $12,362 $12,362 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 1 1 0 0 0 0 1 3 0.40 $31,862 $315,943 Other specified and classifiable 1 0 1 2 1 0 0 5 0.66 $50,611 $426,675 Other specified, NEC 0 0 0 1 1 1 0 3 0.40 $46,795 $167,263 Overexertion 0 0 0 0 0 0 2 2 0.26 $317,252 $634,504 Pedal cyclist, other 0 1 0 0 1 0 0 2 0.26 $75,598 $151,196 Pedestrian, other 0 0 0 0 0 0 0 0 0.00 0 0 Poisoning 1 2 11 15 22 8 8 67 8.83 $18,950 $5,003,472 Struck by/against 0 0 4 2 3 4 7 20 2.64 $39,035 $1,106,974 Suffocation 0 0 0 0 0 1 1 2 0.26 $67,212 $134,424 Transport, other 0 0 0 0 0 1 0 1 0.13 $113,470 $113,470 Unspecified 0 0 3 16 22 18 21 80 10.54 $32,846 $5,462,256 Intent Unintentional 5 6 18 42 114 177 314 676 89.06 $42,780 $58,295,820 Self-Inflicted 0 2 2 2 3 0 1 10 1.32 $24,091 $636,600 Assault 1 0 1 3 1 1 0 7 0.92 $105,217 $720,797 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 1 2 11 15 20 9 8 66 8.70 $18,790 $4,893,167 Outcome Fatal 0 0 0 2 5 5 6 18 2.37 $64,017 $2,294,235 Nonfatal 7 10 32 60 133 182 317 741 97.63 $40,419 $62,252,148 Payor Uninsured 0 0 4 6 2 0 0 12 1.58 $20,595 $2,742,835 Medicare 1 0 0 6 39 175 309 530 69.83 $40,494 $41,322,861 Medicaid 5 6 16 34 39 1 0 101 13.31 $46,268 $11,899,524 Blue Cross 1 1 2 3 21 6 1 35 4.61 $60,626 $3,495,840 Commercial 0 3 8 11 35 4 7 68 8.96 $37,666 $4,541,483 Government 0 0 2 2 1 0 6 11 1.45 $37,643 $486,707 Other/Unknown 0 0 0 0 1 1 0 2 0.26 $28,567 $57,134 Payor Missing 0 0 0 0 0 0 0 0 0.00 0 0 Overall Total 7 10 32 62 138 187 323 759 100.00 $40,513 $64,546,384 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Lebanon County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 16 10 44 119 298 309 851 1,647 100.00 $53,530 $151,214,778 Gender Male 10 2 26 72 168 152 355 785 47.66 $52,933 $80,742,313 Female 6 8 18 47 130 157 496 862 52.34 $53,984 $70,472,465 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 10 3 28 74 239 266 799 1,419 86.16 $53,775 $128,425,531 Black 0 2 2 9 9 3 4 29 1.76 $44,729 $3,322,747 Asian/Pac. Isl. 0 0 0 0 2 3 3 8 0.49 $55,323 $770,036 Native Am./Esk. 0 0 0 0 1 0 0 1 0.06 $12,281 $12,281 Other 2 4 14 33 44 33 40 170 10.32 $51,840 $16,552,666 Unknown 4 1 0 3 3 4 5 20 1.21 $53,858 $2,131,517 Mechanism Bites and stings 1 0 0 6 5 4 4 20 1.21 $25,904 $873,031 Cut/pierce 1 1 2 4 9 5 1 23 1.40 $30,001 $1,497,498 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 2 1 7 33 156 231 747 1,177 71.46 $55,937 $101,777,047 Fire/flame 3 2 0 1 8 2 3 19 1.15 $55,595 $7,962,185 Firearm 0 0 2 3 1 0 0 6 0.36 $62,372 $535,642 Hot object/substance 2 0 1 4 4 1 1 13 0.79 $42,340 $772,284 Machinery 0 0 0 2 0 1 0 3 0.18 $8,240 $103,436 MVT Occupant 1 1 5 8 20 15 11 61 3.70 $54,378 $8,101,855 MVT Motorcyclist 0 0 8 7 4 0 0 19 1.15 $188,837 $5,394,427 MVT Pedalcyclist 0 0 0 3 1 0 0 4 0.24 $105,968 $836,993 MVT Pedestrian 0 0 2 1 2 2 0 7 0.43 $82,776 $1,456,522 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 1 0 0 0 4 4 4 13 0.79 $30,706 $862,663 Other specified and classifiable 1 0 0 3 3 2 4 13 0.79 $30,910 $621,012 Other specified, NEC 0 0 0 1 0 0 2 3 0.18 $45,968 $141,078 Overexertion 0 0 1 1 8 2 6 18 1.09 $59,004 $1,542,548 Pedal cyclist, other 0 0 0 0 0 1 0 1 0.06 $138,660 $138,660 Pedestrian, other 0 0 0 0 0 0 0 0 0.00 0 0 Poisoning 3 5 8 26 29 11 10 92 5.59 $37,502 $6,801,137 Struck by/against 0 0 6 3 7 8 13 37 2.25 $39,581 $2,082,007 Suffocation 0 0 0 0 2 0 1 3 0.18 $37,227 $231,023 Transport, other 0 0 0 0 0 0 0 0 0.00 0 0 Unspecified 1 0 2 13 35 20 44 115 6.98 $55,406 $9,483,730 Intent Unintentional 15 4 32 85 266 298 836 1,536 93.26 $54,958 $140,043,223 Self-Inflicted 0 2 4 4 4 2 1 17 1.03 $45,968 $4,200,445 Assault 0 0 2 5 3 0 3 13 0.79 $37,473 $1,101,324 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 1 4 6 25 25 9 11 81 4.92 $35,789 $5,869,786 Outcome Fatal 0 0 1 1 11 8 36 57 3.46 $90,544 $8,166,787 Nonfatal 16 10 43 118 287 301 815 1,590 96.54 $53,161 $143,047,992 Payor Uninsured 3 0 4 13 6 5 1 32 1.94 $41,957 $2,505,403 Medicare 0 0 2 7 109 264 780 1,162 70.55 $53,703 $93,808,811 Medicaid 11 8 16 44 66 3 4 152 9.23 $50,721 $16,370,473 Blue Cross 1 1 9 16 59 10 5 101 6.13 $55,029 $10,224,145 Commercial 1 1 11 32 46 12 16 119 7.23 $59,229 $18,421,393 Government 0 0 1 5 11 15 44 76 4.61 $56,670 $9,413,415 Other/Unknown 0 0 0 1 0 0 0 1 0.06 $14,911 $14,911 Payor Missing 0 0 1 1 1 0 1 4 0.24 $84,630 $456,227 Overall Total 16 10 44 119 298 309 851 1,647 100.00 $53,530 $151,214,778 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Lehigh County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 51 75 257 584 932 976 2,159 5,034 100.00 $80,352 $655,118,645 Gender Male 30 33 120 328 524 483 866 2,384 47.36 $85,835 $353,238,194 Female 21 42 137 256 407 493 1,293 2,649 52.62 $74,477 $301,829,440 Unknown 0 0 0 0 1 0 0 1 0.02 $51,011 $51,011 Race White 20 28 121 319 696 831 2,005 4,020 79.86 $82,086 $495,672,280 Black 5 7 28 77 72 44 33 266 5.28 $78,210 $49,324,708 Asian/Pac. Isl. 0 0 5 7 4 4 16 36 0.72 $51,667 $4,100,908 Native Am./Esk. 0 1 0 8 1 1 0 11 0.22 $103,027 $1,327,227 Other 15 30 68 91 67 52 49 372 7.39 $66,812 $56,485,467 Unknown 11 9 35 82 92 44 56 329 6.54 $77,844 $48,208,055 Mechanism Bites and stings 3 7 3 13 22 15 7 70 1.39 $39,531 $5,090,088 Cut/pierce 0 8 25 31 31 7 5 107 2.13 $84,429 $11,499,420 Drowning/submersion 1 0 1 1 0 0 1 4 0.08 $180,786 $1,094,186 Fall 22 19 24 132 450 693 1,822 3,162 62.81 $83,350 $393,046,318 Fire/flame 0 2 1 6 2 1 3 15 0.30 $85,077 $15,362,108 Firearm 0 0 4 21 2 1 0 28 0.56 $167,165 $5,961,317 Hot object/substance 5 0 0 4 7 4 1 21 0.42 $69,018 $1,726,899 Machinery 0 0 0 1 5 3 2 11 0.22 $61,470 $807,092 MVT Occupant 0 1 23 61 69 38 55 247 4.91 $104,144 $43,501,941 MVT Motorcyclist 0 0 12 25 16 1 3 57 1.13 $131,496 $8,397,834 MVT Pedalcyclist 0 1 5 0 7 0 0 13 0.26 $77,395 $1,976,217 MVT Pedestrian 1 2 3 10 10 8 3 37 0.74 $120,681 $6,338,425 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 2 0 4 10 14 7 12 49 0.97 $61,842 $5,114,516 Other specified and classifiable 1 0 2 7 4 7 1 22 0.44 $77,313 $4,513,652 Other specified, NEC 0 1 2 4 4 2 0 13 0.26 $133,589 $8,199,112 Overexertion 0 1 5 7 18 12 17 60 1.19 $51,438 $5,189,190 Pedal cyclist, other 0 2 2 0 8 4 2 18 0.36 $78,453 $1,509,226 Pedestrian, other 0 2 1 1 2 1 2 9 0.18 $105,908 $1,583,671 Poisoning 10 18 99 146 118 44 36 471 9.36 $52,328 $40,170,275 Struck by/against 0 5 24 40 33 23 39 164 3.26 $68,350 $18,757,366 Suffocation 2 0 1 0 5 8 7 23 0.46 $125,774 $6,108,601 Transport, other 0 0 0 0 1 0 0 1 0.02 $65,866 $65,866 Unspecified 4 6 16 64 104 97 141 432 8.58 $84,350 $69,105,325 Intent Unintentional 42 48 132 399 791 930 2,125 4,467 88.74 $83,300 $591,964,427 Self-Inflicted 0 7 16 25 16 2 4 70 1.39 $68,004 $10,741,485 Assault 1 2 19 34 25 8 1 90 1.79 $96,098 $18,885,636 Undetermined 0 0 0 1 0 0 0 1 0.02 $143,695 $143,695 Other/Unknown 8 18 90 125 100 36 29 406 8.07 $49,770 $33,383,401 Outcome Fatal 1 0 0 7 19 22 52 101 2.01 $171,144 $32,169,588 Nonfatal 50 75 257 577 913 954 2,107 4,933 97.99 $79,416 $622,949,057 Payor Uninsured 1 3 14 30 33 0 2 83 1.65 $68,058 $7,594,695 Medicare 0 1 0 77 297 831 2,029 3,235 64.26 $81,586 $389,563,649 Medicaid 34 38 98 248 239 21 20 698 13.87 $76,570 $108,949,693 Blue Cross 11 11 55 84 157 37 41 396 7.87 $73,356 $54,356,886 Commercial 5 20 80 126 185 73 50 539 10.71 $83,875 $85,889,274 Government 0 2 10 19 21 14 17 83 1.65 $78,352 $8,764,448 Other/Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Payor Missing 0 0 0 0 0 0 0 0 0.00 0 0 Overall Total 51 75 257 584 932 976 2,159 5,034 100.00 $80,352 $655,118,645 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Luzerne County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 53 53 114 369 752 775 1,665 3,781 100.00 $92,697 $516,910,583 Gender Male 34 29 71 244 416 367 650 1,811 47.90 $93,285 $262,860,002 Female 19 24 42 124 336 408 1,015 1,968 52.05 $91,517 $253,443,830 Unknown 0 0 1 1 0 0 0 2 0.05 $303,376 $606,752 Race White 41 30 69 268 681 720 1,615 3,424 90.56 $92,860 $458,421,400 Black 4 13 14 28 27 22 9 117 3.09 $94,700 $19,628,434 Asian/Pac. Isl. 3 0 2 4 6 4 5 24 0.63 $78,733 $6,133,777 Native Am./Esk. 0 0 0 1 1 0 0 2 0.05 $172,342 $344,684 Other 3 7 20 41 21 13 20 125 3.31 $76,568 $15,392,341 Unknown 2 3 9 27 16 16 16 89 2.35 $98,943 $16,989,947 Mechanism Bites and stings 2 4 0 23 26 16 11 82 2.17 $50,145 $5,361,930 Cut/pierce 0 0 10 19 13 4 4 50 1.32 $84,736 $6,313,207 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 19 16 14 83 393 551 1,445 2,521 66.68 $95,392 $335,526,999 Fire/flame 0 0 1 3 6 7 4 21 0.56 $91,470 $3,553,574 Firearm 0 4 7 14 6 2 1 34 0.90 $137,388 $6,852,419 Hot object/substance 6 0 2 6 5 4 5 28 0.74 $95,369 $4,493,529 Machinery 0 0 1 1 2 1 3 8 0.21 $67,696 $974,966 MVT Occupant 0 0 21 45 46 40 24 176 4.65 $114,380 $33,092,341 MVT Motorcyclist 0 0 2 11 13 7 0 33 0.87 $121,453 $7,430,868 MVT Pedalcyclist 0 2 2 0 1 1 0 6 0.16 $128,414 $1,801,626 MVT Pedestrian 0 1 2 2 6 3 4 18 0.48 $184,334 $7,698,361 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 1 0 2 7 3 5 18 0.48 $67,496 $1,330,287 Other specified and classifiable 2 2 1 5 2 1 1 14 0.37 $96,405 $2,222,414 Other specified, NEC 1 1 2 4 0 0 0 8 0.21 $64,817 $607,525 Overexertion 0 0 0 6 7 5 13 31 0.82 $54,178 $2,783,119 Pedal cyclist, other 0 4 0 0 2 3 0 9 0.24 $89,002 $905,253 Pedestrian, other 0 1 0 1 3 1 0 6 0.16 $86,424 $1,924,947 Poisoning 9 11 35 82 89 43 19 288 7.62 $58,998 $28,803,101 Struck by/against 3 5 6 16 19 15 25 89 2.35 $84,713 $10,858,842 Suffocation 0 0 0 1 8 2 8 19 0.50 $190,186 $5,080,846 Transport, other 0 0 0 1 1 1 0 3 0.08 $128,704 $356,256 Unspecified 11 1 8 44 97 65 93 319 8.44 $97,247 $48,938,173 Intent Unintentional 41 36 61 265 652 737 1,647 3,439 90.95 $94,971 $482,785,181 Self-Inflicted 0 4 11 15 4 5 0 39 1.03 $103,065 $6,605,872 Assault 4 2 9 19 18 2 3 57 1.51 $98,939 $7,486,840 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 8 11 33 70 78 31 15 246 6.51 $54,171 $20,032,690 Outcome Fatal 0 1 2 6 12 16 54 91 2.41 $163,256 $21,986,390 Nonfatal 53 52 112 363 740 759 1,611 3,690 97.59 $91,276 $494,924,193 Payor Uninsured 1 2 9 31 19 2 0 64 1.69 $70,579 $6,072,138 Medicare 0 0 5 27 235 659 1,563 2,489 65.83 $95,292 $327,814,349 Medicaid 43 33 54 181 223 9 10 553 14.63 $80,461 $74,003,720 Blue Cross 2 9 14 39 93 26 6 189 5.00 $86,147 $25,609,283 Commercial 6 9 32 79 154 69 69 418 11.06 $103,761 $75,032,369 Government 1 0 0 3 7 2 7 20 0.53 $107,741 $3,099,789 Other/Unknown 0 0 0 8 15 7 10 40 1.06 $61,266 $3,614,912 Payor Missing 0 0 0 1 6 1 0 8 0.21 $166,061 $1,664,022 Overall Total 53 53 114 369 752 775 1,665 3,781 100.00 $92,697 $516,910,583 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Lycoming County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 20 22 61 119 246 282 670 1,420 100.00 $60,351 $126,571,121 Gender Male 14 11 33 67 120 149 287 681 47.96 $59,863 $66,185,711 Female 6 11 28 52 126 133 383 739 52.04 $61,727 $60,385,410 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 16 18 47 101 213 265 660 1,320 92.96 $60,204 $115,467,062 Black 3 3 11 15 26 11 1 70 4.93 $60,094 $7,679,318 Asian/Pac. Isl. 0 0 0 1 0 0 0 1 0.07 $236,255 $236,255 Native Am./Esk. 0 0 0 0 0 0 0 0 0.00 0 0 Other 0 1 0 0 0 0 2 3 0.21 $77,397 $224,237 Unknown 1 0 3 2 7 6 7 26 1.83 $74,906 $2,964,248 Mechanism Bites and stings 1 0 0 4 7 5 8 25 1.76 $29,138 $836,344 Cut/pierce 0 0 5 6 1 5 4 21 1.48 $25,605 $1,265,892 Drowning/submersion 1 0 0 0 0 0 0 1 0.07 $31,766 $31,766 Fall 8 11 11 24 125 212 586 977 68.80 $65,669 $85,344,275 Fire/flame 0 0 0 0 4 2 1 7 0.49 $53,148 $944,737 Firearm 0 0 2 2 0 1 1 6 0.42 $78,277 $976,657 Hot object/substance 1 0 1 0 5 1 1 9 0.63 $28,908 $923,014 Machinery 0 0 0 2 0 2 2 6 0.42 $126,484 $772,081 MVT Occupant 1 2 9 9 15 5 12 53 3.73 $89,299 $6,609,746 MVT Motorcyclist 0 0 5 3 7 3 0 18 1.27 $81,040 $1,997,989 MVT Pedalcyclist 0 0 0 1 1 0 1 3 0.21 $111,853 $482,039 MVT Pedestrian 0 1 0 3 0 1 0 5 0.35 $225,252 $1,658,597 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 1 0 0 2 0 0 1 4 0.28 $29,202 $160,873 Other specified and classifiable 2 0 0 0 0 0 0 2 0.14 $109,218 $218,435 Other specified, NEC 0 1 3 3 2 1 0 10 0.70 $80,699 $2,823,723 Overexertion 0 0 1 2 1 3 1 8 0.56 $46,192 $547,706 Pedal cyclist, other 0 0 0 2 0 0 0 2 0.14 $46,145 $92,289 Pedestrian, other 0 0 0 1 0 0 0 1 0.07 $263,358 $263,358 Poisoning 3 6 17 37 43 13 12 131 9.23 $32,438 $6,849,146 Struck by/against 0 0 1 2 7 7 10 27 1.90 $66,538 $3,160,046 Suffocation 0 0 0 0 0 0 3 3 0.21 $102,938 $756,372 Transport, other 0 0 1 1 1 2 2 7 0.49 $44,425 $379,860 Unspecified 2 1 5 15 27 19 25 94 6.62 $49,921 $9,476,174 Intent Unintentional 17 15 37 73 200 269 658 1,269 89.37 $64,696 $115,962,728 Self-Inflicted 0 0 11 9 2 1 0 23 1.62 $25,605 $2,285,682 Assault 1 1 1 2 3 0 2 10 0.70 $57,408 $1,457,557 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 2 6 12 35 41 12 10 118 8.31 $31,727 $6,865,154 Outcome Fatal 0 0 0 4 4 4 23 35 2.46 $128,420 $7,063,317 Nonfatal 20 22 61 115 242 278 647 1,385 97.54 $59,269 $119,507,804 Payor Uninsured 1 0 3 5 4 0 1 14 0.99 $34,207 $790,602 Medicare 0 0 1 13 79 237 626 956 67.32 $63,452 $82,881,037 Medicaid 15 12 26 57 83 3 0 196 13.80 $51,544 $18,074,793 Blue Cross 1 3 10 13 31 19 7 84 5.92 $71,480 $8,953,403 Commercial 3 7 21 28 48 22 35 164 11.55 $55,541 $14,803,429 Government 0 0 0 0 0 1 1 2 0.14 $55,069 $110,138 Other/Unknown 0 0 0 2 1 0 0 3 0.21 $55,763 $176,055 Payor Missing 0 0 0 1 0 0 0 1 0.07 $781,665 $781,665 Overall Total 20 22 61 119 246 282 670 1,420 100.00 $60,351 $126,571,121 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+McKean County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 1 3 12 36 42 56 109 259 100.00 $22,445 $14,309,628 Gender Male 1 1 10 15 26 28 38 119 45.95 $31,904 $8,037,198 Female 0 2 2 21 16 28 71 140 54.05 $18,922 $6,272,430 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 1 3 12 35 41 54 107 253 97.68 $22,445 $14,034,603 Black 0 0 0 0 1 0 1 2 0.77 $7,996 $15,992 Asian/Pac. Isl. 0 0 0 0 0 0 1 1 0.39 $29,047 $29,047 Native Am./Esk. 0 0 0 0 0 0 0 0 0.00 0 0 Other 0 0 0 1 0 1 0 2 0.77 $50,438 $100,876 Unknown 0 0 0 0 0 1 0 1 0.39 $129,110 $129,110 Mechanism Bites and stings 0 0 0 0 0 0 3 3 1.16 $10,873 $27,607 Cut/pierce 0 0 1 1 0 2 1 5 1.93 $51,486 $184,163 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 1 0 3 6 17 34 89 150 57.92 $32,629 $9,974,857 Fire/flame 0 0 0 0 0 3 0 3 1.16 $67,126 $375,169 Firearm 0 0 0 0 0 0 0 0 0.00 0 0 Hot object/substance 0 0 0 0 0 0 0 0 0.00 0 0 Machinery 0 0 0 0 0 0 0 0 0.00 0 0 MVT Occupant 0 0 0 1 1 1 1 4 1.54 $29,274 $113,879 MVT Motorcyclist 0 0 0 0 3 2 0 5 1.93 $142,162 $740,321 MVT Pedalcyclist 0 0 0 0 0 0 0 0 0.00 0 0 MVT Pedestrian 0 0 0 0 0 0 0 0 0.00 0 0 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 0 0 0 0 0 0 0 0.00 0 0 Other specified and classifiable 0 0 0 0 1 0 0 1 0.39 $98,726 $98,726 Other specified, NEC 0 0 3 1 0 0 0 4 1.54 $10,229 $59,028 Overexertion 0 0 1 0 0 1 0 2 0.77 $21,704 $43,408 Pedal cyclist, other 0 0 1 0 0 0 0 1 0.39 $171,459 $171,459 Pedestrian, other 0 0 0 0 0 0 0 0 0.00 0 0 Poisoning 0 1 1 10 4 3 0 19 7.34 $10,929 $542,754 Struck by/against 0 1 1 1 4 1 1 9 3.47 $19,706 $359,437 Suffocation 0 0 0 0 0 0 0 0 0.00 0 0 Transport, other 0 0 0 0 0 0 0 0 0.00 0 0 Unspecified 0 1 1 16 12 9 14 53 20.46 $11,219 $1,618,820 Intent Unintentional 1 2 8 30 34 53 109 237 91.51 $25,830 $13,569,414 Self-Inflicted 0 0 3 4 1 2 0 10 3.86 $10,229 $200,819 Assault 0 0 1 0 3 0 0 4 1.54 $12,209 $176,431 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 0 1 0 2 4 1 0 8 3.09 $12,111 $362,964 Outcome Fatal 0 0 0 0 0 1 1 2 0.77 $206,585 $413,170 Nonfatal 1 3 12 36 42 55 108 257 99.23 $22,094 $13,896,458 Payor Uninsured 0 0 0 6 1 0 0 7 2.70 $10,167 $656,916 Medicare 0 0 1 0 14 51 105 171 66.02 $25,830 $9,172,027 Medicaid 0 1 4 6 7 0 0 18 6.95 $37,782 $937,435 Blue Cross 1 1 0 7 7 3 1 20 7.72 $16,784 $1,770,473 Commercial 0 1 7 17 13 2 1 41 15.83 $16,171 $1,744,666 Government 0 0 0 0 0 0 2 2 0.77 $14,055 $28,110 Other/Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Payor Missing 0 0 0 0 0 0 0 0 0.00 0 0 Overall Total 1 3 12 36 42 56 109 259 100.00 $22,445 $14,309,628 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Mercer County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 9 11 32 85 214 237 474 1,062 100.00 $47,491 $99,449,635 Gender Male 5 4 18 49 108 121 175 480 45.20 $47,431 $50,656,354 Female 4 7 14 36 106 116 299 582 54.80 $47,491 $48,793,280 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 7 10 29 73 193 223 463 998 93.97 $47,193 $86,528,568 Black 2 1 3 12 17 10 9 54 5.08 $50,328 $11,866,883 Asian/Pac. Isl. 0 0 0 0 0 0 0 0 0.00 0 0 Native Am./Esk. 0 0 0 0 0 0 0 0 0.00 0 0 Other 0 0 0 0 1 2 2 5 0.47 $38,432 $389,873 Unknown 0 0 0 0 3 2 0 5 0.47 $96,156 $664,310 Mechanism Bites and stings 0 1 0 3 3 2 2 11 1.04 $25,032 $407,968 Cut/pierce 0 3 4 5 4 3 2 21 1.98 $22,114 $650,500 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 2 0 1 13 97 161 411 685 64.50 $54,769 $69,581,968 Fire/flame 0 0 0 0 4 0 0 4 0.38 $149,665 $1,082,657 Firearm 0 0 0 0 1 0 0 1 0.09 $189,700 $189,700 Hot object/substance 0 0 0 0 3 3 1 7 0.66 $59,149 $466,558 Machinery 0 0 0 0 1 0 0 1 0.09 $66,387 $66,387 MVT Occupant 0 0 3 7 7 3 7 27 2.54 $68,059 $3,082,370 MVT Motorcyclist 0 0 1 1 6 0 0 8 0.75 $68,003 $987,277 MVT Pedalcyclist 0 0 0 0 0 1 0 1 0.09 $144,724 $144,724 MVT Pedestrian 0 0 0 0 1 1 0 2 0.19 $55,506 $111,013 MVT Unspecified 0 0 0 0 0 0 1 1 0.09 $76,839 $76,839 MVT Other 0 0 0 0 1 0 0 1 0.09 $56,237 $56,237 Other natural and environmental factors 0 0 1 2 3 3 1 10 0.94 $30,984 $804,126 Other specified and classifiable 1 1 0 2 3 1 0 8 0.75 $47,521 $1,068,670 Other specified, NEC 1 0 1 1 1 1 1 6 0.56 $32,244 $227,038 Overexertion 0 0 1 1 4 0 1 7 0.66 $66,830 $381,102 Pedal cyclist, other 0 0 0 0 2 1 0 3 0.28 $59,473 $169,596 Pedestrian, other 0 0 0 0 1 0 0 1 0.09 $36,347 $36,347 Poisoning 2 4 18 34 33 13 4 108 10.17 $21,417 $3,897,964 Struck by/against 1 2 1 4 1 5 5 19 1.79 $38,564 $859,250 Suffocation 0 0 0 0 1 4 2 7 0.66 $188,108 $1,845,473 Transport, other 0 0 0 0 0 0 0 0 0.00 0 0 Unspecified 2 0 1 12 37 35 36 123 11.58 $45,137 $13,255,872 Intent Unintentional 5 2 11 44 176 221 467 926 87.19 $52,391 $94,060,117 Self-Inflicted 0 3 3 6 2 0 0 14 1.32 $16,503 $276,244 Assault 2 2 0 4 3 2 2 15 1.41 $52,698 $1,611,758 Undetermined 0 0 0 0 1 0 0 1 0.09 $94,034 $94,034 Other/Unknown 2 4 18 31 32 14 5 106 9.98 $20,254 $3,407,482 Outcome Fatal 0 0 0 4 3 4 16 27 2.54 $159,216 $11,354,920 Nonfatal 9 11 32 81 211 233 458 1,035 97.46 $46,897 $88,094,714 Payor Uninsured 0 0 1 6 7 1 0 15 1.41 $56,615 $1,809,781 Medicare 0 0 1 12 58 197 430 698 65.73 $48,692 $64,750,475 Medicaid 7 2 12 34 46 5 2 108 10.17 $48,687 $14,515,849 Blue Cross 0 1 5 9 24 5 1 45 4.24 $46,866 $2,973,617 Commercial 2 3 3 12 54 22 30 126 11.86 $55,446 $12,837,322 Government 0 5 10 8 8 2 6 39 3.67 $21,586 $1,477,153 Other/Unknown 0 0 0 4 17 5 5 31 2.92 $22,894 $1,085,436 Payor Missing 0 0 0 0 0 0 0 0 0.00 0 0 Overall Total 9 11 32 85 214 237 474 1,062 100.00 $47,491 $99,449,635 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Mifflin County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 5 8 18 54 120 114 287 606 100.00 $60,415 $67,460,132 Gender Male 2 7 9 24 63 45 112 262 43.23 $63,365 $36,773,277 Female 3 1 9 30 57 69 175 344 56.77 $59,958 $30,686,855 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 5 8 17 48 118 112 283 591 97.52 $60,734 $64,589,767 Black 0 0 0 3 1 1 1 6 0.99 $74,651 $2,206,122 Asian/Pac. Isl. 0 0 0 0 0 0 1 1 0.17 $48,220 $48,220 Native Am./Esk. 0 0 0 0 0 1 0 1 0.17 $36,032 $36,032 Other 0 0 0 1 0 0 0 1 0.17 $15,683 $15,683 Unknown 0 0 1 2 1 0 2 6 0.99 $47,925 $564,308 Mechanism Bites and stings 1 0 0 0 4 1 2 8 1.32 $47,596 $941,196 Cut/pierce 0 0 3 6 4 1 0 14 2.31 $26,862 $1,702,705 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 2 4 1 13 59 81 250 410 67.66 $65,194 $41,952,730 Fire/flame 0 0 0 1 1 0 0 2 0.33 $2,335,975 $4,671,949 Firearm 0 0 0 1 0 0 0 1 0.17 $69,672 $69,672 Hot object/substance 0 0 0 0 0 1 2 3 0.50 $121,374 $890,103 Machinery 0 0 0 0 0 0 0 0 0.00 0 0 MVT Occupant 0 0 5 6 6 5 3 25 4.13 $70,216 $3,880,652 MVT Motorcyclist 0 0 1 2 1 1 0 5 0.83 $79,504 $618,265 MVT Pedalcyclist 0 0 0 0 1 0 0 1 0.17 $41,620 $41,620 MVT Pedestrian 0 0 0 0 1 0 0 1 0.17 $705,227 $705,227 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 2 0 0 0 0 0 2 0.33 $45,374 $90,747 Other natural and environmental factors 1 0 0 0 1 1 2 5 0.83 $64,023 $523,265 Other specified and classifiable 0 0 0 1 0 1 0 2 0.33 $60,124 $120,249 Other specified, NEC 0 0 0 1 0 0 0 1 0.17 $15,683 $15,683 Overexertion 0 0 0 0 2 0 1 3 0.50 $407,814 $1,091,160 Pedal cyclist, other 0 0 0 0 0 0 0 0 0.00 0 0 Pedestrian, other 0 0 0 0 0 1 0 1 0.17 $231,505 $231,505 Poisoning 1 2 3 14 15 4 3 42 6.93 $37,806 $2,189,959 Struck by/against 0 0 1 1 5 1 8 16 2.64 $64,353 $1,342,580 Suffocation 0 0 2 0 0 2 2 6 0.99 $55,992 $402,207 Transport, other 0 0 0 0 0 0 0 0 0.00 0 0 Unspecified 0 0 2 8 20 14 14 58 9.57 $49,193 $5,978,657 Intent Unintentional 4 7 13 33 104 109 285 555 91.58 $64,023 $64,366,868 Self-Inflicted 0 0 2 5 0 1 0 8 1.32 $19,976 $591,696 Assault 0 0 0 2 3 0 0 5 0.83 $59,910 $475,214 Undetermined 0 0 0 1 0 0 0 1 0.17 $83,359 $83,359 Other/Unknown 1 1 3 13 13 4 2 37 6.11 $38,548 $1,942,994 Outcome Fatal 0 0 0 0 1 3 18 22 3.63 $76,648 $3,481,915 Nonfatal 5 8 18 54 119 111 269 584 96.37 $59,958 $63,978,217 Payor Uninsured 2 3 1 3 4 2 2 17 2.81 $53,197 $1,354,437 Medicare 0 0 3 16 50 98 263 430 70.96 $62,285 $45,037,383 Medicaid 3 3 7 21 33 0 0 67 11.06 $57,549 $8,289,255 Blue Cross 0 0 3 6 10 2 2 23 3.80 $86,533 $4,796,332 Commercial 0 2 4 8 23 11 19 67 11.06 $54,884 $7,873,969 Government 0 0 0 0 0 0 1 1 0.17 $72,290 $72,290 Other/Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Payor Missing 0 0 0 0 0 1 0 1 0.17 $36,466 $36,466 Overall Total 5 8 18 54 120 114 287 606 100.00 $60,415 $67,460,132 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Monroe County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 15 25 104 190 409 508 760 2,011 100.00 $88,199 $278,144,406 Gender Male 7 12 45 126 215 269 316 990 49.23 $89,996 $149,680,072 Female 8 13 59 64 194 239 444 1,021 50.77 $86,114 $128,464,334 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 8 19 68 135 328 435 693 1,686 83.84 $89,433 $231,552,840 Black 1 3 22 34 60 52 37 209 10.39 $86,916 $31,099,188 Asian/Pac. Isl. 0 0 0 0 0 2 3 5 0.25 $164,620 $764,009 Native Am./Esk. 0 0 0 1 0 0 3 4 0.20 $63,721 $299,448 Other 4 2 7 6 5 6 10 40 1.99 $90,434 $5,305,998 Unknown 2 1 7 14 16 13 14 67 3.33 $60,963 $9,122,923 Mechanism Bites and stings 1 1 2 3 9 10 7 33 1.64 $72,329 $2,963,979 Cut/pierce 0 2 11 11 9 4 0 37 1.84 $58,737 $5,647,293 Drowning/submersion 0 0 0 0 0 1 0 1 0.05 $74,481 $74,481 Fall 10 5 11 52 195 364 623 1,260 62.66 $92,080 $165,668,599 Fire/flame 0 0 3 3 3 6 1 16 0.80 $93,928 $2,908,733 Firearm 0 0 4 2 1 1 0 8 0.40 $217,074 $3,031,372 Hot object/substance 1 0 0 4 5 1 1 12 0.60 $155,574 $3,137,861 Machinery 0 0 0 3 1 5 0 9 0.45 $113,201 $1,427,156 MVT Occupant 1 3 15 22 41 12 24 118 5.87 $79,949 $17,928,603 MVT Motorcyclist 0 0 8 11 9 2 0 30 1.49 $172,556 $12,528,003 MVT Pedalcyclist 0 1 1 0 0 0 0 2 0.10 $215,791 $431,582 MVT Pedestrian 1 1 2 4 2 1 1 12 0.60 $128,405 $2,309,487 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 0 0 1 4 3 5 13 0.65 $101,395 $1,193,103 Other specified and classifiable 0 1 1 3 1 2 0 8 0.40 $116,028 $1,182,011 Other specified, NEC 0 0 1 0 1 0 0 2 0.10 $66,328 $132,655 Overexertion 0 0 0 2 6 9 6 23 1.14 $52,808 $1,570,253 Pedal cyclist, other 0 1 0 0 0 1 0 2 0.10 $47,448 $94,896 Pedestrian, other 0 0 0 0 3 1 1 5 0.25 $74,281 $455,253 Poisoning 0 8 29 38 42 15 14 146 7.26 $58,508 $13,257,902 Struck by/against 0 1 8 12 17 12 19 69 3.43 $80,380 $10,172,121 Suffocation 0 0 0 0 2 1 2 5 0.25 $108,680 $671,786 Transport, other 0 0 0 0 0 0 0 0 0.00 0 0 Unspecified 1 1 8 19 58 57 56 200 9.95 $96,793 $31,357,275 Intent Unintentional 15 15 61 135 357 484 746 1,813 90.15 $91,712 $256,913,783 Self-Inflicted 0 1 10 8 6 2 0 27 1.34 $91,331 $3,990,512 Assault 0 1 7 11 9 8 2 38 1.89 $76,360 $5,628,909 Undetermined 0 0 0 0 0 0 1 1 0.05 $433,097 $433,097 Other/Unknown 0 8 26 36 37 14 11 132 6.56 $58,427 $11,178,105 Outcome Fatal 0 0 0 5 10 12 18 45 2.24 $109,704 $8,520,056 Nonfatal 15 25 104 185 399 496 742 1,966 97.76 $87,594 $269,624,350 Payor Uninsured 1 0 5 14 11 1 0 32 1.59 $85,423 $3,877,722 Medicare 0 0 0 13 123 427 677 1,240 61.66 $92,175 $165,659,379 Medicaid 6 11 28 72 92 1 5 215 10.69 $72,329 $31,368,862 Blue Cross 4 2 22 20 59 44 23 174 8.65 $75,462 $25,022,581 Commercial 3 11 47 57 117 28 30 293 14.57 $90,172 $45,202,027 Government 1 1 2 13 6 7 25 55 2.73 $89,366 $6,748,253 Other/Unknown 0 0 0 0 1 0 0 1 0.05 $48,751 $48,751 Payor Missing 0 0 0 1 0 0 0 1 0.05 $216,831 $216,831 Overall Total 15 25 104 190 409 508 760 2,011 100.00 $88,199 $278,144,406 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Montgomery County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 46 71 233 892 1,648 1,756 4,924 9,570 100.00 $53,681 $807,768,918 Gender Male 33 42 115 548 894 824 1,893 4,349 45.44 $55,122 $392,285,877 Female 13 29 116 343 754 932 3,030 5,217 54.51 $52,713 $414,716,469 Unknown 0 0 2 1 0 0 1 4 0.04 $224,128 $766,571 Race White 18 35 134 578 1,237 1,475 4,438 7,915 82.71 $53,704 $636,700,860 Black 17 19 55 163 260 154 250 918 9.59 $57,482 $98,174,779 Asian/Pac. Isl. 2 2 6 29 33 37 82 191 2.00 $53,322 $22,975,102 Native Am./Esk. 0 0 0 0 6 3 12 21 0.22 $43,758 $1,650,002 Other 6 10 29 91 77 44 68 325 3.40 $48,593 $28,318,944 Unknown 3 5 9 31 35 43 74 200 2.09 $51,811 $19,949,231 Mechanism Bites and stings 2 2 2 12 32 22 18 90 0.94 $30,665 $4,464,196 Cut/pierce 0 0 11 44 49 15 9 128 1.34 $37,620 $7,399,285 Drowning/submersion 0 1 0 0 0 0 0 1 0.01 $1,244,778 $1,244,778 Fall 14 24 38 214 751 1,244 4,137 6,422 67.11 $55,515 $506,891,036 Fire/flame 0 2 2 8 12 5 5 34 0.36 $57,458 $3,430,445 Firearm 1 2 11 19 13 3 3 52 0.54 $79,507 $7,736,023 Hot object/substance 5 1 3 11 8 6 5 39 0.41 $68,898 $5,111,844 Machinery 0 1 1 4 4 2 2 14 0.15 $36,556 $1,015,833 MVT Occupant 2 1 32 58 106 57 88 344 3.59 $55,408 $37,972,531 MVT Motorcyclist 0 3 14 42 25 11 5 100 1.04 $68,096 $15,694,228 MVT Pedalcyclist 0 1 0 1 11 9 4 26 0.27 $48,619 $1,641,539 MVT Pedestrian 1 4 4 18 8 11 13 59 0.62 $98,761 $24,066,392 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 0 0 11 18 13 23 65 0.68 $43,030 $4,692,415 Other specified and classifiable 1 3 3 12 16 14 15 64 0.67 $46,003 $5,414,084 Other specified, NEC 1 0 2 8 8 2 2 23 0.24 $57,821 $2,011,673 Overexertion 0 0 1 10 24 10 24 69 0.72 $54,185 $5,283,369 Pedal cyclist, other 0 4 2 5 16 12 4 43 0.45 $50,270 $2,745,697 Pedestrian, other 0 3 4 0 5 2 5 19 0.20 $73,245 $2,224,245 Poisoning 5 9 61 221 237 85 52 670 7.00 $38,385 $40,798,078 Struck by/against 2 5 16 41 48 35 66 213 2.23 $49,782 $16,133,793 Suffocation 0 0 1 15 21 27 49 113 1.18 $100,706 $21,610,505 Transport, other 0 1 0 1 3 0 4 9 0.09 $86,598 $868,300 Unspecified 12 4 25 137 233 171 391 973 10.17 $56,362 $89,318,629 Intent Unintentional 41 61 149 607 1,379 1,653 4,862 8,752 91.45 $55,249 $753,534,163 Self-Inflicted 0 0 11 30 27 8 6 82 0.86 $46,828 $6,787,897 Assault 0 1 15 60 27 20 8 131 1.37 $53,155 $11,815,295 Undetermined 0 0 0 2 0 2 1 5 0.05 $56,162 $551,882 Other/Unknown 5 9 58 193 215 73 47 600 6.27 $37,033 $35,079,680 Outcome Fatal 3 2 1 15 27 37 144 229 2.39 $103,481 $38,453,408 Nonfatal 43 69 232 877 1,621 1,719 4,780 9,341 97.61 $53,155 $769,315,510 Payor Uninsured 6 2 11 88 55 15 26 203 2.12 $45,234 $13,081,043 Medicare 1 0 7 45 395 1,471 4,589 6,508 68.00 $54,955 $523,470,834 Medicaid 23 24 72 415 422 28 26 1,010 10.55 $52,632 $103,459,968 Blue Cross 8 27 75 151 354 112 92 819 8.56 $50,700 $70,327,183 Commercial 7 17 64 177 400 123 154 942 9.84 $50,750 $89,135,903 Government 1 1 2 12 17 5 24 62 0.65 $53,652 $5,544,515 Other/Unknown 0 0 1 3 2 0 9 15 0.16 $94,970 $2,111,139 Payor Missing 0 0 1 1 3 2 4 11 0.11 $46,793 $638,333 Overall Total 46 71 233 892 1,648 1,756 4,924 9,570 100.00 $53,681 $807,768,918 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Montour County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 1 4 20 27 43 49 135 279 100.00 $113,630 $47,967,566 Gender Male 1 2 10 16 21 22 51 123 44.09 $123,059 $24,615,571 Female 0 2 10 11 22 27 84 156 55.91 $102,687 $23,351,995 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 1 4 19 27 42 49 129 271 97.13 $114,155 $47,072,435 Black 0 0 1 0 0 0 0 1 0.36 $66,809 $66,809 Asian/Pac. Isl. 0 0 0 0 0 0 4 4 1.43 $90,981 $414,806 Native Am./Esk. 0 0 0 0 0 0 0 0 0.00 0 0 Other 0 0 0 0 0 0 0 0 0.00 0 0 Unknown 0 0 0 0 1 0 2 3 1.08 $107,276 $413,516 Mechanism Bites and stings 0 0 0 0 2 1 2 5 1.79 $55,080 $275,783 Cut/pierce 0 0 1 0 1 0 0 2 0.72 $36,622 $73,243 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 0 1 6 3 18 40 117 185 66.31 $117,721 $31,693,943 Fire/flame 0 0 1 1 0 0 0 2 0.72 $146,148 $292,297 Firearm 0 0 0 0 0 0 0 0 0.00 0 0 Hot object/substance 0 0 0 0 0 0 1 1 0.36 $67,382 $67,382 Machinery 0 0 0 0 0 0 0 0 0.00 0 0 MVT Occupant 0 1 2 3 5 1 2 14 5.02 $121,443 $2,683,852 MVT Motorcyclist 0 0 0 1 0 2 0 3 1.08 $563,240 $1,792,471 MVT Pedalcyclist 0 0 0 0 1 0 0 1 0.36 $95,659 $95,659 MVT Pedestrian 0 1 0 0 0 0 0 1 0.36 $128,883 $128,883 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 1 0 1 0.36 $76,623 $76,623 Other natural and environmental factors 0 0 0 0 0 1 2 3 1.08 $116,758 $464,919 Other specified and classifiable 1 0 0 0 1 1 0 3 1.08 $75,650 $643,570 Other specified, NEC 0 0 0 1 0 0 1 2 0.72 $68,601 $137,202 Overexertion 0 0 0 0 0 0 0 0 0.00 0 0 Pedal cyclist, other 0 0 1 1 0 0 1 3 1.08 $412,041 $1,625,858 Pedestrian, other 0 0 0 0 0 0 0 0 0.00 0 0 Poisoning 0 1 7 12 3 0 2 25 8.96 $42,062 $1,410,122 Struck by/against 0 0 1 3 4 0 4 12 4.30 $149,852 $1,846,495 Suffocation 0 0 0 0 2 0 1 3 1.08 $270,301 $827,120 Transport, other 0 0 0 1 0 0 0 1 0.36 $139,544 $139,544 Unspecified 0 0 1 1 6 2 2 12 4.30 $149,056 $3,692,600 Intent Unintentional 0 3 13 13 39 49 132 249 89.25 $117,935 $45,758,979 Self-Inflicted 0 0 1 1 1 0 1 4 1.43 $90,944 $351,871 Assault 1 0 0 1 0 0 0 2 0.72 $288,195 $576,390 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 0 1 6 12 3 0 2 24 8.60 $40,432 $1,280,326 Outcome Fatal 0 0 0 0 2 2 5 9 3.23 $314,482 $6,082,708 Nonfatal 1 4 20 27 41 47 130 270 96.77 $112,955 $41,884,858 Payor Uninsured 0 0 4 0 0 0 0 4 1.43 $79,575 $382,141 Medicare 0 0 2 6 14 43 129 194 69.53 $117,759 $36,071,586 Medicaid 0 2 6 10 12 0 0 30 10.75 $61,116 $2,995,356 Blue Cross 0 0 1 5 2 0 0 8 2.87 $67,793 $639,721 Commercial 1 2 6 6 15 6 6 42 15.05 $111,728 $7,593,369 Government 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Payor Missing 0 0 1 0 0 0 0 1 0.36 $285,392 $285,392 Overall Total 1 4 20 27 43 49 135 279 100.00 $113,630 $47,967,566 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Northampton County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 36 64 183 439 1,021 1,111 2,720 5,574 100.00 $85,588 $712,590,012 Gender Male 15 23 87 265 557 528 1,058 2,533 45.44 $87,602 $350,776,034 Female 21 41 96 174 464 583 1,660 3,039 54.52 $83,739 $361,554,188 Unknown 0 0 0 0 0 0 2 2 0.04 $129,895 $259,790 Race White 20 46 123 327 854 1,018 2,585 4,973 89.22 $86,045 $621,219,302 Black 2 9 20 40 61 37 39 208 3.73 $84,855 $29,400,018 Asian/Pac. Isl. 0 0 2 3 4 2 9 20 0.36 $71,536 $2,941,599 Native Am./Esk. 0 1 1 1 6 4 2 15 0.27 $82,418 $1,356,850 Other 6 3 16 21 30 20 18 114 2.05 $67,527 $10,837,108 Unknown 8 5 21 47 66 30 67 244 4.38 $86,011 $46,835,135 Mechanism Bites and stings 1 2 6 14 24 18 16 81 1.45 $42,603 $4,852,435 Cut/pierce 0 4 17 21 21 14 9 86 1.54 $77,043 $9,374,148 Drowning/submersion 1 0 0 0 3 0 0 4 0.07 $157,599 $571,816 Fall 19 12 20 109 565 805 2,305 3,835 68.80 $87,093 $467,736,759 Fire/flame 0 1 0 3 5 3 1 13 0.23 $74,690 $1,673,115 Firearm 0 2 3 11 7 0 2 25 0.45 $168,261 $5,062,226 Hot object/substance 0 0 0 4 5 1 3 13 0.23 $79,369 $1,752,096 Machinery 0 0 0 1 2 0 1 4 0.07 $47,756 $295,442 MVT Occupant 0 3 24 43 52 46 54 222 3.98 $105,307 $38,707,104 MVT Motorcyclist 0 1 12 21 20 3 0 57 1.02 $115,771 $14,004,882 MVT Pedalcyclist 0 1 3 0 4 1 2 11 0.20 $102,207 $2,186,318 MVT Pedestrian 2 2 2 5 13 6 4 34 0.61 $149,411 $7,224,917 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 1 0 0 3 10 5 13 32 0.57 $50,182 $1,977,422 Other specified and classifiable 0 0 1 5 7 2 0 15 0.27 $89,824 $3,907,890 Other specified, NEC 0 0 1 2 1 0 2 6 0.11 $73,704 $1,051,124 Overexertion 0 2 1 9 13 15 22 62 1.11 $66,477 $5,204,871 Pedal cyclist, other 0 3 1 2 2 4 3 15 0.27 $84,625 $1,317,077 Pedestrian, other 0 0 0 0 1 0 1 2 0.04 $115,764 $231,527 Poisoning 1 19 66 109 106 47 29 377 6.76 $62,948 $37,115,149 Struck by/against 2 6 14 23 30 27 40 142 2.55 $93,861 $19,902,271 Suffocation 0 0 0 2 5 7 9 23 0.41 $170,964 $5,414,103 Transport, other 0 0 0 3 0 0 0 3 0.05 $33,978 $140,104 Unspecified 9 6 12 49 125 107 204 512 9.19 $92,191 $82,887,216 Intent Unintentional 34 40 98 298 902 1,062 2,686 5,120 91.86 $87,165 $664,741,521 Self-Inflicted 0 5 17 21 13 7 3 66 1.18 $80,588 $9,363,340 Assault 1 3 9 16 16 4 4 53 0.95 $101,009 $6,734,797 Undetermined 0 0 0 1 2 0 0 3 0.05 $605,173 $1,400,039 Other/Unknown 1 16 59 103 88 38 27 332 5.96 $62,403 $30,350,315 Outcome Fatal 0 1 2 5 18 29 58 113 2.03 $171,795 $32,007,096 Nonfatal 36 63 181 434 1,003 1,082 2,662 5,461 97.97 $84,492 $680,582,917 Payor Uninsured 0 0 6 21 17 1 0 45 0.81 $59,653 $3,839,379 Medicare 0 0 3 45 330 933 2,553 3,864 69.32 $86,744 $468,153,319 Medicaid 13 28 52 154 245 7 11 510 9.15 $82,674 $75,782,587 Blue Cross 10 18 47 82 226 84 66 533 9.56 $80,309 $69,638,976 Commercial 12 18 73 117 171 68 62 521 9.35 $86,002 $81,662,814 Government 1 0 2 20 32 18 28 101 1.81 $86,096 $13,512,938 Other/Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Payor Missing 0 0 0 0 0 0 0 0 0.00 0 0 Overall Total 36 64 183 439 1,021 1,111 2,720 5,574 100.00 $85,588 $712,590,012 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Northumberland County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 18 12 57 109 264 269 545 1,274 100.00 $88,918 $192,498,014 Gender Male 8 2 25 65 150 147 209 606 47.57 $93,919 $106,724,942 Female 10 10 32 44 114 122 336 668 52.43 $85,932 $85,773,073 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 16 11 48 100 251 259 539 1,224 96.08 $89,254 $186,188,455 Black 2 1 5 8 9 4 2 31 2.43 $89,219 $4,803,689 Asian/Pac. Isl. 0 0 1 0 1 0 1 3 0.24 $88,365 $238,571 Native Am./Esk. 0 0 0 0 0 0 1 1 0.08 $61,003 $61,003 Other 0 0 0 0 0 1 0 1 0.08 $74,533 $74,533 Unknown 0 0 3 1 3 5 2 14 1.10 $65,987 $1,131,763 Mechanism Bites and stings 1 1 1 2 16 2 3 26 2.04 $64,490 $2,202,006 Cut/pierce 1 0 5 5 4 3 2 20 1.57 $57,999 $1,903,088 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 5 1 8 26 120 202 456 818 64.21 $94,052 $123,222,690 Fire/flame 0 0 0 0 5 2 0 7 0.55 $214,135 $3,596,156 Firearm 0 0 1 0 1 0 0 2 0.16 $544,091 $1,088,183 Hot object/substance 0 0 0 2 1 0 0 3 0.24 $209,505 $1,490,992 Machinery 0 0 0 1 1 1 0 3 0.24 $389,082 $852,607 MVT Occupant 0 1 11 15 20 13 6 66 5.18 $79,772 $10,248,946 MVT Motorcyclist 0 0 3 6 10 1 0 20 1.57 $215,828 $6,110,394 MVT Pedalcyclist 0 1 1 0 1 0 0 3 0.24 $102,783 $377,253 MVT Pedestrian 0 0 1 1 1 0 1 4 0.31 $323,908 $1,490,184 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 2 0 1 2 4 0 4 13 1.02 $45,266 $1,366,036 Other specified and classifiable 0 1 0 0 4 4 1 10 0.78 $75,297 $1,247,166 Other specified, NEC 0 0 0 1 2 0 0 3 0.24 $71,492 $311,993 Overexertion 0 0 0 1 4 1 2 8 0.63 $85,585 $675,250 Pedal cyclist, other 0 0 0 0 0 0 1 1 0.08 $62,079 $62,079 Pedestrian, other 0 0 0 0 0 2 1 3 0.24 $294,344 $1,235,394 Poisoning 5 6 20 28 38 14 5 116 9.11 $47,677 $11,670,715 Struck by/against 1 1 1 7 10 4 10 34 2.67 $104,699 $5,242,008 Suffocation 1 0 0 0 0 1 6 8 0.63 $194,285 $2,434,243 Transport, other 0 0 0 0 1 0 0 1 0.08 $20,181 $20,181 Unspecified 2 0 4 12 21 19 47 105 8.24 $84,525 $15,650,451 Intent Unintentional 13 5 31 75 213 255 542 1,134 89.01 $93,220 $180,648,870 Self-Inflicted 0 0 5 4 5 0 0 14 1.10 $44,606 $1,400,235 Assault 0 2 3 4 9 2 1 21 1.65 $86,535 $3,019,212 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 5 5 18 26 37 12 2 105 8.24 $44,413 $7,429,697 Outcome Fatal 1 0 0 3 0 9 27 40 3.14 $228,372 $10,580,508 Nonfatal 17 12 57 106 264 260 518 1,234 96.86 $88,167 $181,917,506 Payor Uninsured 4 1 8 4 6 0 1 24 1.88 $72,024 $5,675,263 Medicare 0 0 1 5 90 230 504 830 65.15 $93,534 $117,279,818 Medicaid 9 8 20 66 60 2 0 165 12.95 $71,828 $20,057,223 Blue Cross 1 2 9 7 25 1 8 53 4.16 $76,472 $8,808,375 Commercial 4 1 19 26 81 34 30 195 15.31 $88,135 $39,381,477 Government 0 0 0 0 2 1 2 5 0.39 $66,255 $348,981 Other/Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Payor Missing 0 0 0 1 0 1 0 2 0.16 $473,439 $946,878 Overall Total 18 12 57 109 264 269 545 1,274 100.00 $88,918 $192,498,014 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Perry County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 4 1 18 58 104 106 197 488 100.00 $51,310 $41,791,800 Gender Male 2 1 8 45 50 47 70 223 45.70 $53,157 $22,222,907 Female 2 0 10 13 54 59 127 265 54.30 $49,942 $19,568,894 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 4 1 17 55 99 105 197 478 97.95 $50,575 $38,825,147 Black 0 0 1 0 0 1 0 2 0.41 $56,305 $112,610 Asian/Pac. Isl. 0 0 0 0 0 0 0 0 0.00 0 0 Native Am./Esk. 0 0 0 0 0 0 0 0 0.00 0 0 Other 0 0 0 0 4 0 0 4 0.82 $347,610 $1,682,852 Unknown 0 0 0 3 1 0 0 4 0.82 $305,102 $1,171,191 Mechanism Bites and stings 0 0 0 2 6 4 1 13 2.66 $39,791 $664,092 Cut/pierce 0 0 0 4 2 3 1 10 2.05 $42,861 $488,699 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 3 0 3 10 49 77 162 304 62.30 $55,359 $25,994,334 Fire/flame 0 0 0 1 2 0 0 3 0.61 $24,471 $69,474 Firearm 0 0 0 0 1 1 0 2 0.41 $515,561 $1,031,123 Hot object/substance 0 0 1 2 1 0 0 4 0.82 $86,353 $534,030 Machinery 0 0 0 0 0 1 0 1 0.20 $102,751 $102,751 MVT Occupant 0 0 6 9 5 5 11 36 7.38 $64,684 $4,712,965 MVT Motorcyclist 0 0 2 4 6 0 0 12 2.46 $71,746 $1,008,508 MVT Pedalcyclist 0 0 0 1 0 0 0 1 0.20 $184,674 $184,674 MVT Pedestrian 0 0 0 0 1 1 0 2 0.41 $107,223 $214,446 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 1 0 0 0 1 1 4 7 1.43 $23,413 $180,216 Other specified and classifiable 0 0 0 3 1 0 0 4 0.82 $150,936 $692,250 Other specified, NEC 0 0 0 2 0 0 0 2 0.41 $27,150 $54,300 Overexertion 0 0 0 1 1 1 1 4 0.82 $70,173 $311,272 Pedal cyclist, other 0 0 0 1 0 0 0 1 0.20 $27,519 $27,519 Pedestrian, other 0 0 0 0 1 0 0 1 0.20 $180,980 $180,980 Poisoning 0 0 2 12 15 3 1 33 6.76 $28,908 $2,082,245 Struck by/against 0 1 1 2 3 5 5 17 3.48 $44,296 $1,048,302 Suffocation 0 0 0 0 0 0 0 0 0.00 0 0 Transport, other 0 0 0 0 1 0 0 1 0.20 $78,992 $78,992 Unspecified 0 0 3 4 8 4 11 30 6.15 $42,959 $2,130,628 Intent Unintentional 4 1 15 41 88 102 196 447 91.60 $53,157 $38,093,726 Self-Inflicted 0 0 0 2 1 1 0 4 0.82 $46,870 $1,067,314 Assault 0 0 1 4 1 0 0 6 1.23 $29,562 $586,147 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 0 0 2 11 14 3 1 31 6.35 $31,405 $2,044,614 Outcome Fatal 0 0 0 0 1 5 8 14 2.87 $50,851 $989,644 Nonfatal 4 1 18 58 103 101 189 474 97.13 $51,310 $40,802,156 Payor Uninsured 3 0 1 4 2 2 1 13 2.66 $54,203 $2,195,592 Medicare 0 0 0 7 38 88 180 313 64.14 $54,891 $24,437,603 Medicaid 1 0 3 20 18 1 1 44 9.02 $42,476 $3,211,064 Blue Cross 0 1 6 9 20 5 0 41 8.40 $44,085 $3,022,110 Commercial 0 0 8 17 22 8 12 67 13.73 $52,883 $7,117,481 Government 0 0 0 1 4 2 3 10 2.05 $74,526 $1,807,950 Other/Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Payor Missing 0 0 0 0 0 0 0 0 0.00 0 0 Overall Total 4 1 18 58 104 106 197 488 100.00 $51,310 $41,791,800 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Philadelphia County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 299 249 899 4,544 5,465 3,172 4,447 19,075 100.00 $79,839 $2,812,050,910 Gender Male 181 144 549 2,943 3,503 1,679 1,675 10,674 55.96 $84,228 $1,739,075,580 Female 117 104 343 1,587 1,959 1,493 2,772 8,375 43.91 $73,616 $1,063,317,404 Unknown 1 1 7 14 3 0 0 26 0.14 $208,169 $9,657,927 Race White 44 30 134 1,540 1,789 1,322 2,376 7,235 37.93 $69,475 $893,656,657 Black 121 118 481 1,885 2,621 1,438 1,471 8,135 42.65 $87,849 $1,281,413,369 Asian/Pac. Isl. 10 9 34 81 87 69 172 462 2.42 $78,356 $76,697,098 Native Am./Esk. 1 0 4 17 14 17 17 70 0.37 $59,383 $5,379,333 Other 78 82 188 720 707 246 303 2,324 12.18 $82,065 $392,440,111 Unknown 45 10 58 301 247 80 108 849 4.45 $93,247 $162,464,343 Mechanism Bites and stings 5 7 9 51 75 21 26 194 1.02 $51,311 $17,466,521 Cut/pierce 4 5 58 222 143 33 6 471 2.47 $78,842 $66,338,963 Drowning/submersion 6 4 1 2 0 0 2 15 0.08 $84,475 $3,209,180 Fall 85 60 101 848 1,969 1,971 3,564 8,598 45.07 $81,041 $1,122,338,639 Fire/flame 3 7 7 53 71 22 14 177 0.93 $137,891 $56,919,041 Firearm 11 9 167 416 157 28 6 794 4.16 $139,188 $226,241,080 Hot object/substance 27 16 11 63 52 17 7 193 1.01 $85,028 $38,058,660 Machinery 0 0 3 6 4 4 1 18 0.09 $106,776 $4,612,869 MVT Occupant 4 17 95 245 205 72 80 718 3.76 $90,587 $127,390,517 MVT Motorcyclist 1 2 46 89 53 9 2 202 1.06 $135,490 $56,388,856 MVT Pedalcyclist 0 5 7 19 23 10 0 64 0.34 $100,778 $8,154,418 MVT Pedestrian 3 22 27 135 136 50 20 393 2.06 $127,885 $94,285,254 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 3 0 0 3 0.02 $98,944 $245,584 Other natural and environmental factors 4 0 8 79 90 43 44 268 1.40 $75,352 $39,488,817 Other specified and classifiable 9 6 17 47 29 10 10 128 0.67 $67,193 $22,006,159 Other specified, NEC 4 0 7 31 25 4 1 72 0.38 $64,854 $13,249,021 Overexertion 0 3 6 22 34 12 11 88 0.46 $66,759 $13,366,569 Pedal cyclist, other 0 2 5 17 17 5 3 49 0.26 $98,213 $6,585,495 Pedestrian, other 0 3 9 18 25 8 3 66 0.35 $130,131 $16,026,439 Poisoning 84 42 188 1,113 1,268 326 110 3,131 16.41 $59,791 $349,563,131 Struck by/against 10 20 73 307 250 83 64 807 4.23 $79,060 $101,025,967 Suffocation 2 1 2 15 51 52 56 179 0.94 $186,892 $59,790,773 Transport, other 0 0 1 2 2 2 1 8 0.04 $59,911 $1,464,043 Unspecified 37 18 51 744 783 390 416 2,439 12.79 $77,705 $367,834,914 Intent Unintentional 198 194 511 2,874 3,952 2,799 4,326 14,854 77.87 $83,095 $2,216,816,328 Self-Inflicted 0 1 46 103 66 10 6 232 1.22 $68,439 $39,172,335 Assault 22 14 174 620 335 66 19 1,250 6.55 $100,948 $264,011,369 Undetermined 0 0 0 7 2 1 1 11 0.06 $77,545 $4,686,761 Other/Unknown 79 40 168 940 1,110 296 95 2,728 14.30 $56,475 $287,364,117 Outcome Fatal 20 3 17 105 125 116 203 589 3.09 $188,955 $202,636,869 Nonfatal 279 246 882 4,439 5,340 3,056 4,244 18,486 96.91 $78,220 $2,609,414,041 Payor Uninsured 58 20 74 294 187 16 4 653 3.42 $63,446 $75,470,003 Medicare 0 0 8 259 1,114 2,537 3,954 7,872 41.27 $80,227 $1,029,725,339 Medicaid 209 184 579 3,129 3,217 257 147 7,722 40.48 $84,276 $1,301,756,333 Blue Cross 16 23 109 295 449 124 84 1,100 5.77 $66,730 $145,262,599 Commercial 15 22 117 490 432 193 192 1,461 7.66 $68,156 $211,362,278 Government 1 0 3 40 39 26 37 146 0.77 $95,163 $24,755,896 Other/Unknown 0 0 2 18 10 18 29 77 0.40 $90,263 $15,800,280 Payor Missing 0 0 7 19 17 1 0 44 0.23 $111,773 $7,918,184 Overall Total 299 249 899 4,544 5,465 3,172 4,447 19,075 100.00 $79,839 $2,812,050,910 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Pike County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 2 4 15 45 101 78 156 401 100.00 $81,651 $57,782,212 Gender Male 2 2 5 20 58 37 68 192 47.88 $88,734 $31,892,076 Female 0 2 10 25 43 41 88 209 52.12 $77,222 $25,890,136 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 2 4 10 39 85 70 141 351 87.53 $80,188 $49,825,236 Black 0 0 5 2 5 7 7 26 6.48 $78,448 $3,127,066 Asian/Pac. Isl. 0 0 0 0 0 0 0 0 0.00 0 0 Native Am./Esk. 0 0 0 1 0 0 0 1 0.25 $502,909 $502,909 Other 0 0 0 1 3 0 2 6 1.50 $96,406 $680,961 Unknown 0 0 0 2 8 1 6 17 4.24 $90,476 $3,646,040 Mechanism Bites and stings 0 1 0 0 3 3 2 9 2.24 $39,565 $308,287 Cut/pierce 0 0 0 1 3 1 1 6 1.50 $65,309 $1,253,862 Drowning/submersion 0 0 1 0 0 0 0 1 0.25 $19,834 $19,834 Fall 2 0 2 14 48 54 133 253 63.09 $82,981 $32,405,792 Fire/flame 0 1 1 1 1 1 0 5 1.25 $308,731 $2,388,105 Firearm 0 0 0 0 3 1 0 4 1.00 $257,753 $1,384,098 Hot object/substance 0 0 0 0 0 0 1 1 0.25 $15,528 $15,528 Machinery 0 0 0 0 0 0 0 0 0.00 0 0 MVT Occupant 0 1 3 6 9 2 3 24 5.99 $93,387 $3,581,751 MVT Motorcyclist 0 0 0 2 9 0 1 12 2.99 $89,847 $4,550,686 MVT Pedalcyclist 0 0 0 0 0 1 0 1 0.25 $92,162 $92,162 MVT Pedestrian 0 0 0 1 0 0 0 1 0.25 $502,909 $502,909 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 0 0 0 1 1 0 2 0.50 $66,420 $132,840 Other specified and classifiable 0 0 0 1 0 0 0 1 0.25 $25,673 $25,673 Other specified, NEC 0 0 1 0 0 0 0 1 0.25 $45,445 $45,445 Overexertion 0 0 0 0 1 3 1 5 1.25 $105,401 $480,069 Pedal cyclist, other 0 0 0 0 0 0 0 0 0.00 0 0 Pedestrian, other 0 0 0 0 1 0 0 1 0.25 $87,732 $87,732 Poisoning 0 1 5 15 8 2 0 31 7.73 $58,173 $4,696,179 Struck by/against 0 0 2 2 2 3 3 12 2.99 $91,706 $1,076,942 Suffocation 0 0 0 0 3 0 0 3 0.75 $88,677 $418,112 Transport, other 0 0 0 0 0 0 0 0 0.00 0 0 Unspecified 0 0 0 2 9 6 11 28 6.98 $61,401 $4,316,206 Intent Unintentional 2 4 9 30 90 75 156 366 91.27 $85,123 $53,324,592 Self-Inflicted 0 0 1 0 2 1 0 4 1.00 $230,404 $1,274,876 Assault 0 0 1 1 2 1 0 5 1.25 $45,445 $459,667 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 0 0 4 14 7 1 0 26 6.48 $51,163 $2,723,076 Outcome Fatal 0 0 0 0 5 3 3 11 2.74 $284,807 $4,983,679 Nonfatal 2 4 15 45 96 75 153 390 97.26 $81,142 $52,798,532 Payor Uninsured 0 0 0 6 1 1 1 9 2.24 $71,665 $877,655 Medicare 0 0 0 0 23 63 141 227 56.61 $82,361 $29,545,440 Medicaid 2 3 2 19 21 0 0 47 11.72 $85,503 $10,955,049 Blue Cross 0 0 1 5 21 7 2 36 8.98 $77,667 $3,580,184 Commercial 0 1 9 12 31 5 10 68 16.96 $87,372 $11,741,075 Government 0 0 2 3 3 1 2 11 2.74 $70,828 $804,038 Other/Unknown 0 0 0 0 1 1 0 2 0.50 $52,646 $105,291 Payor Missing 0 0 1 0 0 0 0 1 0.25 $173,480 $173,480 Overall Total 2 4 15 45 101 78 156 401 100.00 $81,651 $57,782,212 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Potter County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 1 1 3 6 9 31 44 95 100.00 $40,087 $7,561,552 Gender Male 1 1 0 3 4 15 19 43 45.26 $44,959 $4,555,673 Female 0 0 3 3 5 16 25 52 54.74 $30,780 $3,005,879 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 1 1 3 6 8 31 43 93 97.89 $40,139 $7,528,614 Black 0 0 0 0 1 0 0 1 1.05 $29,349 $29,349 Asian/Pac. Isl. 0 0 0 0 0 0 0 0 0.00 0 0 Native Am./Esk. 0 0 0 0 0 0 0 0 0.00 0 0 Other 0 0 0 0 0 0 0 0 0.00 0 0 Unknown 0 0 0 0 0 0 1 1 1.05 $3,590 $3,590 Mechanism Bites and stings 0 1 0 0 0 0 0 1 1.05 $116,659 $116,659 Cut/pierce 0 0 0 1 0 0 0 1 1.05 $50,827 $50,827 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 0 0 0 1 7 22 39 69 72.63 $32,189 $4,267,986 Fire/flame 0 0 0 0 0 0 0 0 0.00 0 0 Firearm 0 0 0 0 0 0 0 0 0.00 0 0 Hot object/substance 0 0 0 0 0 0 0 0 0.00 0 0 Machinery 0 0 0 0 0 0 1 1 1.05 $69,836 $69,836 MVT Occupant 0 0 0 2 1 4 0 7 7.37 $42,915 $631,595 MVT Motorcyclist 0 0 0 0 0 0 0 0 0.00 0 0 MVT Pedalcyclist 0 0 0 0 0 0 0 0 0.00 0 0 MVT Pedestrian 0 0 0 2 0 0 0 2 2.11 $392,485 $784,971 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 0 0 0 0 0 0 0 0.00 0 0 Other specified and classifiable 0 0 0 0 0 0 0 0 0.00 0 0 Other specified, NEC 0 0 0 0 0 0 0 0 0.00 0 0 Overexertion 0 0 0 0 0 0 0 0 0.00 0 0 Pedal cyclist, other 0 0 0 0 0 0 0 0 0.00 0 0 Pedestrian, other 0 0 0 0 0 0 0 0 0.00 0 0 Poisoning 0 0 3 0 0 1 0 4 4.21 $14,558 $138,339 Struck by/against 0 0 0 0 1 0 1 2 2.11 $186,342 $372,685 Suffocation 0 0 0 0 0 0 0 0 0.00 0 0 Transport, other 0 0 0 0 0 2 0 2 2.11 $135,093 $270,187 Unspecified 1 0 0 0 0 2 3 6 6.32 $104,411 $858,467 Intent Unintentional 1 1 0 6 9 30 44 91 95.79 $40,139 $7,423,213 Self-Inflicted 0 0 0 0 0 0 0 0 0.00 0 0 Assault 0 0 0 0 0 0 0 0 0.00 0 0 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 0 0 3 0 0 1 0 4 4.21 $14,558 $138,339 Outcome Fatal 0 0 0 0 0 2 3 5 5.26 $4,905 $58,233 Nonfatal 1 1 3 6 9 29 41 90 94.74 $40,520 $7,503,319 Payor Uninsured 0 0 0 0 0 0 0 0 0.00 0 0 Medicare 0 0 1 0 1 24 39 65 68.42 $40,269 $4,234,327 Medicaid 1 0 0 2 3 1 0 7 7.37 $179,674 $1,783,566 Blue Cross 0 0 0 0 4 0 0 4 4.21 $30,573 $133,718 Commercial 0 1 2 3 1 6 5 18 18.95 $29,386 $1,359,115 Government 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 0 0 0 1 0 0 0 1 1.05 $50,827 $50,827 Payor Missing 0 0 0 0 0 0 0 0 0.00 0 0 Overall Total 1 1 3 6 9 31 44 95 100.00 $40,087 $7,561,552 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Schuylkill County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 10 39 95 230 466 445 980 2,265 100.00 $68,484 $267,254,532 Gender Male 3 19 45 144 255 223 365 1,054 46.53 $75,177 $141,916,850 Female 7 20 50 86 211 222 615 1,211 53.47 $63,449 $125,337,682 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 7 36 78 194 433 437 963 2,148 94.83 $68,725 $252,114,028 Black 2 0 8 19 14 4 2 49 2.16 $64,927 $8,322,458 Asian/Pac. Isl. 0 0 0 0 0 1 1 2 0.09 $44,917 $89,835 Native Am./Esk. 0 0 0 0 3 0 0 3 0.13 $94,075 $263,944 Other 0 3 5 8 7 3 8 34 1.50 $54,879 $3,644,025 Unknown 1 0 4 9 9 0 6 29 1.28 $62,980 $2,820,242 Mechanism Bites and stings 0 1 0 10 10 9 11 41 1.81 $46,174 $2,116,729 Cut/pierce 0 4 13 20 9 3 1 50 2.21 $52,265 $4,210,509 Drowning/submersion 0 0 0 0 1 0 0 1 0.04 $356,847 $356,847 Fall 3 7 20 43 236 298 815 1,422 62.78 $70,325 $151,111,622 Fire/flame 1 0 1 1 6 7 1 17 0.75 $178,673 $5,781,849 Firearm 0 0 0 6 2 1 1 10 0.44 $120,602 $1,763,712 Hot object/substance 1 1 0 0 3 0 1 6 0.26 $36,534 $314,756 Machinery 0 1 0 1 1 0 0 3 0.13 $98,014 $249,325 MVT Occupant 1 4 13 25 32 23 30 128 5.65 $96,776 $21,664,021 MVT Motorcyclist 0 2 2 12 11 4 3 34 1.50 $118,605 $5,910,215 MVT Pedalcyclist 0 0 0 1 2 0 1 4 0.18 $40,118 $232,677 MVT Pedestrian 0 1 2 4 5 4 0 16 0.71 $187,493 $4,522,124 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 1 0 3 6 1 2 13 0.57 $31,735 $962,398 Other specified and classifiable 0 3 3 2 5 6 1 20 0.88 $100,503 $8,071,359 Other specified, NEC 0 0 2 3 0 0 1 6 0.26 $51,429 $442,735 Overexertion 0 0 0 0 7 5 12 24 1.06 $34,544 $1,532,955 Pedal cyclist, other 0 1 1 2 0 1 1 6 0.26 $76,890 $410,566 Pedestrian, other 0 0 0 0 0 0 0 0 0.00 0 0 Poisoning 1 7 30 61 48 27 14 188 8.30 $41,075 $14,241,373 Struck by/against 1 3 4 15 18 9 16 66 2.91 $89,176 $9,724,370 Suffocation 0 0 0 0 1 2 3 6 0.26 $61,141 $660,938 Transport, other 0 1 0 0 0 0 0 1 0.04 $74,992 $74,992 Unspecified 2 2 4 21 63 45 66 203 8.96 $75,525 $32,898,460 Intent Unintentional 9 27 52 142 411 418 963 2,022 89.27 $72,298 $247,423,765 Self-Inflicted 0 3 12 26 6 2 2 51 2.25 $53,795 $5,261,582 Assault 0 2 2 7 5 1 2 19 0.84 $74,224 $1,718,180 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 1 7 29 55 44 24 13 173 7.64 $38,713 $12,851,006 Outcome Fatal 0 0 0 8 13 15 25 61 2.69 $145,791 $14,344,847 Nonfatal 10 39 95 222 453 430 955 2,204 97.31 $67,135 $252,909,685 Payor Uninsured 0 3 5 24 11 0 0 43 1.90 $54,674 $3,695,046 Medicare 0 0 2 16 152 376 910 1,456 64.28 $68,214 $154,188,277 Medicaid 8 14 34 86 103 2 2 249 10.99 $60,947 $36,989,997 Blue Cross 0 9 18 32 95 22 14 190 8.39 $66,830 $23,650,810 Commercial 2 13 35 53 91 32 34 260 11.48 $85,557 $41,764,460 Government 0 0 1 18 14 12 19 64 2.83 $55,314 $6,330,112 Other/Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Payor Missing 0 0 0 1 0 1 1 3 0.13 $272,659 $635,830 Overall Total 10 39 95 230 466 445 980 2,265 100.00 $68,484 $267,254,532 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Snyder County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 4 4 12 38 69 72 268 467 100.00 $86,420 $68,873,224 Gender Male 3 3 8 12 47 40 107 220 47.11 $85,230 $31,226,438 Female 1 1 4 26 22 32 161 247 52.89 $89,214 $37,646,786 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 3 4 12 36 67 68 261 451 96.57 $85,319 $66,306,129 Black 1 0 0 0 1 2 0 4 0.86 $84,140 $560,778 Asian/Pac. Isl. 0 0 0 0 0 1 0 1 0.21 $81,622 $81,622 Native Am./Esk. 0 0 0 2 1 0 0 3 0.64 $91,415 $579,311 Other 0 0 0 0 0 1 0 1 0.21 $235,495 $235,495 Unknown 0 0 0 0 0 0 7 7 1.50 $143,980 $1,109,888 Mechanism Bites and stings 0 0 0 0 3 3 4 10 2.14 $41,756 $696,513 Cut/pierce 0 0 0 1 1 0 1 3 0.64 $50,287 $159,601 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 2 1 1 10 38 51 222 325 69.59 $87,206 $47,406,644 Fire/flame 0 0 0 1 2 0 1 4 0.86 $123,492 $594,973 Firearm 0 0 0 0 0 1 0 1 0.21 $90,129 $90,129 Hot object/substance 0 0 0 0 0 0 2 2 0.43 $79,324 $158,648 Machinery 0 0 0 0 0 0 0 0 0.00 0 0 MVT Occupant 1 0 5 5 5 3 8 27 5.78 $99,822 $3,922,410 MVT Motorcyclist 0 0 1 1 3 0 0 5 1.07 $193,370 $1,166,298 MVT Pedalcyclist 0 0 0 0 1 0 0 1 0.21 $72,701 $72,701 MVT Pedestrian 0 1 1 0 3 0 0 5 1.07 $229,591 $1,491,861 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 1 0 0 0 0 0 1 0.21 $166,327 $166,327 Other natural and environmental factors 0 1 0 1 2 4 0 8 1.71 $171,569 $1,425,902 Other specified and classifiable 0 0 0 0 0 1 0 1 0.21 $133,624 $133,624 Other specified, NEC 0 0 1 0 0 0 0 1 0.21 $14,159 $14,159 Overexertion 0 0 0 0 0 0 1 1 0.21 $82,758 $82,758 Pedal cyclist, other 0 0 0 0 0 0 0 0 0.00 0 0 Pedestrian, other 0 0 0 0 0 0 0 0 0.00 0 0 Poisoning 0 0 2 11 5 0 5 23 4.93 $67,857 $2,343,763 Struck by/against 0 0 0 3 1 0 1 5 1.07 $67,344 $576,953 Suffocation 0 0 0 0 1 0 2 3 0.64 $49,414 $356,215 Transport, other 0 0 0 0 0 1 0 1 0.21 $32,434 $32,434 Unspecified 1 0 1 5 4 8 21 40 8.57 $91,960 $7,981,310 Intent Unintentional 4 4 9 27 65 72 263 444 95.07 $89,095 $67,289,951 Self-Inflicted 0 0 1 3 0 0 0 4 0.86 $32,223 $123,097 Assault 0 0 0 1 0 0 1 2 0.43 $51,862 $103,724 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 0 0 2 7 4 0 4 17 3.64 $67,857 $1,356,452 Outcome Fatal 0 0 0 2 1 1 14 18 3.85 $213,231 $5,143,787 Nonfatal 4 4 12 36 68 71 254 449 96.15 $84,896 $63,729,437 Payor Uninsured 0 1 0 3 2 0 1 7 1.50 $72,701 $942,151 Medicare 0 0 0 2 28 64 254 348 74.52 $84,453 $47,696,456 Medicaid 2 0 3 15 22 0 0 42 8.99 $95,339 $7,995,971 Blue Cross 1 0 1 5 5 3 0 15 3.21 $72,749 $2,208,693 Commercial 1 3 8 13 12 4 13 54 11.56 $111,614 $9,758,480 Government 0 0 0 0 0 1 0 1 0.21 $271,472 $271,472 Other/Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Payor Missing 0 0 0 0 0 0 0 0 0.00 0 0 Overall Total 4 4 12 38 69 72 268 467 100.00 $86,420 $68,873,224 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Somerset County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 6 7 26 82 152 162 363 798 100.00 $45,053 $77,263,278 Gender Male 4 5 19 50 85 75 128 366 45.86 $46,130 $40,955,259 Female 2 2 7 32 67 87 235 432 54.14 $44,720 $36,308,019 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 6 6 25 75 148 158 357 775 97.12 $44,881 $67,967,007 Black 0 0 1 4 2 2 0 9 1.13 $51,589 $7,502,125 Asian/Pac. Isl. 0 0 0 0 0 0 0 0 0.00 0 0 Native Am./Esk. 0 0 0 0 0 0 0 0 0.00 0 0 Other 0 0 0 0 0 0 2 2 0.25 $42,238 $84,475 Unknown 0 1 0 3 2 2 4 12 1.50 $47,471 $1,709,671 Mechanism Bites and stings 1 0 0 1 1 2 1 6 0.75 $42,356 $255,511 Cut/pierce 0 0 1 3 4 1 2 11 1.38 $16,503 $560,004 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 1 1 1 15 73 103 290 484 60.65 $47,786 $38,453,629 Fire/flame 0 0 1 0 0 1 1 3 0.38 $93,818 $1,057,057 Firearm 0 1 0 1 1 0 1 4 0.50 $66,304 $767,822 Hot object/substance 0 0 0 1 0 0 1 2 0.25 $73,720 $147,439 Machinery 0 0 1 0 1 1 0 3 0.38 $28,708 $1,017,568 MVT Occupant 0 1 3 9 9 8 6 36 4.51 $44,602 $4,022,395 MVT Motorcyclist 0 0 7 5 5 2 0 19 2.38 $59,444 $2,389,060 MVT Pedalcyclist 0 0 1 1 0 0 0 2 0.25 $163,263 $326,525 MVT Pedestrian 0 1 0 0 0 0 0 1 0.13 $45,143 $45,143 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 1 0 0 1 0.13 $62,214 $62,214 Other natural and environmental factors 0 0 0 1 2 4 1 8 1.00 $18,872 $352,858 Other specified and classifiable 0 0 0 2 3 1 3 9 1.13 $41,195 $830,388 Other specified, NEC 1 0 0 0 1 0 0 2 0.25 $135,515 $271,029 Overexertion 0 0 0 1 1 2 4 8 1.00 $29,064 $369,647 Pedal cyclist, other 0 1 0 0 0 0 0 1 0.13 $52,604 $52,604 Pedestrian, other 0 0 0 1 0 0 0 1 0.13 $63,333 $63,333 Poisoning 1 2 8 17 16 7 4 55 6.89 $28,091 $2,007,230 Struck by/against 0 0 2 7 6 7 11 33 4.14 $35,463 $3,425,801 Suffocation 0 0 0 0 2 1 3 6 0.75 $142,661 $1,448,305 Transport, other 0 0 0 2 0 0 0 2 0.25 $146,892 $293,784 Unspecified 2 0 1 15 26 22 35 101 12.66 $32,935 $19,043,932 Intent Unintentional 4 5 16 58 135 156 357 731 91.60 $45,995 $72,528,804 Self-Inflicted 0 0 1 5 3 0 2 11 1.38 $16,503 $656,636 Assault 0 0 1 3 1 0 0 5 0.63 $423,798 $2,183,901 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 2 2 8 16 13 6 4 51 6.39 $25,614 $1,893,938 Outcome Fatal 0 0 0 2 7 7 15 31 3.88 $131,251 $10,531,657 Nonfatal 6 7 26 80 145 155 348 767 96.12 $44,369 $66,731,621 Payor Uninsured 0 0 3 9 16 1 10 39 4.89 $48,926 $3,221,229 Medicare 0 0 0 8 47 136 314 505 63.28 $44,527 $37,560,364 Medicaid 6 5 7 25 33 4 2 82 10.28 $46,446 $14,443,438 Blue Cross 0 0 2 10 18 1 12 43 5.39 $41,101 $3,654,858 Commercial 0 2 13 25 36 16 21 113 14.16 $47,377 $17,766,652 Government 0 0 1 5 2 3 3 14 1.75 $32,687 $516,379 Other/Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Payor Missing 0 0 0 0 0 1 1 2 0.25 $50,179 $100,359 Overall Total 6 7 26 82 152 162 363 798 100.00 $45,053 $77,263,278 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Sullivan County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 0 0 0 0 9 25 35 69 100.00 $54,840 $6,230,334 Gender Male 0 0 0 0 4 16 18 38 55.07 $53,165 $3,547,832 Female 0 0 0 0 5 9 17 31 44.93 $68,437 $2,682,501 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 0 0 0 0 9 25 35 69 100.00 $54,840 $6,230,334 Black 0 0 0 0 0 0 0 0 0.00 0 0 Asian/Pac. Isl. 0 0 0 0 0 0 0 0 0.00 0 0 Native Am./Esk. 0 0 0 0 0 0 0 0 0.00 0 0 Other 0 0 0 0 0 0 0 0 0.00 0 0 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Mechanism Bites and stings 0 0 0 0 1 0 1 2 2.90 $27,440 $54,880 Cut/pierce 0 0 0 0 0 1 0 1 1.45 $198,931 $198,931 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 0 0 0 0 5 15 28 48 69.57 $64,514 $4,994,811 Fire/flame 0 0 0 0 1 0 0 1 1.45 $24,876 $24,876 Firearm 0 0 0 0 0 0 0 0 0.00 0 0 Hot object/substance 0 0 0 0 0 0 0 0 0.00 0 0 Machinery 0 0 0 0 0 0 0 0 0.00 0 0 MVT Occupant 0 0 0 0 1 1 1 3 4.35 $139,332 $304,258 MVT Motorcyclist 0 0 0 0 0 0 0 0 0.00 0 0 MVT Pedalcyclist 0 0 0 0 0 0 0 0 0.00 0 0 MVT Pedestrian 0 0 0 0 0 0 0 0 0.00 0 0 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 0 0 0 0 0 0 0 0.00 0 0 Other specified and classifiable 0 0 0 0 0 0 0 0 0.00 0 0 Other specified, NEC 0 0 0 0 0 0 0 0 0.00 0 0 Overexertion 0 0 0 0 1 1 1 3 4.35 $18,962 $59,877 Pedal cyclist, other 0 0 0 0 0 0 0 0 0.00 0 0 Pedestrian, other 0 0 0 0 0 0 0 0 0.00 0 0 Poisoning 0 0 0 0 0 2 1 3 4.35 $53,292 $136,349 Struck by/against 0 0 0 0 0 0 1 1 1.45 $42,609 $42,609 Suffocation 0 0 0 0 0 0 0 0 0.00 0 0 Transport, other 0 0 0 0 0 0 0 0 0.00 0 0 Unspecified 0 0 0 0 0 5 2 7 10.14 $31,626 $413,742 Intent Unintentional 0 0 0 0 9 23 35 67 97.10 $54,840 $6,120,741 Self-Inflicted 0 0 0 0 0 0 0 0 0.00 0 0 Assault 0 0 0 0 0 0 0 0 0.00 0 0 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 0 0 0 0 0 2 0 2 2.90 $54,796 $109,592 Outcome Fatal 0 0 0 0 0 0 3 3 4.35 $35,315 $134,372 Nonfatal 0 0 0 0 9 25 32 66 95.65 $54,912 $6,095,962 Payor Uninsured 0 0 0 0 0 0 0 0 0.00 0 0 Medicare 0 0 0 0 0 22 29 51 73.91 $54,840 $4,681,939 Medicaid 0 0 0 0 3 0 0 3 4.35 $77,871 $266,637 Blue Cross 0 0 0 0 1 1 1 3 4.35 $109,097 $437,683 Commercial 0 0 0 0 3 2 2 7 10.14 $67,159 $667,093 Government 0 0 0 0 0 0 3 3 4.35 $35,315 $110,781 Other/Unknown 0 0 0 0 2 0 0 2 2.90 $33,100 $66,200 Payor Missing 0 0 0 0 0 0 0 0 0.00 0 0 Overall Total 0 0 0 0 9 25 35 69 100.00 $54,840 $6,230,334 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Susquehanna County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 3 4 6 38 53 66 180 350 100.00 $71,352 $37,442,600 Gender Male 3 2 6 23 32 34 89 189 54.00 $78,741 $21,889,175 Female 0 2 0 15 21 32 91 161 46.00 $62,707 $15,553,424 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 3 3 6 34 48 66 176 336 96.00 $70,503 $36,242,522 Black 0 0 0 0 2 0 1 3 0.86 $106,753 $409,865 Asian/Pac. Isl. 0 0 0 0 0 0 0 0 0.00 0 0 Native Am./Esk. 0 0 0 0 0 0 0 0 0.00 0 0 Other 0 0 0 1 0 0 0 1 0.29 $42,286 $42,286 Unknown 0 1 0 3 3 0 3 10 2.86 $83,526 $747,927 Mechanism Bites and stings 1 0 0 6 3 0 1 11 3.14 $56,822 $736,838 Cut/pierce 0 0 0 2 1 0 1 4 1.14 $66,435 $299,540 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 1 1 1 5 29 43 160 240 68.57 $70,503 $23,658,974 Fire/flame 0 0 0 0 1 1 0 2 0.57 $49,700 $99,400 Firearm 0 0 1 0 1 0 0 2 0.57 $224,637 $449,274 Hot object/substance 0 0 0 2 0 0 0 2 0.57 $39,589 $79,178 Machinery 0 0 0 0 0 0 0 0 0.00 0 0 MVT Occupant 0 0 1 6 4 6 6 23 6.57 $62,707 $2,632,442 MVT Motorcyclist 0 0 1 2 0 0 0 3 0.86 $118,916 $307,249 MVT Pedalcyclist 0 1 0 0 0 0 0 1 0.29 $19,576 $19,576 MVT Pedestrian 0 0 0 1 1 0 2 4 1.14 $112,333 $1,996,716 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 0 0 0 1 0 2 3 0.86 $125,877 $349,763 Other specified and classifiable 0 1 0 1 0 0 0 2 0.57 $189,515 $379,029 Other specified, NEC 0 0 0 0 0 0 0 0 0.00 0 0 Overexertion 0 0 0 0 0 1 0 1 0.29 $27,871 $27,871 Pedal cyclist, other 0 0 0 1 0 2 0 3 0.86 $41,635 $361,813 Pedestrian, other 0 0 0 0 0 0 0 0 0.00 0 0 Poisoning 0 0 1 7 1 3 1 13 3.71 $34,872 $1,104,244 Struck by/against 1 1 1 0 1 1 2 7 2.00 $73,593 $804,176 Suffocation 0 0 0 0 1 0 0 1 0.29 $473,044 $473,044 Transport, other 0 0 0 0 0 0 0 0 0.00 0 0 Unspecified 0 0 0 5 9 9 5 28 8.00 $106,164 $3,663,473 Intent Unintentional 3 3 4 30 51 62 179 332 94.86 $71,757 $35,838,281 Self-Inflicted 0 0 1 0 1 0 0 2 0.57 $184,040 $368,081 Assault 0 1 0 1 0 1 0 3 0.86 $37,250 $131,993 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 0 0 1 7 1 3 1 13 3.71 $34,872 $1,104,244 Outcome Fatal 0 0 0 1 4 4 5 14 4.00 $98,434 $1,927,334 Nonfatal 3 4 6 37 49 62 175 336 96.00 $69,537 $35,515,265 Payor Uninsured 0 0 1 3 1 0 0 5 1.43 $86,764 $538,650 Medicare 0 0 0 2 12 56 160 230 65.71 $67,657 $22,971,598 Medicaid 2 2 1 12 21 0 2 40 11.43 $106,202 $5,040,572 Blue Cross 0 1 2 8 6 4 5 26 7.43 $58,630 $2,104,861 Commercial 1 1 1 11 12 6 12 44 12.57 $89,260 $6,529,468 Government 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 0 0 1 0 1 0 1 3 0.86 $37,011 $118,389 Payor Missing 0 0 0 2 0 0 0 2 0.57 $69,530 $139,061 Overall Total 3 4 6 38 53 66 180 350 100.00 $71,352 $37,442,600 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Tioga County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 1 4 13 37 60 48 167 330 100.00 $60,113 $27,216,683 Gender Male 0 3 11 24 33 26 66 163 49.39 $62,132 $14,575,185 Female 1 1 2 13 27 22 101 167 50.61 $59,224 $12,641,498 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 1 4 12 35 59 48 167 326 98.79 $59,649 $26,785,054 Black 0 0 1 0 0 0 0 1 0.30 $117,186 $117,186 Asian/Pac. Isl. 0 0 0 0 0 0 0 0 0.00 0 0 Native Am./Esk. 0 0 0 0 0 0 0 0 0.00 0 0 Other 0 0 0 0 0 0 0 0 0.00 0 0 Unknown 0 0 0 2 1 0 0 3 0.91 $105,459 $314,444 Mechanism Bites and stings 0 0 0 0 0 0 1 1 0.30 $33,214 $33,214 Cut/pierce 0 0 1 4 2 0 1 8 2.42 $33,409 $435,012 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 0 0 1 6 25 36 141 209 63.33 $62,404 $16,765,159 Fire/flame 0 0 0 1 0 0 1 2 0.61 $56,281 $112,563 Firearm 0 0 0 2 2 0 0 4 1.21 $75,952 $1,031,234 Hot object/substance 0 0 0 0 1 0 0 1 0.30 $160,337 $160,337 Machinery 0 0 0 0 0 0 1 1 0.30 $35,298 $35,298 MVT Occupant 0 0 5 4 4 2 1 16 4.85 $53,688 $1,718,657 MVT Motorcyclist 0 0 3 3 1 2 1 10 3.03 $43,051 $688,702 MVT Pedalcyclist 0 0 0 0 0 0 0 0 0.00 0 0 MVT Pedestrian 0 0 0 2 1 0 0 3 0.91 $67,794 $289,509 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 0 0 0 0 0 0 0 0.00 0 0 Other specified and classifiable 0 0 0 0 0 0 0 0 0.00 0 0 Other specified, NEC 0 0 0 0 2 0 0 2 0.61 $51,233 $102,466 Overexertion 0 0 0 0 0 0 2 2 0.61 $42,584 $85,168 Pedal cyclist, other 0 0 0 1 1 0 0 2 0.61 $64,877 $129,753 Pedestrian, other 0 0 0 0 2 0 0 2 0.61 $396,491 $792,983 Poisoning 1 1 3 9 9 0 6 29 8.79 $48,309 $1,577,869 Struck by/against 0 3 0 1 2 1 2 9 2.73 $50,465 $650,216 Suffocation 0 0 0 0 1 0 0 1 0.30 $45,260 $45,260 Transport, other 0 0 0 0 0 0 0 0 0.00 0 0 Unspecified 0 0 0 4 7 7 10 28 8.48 $62,883 $2,563,285 Intent Unintentional 0 3 10 25 46 48 161 293 88.79 $61,911 $24,435,143 Self-Inflicted 0 0 0 2 5 0 0 7 2.12 $47,202 $1,118,800 Assault 0 0 0 2 0 0 0 2 0.61 $95,165 $190,331 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 1 1 3 8 9 0 6 28 8.48 $47,672 $1,472,410 Outcome Fatal 0 0 0 0 7 2 5 14 4.24 $146,958 $3,538,632 Nonfatal 1 4 13 37 53 46 162 316 95.76 $58,898 $23,678,051 Payor Uninsured 0 0 0 1 0 0 0 1 0.30 $88,850 $88,850 Medicare 0 0 0 5 20 42 148 215 65.15 $59,961 $16,272,701 Medicaid 1 2 4 12 9 0 0 28 8.48 $79,310 $2,167,898 Blue Cross 0 1 4 2 17 1 10 35 10.61 $52,517 $3,303,863 Commercial 0 1 5 10 11 5 8 40 12.12 $65,249 $4,858,833 Government 0 0 0 0 0 0 1 1 0.30 $57,274 $57,274 Other/Unknown 0 0 0 7 2 0 0 9 2.73 $40,356 $380,344 Payor Missing 0 0 0 0 1 0 0 1 0.30 $86,921 $86,921 Overall Total 1 4 13 37 60 48 167 330 100.00 $60,113 $27,216,683 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Union County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 4 6 13 37 55 72 220 407 100.00 $66,049 $47,856,118 Gender Male 2 3 6 20 33 43 94 201 49.39 $69,541 $24,333,595 Female 2 3 7 17 22 29 126 206 50.61 $62,372 $23,522,523 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 3 5 12 34 51 69 217 391 96.07 $66,674 $46,022,511 Black 1 0 1 1 3 1 1 8 1.97 $61,401 $1,021,234 Asian/Pac. Isl. 0 1 0 1 0 0 0 2 0.49 $236,336 $472,672 Native Am./Esk. 0 0 0 0 0 0 0 0 0.00 0 0 Other 0 0 0 0 1 0 0 1 0.25 $44,368 $44,368 Unknown 0 0 0 1 0 2 2 5 1.23 $49,569 $295,333 Mechanism Bites and stings 0 1 0 0 3 3 0 7 1.72 $49,138 $423,590 Cut/pierce 0 0 1 3 1 0 0 5 1.23 $57,221 $402,323 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 0 2 3 7 28 54 185 279 68.55 $68,620 $32,135,381 Fire/flame 0 0 0 1 0 0 0 1 0.25 $49,569 $49,569 Firearm 0 0 0 0 0 0 0 0 0.00 0 0 Hot object/substance 0 0 1 0 0 0 0 1 0.25 $29,437 $29,437 Machinery 0 0 0 0 0 0 0 0 0.00 0 0 MVT Occupant 0 1 3 7 3 4 10 28 6.88 $110,659 $6,978,836 MVT Motorcyclist 0 0 0 0 0 0 0 0 0.00 0 0 MVT Pedalcyclist 0 0 0 1 3 1 0 5 1.23 $72,212 $642,051 MVT Pedestrian 0 1 0 0 0 1 1 3 0.74 $83,552 $237,219 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 1 0 2 0 0 2 5 1.23 $40,823 $534,209 Other specified and classifiable 0 0 0 0 3 0 1 4 0.98 $46,325 $249,232 Other specified, NEC 0 0 0 1 0 0 0 1 0.25 $9,385 $9,385 Overexertion 0 0 0 0 1 1 0 2 0.49 $99,528 $199,056 Pedal cyclist, other 0 0 0 1 2 0 0 3 0.74 $69,565 $347,786 Pedestrian, other 0 0 0 0 0 0 0 0 0.00 0 0 Poisoning 4 0 4 7 1 0 0 16 3.93 $44,461 $1,123,466 Struck by/against 0 0 1 1 1 2 4 9 2.21 $92,338 $1,255,496 Suffocation 0 0 0 0 0 0 0 0 0.00 0 0 Transport, other 0 0 0 0 0 0 0 0 0.00 0 0 Unspecified 0 0 0 6 9 6 17 38 9.34 $59,094 $3,239,081 Intent Unintentional 0 6 7 26 53 72 218 382 93.86 $68,545 $46,061,245 Self-Inflicted 0 0 1 4 1 0 1 7 1.72 $57,221 $541,206 Assault 0 0 1 1 0 0 1 3 0.74 $48,490 $175,699 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 4 0 4 6 1 0 0 15 3.69 $44,054 $1,077,968 Outcome Fatal 0 0 0 0 0 3 11 14 3.44 $73,968 $2,555,580 Nonfatal 4 6 13 37 55 69 209 393 96.56 $65,815 $45,300,538 Payor Uninsured 0 1 2 3 3 1 0 10 2.46 $89,620 $1,013,327 Medicare 0 0 0 4 17 66 206 293 71.99 $66,049 $33,784,948 Medicaid 3 2 5 11 11 0 1 33 8.11 $62,825 $2,926,482 Blue Cross 0 0 1 5 9 0 1 16 3.93 $68,222 $1,541,982 Commercial 1 3 5 10 13 5 11 48 11.79 $85,259 $7,990,538 Government 0 0 0 4 2 0 1 7 1.72 $60,446 $598,842 Other/Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Payor Missing 0 0 0 0 0 0 0 0 0.00 0 0 Overall Total 4 6 13 37 55 72 220 407 100.00 $66,049 $47,856,118 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Venango County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 4 6 21 64 139 136 252 622 100.00 $50,371 $55,021,293 Gender Male 4 2 11 43 76 70 108 314 50.48 $57,519 $31,647,235 Female 0 4 10 21 63 66 144 308 49.52 $45,775 $23,374,058 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 4 4 20 62 136 135 250 611 98.23 $50,797 $54,494,655 Black 0 1 0 0 3 0 0 4 0.64 $52,299 $336,234 Asian/Pac. Isl. 0 0 0 0 0 0 0 0 0.00 0 0 Native Am./Esk. 0 0 0 0 0 0 0 0 0.00 0 0 Other 0 0 1 0 0 0 0 1 0.16 $9,660 $9,660 Unknown 0 1 0 2 0 1 2 6 0.96 $28,738 $180,743 Mechanism Bites and stings 1 0 0 0 1 2 2 6 0.96 $30,396 $493,332 Cut/pierce 0 0 0 2 1 3 1 7 1.13 $20,388 $294,979 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 2 2 2 16 78 93 207 400 64.31 $52,739 $32,911,109 Fire/flame 0 0 1 0 0 3 0 4 0.64 $67,005 $280,818 Firearm 0 0 0 0 1 0 0 1 0.16 $211,980 $211,980 Hot object/substance 0 0 0 0 0 0 0 0 0.00 0 0 Machinery 0 0 0 1 2 0 0 3 0.48 $37,999 $860,799 MVT Occupant 0 1 5 2 8 6 7 29 4.66 $60,753 $2,820,645 MVT Motorcyclist 0 0 1 2 3 1 2 9 1.45 $106,557 $1,351,133 MVT Pedalcyclist 0 0 0 0 1 0 0 1 0.16 $30,585 $30,585 MVT Pedestrian 0 0 0 0 0 0 1 1 0.16 $232,753 $232,753 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 1 0 0 0 1 0.16 $853,144 $853,144 Other natural and environmental factors 0 0 0 1 3 2 0 6 0.96 $31,160 $586,209 Other specified and classifiable 0 1 0 2 1 1 1 6 0.96 $59,720 $729,797 Other specified, NEC 0 0 0 3 1 2 0 6 0.96 $62,518 $442,875 Overexertion 0 0 0 0 1 3 1 5 0.80 $35,000 $177,716 Pedal cyclist, other 0 0 1 0 0 1 0 2 0.32 $250,231 $500,462 Pedestrian, other 0 0 0 0 0 0 2 2 0.32 $179,291 $358,582 Poisoning 0 2 10 26 18 3 3 62 9.97 $21,897 $3,749,944 Struck by/against 0 0 1 4 6 1 4 16 2.57 $59,439 $1,554,383 Suffocation 0 0 0 0 0 0 1 1 0.16 $201,919 $201,919 Transport, other 0 0 0 0 1 0 1 2 0.32 $67,143 $134,287 Unspecified 1 0 0 4 13 15 19 52 8.36 $44,319 $6,243,842 Intent Unintentional 4 4 9 33 119 130 248 547 87.94 $53,283 $49,659,430 Self-Inflicted 0 0 1 6 1 3 0 11 1.77 $20,639 $1,162,607 Assault 0 0 1 0 1 0 1 3 0.48 $117,961 $274,305 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 0 2 10 25 18 3 3 61 9.81 $25,900 $3,924,951 Outcome Fatal 0 0 0 3 2 3 11 19 3.05 $132,262 $3,463,754 Nonfatal 4 6 21 61 137 133 241 603 96.95 $48,664 $51,557,539 Payor Uninsured 0 0 0 4 2 0 0 6 0.96 $45,807 $217,873 Medicare 0 0 1 4 42 127 220 394 63.34 $52,739 $33,097,728 Medicaid 4 4 13 31 45 0 2 99 15.92 $46,679 $11,200,123 Blue Cross 0 0 2 10 19 2 1 34 5.47 $50,852 $2,273,129 Commercial 0 2 5 14 31 7 23 82 13.18 $40,793 $7,766,739 Government 0 0 0 0 0 0 6 6 0.96 $40,776 $366,680 Other/Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Payor Missing 0 0 0 1 0 0 0 1 0.16 $99,021 $99,021 Overall Total 4 6 21 64 139 136 252 622 100.00 $50,371 $55,021,293 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Warren County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 3 7 19 40 73 72 191 405 100.00 $39,168 $33,458,235 Gender Male 3 4 10 27 42 49 83 218 53.83 $42,271 $20,681,054 Female 0 3 9 13 31 23 108 187 46.17 $36,636 $12,777,181 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 2 5 12 40 72 70 188 389 96.05 $39,137 $31,612,902 Black 0 1 3 0 0 0 0 4 0.99 $15,242 $148,624 Asian/Pac. Isl. 0 0 0 0 0 0 0 0 0.00 0 0 Native Am./Esk. 0 0 0 0 0 0 0 0 0.00 0 0 Other 0 0 1 0 0 0 1 2 0.49 $23,013 $46,025 Unknown 1 1 3 0 1 2 2 10 2.47 $79,701 $1,650,684 Mechanism Bites and stings 0 0 0 2 2 3 2 9 2.22 $14,063 $124,127 Cut/pierce 1 1 0 4 1 1 1 9 2.22 $17,958 $226,677 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 0 2 6 7 42 44 153 254 62.72 $43,693 $21,747,399 Fire/flame 0 0 0 0 1 3 0 4 0.99 $23,691 $259,247 Firearm 0 0 0 0 0 0 0 0 0.00 0 0 Hot object/substance 1 0 0 0 0 0 0 1 0.25 $45,313 $45,313 Machinery 0 0 0 0 1 1 0 2 0.49 $161,363 $322,726 MVT Occupant 0 1 1 4 2 5 9 22 5.43 $83,284 $3,586,381 MVT Motorcyclist 0 0 0 3 2 0 0 5 1.23 $46,479 $352,460 MVT Pedalcyclist 0 0 1 0 0 0 0 1 0.25 $90,892 $90,892 MVT Pedestrian 0 0 0 0 0 0 0 0 0.00 0 0 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 0 0 0 0 0 2 2 0.49 $29,548 $59,096 Other specified and classifiable 0 0 0 1 0 1 0 2 0.49 $210,103 $420,205 Other specified, NEC 0 0 0 0 0 0 1 1 0.25 $145,835 $145,835 Overexertion 0 0 0 0 0 0 2 2 0.49 $32,342 $64,684 Pedal cyclist, other 0 1 0 2 0 1 0 4 0.99 $82,294 $378,241 Pedestrian, other 0 0 0 0 0 0 0 0 0.00 0 0 Poisoning 0 1 8 14 9 7 2 41 10.12 $14,052 $937,578 Struck by/against 0 1 0 3 3 0 4 11 2.72 $84,529 $756,235 Suffocation 0 0 0 0 0 2 0 2 0.49 $247,962 $495,923 Transport, other 0 0 0 0 0 1 0 1 0.25 $349,132 $349,132 Unspecified 1 0 3 0 10 3 15 32 7.90 $44,303 $3,096,081 Intent Unintentional 3 5 12 21 61 64 187 353 87.16 $45,334 $32,146,345 Self-Inflicted 0 1 0 4 3 1 0 9 2.22 $16,961 $208,849 Assault 0 0 0 1 0 0 1 2 0.49 $58,708 $117,416 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 0 1 7 14 9 7 3 41 10.12 $14,052 $985,624 Outcome Fatal 0 0 0 0 1 2 11 14 3.46 $83,888 $2,100,350 Nonfatal 3 7 19 40 72 70 180 391 96.54 $38,031 $31,357,885 Payor Uninsured 0 1 0 3 1 0 0 5 1.23 $16,656 $114,043 Medicare 0 0 0 3 28 63 172 266 65.68 $39,417 $23,042,852 Medicaid 1 2 7 13 15 1 0 39 9.63 $39,137 $2,682,064 Blue Cross 1 1 3 1 16 1 1 24 5.93 $37,112 $1,553,563 Commercial 1 3 9 20 10 5 12 60 14.81 $42,661 $5,600,319 Government 0 0 0 0 3 2 6 11 2.72 $21,362 $465,393 Other/Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Payor Missing 0 0 0 0 0 0 0 0 0.00 0 0 Overall Total 3 7 19 40 73 72 191 405 100.00 $39,168 $33,458,235 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Washington County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 19 22 87 201 468 481 970 2,248 100.00 $48,118 $213,644,839 Gender Male 7 9 64 131 240 233 393 1,077 47.91 $53,130 $113,168,157 Female 12 13 23 70 228 248 577 1,171 52.09 $45,164 $100,476,681 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 10 18 74 162 420 435 943 2,062 91.73 $47,070 $186,817,378 Black 4 3 6 25 24 21 13 96 4.27 $49,435 $11,312,308 Asian/Pac. Isl. 0 0 0 0 1 1 0 2 0.09 $750,205 $1,500,410 Native Am./Esk. 1 0 0 0 0 0 0 1 0.04 $30,976 $30,976 Other 0 0 4 4 5 1 1 15 0.67 $29,361 $976,812 Unknown 4 1 3 10 18 23 13 72 3.20 $102,254 $13,006,954 Mechanism Bites and stings 1 2 1 3 10 6 6 29 1.29 $26,386 $1,172,878 Cut/pierce 0 0 8 11 7 2 4 32 1.42 $29,669 $2,058,198 Drowning/submersion 0 0 0 1 0 1 0 2 0.09 $19,978 $39,955 Fall 6 3 12 43 213 302 764 1,343 59.74 $52,841 $116,965,251 Fire/flame 0 0 2 4 6 0 2 14 0.62 $156,138 $2,262,635 Firearm 0 0 4 1 3 1 0 9 0.40 $303,110 $4,911,283 Hot object/substance 1 0 2 3 4 2 1 13 0.58 $30,976 $2,682,338 Machinery 0 0 0 2 1 3 0 6 0.27 $69,726 $893,452 MVT Occupant 0 3 11 22 28 17 9 90 4.00 $110,372 $18,177,113 MVT Motorcyclist 0 0 6 10 14 6 1 37 1.65 $112,779 $10,403,474 MVT Pedalcyclist 0 0 0 1 0 1 0 2 0.09 $73,180 $146,359 MVT Pedestrian 1 0 1 1 3 4 0 10 0.44 $94,140 $1,986,052 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 2 0 0 1 3 1 3 10 0.44 $25,801 $306,249 Other specified and classifiable 0 2 3 5 5 1 3 19 0.85 $32,818 $2,360,488 Other specified, NEC 0 0 2 2 3 2 0 9 0.40 $35,322 $962,719 Overexertion 0 0 0 2 4 2 3 11 0.49 $32,958 $742,892 Pedal cyclist, other 0 0 0 0 2 4 0 6 0.27 $149,134 $1,350,081 Pedestrian, other 0 0 0 1 0 1 0 2 0.09 $101,621 $203,242 Poisoning 2 6 19 38 44 17 9 135 6.01 $20,946 $11,110,149 Struck by/against 1 3 7 10 25 10 24 80 3.56 $36,313 $5,218,343 Suffocation 0 0 1 1 3 9 6 20 0.89 $76,172 $3,391,295 Transport, other 0 0 1 2 2 1 0 6 0.27 $267,051 $2,512,883 Unspecified 5 3 7 37 88 88 135 363 16.15 $30,143 $23,787,510 Intent Unintentional 17 13 56 146 402 458 961 2,053 91.33 $49,505 $193,373,078 Self-Inflicted 0 0 8 7 6 5 0 26 1.16 $27,312 $1,902,897 Assault 0 3 6 11 14 1 1 36 1.60 $82,639 $7,463,314 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 2 6 17 37 46 17 8 133 5.92 $20,273 $10,905,550 Outcome Fatal 0 0 0 2 13 20 29 64 2.85 $116,221 $13,108,640 Nonfatal 19 22 87 199 455 461 941 2,184 97.15 $47,140 $200,536,198 Payor Uninsured 0 0 3 12 8 1 1 25 1.11 $73,875 $2,645,929 Medicare 0 0 1 29 121 418 902 1,471 65.44 $46,906 $116,062,984 Medicaid 12 13 23 65 130 4 3 250 11.12 $61,236 $38,976,088 Blue Cross 2 6 19 18 81 19 27 172 7.65 $65,920 $21,541,677 Commercial 5 3 39 76 118 33 27 301 13.39 $45,977 $33,251,867 Government 0 0 2 0 9 6 10 27 1.20 $27,361 $1,124,945 Other/Unknown 0 0 0 1 1 0 0 2 0.09 $20,675 $41,350 Payor Missing 0 0 0 0 0 0 0 0 0.00 0 0 Overall Total 19 22 87 201 468 481 970 2,248 100.00 $48,118 $213,644,839 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Wayne County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 2 5 11 53 86 122 275 554 100.00 $76,952 $76,191,079 Gender Male 2 2 5 35 52 68 115 279 50.36 $87,627 $43,260,794 Female 0 3 6 18 34 54 160 275 49.64 $71,479 $32,930,285 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 2 5 10 44 77 116 267 521 94.04 $75,582 $69,719,488 Black 0 0 1 6 4 0 0 11 1.99 $111,560 $1,525,266 Asian/Pac. Isl. 0 0 0 0 1 1 1 3 0.54 $197,695 $536,986 Native Am./Esk. 0 0 0 0 0 0 0 0 0.00 0 0 Other 0 0 0 1 0 1 1 3 0.54 $66,539 $170,043 Unknown 0 0 0 2 4 4 6 16 2.89 $95,196 $4,239,296 Mechanism Bites and stings 0 2 0 1 1 6 0 10 1.81 $40,573 $591,448 Cut/pierce 0 0 1 6 2 2 0 11 1.99 $74,476 $861,406 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 1 0 3 10 44 79 220 357 64.44 $78,042 $49,162,274 Fire/flame 0 0 0 2 1 1 4 8 1.44 $58,779 $2,702,399 Firearm 0 0 0 0 0 0 0 0 0.00 0 0 Hot object/substance 0 0 0 0 1 0 0 1 0.18 $31,877 $31,877 Machinery 0 0 0 1 0 0 0 1 0.18 $107,991 $107,991 MVT Occupant 0 0 2 3 7 1 5 18 3.25 $79,386 $4,388,061 MVT Motorcyclist 0 0 0 3 5 0 2 10 1.81 $147,611 $2,433,874 MVT Pedalcyclist 0 0 0 0 0 0 0 0 0.00 0 0 MVT Pedestrian 0 0 0 0 0 1 3 4 0.72 $78,603 $615,682 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 0 0 0 0 1 0 1 0.18 $76,383 $76,383 Other specified and classifiable 0 0 0 3 0 0 1 4 0.72 $89,154 $441,505 Other specified, NEC 0 0 0 0 2 0 0 2 0.36 $111,522 $223,043 Overexertion 0 0 0 0 0 0 2 2 0.36 $131,427 $262,853 Pedal cyclist, other 0 0 0 1 0 0 0 1 0.18 $33,173 $33,173 Pedestrian, other 0 0 0 0 0 0 0 0 0.00 0 0 Poisoning 1 2 3 5 7 7 0 25 4.51 $57,173 $1,849,828 Struck by/against 0 1 2 7 6 2 2 20 3.61 $85,697 $2,615,361 Suffocation 0 0 0 1 0 0 1 2 0.36 $192,057 $384,115 Transport, other 0 0 0 0 0 0 1 1 0.18 $429,767 $429,767 Unspecified 0 0 0 10 10 22 34 76 13.72 $68,103 $8,980,035 Intent Unintentional 1 3 8 44 73 115 275 519 93.68 $76,383 $72,757,817 Self-Inflicted 0 0 0 1 1 0 0 2 0.36 $64,368 $128,737 Assault 0 0 0 4 6 0 0 10 1.81 $118,914 $1,626,659 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 1 2 3 4 6 7 0 23 4.15 $50,289 $1,677,867 Outcome Fatal 0 0 0 0 3 3 12 18 3.25 $141,046 $3,193,946 Nonfatal 2 5 11 53 83 119 263 536 96.75 $76,026 $72,997,133 Payor Uninsured 0 0 0 3 2 1 0 6 1.08 $69,478 $649,819 Medicare 0 0 0 5 20 105 254 384 69.31 $68,902 $43,796,226 Medicaid 2 3 7 14 18 2 0 46 8.30 $81,322 $5,383,030 Blue Cross 0 0 4 5 20 4 5 38 6.86 $110,449 $9,100,220 Commercial 0 2 0 19 17 9 15 62 11.19 $92,713 $11,177,280 Government 0 0 0 7 6 1 1 15 2.71 $123,051 $4,796,626 Other/Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Payor Missing 0 0 0 0 3 0 0 3 0.54 $229,006 $1,287,878 Overall Total 2 5 11 53 86 122 275 554 100.00 $76,952 $76,191,079 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Westmoreland County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 43 92 219 454 978 1,123 2,519 5,428 100.00 $40,009 $416,004,527 Gender Male 14 28 101 272 537 565 983 2,500 46.06 $41,684 $220,951,839 Female 29 64 118 182 441 558 1,536 2,928 53.94 $38,685 $195,052,688 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 34 81 185 407 928 1,084 2,466 5,185 95.52 $39,610 $389,584,515 Black 3 7 21 31 37 29 20 148 2.73 $46,399 $12,844,555 Asian/Pac. Isl. 0 0 1 1 0 1 3 6 0.11 $38,255 $284,643 Native Am./Esk. 0 0 0 0 0 0 1 1 0.02 $170,735 $170,735 Other 2 2 2 2 6 3 8 25 0.46 $52,582 $3,858,645 Unknown 4 2 10 13 7 6 21 63 1.16 $76,590 $9,261,434 Mechanism Bites and stings 2 1 1 12 17 10 12 55 1.01 $21,966 $1,458,536 Cut/pierce 0 27 40 43 23 9 6 148 2.73 $11,538 $5,958,802 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 16 15 27 81 474 764 1,985 3,362 61.94 $46,627 $264,072,715 Fire/flame 0 1 2 4 2 1 2 12 0.22 $79,941 $1,988,261 Firearm 1 0 13 8 9 4 1 36 0.66 $143,121 $11,363,020 Hot object/substance 0 0 1 8 9 2 1 21 0.39 $28,108 $2,020,143 Machinery 0 0 0 1 5 0 1 7 0.13 $136,275 $1,183,986 MVT Occupant 2 4 25 27 31 31 41 161 2.97 $51,066 $22,350,702 MVT Motorcyclist 0 0 3 31 16 7 5 62 1.14 $94,196 $10,265,023 MVT Pedalcyclist 0 0 1 2 3 2 2 10 0.18 $130,174 $1,794,756 MVT Pedestrian 0 1 3 2 0 3 0 9 0.17 $155,960 $1,865,204 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 1 0 0 0 1 0.02 $15,328 $15,328 Other natural and environmental factors 0 1 2 2 6 7 8 26 0.48 $24,887 $2,347,551 Other specified and classifiable 1 1 2 5 6 5 2 22 0.41 $34,184 $1,532,925 Other specified, NEC 0 2 10 6 6 2 4 30 0.55 $21,731 $2,106,928 Overexertion 0 0 0 5 10 7 6 28 0.52 $44,470 $1,470,728 Pedal cyclist, other 0 4 2 0 2 4 0 12 0.22 $57,058 $636,432 Pedestrian, other 0 0 0 0 0 0 0 0 0.00 0 0 Poisoning 15 29 55 117 121 37 29 403 7.42 $19,402 $15,659,743 Struck by/against 1 2 17 23 25 21 41 130 2.39 $28,091 $6,998,164 Suffocation 0 0 0 2 3 6 12 23 0.42 $87,218 $3,457,068 Transport, other 0 1 0 0 3 2 3 9 0.17 $84,429 $807,246 Unspecified 5 3 15 74 207 199 358 861 15.86 $27,374 $56,651,266 Intent Unintentional 27 36 106 290 844 1,079 2,478 4,860 89.54 $42,527 $386,950,279 Self-Inflicted 0 30 62 38 8 5 5 148 2.73 $10,758 $8,287,821 Assault 2 1 7 14 12 5 5 46 0.85 $38,118 $5,315,254 Undetermined 0 0 0 2 0 0 0 2 0.04 $136,776 $273,551 Other/Unknown 14 25 44 110 114 34 31 372 6.85 $19,798 $15,177,622 Outcome Fatal 0 0 0 7 13 20 107 147 2.71 $85,306 $31,050,105 Nonfatal 43 92 219 447 965 1,103 2,412 5,281 97.29 $39,286 $384,954,423 Payor Uninsured 0 0 7 19 14 1 3 44 0.81 $32,398 $2,664,171 Medicare 0 0 11 46 327 1,004 2,330 3,718 68.50 $42,786 $277,457,181 Medicaid 33 30 44 177 260 1 3 548 10.10 $37,167 $51,412,229 Blue Cross 3 22 56 64 183 60 120 508 9.36 $32,123 $33,134,589 Commercial 7 40 96 143 167 44 37 534 9.84 $28,205 $43,668,537 Government 0 0 4 3 17 10 24 58 1.07 $33,566 $4,552,771 Other/Unknown 0 0 1 1 4 3 0 9 0.17 $29,309 $2,746,015 Payor Missing 0 0 0 1 6 0 2 9 0.17 $38,658 $369,034 Overall Total 43 92 219 454 978 1,123 2,519 5,428 100.00 $40,009 $416,004,527 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Wyoming County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 3 3 9 19 58 54 132 278 100.00 $91,015 $40,585,120 Gender Male 1 1 5 13 26 21 50 117 42.09 $81,686 $19,196,505 Female 2 2 4 6 32 33 82 161 57.91 $94,591 $21,388,615 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 2 3 6 18 56 53 131 269 96.76 $93,977 $40,058,022 Black 0 0 2 0 1 0 0 3 1.08 $52,747 $319,343 Asian/Pac. Isl. 0 0 0 0 0 0 0 0 0.00 0 0 Native Am./Esk. 0 0 0 0 0 0 0 0 0.00 0 0 Other 0 0 0 0 0 0 0 0 0.00 0 0 Unknown 1 0 1 1 1 1 1 6 2.16 $33,793 $207,755 Mechanism Bites and stings 0 0 0 1 1 0 1 3 1.08 $62,341 $244,948 Cut/pierce 0 1 0 1 0 1 0 3 1.08 $36,340 $108,835 Drowning/submersion 0 0 0 0 0 0 0 0 0.00 0 0 Fall 1 0 0 4 33 37 116 191 68.71 $103,147 $29,369,111 Fire/flame 0 0 0 0 1 0 0 1 0.36 $39,146 $39,146 Firearm 0 0 0 0 0 0 0 0 0.00 0 0 Hot object/substance 1 0 0 2 0 0 0 3 1.08 $27,392 $343,472 Machinery 0 0 0 0 0 0 0 0 0.00 0 0 MVT Occupant 0 1 0 4 1 1 3 10 3.60 $74,837 $1,282,990 MVT Motorcyclist 0 0 0 1 2 0 0 3 1.08 $137,839 $406,998 MVT Pedalcyclist 0 0 0 0 1 0 0 1 0.36 $825,647 $825,647 MVT Pedestrian 0 0 0 0 0 0 0 0 0.00 0 0 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 0 0 0 0 0 0 0.00 0 0 Other natural and environmental factors 0 0 0 0 0 1 0 1 0.36 $93,977 $93,977 Other specified and classifiable 0 0 1 1 0 0 0 2 0.72 $496,471 $992,941 Other specified, NEC 0 0 0 0 0 0 0 0 0.00 0 0 Overexertion 0 0 0 0 0 0 1 1 0.36 $143,278 $143,278 Pedal cyclist, other 0 0 0 0 1 0 0 1 0.36 $23,135 $23,135 Pedestrian, other 0 0 0 0 0 0 0 0 0.00 0 0 Poisoning 0 1 6 2 6 3 1 19 6.83 $45,351 $1,333,139 Struck by/against 0 0 0 1 0 2 4 7 2.52 $107,946 $975,860 Suffocation 0 0 0 0 1 1 1 3 1.08 $159,845 $427,424 Transport, other 1 0 0 0 0 0 0 1 0.36 $147,107 $147,107 Unspecified 0 0 2 2 11 8 5 28 10.07 $84,783 $3,827,113 Intent Unintentional 3 2 2 16 53 51 131 258 92.81 $96,176 $38,293,818 Self-Inflicted 0 0 0 1 0 0 0 1 0.36 $36,340 $36,340 Assault 0 0 1 0 0 0 0 1 0.36 $984,655 $984,655 Undetermined 0 0 0 0 0 0 0 0 0.00 0 0 Other/Unknown 0 1 6 2 5 3 1 18 6.47 $44,507 $1,270,307 Outcome Fatal 0 0 0 2 3 0 5 10 3.60 $177,750 $1,774,646 Nonfatal 3 3 9 17 55 54 127 268 96.40 $90,523 $38,810,474 Payor Uninsured 0 0 0 1 3 0 0 4 1.44 $171,033 $704,375 Medicare 0 0 0 1 15 48 127 191 68.71 $97,760 $25,546,145 Medicaid 2 2 4 3 15 0 0 26 9.35 $68,778 $3,675,870 Blue Cross 0 0 3 4 16 1 1 25 8.99 $59,194 $3,005,358 Commercial 1 1 2 6 7 3 4 24 8.63 $82,595 $5,896,838 Government 0 0 0 1 1 0 0 2 0.72 $527,017 $1,054,034 Other/Unknown 0 0 0 1 1 0 0 2 0.72 $44,515 $89,029 Payor Missing 0 0 0 2 0 2 0 4 1.44 $146,056 $613,472 Overall Total 3 3 9 19 58 54 132 278 100.00 $91,015 $40,585,120 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+York County Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 43 62 213 557 1,095 1,056 2,352 5,378 100.00 $50,561 $459,295,315 Gender Male 27 30 127 346 617 520 981 2,648 49.24 $51,199 $242,025,350 Female 16 32 86 211 478 536 1,371 2,730 50.76 $49,998 $217,269,966 Unknown 0 0 0 0 0 0 0 0 0.00 0 0 Race White 22 33 132 402 899 977 2,233 4,698 87.36 $50,881 $396,855,812 Black 7 11 36 72 96 41 46 309 5.75 $50,298 $25,374,460 Asian/Pac. Isl. 1 0 3 0 5 2 8 19 0.35 $72,369 $1,875,269 Native Am./Esk. 0 0 0 0 2 1 1 4 0.07 $69,297 $278,970 Other 11 15 35 72 71 26 46 276 5.13 $45,011 $25,212,170 Unknown 2 3 7 11 22 9 18 72 1.34 $56,264 $9,698,633 Mechanism Bites and stings 7 0 5 14 37 25 16 104 1.93 $29,660 $4,812,734 Cut/pierce 0 4 13 20 31 8 9 85 1.58 $41,602 $6,065,541 Drowning/submersion 1 1 0 0 0 0 0 2 0.04 $90,927 $181,853 Fall 12 17 29 129 574 783 2,038 3,582 66.60 $52,523 $294,850,987 Fire/flame 0 2 0 3 7 7 1 20 0.37 $56,441 $4,702,377 Firearm 0 0 13 20 5 4 3 45 0.84 $89,465 $8,663,510 Hot object/substance 6 0 1 4 8 3 2 24 0.45 $81,377 $5,454,914 Machinery 0 0 1 2 3 4 0 10 0.19 $70,671 $1,001,178 MVT Occupant 0 6 31 65 53 30 54 239 4.44 $63,998 $30,201,887 MVT Motorcyclist 0 0 13 40 37 8 0 98 1.82 $71,112 $13,857,998 MVT Pedalcyclist 0 0 0 1 5 2 1 9 0.17 $49,472 $828,388 MVT Pedestrian 0 2 1 9 12 5 4 33 0.61 $107,686 $5,262,716 MVT Unspecified 0 0 0 0 0 0 0 0 0.00 0 0 MVT Other 0 0 1 0 0 0 0 1 0.02 $166,292 $166,292 Other natural and environmental factors 2 1 0 3 18 6 8 38 0.71 $46,570 $2,809,355 Other specified and classifiable 2 1 4 10 8 8 1 34 0.63 $61,931 $2,582,820 Other specified, NEC 1 0 4 4 1 2 4 16 0.30 $46,435 $797,608 Overexertion 0 0 3 6 14 10 11 44 0.82 $52,770 $2,883,438 Pedal cyclist, other 0 2 0 2 8 3 1 16 0.30 $53,744 $1,076,427 Pedestrian, other 0 0 1 1 0 2 1 5 0.09 $48,783 $287,716 Poisoning 9 15 66 122 130 42 32 416 7.74 $29,572 $21,172,780 Struck by/against 0 2 13 37 30 18 45 145 2.70 $49,281 $11,461,315 Suffocation 0 0 1 1 1 2 7 12 0.22 $69,286 $1,659,027 Transport, other 0 0 0 0 0 0 1 1 0.02 $284,733 $284,733 Unspecified 3 9 13 64 113 84 113 399 7.42 $51,297 $38,229,723 Intent Unintentional 31 47 124 396 958 1,009 2,316 4,881 90.76 $52,880 $432,037,493 Self-Inflicted 0 2 22 15 16 3 3 61 1.13 $50,019 $5,464,853 Assault 1 1 9 35 12 9 4 71 1.32 $36,215 $5,177,011 Undetermined 0 0 0 1 0 0 0 1 0.02 $42,434 $42,434 Other/Unknown 11 12 58 110 109 35 29 364 6.77 $28,820 $16,573,524 Outcome Fatal 1 0 1 7 22 34 83 148 2.75 $95,342 $23,851,272 Nonfatal 42 62 212 550 1,073 1,022 2,269 5,230 97.25 $49,680 $435,444,044 Payor Uninsured 4 2 10 21 28 1 4 70 1.30 $36,871 $5,447,112 Medicare 0 0 0 54 316 918 2,172 3,460 64.34 $53,057 $287,563,448 Medicaid 23 39 68 221 233 4 11 599 11.14 $42,395 $56,105,656 Blue Cross 6 9 51 93 230 25 8 422 7.85 $43,390 $34,079,430 Commercial 8 10 76 151 246 76 64 631 11.73 $51,436 $60,510,919 Government 2 2 4 8 34 32 90 172 3.20 $46,078 $13,872,904 Other/Unknown 0 0 1 1 3 0 3 8 0.15 $23,299 $713,974 Payor Missing 0 0 3 8 5 0 0 16 0.30 $50,251 $1,001,873 Overall Total 43 62 213 557 1,095 1,056 2,352 5,378 100.00 $50,561 $459,295,315 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+## 2024 Acute Hospitalized Injury Profile
+Pennsylvania Age Group (Years) Total Pop Total Charges Under
+* * *
+## _5 Yrs_
+5-14
+* * *
+Yrs 15-24 Yrs 25-44 Yrs 45-64 Yrs 65-74 Yrs 75+ Yrs All Ages % in Group Median Charges Sum Charges Overall Total 1,312 1,705 5,546 17,063 29,769 29,253 64,180 148,828 100.00 $61,857 $15,768,838,522 Gender Male 756 882 3,077 10,564 16,831 14,515 25,192 71,817 48.26 $65,496 $8,543,355,741 Female 555 821 2,456 6,479 12,925 14,737 38,983 76,956 51.71 $58,912 $7,210,504,520 Unknown 1 2 13 20 13 1 5 55 0.04 $166,237 $14,978,261 Race White 644 1,028 3,316 10,720 22,178 24,754 58,505 121,145 81.40 $60,054 $11,930,826,092 Black 296 325 1,215 3,700 4,828 2,923 2,949 16,236 10.91 $77,391 $2,341,978,796 Asian/Pac. Isl. 25 20 88 205 231 224 542 1,335 0.90 $63,613 $177,678,864 Native Am./Esk. 3 2 13 51 67 39 65 240 0.16 $60,780 $20,365,547 Other 174 242 603 1,546 1,493 692 944 5,694 3.83 $65,050 $741,401,048 Unknown 170 88 311 841 972 621 1,175 4,178 2.81 $62,589 $556,588,175 Mechanism Bites and stings 52 69 70 370 687 411 409 2,068 1.39 $34,824 $121,933,620 Cut/pierce 19 109 450 913 689 243 175 2,598 1.75 $43,802 $218,710,428 Drowning/submersion 13 13 6 5 7 2 3 49 0.03 $84,475 $9,818,005 Fall 425 398 731 3,679 13,932 20,300 53,598 93,063 62.53 $64,184 $9,162,280,043 Fire/flame 13 39 47 168 267 149 108 791 0.53 $88,496 $211,541,276 Firearm 15 27 361 743 315 83 36 1,580 1.06 $127,125 $421,221,413 Hot object/substance 108 39 47 189 241 100 83 807 0.54 $69,018 $129,214,342 Machinery 2 6 20 64 73 61 34 260 0.17 $64,669 $33,923,891 MVT Occupant 24 102 722 1,387 1,558 937 1,182 5,912 3.97 $79,422 $889,290,377 MVT Motorcyclist 1 14 306 652 614 158 63 1,808 1.21 $102,166 $360,516,158 MVT Pedalcyclist 1 40 37 68 118 58 23 345 0.23 $74,799 $44,055,681 MVT Pedestrian 14 61 83 324 308 157 109 1,056 0.71 $120,361 $246,641,069 MVT Unspecified 0 0 0 1 0 0 1 2 0.00 $53,658 $107,316 MVT Other 0 3 5 4 10 3 2 27 0.02 $68,117 $3,075,484 Other natural and environmental factors 36 16 32 194 340 230 317 1,165 0.78 $52,407 $112,000,521 Other specified and classifiable 54 51 78 227 195 130 102 837 0.56 $56,237 $119,047,894 Other specified, NEC 17 16 82 170 116 47 44 492 0.33 $45,329 $55,164,941 Overexertion 2 13 47 162 303 238 363 1,128 0.76 $51,277 $94,332,166 Pedal cyclist, other 2 53 33 74 121 118 49 450 0.30 $63,843 $42,068,600 Pedestrian, other 4 11 19 55 64 32 30 215 0.14 $97,697 $38,870,031 Poisoning 256 381 1,568 4,152 4,318 1,495 901 13,071 8.78 $40,978 $1,005,654,409 Struck by/against 47 123 366 946 1,011 616 1,045 4,154 2.79 $58,347 $400,614,212 Suffocation 7 2 17 65 229 261 402 983 0.66 $122,283 $264,028,098 Transport, other 1 5 11 39 44 25 26 151 0.10 $84,429 $20,354,068 Unspecified 199 114 408 2,412 4,209 3,399 5,075 15,816 10.63 $57,795 $1,764,374,479 Intent Unintentional 996 1,187 3,179 11,368 24,695 27,594 63,172 132,191 88.82 $64,129 $14,206,860,185 Self-Inflicted 1 102 496 677 426 132 86 1,920 1.29 $37,302 $201,195,210 Assault 71 58 421 1,280 755 203 102 2,890 1.94 $78,518 $494,378,594 Undetermined 0 0 4 24 14 5 5 52 0.03 $62,290 $10,239,465 Other/Unknown 244 358 1,446 3,714 3,879 1,319 815 11,775 7.91 $39,474 $856,165,067 Outcome Fatal 34 16 53 304 634 790 2,263 4,094 2.75 $118,531 $935,940,581 Nonfatal 1,278 1,689 5,493 16,759 29,135 28,463 61,917 144,734 97.25 $60,972 $14,832,897,941 Payor Uninsured 112 81 333 1,125 888 161 141 2,841 1.91 $53,119 $272,921,801 Medicare 2 1 89 1,440 8,173 24,661 58,712 93,078 62.54 $62,289 $9,027,036,742 Medicaid 832 829 2,182 8,512 9,570 549 444 22,918 15.40 $65,862 $3,104,892,638 Blue Cross 168 351 1,094 1,963 4,940 1,255 1,265 11,036 7.42 $56,587 $1,166,792,114 Commercial 186 422 1,707 3,550 5,497 2,041 2,408 15,811 10.62 $61,842 $1,888,737,600 Government 10 18 65 263 444 415 996 2,211 1.49 $50,510 $199,678,119 Other/Unknown 2 3 53 140 190 141 190 719 0.48 $51,194 $82,953,656 Payor Missing 0 0 23 70 67 30 24 214 0.14 $63,432 $25,825,851 Overall Total 1,312 1,705 5,546 17,063 29,769 29,253 64,180 148,828 100.00 $61,857 $15,768,838,522 Source: PHC4 Hospital Discharge Data, 2024.
+* * *
+Violence and Injury Prevention Program Bureau of Health Promotion and Risk Reduction Division of Health Risk Reduction Pennsylvania Department of Health
+* * *
+## _625 Forster St._
+Room 1008 Health and Human Services Building
+* * *
+Harrisburg, PA 17120 717-787-5900 http://www.health.pa.gov (See Violence and Injury Prevention under Healthy Living)
+* * *
+This report is supported by cooperative agreement #5U17CE002016-04 from the Centers for Disease Control and Prevention. The content is solely the responsibility of the authors and does not necessarily represent the official views of the Centers for Disease Control and Prevention.
+* * *
+
+
+
+--- EMBEDDED FILE CONTENT: https://www.pa.gov/content/dam/copapwp-pagov/en/health/documents/topics/healthstatistics/behavioralstatistics/behavioralriskpaadults/documents/ACE%20Report%202021.pdf ---
+
+pkk
+* * *
+## _2021 Adverse_
+**Childhood**
+**Experiences**
+**BRFSS Prevalence**
+Estimates for
+* * *
+**Pennsylvania Adults**
+**December 2022**
+## ADVERSE CHILDHOOD EXPERIENCES PENNSYLVANIA DEPARTMENT OF HEALTH 1
+## _Table of Contents_
+Introduction.................................................................................................................................................. 2
+* * *
+Methods........................................................................................................................................................ 2 Results........................................................................................................................................................... 3 Discussion...................................................................................................................................................... 8 Citations...................................................................................................................................................... 10
+* * *
+## _Appendix A: ACEs Prevalence Estimates by Question, BRFSS, Pennsylvania, 2021.................................... 11_
+During childhood, they lived with someone who was depressed, mentally ill, or suicidal.................... 11
+* * *
+During childhood, they lived with someone who was a problem drinker or alcoholic.......................... 12 During childhood, they lived with someone who used illegal street drugs or abused prescription medications............................................................................................................................................. 13 During childhood, they lived with someone who served time or was sentenced to serve time in a prison, jail or other correctional facility…............................................................................................... 14 During childhood, their parents were separated or divorced................................................................ 15 During childhood, they witnessed domestic violence on at least one occasion.................................... 16 During childhood, a parent physically hurt them at least once…........................................................... 17 During childhood a parent swore, insulted or put them down at least once…...................................... 18 During childhood, they had someone at least five years older touch them sexually at least once…….. 19 During childhood, someone at least five years older tried to make them touch them sexually at least once......................................................................................................................................................... 20 During childhood, they were forced to have sex at least once with someone at least five years older than them............................................................................................................................................... 21
+* * *
+## _Appendix B: Demographic Characteristics of BRFSS and ACE Scores......................................................... 22_
+## _Appendix C: 2021 Adverse Childhood Experience Questions..................................................................... 24_
+## _Appendix D: Technical Notes...................................................................................................................... 27_
+## ADVERSE CHILDHOOD EXPERIENCES PENNSYLVANIA DEPARTMENT OF HEALTH 2
+**Introduction**
+Adverse Childhood Experiences (ACEs) are negative life events or experiences that
+* * *
+**Methods**
+occur before the age of 18. A strong relationship has been found between the number of ACEs and the risk for serious health problems in adults, such as increased risky behaviors and chronic diseases. This illustrates the idea that the environment, choices, and experiences, in addition to genetics, all impact health and well-being.¹ To better understand the prevalence of ACEs in Pennsylvania, as well as their impact, the Pennsylvania Department of Health collected statewide data on ACEs in the 2021 Behavioral Risk Factor Surveillance System (BRFSS) annual telephone survey. Analysis of the data collected in 2021 is presented on the following pages, as well as steps Pennsylvania can take to combat ACEs.
+* * *
+The ACE score, a sum of the categories of ACEs reported by participants, is used to assess cumulative childhood stress. This score is determined through a survey that assesses exposure to ACEs. In this survey, exposure to any categorical ACE condition is counted as 1 point. If a person experienced none of the conditions in childhood, their ACE score is zero. It is important to note that the ACE score does not measure the severity or frequency of each ACE. It reflects only the number of different types of ACEs an individual was exposed to as a child.¹ The BRFSS was used to determine ACE scores in Pennsylvania. The BRFSS is a system of health-related telephone surveys sponsored and supported by the Centers for Disease Control and Prevention (CDC) and conducted throughout the United States. These surveys collect national and state-specific data regarding health-related risk behaviors, chronic health conditions, and use of preventive services for citizens age 18 and older.2 The survey content includes demographic groupings for age, race/ethnicity, gender, income, education, employment, marital status, and health care coverage, which allow estimates for major risk populations. Pennsylvania contracts with the University of Pittsburgh to manage the sample of telephone numbers provided to Pennsylvania by the Population Health Surveillance Branch (PHSB) at the CDC. The university conducts the interviews with eligible respondents who have access to landline and cell phones and files the data from the interviews with PHSB. The data are then weighted, by the CDC, to each state’s population characteristics prior to releasing the record level data to individual states.
+* * *
+## _Table 1 in Appendix B compares selected characteristics of the final interview sample for the_
+## _2021 BRFSS to the 2020 population estimates for the adult population of Pennsylvania. The_
+observations used to calculate the estimates were weighted to account for differences between
+* * *
+the population and the distribution of age, sex, race, Hispanic origin, marital status, home ownership, type of telephone, and education characteristics of the sample.
+* * *
+## ADVERSE CHILDHOOD EXPERIENCES PENNSYLVANIA DEPARTMENT OF HEALTH 3
+The design of the BRFSS allows for individual state analysis. The Pennsylvania Department of
+* * *
+Health (DOH) is permitted to include a limited number of questions in the survey each year and collaborates with DOH programs to select these questions. In 2021, the adverse childhood experience (ACE) CDC module of questions was included. The ACE module was adapted from the original CDC-Kaiser Permanente ACE Study.¹ Through the ACE module, respondents were asked if they experienced any of the following types of ACEs: emotional abuse, physical abuse, sexual abuse, intimate partner violence, household substance abuse, household mental illness, parental separation or divorce, and incarcerated household member.¹ This report provides an analysis of 2021 ACE questions by select demographics. Results
+* * *
+## _Figure 1: Prevalence (%) Estimates (N=6,419) of Individual ACEs in Pennsylvania, 2021_
+Source: Centers for Disease Control Adverse Childhood Experiences (ACEs) (cdc.gov)
+* * *
+## _Figure 1 illustrates the prevalence estimates for individual ACEs in Pennsylvania, as_
+determined through analysis of BRFSS 2021 data. Eleven questions about ACEs were included
+* * *
+in this BRFSS 2021 Pennsylvania survey (see Appendix C). Emotional abuse accounts for the most ACEs in the commonwealth at a prevalence of 36%. These categories are similar to the national BRFSS ACE data, which found that emotional abuse is the ACE with the highest prevalence nationally. 3 The following table includes prevalence estimates of similar individual ACEs from Figure 1. The estimates in Tables 1 and 2 are from states who chose to run the ACE module any year from 2011-2014 (n=214,157). This is the most recent national study, but 2021 estimates for Pennsylvania compare favorably with the results of this national study.
+* * *
+5 8 9 10 13 17 22 25 25 25 36 0 5 10 15 20 25 30 35 40 Forced into sex with someone 5+ years older Forced to touch someone 5+ years older Incarcerated household member Touched by someone 5+ years older Drug abuse Witnessed domestic violence Mental illness Alcohol abuse Physical abuse Separated or divorced Emotional abuse Prevalence (%) Abuse Household Challenge
+* * *
+## ADVERSE CHILDHOOD EXPERIENCES PENNSYLVANIA DEPARTMENT OF HEALTH 4
+## _Table 1: Prevalence of ACEs by Category for Participants Completing the ACE Module on_
+the 2011-2014 BRFSS
+* * *
+## _Table 2: Prevalence of ACEs by Sex for Participants Completing the ACE Module_
+Nationally on the 2010 BRFSS
+* * *
+Number of Adverse Childhood Experiences (ACE Score) Women Men Total Percent Percent Percent 0 37.6% 39.3% 38.5% 1 22.7% 24.5% 23.5% 2 12.9% 13.9% 13.4% 3 9.0% 8.6% 8.8% 4 or more 17.8% 13.7% 15.8% Note: Reports and articles that use data from other years and/or other states may contain different estimates. Source: Merrick, M.T., Ford, D.C., Ports, K. A., Guinn, A. S. (2018). Prevalence of Adverse Childhood Experiences From the 2011-2014 Behavioral Risk Factor Surveillance System in 23 States.external icon JA MA Pediatrics, 172(11), 1038-1044.
+* * *
+ACE Category Women Men Total Percent Percent Percent ABUSE Emotional abuse 33.9% 34.9% 34.4% Physical abuse 17.5% 18.4% 17.9% Sexual abuse 16.3% 6.7% 11.6% HOUSEHOLD CHALLENGES Intimate partner violence 18.2% 16.8% 17.5% Substance abuse 28.7% 26.3% 27.6% Mental illness 19.2% 13.7% 16.5% Parental separation or divorce 27.8% 27.5% 27.6% Incarcerated household member 7.3% 8.6% 7.9%
+* * *
+## ADVERSE CHILDHOOD EXPERIENCES PENNSYLVANIA DEPARTMENT OF HEALTH 5
+As determined from the 2021 BRFSS data, 51% of Pennsylvania adults experienced one or
+* * *
+more ACEs (Figure 2). Of these adults who experienced ACEs, 44% indicated that these experiences were forms of childhood abuse (Figure 3). Tables displaying ACE scores by demographic are displayed in Appendix B.
+* * *
+## _Figure 2: Prevalence (%) Estimates (N=6,419) of ACEs by ACE Scores, Pennsylvania_
+adults, 2016, 2019, & 2021
+* * *
+Note: Prevalence estimates may not add to 100 due to rounding.
+* * *
+## _Figure 3: Prevalence (%) Estimates (N=6,419) of ACEs by Type of Abuse, Pennsylvania_
+adults, 2016, 2019, & 2021
+* * *
+49 18 11 7 6 9 46 19 12 7 6 10 49 20 11 7 5 7 0 10 20 30 40 50 60 0 1 2 3 4 5+ Prevalence (%) Number of ACEs 2021 2019 2016 44 36 25 12 44 37 26 12 38 35 16 11 0 5 10 15 20 25 30 35 40 45 50 Any Childhood Abuse Emotional Abuse Physical Abuse Sexual Abuse Prevalence (%) Type of abuse 2021 2019 2016
+* * *
+## ADVERSE CHILDHOOD EXPERIENCES PENNSYLVANIA DEPARTMENT OF HEALTH 6
+Two questions were used in analysis of any childhood abuse. Forty-four percent answered
+* * *
+> “yes” to either of the following two questions:
+o Not including spanking, (before age 18), how often did a parent or adult in your home ever hit, beat, kick, or physically hurt you in any way? o How often did a parent or adult in your home ever swear at you, insult you, or put you down?
+* * *
+Thirty-six percent of Pennsylvania adults reported on the 2021 survey that, during childhood, they experienced emotional abuse. The following question was asked in analysis of emotional abuse:
+* * *
+o How often did a parent or adult in your home ever swear at you, insult you, or put you down? Twenty-five percent of Pennsylvania adults reported on the 2021 survey that, during childhood, they experienced physical abuse. The following question was asked in analysis of physical abuse: o Not including spanking, (before age 18), how often did a parent or adult in your home ever hit, beat, kick, or physically hurt you in any way? Twelve percent of Pennsylvania adults reported on the 2021 survey that, during childhood, they experienced sexual abuse. The following questions were used in analysis of sexual abuse: o How often did anyone at least 5 years older than you or an adult ever touch you sexually? o How often did anyone at least 5 years older than you or an adult try to make you touch them sexually? o How often did anyone at least 5 years older than you or an adult force you to have sex? The risk of health problems and risky behaviors increase as the number of ACEs increases. Risks of smoking, drinking, and obesity are known to increase when people have been exposed to higher numbers of ACEs.
+* * *
+## _1 It is observed that Pennsylvanians with higher ACE scores are_
+more likely to be obese and to have smoked 100 cigarettes in their lifetime (Figure 4). In
+* * *
+response to the high prevalence of ACEs throughout Pennsylvania, the DOH has implemented programs to support adults who had ACEs and identify and address such experiences early in childhood. For example, to decrease the prevalence and risk of child abuse and child sexual abuse, the Violence and Injury Prevention Program in DOH funds the implementation of The Pennsylvania Coalition Against Rape’s program, Parents in the Know, through county municipal health departments. Parents in the Know consists of four 2-hour interactive sessions to help parents and guardians develop and improve skills to prevent child sexual abuse.4,5
+* * *
+The Wolf Administration has taken several steps to address the prevalence of ACEs in Pennsylvania. Through the Office of Advocacy and Reform (OAR), the Trauma-Informed PA plan was created to guide the commonwealth in being trauma-informed and healing-centered.
+* * *
+## ADVERSE CHILDHOOD EXPERIENCES PENNSYLVANIA DEPARTMENT OF HEALTH 7
+The plan addresses ACEs as part of the broader concept of trauma by tying ACEs to strategies
+* * *
+focused on the prevention of trauma.
+* * *
+Additionally, OAR, in partnership with DOH and the Department of Human Services, is participating in a National Governors Association (NGA) learning collaborative on addressing ACEs. Through the collaborative, NGA provides technical assistance on developing strategies to prevent and mitigate childhood traumas associated with ACEs.
+* * *
+## _Figure 4: Prevalence (%) of Risk Factors by ACE Score, Pennsylvania adults, 2021_
+Note: The red line for each risk factor indicates the Pennsylvania prevalence estimates. From the Pennsylvania BRFSS 2021 data, it is observed that individuals with higher ACE
+* * *
+scores are more likely to indicate they have fair or poor general health and higher prevalence of cardiovascular problems (Figure 5). Additionally, a correllation between asthma and ACE score is evident specifically among Pennsylvanians. These results are in line with national findings that ACE scores predict increased odds of reporting a health problem. 6
+* * *
+## _Figure 5: Prevalence (%) of Chronic Disease by ACE Score, Pennsylvania adults, 2021_
+Note: The red line for each risk factor indicates the Pennsylvania prevalence estimates. 0
+* * *
+10 20 30 40 50 60 Smoked 100 Cigarettes in Lifetime At Risk for Heavy Drinking No Physical Activity in Past Month Obese Percent ACE Score 0 1 2 3 4+ 0 5 10 15 20 25 30 Fair or Poor General Health Had Heart Attack, Heart Disease, or Stroke Ever Had Diabetes Ever Had Asthma Percent ACE Score 0 1 2 3 4+
+* * *
+## ADVERSE CHILDHOOD EXPERIENCES PENNSYLVANIA DEPARTMENT OF HEALTH 8
+Discussion
+* * *
+Positive interactions with caring adults in early childhood build the foundation of a healthy lifestyle. Conversely, negative interactions may contribute to a stressful childhood environment and create impediments to the achievement of a healthy lifestyle. For a child who experiences trauma such as abuse and neglect, the stress can become toxic and affect brain development. The impact of ACEs ultimately disrupts healthy development, which can impair learning capacity, reduce the ability to regulate emotions and respond to adversity, affect decision making skills, and hinder the ability to form healthy relationships. Those suffering from toxic stress were more likely to have suffered from abuse, neglect, parental substance abuse, or family violence. A child’s ability to cope with stress may be hindered if frequent, prolonged and toxic stress occurs and positive support doesn’t exist. High levels of stress can influence a child’s development and can have lasting effects that can lead to risky behaviors and an increased prevalence of chronic disease. 6,7
+* * *
+The 1998 CDC-Kaiser Permanente ACE Study identified a strong correlation between traumatic experiences in childhood and the emergence of risky behaviors as they grow into adulthood.1 This ACE Pyramid (Figure 6) shows how ACEs have a strong influence on the development of risky behavioral factors throughout life. Brain development is affected by harmful childhood experiences which can alter emotional, social, and cognitive development. People may turn to risky behaviors, such as smoking or drinking, to compensate for feelings of stress and depression that may be due to exposure to ACEs. These behaviors, in turn, can lead to a higher prevalence of other risky behaviors and chronic disease.
+* * *
+## _Figure 6: The ACE Pyramid_
+Source: CDC ACE Study (https://www.cdc.gov/violenceprevention/acestudy/about.html)
+* * *
+Death Conception Early death Disease, disability, and social problems Adoption of health-risk behaviors Social, emotional, and cognitive impairment Disrupted neurodevelopment Adverse childhood experiences Social conditions/Local context Generational embodiment/Historical trauma
+* * *
+## ADVERSE CHILDHOOD EXPERIENCES PENNSYLVANIA DEPARTMENT OF HEALTH 9
+Combatting ACEs
+* * *
+Many segments of society can contribute to reducing ACE exposure in childhood. The implementation of education regarding ACEs and the advocacy for greater understanding of youth risk factors are good places to start. Although ACEs alone have a tremendous impact on a child’s development, how well this child deals with these past experiences largely depends on his or her individual ability to adapt to or recover from stress. Frequency or intensity of ACEs certainly have a major effect on shaping individuals, but a child’s temperament and ability to adapt to stressful situations can limit the magnitude of their effects. Children need to be educated on ways to manage their stress and successfully cope with life’s many challenges. This skill of resilience can be developed over time. Parents and youth can use resilience to cope with stressful situations, help form trustworthy relationships, make positive social connections, and access help and resources, when needed, from a variety of support networks. 8 The CDC’s Division of Violence Prevention developed the following 5 strategies for preventing child abuse and neglect that address the population level needs to support families and prevent ACEs:9 1. strengthen economic supports to families; 2. change social norms to support parents and positive parenting; 3. provide quality care and education early in life; 4. enhance parenting skills to promote healthy child development; and 5. intervene to lessen harms and prevent future risk. More information on these strategies and approaches to implementation can be found in CDC’s technical manual, “Preventing child abuse and neglect: A technical package for policy, norm, and programmatic activities”. 10
+* * *
+## ADVERSE CHILDHOOD EXPERIENCES PENNSYLVANIA DEPARTMENT OF HEALTH 10
+Citations
+* * *
+1. Felitti, V. J., et al. (1998). Relationship of childhood abuse and household dysfunction to many of the leading causes of death in adults. American Journal of Preventive Medicine, 14(4). 2. “About BRFSS”. (2014). National Center for Chronic Disease Prevention and Health Promotion, Division of Population Health. https://www.cdc.gov/brfss/about/index.htm 3. “Behavioral Risk Factor Surveillance System ACE Data”. (2019). National Center for Injury Prevention and Control, Division of Violence Prevention. Adverse Childhood Experiences (ACEs) (cdc.gov). 4. “Violence and Injury Prevention”. (2019). Pennsylvania Department of Health. https://www.health.pa.gov/topics/programs/violence-prevention/Pages/Violence Injury%20Prevention.aspx.
+* * *
+5. “Parents in the Know”. (2018). Pennsylvania Coalition Against Rape. https://pcar.org/parents-know.
+* * *
+6. Montgomery, A. E., et al. (2013). Relationship among adverse childhood experiences, history of active military services, and adult outcomes: Homelessness, mental health, and physical health. American Journal of Public Health, 103(Suppl 2): S262-268. 7. De Bellis, M. D., Zisk, A. (2014). The biological effects of childhood trauma. Child and Adolescent Psychiatric Clinics of North America, 23(2): 185-222. 8. “Adverse Childhood Experiences and the Lifelong Consequences of Trauma”. American Academy of Pediatrics. https://www.aap.org/en-us/Documents/ttb_aces_consequences.pdf. 9. “About Adverse Childhood Experiences”. (2019). National Center for Injury Prevention and Control, Division of Violence Prevention. Child Abuse and Neglect Prevention |Violence Prevention|Injury Center|CDC. 10. Fortson, B., et al. (2016). Preventing child abuse and neglect: A technical package for policy, norm, and programmatic activities. Division of Violence Prevention, National Center for Injury Prevention and Control, Centers for Disease Control and Prevention.
+* * *
+## ADVERSE CHILDHOOD EXPERIENCES PENNSYLVANIA DEPARTMENT OF HEALTH 11
+## _Appendix A: ACEs Prevalence Estimates by Question, BRFSS,_
+Pennsylvania, 2021
+* * *
+Chart 1: Did you live with anyone who was depressed, mentally ill, or suicidal?*
+* * *
+22% 30% 20% 25% 23% 21% 22% 29% 25% 21% 24% 21% 32% 23% 19% 31% 12% 22% 18% 29% 26% 22% 23% 21% 25% 25% 22% 22% 24% 22% 20% 10% 19% 30% 37% 25% 20% 22% Have health care coverage No health care coverage Non-drinker Drink but not chronic Chronic drinker Never smoked Former smoker Current smoker Neither overweight nor obese Overweight (25 <= BMI < 30) Obese (BMI >= 30) Not asthmatic Asthmatic (current) Not diagnosed diabetic Diagnosed diabetic Never married Widowed Divorced/separated Married Hispanic Black, non-Hispanic White, non-Hispanic $75,000+ $50,000 to $74,999 $25,000 to $49,999 $15,000 to $24,999 <$15,000 College degree Some college High school < High school 65+ 45-64 30-44 18-29 Female Male Total PERCENT 59 95% Confidence interval * Demographics with significant differences displayed with orange bars
+* * *
+## ADVERSE CHILDHOOD EXPERIENCES PENNSYLVANIA DEPARTMENT OF HEALTH 12
+Chart 2: Did you live with anyone who was a problem drinker or alcoholic?*
+* * *
+25% 28% 25% 24% 33% 20% 29% 38% 27% 25% 26% 24% 32% 25% 24% 26% 27% 29% 23% 35% 29% 25% 24% 22% 28% 32% 35% 19% 26% 28% 33% 21% 27% 27% 27% 28% 22% 25% Have health care coverage No health care coverage Non-drinker Drink but not chronic Chronic drinker Never smoked Former smoker Current smoker Neither overweight nor obese Overweight (25 <= BMI < 30) Obese (BMI >= 30) Not asthmatic Asthmatic (current) Not diagnosed diabetic Diagnosed diabetic Never married Widowed Divorced/separated Married Hispanic Black, non-Hispanic White, non-Hispanic $75,000+ $50,000 to $74,999 $25,000 to $49,999 $15,000 to $24,999 <$15,000 College degree Some college High school < High school 65+ 45-64 30-44 18-29 Female Male Total PERCENT 595% Confidence intervalterval99999 * Demographics with significant differences displayed with orange bars
+* * *
+## ADVERSE CHILDHOOD EXPERIENCES PENNSYLVANIA DEPARTMENT OF HEALTH 13
+Chart 3: Did you live with anyone who used illegal street drugs or who abused
+* * *
+prescription medications?*
+* * *
+13% 23% 13% 14% 13% 10% 15% 10% 15% 12% 15% 12% 21% 13% 10% 18% 9% 12% 10% 22% 20% 12% 12% 11% 16% 16% 19% 10% 13% 15% 21% 4% 13% 20% 18% 13% 13% 13% Have health care coverage No health care coverage Non-drinker Drink but not chronic Chronic drinker Never smoked Former smoker Current smoker Neither overweight nor… Overweight (25 <= BMI <… Obese (BMI >= 30) Not asthmatic Asthmatic (current) Not diagnosed diabetic Diagnosed diabetic Never married Widowed Divorced/separated Married Hispanic Black, non-Hispanic White, non-Hispanic $75,000+ $50,000 to $74,999 $25,000 to $49,999 $15,000 to $24,999 <$15,000 College degree Some college High school < High school 65+ 45-64 30-44 18-29 Female Male Total PERCENT 95% Confidence Interval * Demographics with significant differences displayed with orange bars
+* * *
+## ADVERSE CHILDHOOD EXPERIENCES PENNSYLVANIA DEPARTMENT OF HEALTH 14
+Chart 4: Did you live with anyone who served time or was sentenced to serve time in a
+* * *
+prison, jail, or other correctional facility?*
+* * *
+9% 20% 9% 9% 9% 8% 8% 15% 10% 9% 10% 8% 15% 9% 7% 15% 4% 8% 6% 18% 20% 7% 5% 7% 13% 14% 15% 5% 9% 11% 15% 3% 7% 14% 16% 10% 9% 9% Have health care coverage No health care coverage Non-drinker Drink but not chronic Chronic drinker Never smoked Former smoker Current smoker Neither overweight nor obese Overweight (25 <= BMI < 30) Obese (BMI >= 30) Not asthmatic Asthmatic (current) Not diagnosed diabetic Diagnosed diabetic Never married Widowed Divorced/separated Married Hispanic Black, non-Hispanic White, non-Hispanic $75,000+ $50,000 to $74,999 $25,000 to $49,999 $15,000 to $24,999 <$15,000 College degree Some college High school < High school 65+ 45-64 30-44 18-29 Female Male Total PERCENT 95% Confidence Interval * Demographics with significant differences displayed with orange bars
+* * *
+## ADVERSE CHILDHOOD EXPERIENCES PENNSYLVANIA DEPARTMENT OF HEALTH 15
+Chart 5: Were your parents separated or divorced?*
+* * *
+25% 42% 25% 26% 26% 22% 26% 38% 25% 24% 28% 24% 33% 26% 21% 35% 19% 28% 20% 43% 41% 23% 22% 24% 28% 35% 34% 18% 27% 29% 30% 12% 24% 36% 35% 26% 25% 25% Have health care coverage No health care coverage Non-drinker Drink but not chronic Chronic drinker Never smoked Former smoker Current smoker Neither overweight nor obese Overweight (25 <= BMI < 30) Obese (BMI >= 30) Not asthmatic Asthmatic (current) Not diagnosed diabetic Diagnosed diabetic Never married Widowed Divorced/separated Married Hispanic Black, non-Hispanic White, non-Hispanic $75,000+ $50,000 to $74,999 $25,000 to $49,999 $15,000 to $24,999 <$15,000 College degree Some college High school < High school 65+ 45-64 30-44 18-29 Female Male Total PERCENT 95% Confidence Interval * Demographics with significant differences displayed with orange bars
+* * *
+## ADVERSE CHILDHOOD EXPERIENCES PENNSYLVANIA DEPARTMENT OF HEALTH 16
+Chart 6: How often did your parents or adults in your home ever slap, hit, kick, punch, or
+* * *
+beat each other up?*
+* * *
+17% 26% 17% 17% 20% 16% 17% 26% 17% 17% 19% 16% 27% 17% 17% 22% 10% 22% 14% 26% 24% 16% 14% 16% 20% 30% 25% 13% 18% 20% 23% 12% 17% 23% 21% 17% 18% 17% Have health care coverage No health care coverage Non-drinker Drink but not chronic Chronic drinker Never smoked Former smoker Current smoker Neither overweight nor obese Overweight (25 <= BMI < 30) Obese (BMI >= 30) Not asthmatic Asthmatic (current) Not diagnosed diabetic Diagnosed diabetic Never married Widowed Divorced/separated Married Hispanic Black, non-Hispanic White, non-Hispanic $75,000+ $50,000 to $74,999 $25,000 to $49,999 $15,000 to $24,999 <$15,000 College degree Some college High school < High school 65+ 45-64 30-44 18-29 Female Male Total PERCENT 95% Confidence Interval * Demographics with significant differences displayed with orange bars
+* * *
+## ADVERSE CHILDHOOD EXPERIENCES PENNSYLVANIA DEPARTMENT OF HEALTH 17
+Chart 7: Not including spanking, (before age 18), how often did a parent of adult in your
+* * *
+home ever hit, beat, kick, or physically hurt you in any way?*
+* * *
+25% 31% 24% 25% 34% 22% 29% 34% 25% 25% 29% 25% 30% 24% 34% 26% 25% 28% 23% 36% 31% 23% 23% 26% 27% 37% 36% 20% 28% 27% 29% 24% 25% 27% 26% 24% 27% 25% Have health care coverage No health care coverage Non-drinker Drink but not chronic Chronic drinker Never smoked Former smoker Current smoker Neither overweight nor obese Overweight (25 <= BMI < 30) Obese (BMI >= 30) Not asthmatic Asthmatic (current) Not diagnosed diabetic Diagnosed diabetic Never married Widowed Divorced/separated Married Hispanic Black, non-Hispanic White, non-Hispanic $75,000+ $50,000 to $74,999 $25,000 to $49,999 $15,000 to $24,999 <$15,000 College Degree Some College High School < High School 65+ 45-64 30-44 18-29 Female Male Total PERCENT 95% Confidence Interval *Demographic categories with at least one significant difference
+* * *
+* Demographics with significant differences displayed with orange bars
+* * *
+## ADVERSE CHILDHOOD EXPERIENCES PENNSYLVANIA DEPARTMENT OF HEALTH 18
+Chart 8: How often did a parent or adult in your home ever swear at you, insult you, or
+* * *
+put you down?*
+* * *
+36% 44% 32% 39% 42% 35% 36% 42% 34% 37% 39% 36% 39% 36% 34% 43% 23% 35% 33% 40% 40% 35% 39% 39% 34% 39% 37% 35% 40% 36% 27% 25% 35% 44% 45% 35% 38% 36% Have health care coverage No health care coverage Non-drinker Drink but not chronic Chronic drinker Never smoked Former smoker Current smoker Neither overweight nor obese Overweight (25 <= BMI < 30) Obese (BMI >= 30) Not asthmatic Asthmatic (current) Not diagnosed diabetic Diagnosed diabetic Never married Widowed Divorced/separated Married Hispanic Black, non-Hispanic White, non-Hispanic $75,000+ $50,000 to $74,999 $25,000 to $49,999 $15,000 to $24,999 <$15,000 College degree Some college High school < High school 65+ 45-64 30-44 18-29 Female Male Total PERCENT 95% Confidence Interval * Demographics with significant differences displayed with orange bars
+* * *
+## ADVERSE CHILDHOOD EXPERIENCES PENNSYLVANIA DEPARTMENT OF HEALTH 19
+Chart 9: How often did anyone at least 5 years older than you or an adult ever touch you
+* * *
+sexually?*
+* * *
+10% 14% 10% 10% 11% 8% 10% 18% 9% 9% 12% 9% 17% 10% 9% 11% 6% 13% 9% 13% 14% 9% 9% 9% 11% 15% 22% 8% 11% 9% 15% 8% 10% 10% 12% 14% 6% 10% Have health care coverage No health care coverage Non-drinker Drink but not chronic Chronic drinker Never smoked Former smoker Current smoker Neither overweight nor obese Overweight (25 <= BMI < 30) Obese (BMI >= 30) Not asthmatic Asthmatic (current) Not diagnosed diabetic Diagnosed diabetic Never married Widowed Divorced/separated Married Hispanic Black, non-Hispanic White, non-Hispanic $75,000+ $50,000 to $74,999 $25,000 to $49,999 $15,000 to $24,999 <$15,000 College degree Some college High school < High school 65+ 45-64 30-44 18-29 Female Male Total PERCENT 95% Confidence Interval * Demographics with significant differences displayed with orange bars
+* * *
+## ADVERSE CHILDHOOD EXPERIENCES PENNSYLVANIA DEPARTMENT OF HEALTH 20
+Chart 10: How often did anyone at least 5 years older than you or an adult try to make
+* * *
+you touch them sexually?*
+* * *
+8% 12% 8% 7% 8% 6% 8% 14% 7% 7% 10% 7% 14% 8% 8% 10% 5% 11% 6% 11% 12% 7% 6% 7% 9% 11% 17% 6% 9% 8% 11% 5% 8% 8% 10% 10% 5% 8% Have health care coverage No health care coverage Non-drinker Drink but not chronic Chronic drinker Never smoked Former smoker Current smoker Neither overweight nor obese Overweight (25 <= BMI < 30) Obese (BMI >= 30) Not asthmatic Asthmatic (current) Not diagnosed diabetic Diagnosed diabetic Never married Widowed Divorced/separated Married Hispanic Black, non-Hispanic White, non-Hispanic $75,000+ $50,000 to $74,999 $25,000 to $49,999 $15,000 to $24,999 <$15,000 College degree Some college High school < High school 65+ 45-64 30-44 18-29 Female Male Total PERCENT 95% Confidence Interval * Demographics with significant differences displayed with orange bars
+* * *
+## ADVERSE CHILDHOOD EXPERIENCES PENNSYLVANIA DEPARTMENT OF HEALTH 21
+Chart 11: How often did anyone at least 5 years older than you or an adult force you to
+* * *
+have sex?*
+* * *
+5% 10% 5% 4% 4% 3% 5% 10% 4% 4% 7% 4% 11% 5% 6% 7% 4% 7% 3% 8% 10% 4% 3% 4% 5% 11% 13% 2% 5% 5% 11% 3% 4% 6% 6% 7% 3% 5% Have health care coverage No health care coverage Non-drinker Drink but not chronic Chronic drinker Never smoked Former smoker Current smoker Neither overweight nor obese Overweight (25 <= BMI < 30) Obese (BMI >= 30) Not asthmatic Asthmatic (current) Not diagnosed diabetic Diagnosed diabetic Never married Widowed Divorced/separated Married Hispanic Black, non-Hispanic White, non-Hispanic $75,000+ $50,000 to $74,999 $25,000 to $49,999 $15,000 to $24,999 <$15,000 College degree Some college High school < High school 65+ 45-64 30-44 18-29 Female Male Total PERCENT 95% Confidence Interval * Demographics with significant differences displayed with orange bars
+* * *
+## ADVERSE CHILDHOOD EXPERIENCES PENNSYLVANIA DEPARTMENT OF HEALTH 22
+## _Appendix B: Demographic Characteristics of BRFSS and ACE_
+Scores, 2021
+* * *
+## _Table 1: Distribution of 2021 Pennsylvania BRFSS Survey Sample and 2020 Pennsylvania_
+Adult Population Estimates for Selected Characteristics
+* * *
+## BRFSS Survey
+Sample 2020 Population Estimates
+* * *
+Number Percent Number Percent All adults 6,419 100 10,145,303 100 Sex Male 3,072 47.9 4,912,920 48.4 Female 3,347 52.1 5,232,383 51.6 Race White 4,973 77.5 8,254,046 81.4 Black 766 11.9 1,060,314 10.5 Other 481 7.5 830,943 8.1 Unknown/refused 199 3.1 N/A N/A Hispanic origin Yes 343 5.3 639,135 6.3 No 5,994 93.4 9,506,168 93.7 Unknown/refused 82 1.3 N/A N/A Age 18-24 551 8.6 1,155,285 11.4 25-34 861 13.4 1,693,816 16.7 35-44 955 14.9 1,502,784 14.8 45-54 1,005 15.7 1,651,599 16.3 55-64 1,189 18.5 1,806,715 17.8 65-74 1,053 16.4 1,317,854 13.0 75+ 650 10.1 1,017,250 10.0 Unknown/refused 155 2.4 N/A N/A Notes: Race data include Hispanics. Population estimates allocate unknowns, so they are included in demographic categories. This is further indicated by the use of "N/A" or not applicable for the 2020 population estimate "Unknown/refused" entries.
+* * *
+## ADVERSE CHILDHOOD EXPERIENCES PENNSYLVANIA DEPARTMENT OF HEALTH 23
+## _Table 2: ACE Scores by Select Demographic, Pennsylvania adults, 2021_
+Demographc No ACEs 1 ACE 2 ACEs 3 ACEs 4 ACEs
+* * *
+5 or more ACEs % (95% CI) % (95% CI) % (95% CI) % (95% CI) % (95% CI) % (95% CI) Total 49 (47-51) 17 (16-19) 11 (11-12) 7 (7-8) 6 (6-7) 9 (8-10) Male 51 (48-53) 18 (16-19) 11 (9-12) 8 (7-9) 6 (5-8) 7 (6-8) Female 47 (45-50) 17 (16-19) 11 (10-13) 7 (6-8) 7 (6-8) 10 (9-12) 18-29 46 (42-50) 16 (13-19) 10 (8-12) 7 (6-9) 8 (6-11) 13 (10-16) 30-44 47 (43-50) 14 (12-16) 11 (9-14) 7 (5-8) 8 (6-11) 14 (12-16) 45-64 47 (45-50) 19 (17-21) 11 (10-13) 9 (8-11) 6 (5-7) 8 (6-9) 65+ 54 (50-57) 21 (18-24) 11 (10-14) 6 (5-8) 5 (4-7) 3 (2-4) < High school 56 (48-63) 13 (9-20) 7 (5-11) 4 (3-7) 9 (5-16) 11 (7-15) High school 46 (43-49) 17 (15-19) 12 (11-14) 7 (6-9) 7 (5-8) 10 (9-12) Some college 46 (43-49) 18 (16-20) 11 (9-13) 7 (6-9) 7 (6-8) 10 (9-12) College degree 52 (49-54) 19 (17-21) 10 (9-12) 8 (7-10) 6 (5-7) 5 (4-7) <$15,000 43 (35-52) 15 (9-24) 10 (6-15) 11 (8-17) 4 (2-7) 16 (11-22) $15,000 to $24,999 43 (37-49) 15 (12-19) 11 (7-16) 8 (5-12) 10 (6-17) 13 (10-18) $25,000 to $49,999 45 (42-49) 17 (14-20) 12 (10-15) 7 (6-9) 7 (5-9) 11 (9-14) $50,000 to $74,999 47 (43-51) 18 (15-22) 12 (9-15) 9 (7-11) 5 (4-8) 8 (7-11) $75,000+ 46 (43-48) 20 (18-23) 12 (11-14) 7 (6-9) 8 (6-10) 7 (6-9) White, non-Hispanic 49 (47-51) 18 (17-20) 11 (10-13) 7 (7-8) 6 (5-7) 8 (7-9) Black, non-Hispanic 39 (35-44) 16 (13-19) 13 (10-16) 9 (7-12) 10 (8-13) 13 (10-16) Hispanic 50 (42-57) 14 (10-19) 8 (5-12) 5 (3-8) 10 (5-17) 14 (10-20) No health care coverage 47 (39-55) 13 (9-18) 9 (5-16) 7 (5-12) 9 (5-15) 15 (10-22) Have health care coverage 49 (47-51) 18 (17-19) 11 (10-12) 7 (7-8) 6 (6-7) 8 (8-9)
+* * *
+## ADVERSE CHILDHOOD EXPERIENCES PENNSYLVANIA DEPARTMENT OF HEALTH 24
+## _Appendix C: 2021 Adverse Childhood Experience Questions_
+The following were asked during in the 2021 Pennsylvania Behavioral Risk Factor Surveillance
+* * *
+System (BRFSS) survey. All questions refer to the time before the respondent was 18 years of age.
+* * *
+Question 1 Did you live with anyone who was depressed, mentally ill, or suicidal?
+* * *
+1. Yes 2. No 7. Don’t know/Not sure 9. Refused
+* * *
+Question 2 Did you live with anyone who was a problem drinker or alcoholic? 1. Yes 2. No 7. Don’t know/Not sure 9. Refused
+* * *
+Question 3 Did you live with anyone who used illegal street drugs or who abused prescription medications? 1. Yes 2. No 7. Don’t know/Not sure 9. Refused
+* * *
+Question 4 Did you live with anyone who served time or was sentenced to serve time in a prison, jail, or other correctional facility? 1. Yes 2. No 7. Don’t know/Not sure 9. Refused
+* * *
+Question 5 Were your parents separated or divorced? 1. Yes 2. No 8. Parents not married 7. Don’t know/Not sure 9. Refused
+* * *
+## ADVERSE CHILDHOOD EXPERIENCES PENNSYLVANIA DEPARTMENT OF HEALTH 25
+Question 6
+* * *
+How often did your parents or adults in your home ever slap, hit, kick, punch or beat each other up? 1. Never 2. Once 3. More than once 7. Don’t know/Not sure 9. Refused
+* * *
+Question 7 Not including spanking (before age 18), how often did a parent or adult in your home ever hit, beat, kick, or physically hurt you in any way?
+* * *
+1. Never 2. Once 3. More than once 7. Don’t know/Not sure 9. Refused
+* * *
+Question 8 How often did a parent or adult in your home ever swear at you, insult you, or put you down? 1. Never 2. Once 3. More than once 7. Don’t know/Not sure 9. Refused
+* * *
+Question 9 How often did anyone at least 5 years older than you or an adult ever touch you sexually? 1. Never 2. Once 3. More than once 7. Don’t know/Not sure 9. Refused
+* * *
+Question 10 How often did anyone at least 5 years older than you or an adult try to make you touch them sexually? 1. Never 2. Once 3. More than once 7. Don’t know/Not sure 9. Refused
+* * *
+## ADVERSE CHILDHOOD EXPERIENCES PENNSYLVANIA DEPARTMENT OF HEALTH 26
+Question 11
+* * *
+How often did anyone at least 5 years older than you or an adult, force you to have sex? 1. Never 2. Once 3. More than once 7. Don’t know/Not sure 9. Refused
+* * *
+## ADVERSE CHILDHOOD EXPERIENCES PENNSYLVANIA DEPARTMENT OF HEALTH 27
+## _Appendix D: Technical Notes_
+Technical Notes:
+* * *
+Demographics with significant differences identified by non-overlapping confidence intervals are displayed as orange bars in Appendix A. Demographic categories are gradients of the same color and are grouped together. The 95% confidence interval error bars are included. Confidence intervals are a way to measure sampling error and define the range of values where percentages estimated by multiple samples of the same population would be found (95% of the time). The size of the confidence interval is directly related to the probability of selection and characteristics of the people surveyed within the universe being sampled. Comparisons should only be made within the same demographic (male vs. female, current smoker vs. non-smoker, etc.) because comparisons across demographics may not be between independent groups (education vs. income, demographics are likely correlated).
+* * *
+

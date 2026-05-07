@@ -1,21 +1,34 @@
 import os
 import glob
+import re
 from urllib.parse import urlparse
+
 from langchain_ollama.llms import OllamaLLM
 from langchain_core.prompts import ChatPromptTemplate
+from langchain_core.output_parsers import StrOutputParser
 
 
-# Change to qwen2.5 if you prefer!
-model = OllamaLLM(model="llama3.2")
+# ----------------------------
+# Config
+# ----------------------------
+MODEL_NAME = "llama3.2"
+TEMPERATURE = 0.1               # extraction = keep as close to 0 as possible
+
+
+
+# ----------------------------
+# LLM + Prompt (your prompt)
+# ----------------------------
+model = OllamaLLM(model=MODEL_NAME, temperature=TEMPERATURE)
 
 template = '''
 You are a strict utility rebate analyst. Your job is to extract actionable utility rebate programs.
 
 CRITICAL INSTRUCTIONS:
-1. If this document is merely a news article, a blog post, 
-a glossary, or general advice about energy efficiency, 
+1. If this document is merely a news article, a blog post,
+a glossary, or general advice about energy efficiency,
 YOU MUST ABORT and output EXACTLY: "NOT RELEVANT: No concrete rebate program found."
-2. Only proceed if the document explicitly outlines a specific, currently active rebate, 
+2. Only proceed if the document explicitly outlines a specific, currently active rebate,
 incentive, or grant program offered by a utility company or government entity.
 
 OUTPUT FORMATTING:
@@ -23,17 +36,19 @@ You MUST format your output STRICTLY in Markdown. Use exact headers and bullet p
 
 # Program Name:[Extract Program Name]
 
+#Program URL: [Extract Program URL]
+
 ## Program Details
-- **Concrete Rebate Amounts:** 
-  - [Amount 1]
-  - [Amount 2]
-  - [...list ALL applicable amounts]
+- **Concrete Rebate Amounts:**
+- [Amount 1]
+- [Amount 2]
+- [...list ALL applicable amounts]
 
 ## Eligibility
-- **Eligibility Requirements:** 
-  - [Requirement 1]
-  - [Requirement 2]
-  - [...list ALL applicable requirements]
+- **Eligibility Requirements:**
+- [Requirement 1]
+- [Requirement 2]
+- [...list ALL applicable requirements]
 
 ## Utility Information
 - **Utility Company Name:** [Extract Utility Name]
@@ -48,127 +63,98 @@ Document Text:
 {document_text}
 '''
 
-
 prompt = ChatPromptTemplate.from_template(template)
-chain = prompt | model
+chain = prompt | model | StrOutputParser()
 
+# ----------------------------
+# Main
+# ----------------------------
 def analyze_document(url_source=None, content=None, interactive=False):
-    # Resolve the directories relative to the script's location
     base_dir = os.path.dirname(os.path.abspath(__file__))
     results_dir = os.path.join(base_dir, "analysis_results")
-    
-    if not os.path.exists(results_dir):
-        os.makedirs(results_dir)
+    error_log_path = os.path.join(base_dir, "analysis_errors.log")
+    os.makedirs(results_dir, exist_ok=True)
 
-    # 1. Provide a specific URL and content to analyze (e.g., from Scrapper_crawl.py)
+    def log_error(msg: str):
+        print(msg)
+        with open(error_log_path, "a", encoding="utf-8") as ef:
+            ef.write(msg + "\n")
+
+    # 1) Single document mode
     if url_source and content:
         domain = urlparse(url_source).netloc
-        safe_domain = domain.replace(".", "_")
-        if not safe_domain:
-            safe_domain = "unknown_domain"
-            
-        result_filename = f"{safe_domain}_analysis.md"
-        result_filepath = os.path.join(results_dir, result_filename)
-        
-        print(f"\n{'='*60}")
-        print(f"Analyzing {url_source}...")
-        print(f"{'='*60}")
-        
+        safe_domain = domain.replace(".", "_") or "unknown_domain"
+        result_filepath = os.path.join(results_dir, f"{safe_domain}_analysis.md")
+
+        print(f"\n{'='*60}\nAnalyzing {url_source}...\n{'='*60}")
+
         try:
-            results = chain.invoke({
-                "source": url_source,
-                "document_text": content
-            })
-            
-            print(f"Results for {url_source}:\n")
-            print(results)
-            print("-" * 60)
-            
+            results = chain.invoke({"source": url_source, "document_text": content})
+
+            print(f"Results for {url_source}:\n{results}\n" + "-" * 60)
+
             with open(result_filepath, "a", encoding="utf-8") as f:
                 f.write(f"\n\n--- SOURCE: {url_source} ---\n\n")
                 f.write(results)
                 f.write("\n")
             print(f"Saved analysis to: {result_filepath}")
-            
+
         except Exception as e:
-            print(f"Error processing {url_source}: {e}")
-            
+            log_error(f"Error processing {url_source}: {e}")
         return
 
-    # 2. Bulk analyze markdown files from 'scraped_data' (Standalone mode)
+    # 2) Bulk mode
     scraped_dir = os.path.join(base_dir, "scraped_data")
-
     if not os.path.exists(scraped_dir):
         print(f"Error: Directory '{scraped_dir}' not found.")
         return
 
     markdown_files = glob.glob(os.path.join(scraped_dir, "*.md"))
-    
     if not markdown_files:
         print(f"No markdown files found in '{scraped_dir}'.")
         return
 
     print(f"Found {len(markdown_files)} markdown files in '{scraped_dir}'.")
-    
+
     for filepath in markdown_files:
         filename = os.path.basename(filepath)
         base_name = filename.replace(".md", "")
-        
-        # Extract the domain part by removing the 8-character hash if present
-        parts = base_name.rsplit('_', 1)
-        if len(parts) == 2 and len(parts[1]) == 8:
-            safe_domain = parts[0]
-        else:
-            safe_domain = base_name
-            
-        result_filename = f"{safe_domain}_analysis.md"
-        result_filepath = os.path.join(results_dir, result_filename)
-        
-        # Check if this specific file's analysis already exists in the domain's markdown file
+
+        # Remove 8-char hash suffix if present: domain_hash.md -> domain
+        parts = base_name.rsplit("_", 1)
+        safe_domain = parts[0] if (len(parts) == 2 and len(parts[1]) == 8) else base_name
+
+        result_filepath = os.path.join(results_dir, f"{safe_domain}_analysis.md")
+
+        # Skip if already analyzed
         if os.path.exists(result_filepath):
             try:
-                with open(result_filepath, 'r', encoding='utf-8') as check_f:
+                with open(result_filepath, "r", encoding="utf-8") as check_f:
                     if f"--- SOURCE: {filename} ---" in check_f.read():
-                        print(f"\nSkipping {filename}: Analysis already exists in {result_filename}")
+                        print(f"\nSkipping {filename}: Analysis already exists in {os.path.basename(result_filepath)}")
                         continue
             except Exception:
                 pass
-            
-        print(f"\n{'='*60}")
-        print(f"Analyzing {filename}...")
-        print(f"{'='*60}")
-        
+
+        print(f"\n{'='*60}\nAnalyzing {filename}...\n{'='*60}")
+
         try:
-            with open(filepath, 'r', encoding='utf-8') as f:
+            with open(filepath, "r", encoding="utf-8") as f:
                 file_content = f.read()
-            
-            # Since some files can be very large, we might want to truncate or handle them carefully.
-            # For now, we will pass the whole file_content, but if you hit context limits, 
-            # you might need to chunk it (e.g., file_content[:10000]).
-            
-            results = chain.invoke({
-                "source": filename,
-                "document_text": file_content
-            })
-            
-            print(f"Results for {filename}:\n")
-            print(results)
-            print("-" * 60)
-            
+
+            results = chain.invoke({"source": filename, "document_text": file_content})
+
+            print(f"Results for {filename}:\n{results}\n" + "-" * 60)
+
             with open(result_filepath, "a", encoding="utf-8") as f:
                 f.write(f"\n\n--- SOURCE: {filename} ---\n\n")
                 f.write(results)
                 f.write("\n")
             print(f"Saved analysis to: {result_filepath}")
-            
-            # Optional: Ask to continue or move to the next
-            if interactive:
-                user_input = input("Press Enter to analyze the next file (or type 'exit' to quit): ")
-                if user_input.lower() == 'exit':
-                    break
-                
+
         except Exception as e:
-            print(f"Error processing {filename}: {e}")
+            log_error(f"Error processing {filename}: {e}")
+
 
 if __name__ == "__main__":
     analyze_document(interactive=True)

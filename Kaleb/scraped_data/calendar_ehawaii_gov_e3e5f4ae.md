@@ -1,0 +1,153 @@
+--- SOURCE: https://calendar.ehawaii.gov/calendar/rss/111262356/OHA ILMCOM121624.rss ---
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Office of Hawaiian Affairs Investments &amp; Land Management Committee</title>
+    <link>https://calendar.ehawaii.gov/calendar</link>
+    <description>Office of Hawaiian Affairs Investments &amp; Land Management Committee</description>
+    <language>en</language>
+    <pubDate>Thu, 23 Apr 2026 00:58:58 GMT</pubDate>
+    <dc:date>2026-04-23T00:58:58Z</dc:date>
+    <dc:language>en</dc:language>
+    <item>
+      <title>OHA Investments and Land Management Committee</title>
+      <link>https://calendar.ehawaii.gov/calendar/meeting/77060/details.html</link>
+      <description>Location: Virtual Meeting and at Nā Lama Kukui 560 N. Nimitz Hwy, Honolulu, HI 96817&lt;br/&gt;
+Date: 2026/04/29&lt;br/&gt;
+Time: 11:00 AM&lt;br/&gt;
+&lt;br/&gt;
+&lt;p class="MsoNormal" style="margin-bottom: 0in; text-align: center; line-height: normal;" align="center"&gt;&lt;strong&gt;&lt;span style="font-family: 'Times New Roman',serif;"&gt;DATE&lt;/span&gt;&lt;/strong&gt;&lt;span style="font-family: 'Times New Roman',serif;"&gt;:&lt;/span&gt;&lt;span style="mso-tab-count: 1;"&gt; &lt;/span&gt;&lt;span style="font-family: 'Times New Roman',serif;"&gt; Wednesday,&amp;nbsp;April 29, 2026&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoNormal" style="margin-bottom: 0in; text-align: center; line-height: normal;" align="center"&gt;&lt;strong&gt;&lt;span style="font-family: 'Times New Roman',serif;"&gt;TIME&lt;/span&gt;&lt;/strong&gt;&lt;span style="font-family: 'Times New Roman',serif;"&gt;:&lt;span style="mso-tab-count: 1;"&gt; &lt;/span&gt; 11:00AM or immediately following the conclusion of the &lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoNormal" style="margin-bottom: 0in; text-align: center; line-height: normal;" align="center"&gt;&lt;span style="font-family: 'Times New Roman',serif;"&gt;OHA Budget and Finance (BF) Committee Meeting&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoNormal" style="margin-bottom: 0in; text-align: center; line-height: normal;" align="center"&gt;&lt;span style="font-family: 'Times New Roman',serif;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoNormal" style="margin-bottom: 0in; text-align: center; line-height: normal;" align="center"&gt;&lt;a name="02052026_AS_AMENDED_BOT_Agenda"&gt;&lt;/a&gt;&lt;strong&gt;&lt;span style="font-family: 'Times New Roman',serif;"&gt;This meeting will be held virtually and may be viewed live via OHA&amp;rsquo;s website at &lt;/span&gt;&lt;/strong&gt;&lt;a href="http://www.oha.org/livestream"&gt;&lt;strong&gt;&lt;span style="font-family: 'Times New Roman',serif;"&gt;www.oha.org/livestream&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&lt;span style="font-family: 'Times New Roman',serif;"&gt; or listened to by phone by dialing (213) 338-8477 and entering Webinar ID: 944 1043 1677. Additionally, this meeting can be viewed live on &amp;lsquo;Ōlelo Community Media &lt;/span&gt;&lt;/strong&gt;&lt;a href="https://olelo.org/"&gt;&lt;strong&gt;&lt;span style="font-family: 'Times New Roman',serif;"&gt;https://olelo.org/&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&lt;span style="font-family: 'Times New Roman',serif;"&gt;. A physical meeting location will be open to the public for those who wish to provide oral testimony or observe the meeting in person at: Office of Hawaiian Affairs, 560 N. Nimitz Hwy., Suite 200, Honolulu, HI 96817.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoNormal" style="margin-bottom: 0in; line-height: normal;"&gt;&lt;span style="font-family: 'Times New Roman',serif;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;ol style="margin-top: 0in;" start="1" type="I"&gt;&#xD;
+&lt;li class="MsoNormal" style="margin-bottom: 0in; line-height: normal; mso-list: l0 level1 lfo1; tab-stops: list .5in;"&gt;&lt;strong&gt;&lt;span style="font-family: 'Times New Roman',serif;"&gt;Call to Order&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;/li&gt;&#xD;
+&lt;/ol&gt;&#xD;
+&lt;p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0in .5in;"&gt;&lt;span style="font-family: 'Times New Roman',serif;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;ol style="margin-top: 0in;" start="2" type="I"&gt;&#xD;
+&lt;li class="MsoNormal" style="margin-bottom: 0in; line-height: normal; mso-list: l1 level1 lfo2; tab-stops: list .5in;"&gt;&lt;strong&gt;&lt;span style="font-family: 'Times New Roman',serif;"&gt;Approval of Minutes from the Committee on Investment and Land Management&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;/li&gt;&#xD;
+&lt;/ol&gt;&#xD;
+&lt;p class="MsoListParagraphCxSpFirst" style="mso-add-space: auto; text-indent: -.25in; line-height: normal; mso-list: l1 level2 lfo2; margin: 0in 0in 0in 1.0in;"&gt;&lt;a name="_Hlk191464176"&gt;&lt;/a&gt;&lt;!-- [if !supportLists]--&gt;&lt;strong&gt;&lt;span style="font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';"&gt;&lt;span style="mso-list: Ignore;"&gt;A.&lt;span style="font: 7.0pt 'Times New Roman';"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;!--[endif]--&gt;&lt;span style="font-family: 'Times New Roman',serif;"&gt;April 1, 2026&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoListParagraphCxSpMiddle" style="mso-add-space: auto; line-height: normal; margin: 0in 0in 0in 1.0in;"&gt;&lt;span style="mso-bookmark: _Hlk191464176;"&gt;&lt;span style="font-family: 'Times New Roman',serif;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoListParagraphCxSpMiddle" style="margin-bottom: 0in; mso-add-space: auto; text-indent: -.5in; mso-text-indent-alt: -.25in; line-height: normal; mso-list: l1 level1 lfo2; tab-stops: list .5in;"&gt;&lt;span style="mso-bookmark: _Hlk191464176;"&gt;&lt;!-- [if !supportLists]--&gt;&lt;strong&gt;&lt;span style="font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';"&gt;&lt;span style="mso-list: Ignore;"&gt;&lt;span style="font: 7.0pt 'Times New Roman';"&gt;&lt;span style="mso-spacerun: yes;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;III.&lt;span style="font: 7.0pt 'Times New Roman';"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;!--[endif]--&gt;&lt;strong&gt;&lt;span style="font-family: 'Times New Roman',serif;"&gt;New Business&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoListParagraphCxSpLast" style="margin-bottom: 0in; mso-add-space: auto; line-height: normal;"&gt;&lt;span style="mso-bookmark: _Hlk191464176;"&gt;&lt;strong&gt;&lt;span style="font-family: 'Times New Roman',serif;"&gt;A. &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span style="mso-bookmark: _Hlk191464176;"&gt;&lt;span style="font-family: 'Times New Roman',serif;"&gt;Presentation by Richard Pezzulo, Executive Director, Hiʻipaka LLC &amp;ndash; Hiʻilei Aloha LLC Hiʻipaka LLC Annual Report (December 31, 2025) &amp;ndash; 2025 activity highlights and financials of Hiʻilei Aloha LLC and Hiʻipaka LLC, including Waimea Valley operations.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoNormal" style="margin-bottom: 0in; line-height: normal;"&gt;&lt;span style="mso-bookmark: _Hlk191464176;"&gt;&lt;strong&gt;&lt;span style="font-family: 'Times New Roman',serif;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoNormal" style="margin-left: .5in; line-height: normal;"&gt;&lt;span style="mso-bookmark: _Hlk191464176;"&gt;&lt;strong&gt;&lt;span style="font-family: 'Times New Roman',serif;"&gt;B.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span style="mso-bookmark: _Hlk191464176;"&gt;&lt;span style="font-family: 'Times New Roman',serif;"&gt; &lt;strong&gt;Action Item ILM #26-05:&lt;/strong&gt; &lt;/span&gt;&lt;/span&gt;&lt;span style="font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-font-kerning: 0pt; mso-ligatures: none;"&gt;Reappointment of Greg Charles Pietsch as a Non-OHA Limited Liability Company Manager for Hi&amp;lsquo;ilei Aloha LLC for a 3-Year Term from May 10, 2026 to May 9, 2029&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoNormal" style="margin-left: .5in; line-height: normal;"&gt;&lt;strong&gt;&lt;span style="font-family: 'Times New Roman',serif;"&gt;C.&lt;/span&gt;&lt;/strong&gt;&lt;span style="font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-font-kerning: 0pt; mso-ligatures: none;"&gt; Presentation by Administration - Response to implementation of outstanding audit recommendations from Report no. 23-04, Audit of the Office of Hawaiian Affairs by the State Auditor, relating to OHA real property&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoListParagraph" style="text-indent: -.5in; mso-text-indent-alt: -.25in; mso-list: l1 level1 lfo2; tab-stops: list .5in;"&gt;&lt;!-- [if !supportLists]--&gt;&lt;strong&gt;&lt;span style="font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';"&gt;&lt;span style="mso-list: Ignore;"&gt;&lt;span style="font: 7.0pt 'Times New Roman';"&gt;&lt;span style="mso-spacerun: yes;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;IV.&lt;span style="font: 7.0pt 'Times New Roman';"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;!--[endif]--&gt;&lt;strong&gt;&lt;span style="font-family: 'Times New Roman',serif;"&gt;Adjournment&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoNormal" style="margin-bottom: 0in; line-height: normal;"&gt;&lt;span style="font-size: 9.0pt; font-family: 'Times New Roman',serif;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoNormal"&gt;&lt;span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;"&gt;If you need an auxiliary aid/service or other accommodation due to a disability, please contact Keola Fong at (808) 626-5484 or by email at keolaf@oha.org as soon as possible. Requests made as early as possible have a greater likelihood of being fulfilled. Upon request, this notice is available in alternate/accessible formats.&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoNormal" style="margin-bottom: 0in; line-height: normal;"&gt;&lt;span style="font-size: 10.0pt; font-family: 'Times New Roman',serif;"&gt;In the event that the livestream public broadcast is interrupted and cannot be restored, the meeting may continue as audio-only through the phone number and Webinar ID provided at the beginning of this agenda. Meeting recordings will be made available on OHA&amp;rsquo;s website https://www.oha.org/about/leadership/board-of-trustees/ as soon as practicable after the meeting.&lt;u&gt;&lt;/u&gt;&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoNormal" style="margin-bottom: 0in; line-height: normal;"&gt;&lt;span style="font-size: 10.0pt; font-family: 'Times New Roman',serif;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoNormal" style="margin-bottom: 0in; line-height: normal;"&gt;&lt;span style="font-size: 10.0pt; font-family: 'Times New Roman',serif;"&gt;Public Testimony will be called for each agenda item and &lt;u&gt;must be limited&lt;/u&gt; to matters listed on the meeting agenda. Community Concerns and Celebrations &lt;u&gt;is not limited&lt;/u&gt; to matters listed on the meeting agenda. Hawai&amp;lsquo;i Revised Statutes, Chapter 92, prohibits Board members from discussing or taking action on matters not listed on the meeting agenda.&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoNormal" style="margin-bottom: 0in; line-height: normal;"&gt;&lt;span style="font-size: 10.0pt; font-family: 'Times New Roman',serif;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoNormal" style="margin-bottom: 0in; line-height: normal;"&gt;&lt;span style="font-size: 10.0pt; font-family: 'Times New Roman',serif;"&gt;The board packet will be available for the public to inspect at OHA&amp;rsquo;s main office located at 560 N. Nimitz Hwy., Suite 200, Honolulu, HI 96817, no later than three full business days before the meeting. The board packet will also be made available on OHAʻs website, &lt;/span&gt;&lt;a href="https://www.oha.org/ilm"&gt;&lt;span style="font-size: 10.0pt; font-family: 'Times New Roman',serif;"&gt;https://www.oha.org/ilm&lt;/span&gt;&lt;/a&gt;&lt;span style="font-size: 10.0pt; font-family: 'Times New Roman',serif;"&gt; as soon as practicable thereafter.&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoNormal" style="margin-bottom: 0in; line-height: normal;"&gt;&lt;span style="font-size: 10.0pt; font-family: 'Times New Roman',serif;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoNormal" style="margin-bottom: 0in; line-height: normal;"&gt;&lt;span style="font-size: 10.0pt; font-family: 'Times New Roman',serif;"&gt;Testimony can be provided to the Board of Trustees either as: (1) &lt;strong&gt;&lt;em&gt;written testimony&lt;/em&gt;&lt;/strong&gt; or (2) live, oral testimony online, by telephone, or at the physical meeting location during the remote meeting.&lt;span style="mso-spacerun: yes;"&gt;&amp;nbsp; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoNormal" style="margin-bottom: 0in; line-height: normal;"&gt;&lt;span style="font-size: 10.0pt; font-family: 'Times New Roman',serif;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoNormal" style="text-indent: -.25in; line-height: normal; mso-list: l2 level1 lfo3; margin: 0in 0in 0in .5in;"&gt;&lt;!-- [if !supportLists]--&gt;&lt;span style="font-size: 9.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman';"&gt;&lt;span style="mso-list: Ignore;"&gt;(1)&lt;span style="font: 7.0pt 'Times New Roman';"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;!--[endif]--&gt;&lt;!-- [if gte vml 1]&gt;&lt;v:rect id="Rectangle_x0020_2"&#xD;
+ o:spid="_x0000_s1026" style='position:absolute;left:0;text-align:left;&#xD;
+ margin-left:414.1pt;margin-top:29.65pt;width:3pt;height:.6pt;z-index:-251656192;&#xD;
+ visibility:visible;mso-wrap-style:square;mso-width-percent:0;&#xD;
+ mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;&#xD;
+ mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;&#xD;
+ mso-position-horizontal:absolute;mso-position-horizontal-relative:page;&#xD;
+ mso-position-vertical:absolute;mso-position-vertical-relative:text;&#xD;
+ mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;&#xD;
+ mso-height-relative:page;v-text-anchor:top' o:gfxdata="UEsDBBQABgAIAAAAIQC75UiUBQEAAB4CAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbKSRvU7DMBSF&#xD;
+dyTewfKKEqcMCKEmHfgZgaE8wMW+SSwc27JvS/v23KTJgkoXFsu+P+c7Ol5vDoMTe0zZBl/LVVlJ&#xD;
+gV4HY31Xy4/tS3EvRSbwBlzwWMsjZrlprq/W22PELHjb51r2RPFBqax7HCCXIaLnThvSAMTP1KkI&#xD;
++gs6VLdVdad08ISeCho1ZLN+whZ2jsTzgcsnJwldluLxNDiyagkxOquB2Knae/OLUsyEkjenmdzb&#xD;
+mG/YhlRnCWPnb8C898bRJGtQvEOiVxjYhtLOxs8AySiT4JuDystlVV4WPeM6tK3VaILeDZxIOSsu&#xD;
+ti/jidNGNZ3/J08yC1dNv9v8AAAA//8DAFBLAwQUAAYACAAAACEArTA/8cEAAAAyAQAACwAAAF9y&#xD;
+ZWxzLy5yZWxzhI/NCsIwEITvgu8Q9m7TehCRpr2I4FX0AdZk2wbbJGTj39ubi6AgeJtl2G9m6vYx&#xD;
+jeJGka13CqqiBEFOe2Ndr+B03C3WIDihMzh6RwqexNA281l9oBFTfuLBBhaZ4ljBkFLYSMl6oAm5&#xD;
+8IFcdjofJ0z5jL0MqC/Yk1yW5UrGTwY0X0yxNwri3lQgjs+Qk/+zfddZTVuvrxO59CNCmoj3vCwj&#xD;
+MfaUFOjRhrPHaN4Wv0VV5OYgm1p+LW1eAAAA//8DAFBLAwQUAAYACAAAACEAIVdnT8wCAAAGBgAA&#xD;
+HwAAAGNsaXBib2FyZC9kcmF3aW5ncy9kcmF3aW5nMS54bWysVNtu2zAMfR+wfxD0ntpOnYuNukWb&#xD;
+1sWAbg2a9QMUWbaFyZInKbcN+/dRstMk7YYB2/IQSyJ5RB4e6uJq2wi0ZtpwJTMcnYUYMUlVwWWV&#xD;
+4efP+WCKkbFEFkQoyTK8YwZfXb5/d0HSSpO25hQBgjQpyXBtbZsGgaE1a4g5Uy2TYCuVboiFra6C&#xD;
+QpMNIDciGIbhOGgIl/jyAHVLLEErzf8CSij6hRUzItfEAKSg6fFJn6Og/45MUrm+1+2inWuXOf20&#xD;
+nmvEiwwDc5I0QBEOekPvBtvgVVR1ANiWunH+qizRNsOj4SgJJ4C1y/B5NE3G4ajDY1uLKDicT6MQ&#xD;
+zBTsk/Ew7C+rH/8QTuu73wNAel0asDhKzbQuMbl+W+t5DO0bx+NkX/MToyCSSjA0fCl/H2baB2iO&#xD;
+QVLNavBh11qrTc1IYUBwzhtuBRo7d8/UIRK4XW4+qgJoJSurvFj+A2MvBZO01cbeM9Ugt8iwhkL8&#xD;
+LWT9YGyX3N7FsWGU4EXOhfAbXS1nQqM1EdB/YCTP+3pO3IT0PCoX1iF2J9BSuMPZXHO97r8n0TAO&#xD;
+b4bJIB9PJ4M4j0eDZBJOB2GU3IAY4iS+zX+4BKM4rXlRMPnAJdvPYBS/EXjDqVZGlfaMqiYAlXHK&#xD;
+9nMIUxiF3RSiTYYTEJ+v/SR7c1pkCL9fFdlwyzQSvMnw1Pn0ynR9vpMFlE1SS7jo1sFp+l4CwMH+&#xD;
+61mBHpl+yOx24aVotzeq2DmoJXxBG1pBy2Aa4AGzj/BXCgV1UMFbjGqlv70+c37AEFgw2sDzlWHz&#xD;
+dUU0w0h8kCDHJIpjgLN+E48mMF9IH1uWxxYiKUBl2GLULWcWdhCyajWvargp8nRKdQ3aLXkvpy53&#xD;
+V4UwdmF3gnl2fIVMFnOiyRPUJmBWMszk4HnR8w0eQMqBhJVhi9ZNXieqjiVPGzi+egF9aP9iu2f2&#xD;
+eH/5EwAA//8DAFBLAwQUAAYACAAAACEACXLRLx8HAABHIAAAGgAAAGNsaXBib2FyZC90aGVtZS90&#xD;
+aGVtZTEueG1s7FlLbxs3EL4X6H8g9t5Yki1ZMiIHfshxE78QKSlypCRqlzF3uSApO7oVyamXAgXS&#xD;
+oocG6K2HomiABmjQS3+MAQdt+iM65D5ESlT8QFAEhWMg2J39ZvjtzOzMiLx952nM0AkRkvKkHVRv&#xD;
+VQJEkgEf0iRsBw97O581AyQVToaY8YS0gwmRwZ31Tz+5jdcGjKZ9jsWwF5GYIDCUyDXcDiKl0rWl&#xD;
+JTkAMZa3eEoSeDbiIsYKbkW4NBT4FBaI2VKtUmksxZgmwTpYVNpQh8F/iZJaMGCiq80QlOAYVj8c&#xD;
+jeiAGOzwuKoRciK3mEAnmLUDsDnkpz3yVAWIYangQTuomH/B0vrtJbyWKzG1QNfS2zH/cr1cYXhc&#xD;
+M2uKsF8uWunUmivV0r4BMDWP6zT1X2nPAPBgAG+acbFtVuuNSrOWYy1Qdumx3VqtLrt4y/7yHOdq&#xD;
+q7FZW3HsG1Bmf2UOX9lpdbbrDt6AMnx9Dr9RqW22lh28AWX4xhx+pbOxWus4eAOKGE2O59GN1Waz&#xD;
+kaNLyIizXS+81WhUVrdz+BQF2VBml15ixBO1KNdi/ISLHQBoIMOKJkhNUjLCA8jJjVRxibapTBme&#xD;
+BCjFCZcgrtSqVUi9lUqt/DMex2sEW9qaFzCRcyLNB8mBoKlqB/fAamBBzt+8OXv2+uzZ72fPn589&#xD;
++xXt0TBSmSlHbxcnoa337qdv/nn5Jfr7tx/fvfjWj5c2/u0vX73948/3mYdPbeqK8+9evX396vz7&#xD;
+r//6+YXH+obAfRveozGR6ICcogc8hhc0rnD5k764mkYvwtTW2EhCiROsV/HY76jIQR9MMMMe3CZx&#xD;
+/fhIQKnxAe+OnziEu5EYK+qxeD+KHeA+52yTC68X7uu1LDf3xknoX1yMbdwDjE98a2/hxIlyZ5xC&#xD;
+jaU+k1sRcWgeMZwoHJKEKKSf8WNCPG/3mFLHr/t0ILjkI4UeU7SJqdclPdp3smmqtEtjiMvERxDi&#xD;
+7fhm/xHa5Mz31tvkxEXCt4GZh3yPMMeNd/FY4dhnsodjZjt8D6vIR7I7EQMb15EKIh0SxlFnSKT0&#xD;
+6RwKeF8r6PcxVDdv2PfZJHaRQtFjn809zLmN3ObHWxGOUx+2S5PIxn4ujyFFMTriygff5+4Xou8h&#xD;
+DjhZGO5HlDjhvrgaPIQqZ1OaJoh+MhaeWN4l3Mnf7oSNMPGVmg0ROyV2Q1BvdmyOQye19whh+BQP&#xD;
+CUEPP/cw2OSp4/Mp6XsRVJVd4kuse9jNVX2fEEmQGW7m6+QelU7KdknIF/DZn8wUnglOYiwWWT6A&#xD;
+qNs+7/QFfIye9zxkg2MbeEBh3oN88TrlUIINK7kXWj2KsNPA9L305+tEOPG7zDcG3+UTh8YlvkvQ&#xD;
+IVfWgcJu67zXNz3MnAWmCdPDFO35yi2oOOGfqujmatTGXr2R+9FOwwDTkTP0xDS5YAL67yYfmC/O&#xD;
+f3jpScEPM+34DTul6opzzqJSsjsz3SzCzc40W1wM6cc/0mzjcXJEoIvM16ubieZmogn+9xPNou/5&#xD;
+Zo5ZNG3czDEBzBc3c0y+tfJh5pjp6AJTjd5eyLZ5zKZPvHDPZ0QZ66oJI3vSbPtI+DUz3AGh1jN7&#xD;
+m6TcA0wjuNRtDhZwcKHARgcJrr6gKupGOIW9oWqgjYQyNx1KlHIJW0ZG7LWt8Wwc7/NhttVp9pYq&#xD;
+WWeVWE3llTpsOmVy2KZSGbqxmgs1P7OfCnwN29BssxYEtO5VSFiLuSSWPSRWC+EFJPSu2Ydh0fKw&#xD;
+aGrzRajmXAHUyqjAz20EP9LbQX1FE4KNcTmA0Xyo45SFuoiuCeaHjPQiZzoZANuK2ZvAvnkZ6Zbm&#xD;
+uvD19NtlqXaJSDskTFCytHJJGM+YAU9G8CM4z04tvQyNq8a6NQ2pQ0+7wqwH+T2lsdp8H4vrxhr0&#xD;
+ZmsDS+xKwRJ02g4ay3VImQFO28EItozhMk4hd6T+xYVZCIctAyWyD/46lSUVUm1jGWUON0UnC09M&#xD;
+FRGI0bgd6Ncvw8ASU0MMt2oNCsJHS64FZeVjIwdBd4NMRiMyUHbYLYn2dHYLFT6rFd6nRv36YK3J&#xD;
+xxDubjQ8RX02Fg8wpFh9taodOKQSTg6qmTeHFI7CykI2zb+ZxpQXf/ssyuRQJscsjXDeUexinsFN&#xD;
+PynpmLvSB9Zd/s7gUMsleSPsh7rB2k51umnZujIOC7vuxUrac1bRnPZMp6rorumvYs4KRRuY8eX1&#xD;
+mrzFqnAx1DS7w2ele7bktopaNzMnlF0CHF7673qt36I2XcyhphnPl2Fds3Op2zuKF7yA2mWahFX1&#xD;
+G4XZGb+VPcK7HAiv1flBbzZrQTQq5krjad+x9j5OUT+stgM4WoatwadwBYfTAchqWlbTMriCE2do&#xD;
+F9kxcTvILwoJPM8kJWa5kCwXmJVCslJI6oWkXkgahaQRIHOeCmf4+ig1QMVxKfSw/Hg1ny3cs//1&#xD;
+fwEAAP//AwBQSwMEFAAGAAgAAAAhAJxmRkG7AAAAJAEAACoAAABjbGlwYm9hcmQvZHJhd2luZ3Mv&#xD;
+X3JlbHMvZHJhd2luZzEueG1sLnJlbHOEj80KwjAQhO+C7xD2btJ6EJEmvYjQq9QHCMk2LTY/JFHs&#xD;
+2xvoRUHwsjCz7DezTfuyM3liTJN3HGpaAUGnvJ6c4XDrL7sjkJSl03L2DjksmKAV201zxVnmcpTG&#xD;
+KSRSKC5xGHMOJ8aSGtHKRH1AVzaDj1bmIqNhQaq7NMj2VXVg8ZMB4otJOs0hdroG0i+hJP9n+2GY&#xD;
+FJ69elh0+UcEy6UXFqCMBjMHSldnnTUtXYGJhn39Jt4AAAD//wMAUEsBAi0AFAAGAAgAAAAhALvl&#xD;
+SJQFAQAAHgIAABMAAAAAAAAAAAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYA&#xD;
+CAAAACEArTA/8cEAAAAyAQAACwAAAAAAAAAAAAAAAAA2AQAAX3JlbHMvLnJlbHNQSwECLQAUAAYA&#xD;
+CAAAACEAIVdnT8wCAAAGBgAAHwAAAAAAAAAAAAAAAAAgAgAAY2xpcGJvYXJkL2RyYXdpbmdzL2Ry&#xD;
+YXdpbmcxLnhtbFBLAQItABQABgAIAAAAIQAJctEvHwcAAEcgAAAaAAAAAAAAAAAAAAAAACkFAABj&#xD;
+bGlwYm9hcmQvdGhlbWUvdGhlbWUxLnhtbFBLAQItABQABgAIAAAAIQCcZkZBuwAAACQBAAAqAAAA&#xD;
+AAAAAAAAAAAAAIAMAABjbGlwYm9hcmQvZHJhd2luZ3MvX3JlbHMvZHJhd2luZzEueG1sLnJlbHNQ&#xD;
+SwUGAAAAAAUABQBnAQAAgw0AAAAA&#xD;
+" fillcolor="#06f" stroked="f"&gt;&#xD;
+ &lt;w:wrap anchorx="page"/&gt;&#xD;
+&lt;/v:rect&gt;&lt;![endif]--&gt;&lt;!-- [if !vml]--&gt;&lt;span style="mso-ignore: vglayout; position: absolute; z-index: -1895823360; left: 0px; margin-left: 552px; margin-top: 40px; width: 4px; height: 1px;"&gt;&lt;img src="file:///C:/Users/KauiR/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png" width="4" height="1" /&gt;&lt;/span&gt;&lt;!--[endif]--&gt;&lt;span style="font-size: 10.0pt; font-family: 'Times New Roman',serif;"&gt;Persons wishing to provide &lt;strong style="mso-bidi-font-weight: normal;"&gt;&lt;em style="mso-bidi-font-style: normal;"&gt;written testimony &lt;/em&gt;&lt;/strong&gt;on items listed on the agenda should submit testimony via &lt;strong style="mso-bidi-font-weight: normal;"&gt;&lt;em style="mso-bidi-font-style: normal;"&gt;&lt;u&gt;email&lt;/u&gt; &lt;/em&gt;&lt;/strong&gt;to &lt;/span&gt;&lt;a href="mailto:botmeetings@oha.org"&gt;&lt;span style="font-size: 10.0pt; font-family: 'Times New Roman',serif;"&gt;botmeetings@oha.org&lt;/span&gt;&lt;/a&gt;&lt;span style="font-size: 10.0pt; font-family: 'Times New Roman',serif;"&gt; or via &lt;strong&gt;&lt;em&gt;&lt;u&gt;postal mail&lt;/u&gt; &lt;/em&gt;&lt;/strong&gt;to Office of Hawaiian Affairs, Attn: Board of Trustees Meeting Testimony, 560 N. Nimitz Hwy., Suite 200, Honolulu, HI 96817.&lt;strong style="mso-bidi-font-weight: normal;"&gt; &lt;/strong&gt;Testimony is requested to be received at least twenty-four hours prior to the scheduled meeting to allow board members with sufficient time to review the testimony before the meeting.&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoListParagraph"&gt;&lt;span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;"&gt;All written testimony will be posted on OHA&amp;rsquo;s meeting website. Please omit or redact any personal information (e.g., name, email address, phone number, home address, or materials) that you do not want to be disclosed publicly online.&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoNormal" style="line-height: normal; margin: 0in 0in 0in .25in;"&gt;&lt;span style="font-size: 10.0pt; font-family: 'Times New Roman',serif;"&gt;(2)&lt;span style="mso-spacerun: yes;"&gt;&amp;nbsp;&amp;nbsp; &lt;/span&gt;Persons wishing to provide &lt;strong&gt;&lt;em&gt;oral testimony online &lt;/em&gt;&lt;/strong&gt;during the remote meeting, please use the link below:&lt;span style="mso-spacerun: yes;"&gt;&amp;nbsp; &lt;/span&gt;&lt;/span&gt;&lt;a href="https://zoom.us/j/94410431677"&gt;&lt;span style="font-size: 10.0pt;"&gt;https://zoom.us/j/94410431677&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoListParagraph" style="margin-bottom: 0in; mso-add-space: auto; line-height: normal;"&gt;&lt;span style="font-size: 10.0pt; font-family: 'Times New Roman',serif;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoNormal" style="margin-bottom: 0in; line-height: normal;"&gt;&lt;span style="font-size: 10.0pt; font-family: 'Times New Roman',serif;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoNormal" style="margin-bottom: 0in; line-height: normal;"&gt;&lt;span style="font-size: 10.0pt; font-family: 'Times New Roman',serif;"&gt;To provide oral testimony online, you will need:&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoNormal" style="margin-bottom: 0in; line-height: normal;"&gt;&lt;span style="font-size: 10.0pt; font-family: 'Times New Roman',serif;"&gt;(1) a computer or mobile device to connect to the remote meeting;&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoNormal" style="margin-bottom: 0in; line-height: normal;"&gt;&lt;span style="font-size: 10.0pt; font-family: 'Times New Roman',serif;"&gt;(2) internet access; and &lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoNormal" style="margin-bottom: 0in; line-height: normal;"&gt;&lt;span style="font-size: 10.0pt; font-family: 'Times New Roman',serif;"&gt;(3) a microphone to provide oral testimony. &lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoNormal" style="margin-bottom: 0in; line-height: normal;"&gt;&lt;span style="font-size: 10.0pt; font-family: 'Times New Roman',serif;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoNormal" style="text-align: justify; mso-layout-grid-align: none; text-autospace: none;"&gt;&lt;span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;"&gt;Persons wishing to provide oral testimony by telephone during the remote meeting may dial the phone number listed at the beginning of this agenda and enter the corresponding Webinar ID. Telephone participants will be able to provide oral testimony during the meeting.&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoNormal" style="text-align: justify; mso-layout-grid-align: none; text-autospace: none;"&gt;&lt;span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;"&gt;Persons wishing to provide oral testimony at the physical meeting location can sign up the day of the meeting at the physical meeting location.&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoNormal" style="text-align: justify; mso-layout-grid-align: none; text-autospace: none;"&gt;&lt;span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;"&gt;If you willfully disrupt the meeting, support staff will remove you from the Zoom meeting. You can continue to view the remainder of the meeting on the livestream or by telephone, as provided at the beginning of this agenda.&lt;/span&gt;&lt;/p&gt;&#xD;
+&lt;p class="MsoNormal" style="text-align: justify; mso-layout-grid-align: none; text-autospace: none;"&gt;&lt;span style="font-size: 10.0pt; line-height: 115%; font-family: 'Times New Roman',serif;"&gt;Oral testimony online, by telephone or at a physical meeting location will be limited to five (5) minutes.&lt;/span&gt;&lt;/p&gt;</description>
+      <pubDate>Wed, 22 Apr 2026 21:28:01 GMT</pubDate>
+      <guid isPermaLink="false">https://calendar.ehawaii.gov/calendar/meeting/77060/details.html</guid>
+      <dc:date>2026-04-22T21:28:01Z</dc:date>
+    </item>
+  </channel>
+</rss>
+
+```
+

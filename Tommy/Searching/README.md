@@ -1,11 +1,10 @@
-# Clone and build V 0.5.4
+# Get start
 pip install openpyxl
-git clone https://github.com/karust/openserp.git
 
-# Run the server
-cd Tommy\Searching
-.\openserp.exe serve
-
+# Run the API server via prebuilt image
+docker run -p 127.0.0.1:7000:7000 -it karust/openserp serve -a 0.0.0.0 -p 7000
 
 # searching 
+cd Tommy
+cd Searching
 python energy_search.py Texas

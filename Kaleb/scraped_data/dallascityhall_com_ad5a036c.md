@@ -1,0 +1,676 @@
+--- SOURCE: https://dallascityhall.com/departments/sustainabledevelopment/Pages/pddconsults.aspx ---
+
+# 
+MainTitleHeader
+**consultations​**  
+
+DCH Body
+City of Dallas Planning & Development offers a variety of consultation services to help with customer questions. 
+Page Content
+##  **​Consultations below are held at Dallas City Hall, 5BN or virtual  
+**
+Two Zoning Consultations options are offered:   
+
+  * **Basic Zoning Consultation** _(20 min. - Free):_ The Basic Zoning Consultation is designed to provide foundational knowledge for your site. These are complimentary 20-minute sessions with a knowledgeable team member. This consultation is a starting point for understanding the basics for your specific site such as: Zoning Districts Regulations, Land-Use Provisions, Permitting Processes & Next Steps. Great for Mom & Pops shops, small business owners, & minor projects. 
+
+
+  * **E****nhanced Zoning Consultation** _(up to 1-hr - $100 fee):_ In addition to our standard complimentary 20-minute Basic Zoning Consultations, Enhanced Consultation is available for more in-depth guidance. This fee-based service ensures focused time with a zoning specialist. We go beyond the basics to address specialized zoning challenges such as: Planned Development District (PDs), Form-Based Districts, Parking Analysis, Zoning Determinations & Ideal for Consultants & Zoning Professionals. The initial fee for this service starts at $100, for up to a one-hour session. Additional fees may apply for certain determinations and/or additional research.
+
+  
+
+##  **Current Planner Consultation:**
+##  Schedule an appointment with a Current Planning Planner to discuss rezoning requests, review checklist items before submitting, or to discuss the zoning change process and what is needed for an application. Discuss rezoning applications, general zoning changes, Specific Use Permit (SUP), Current Planning Requests (CPR), Amendments to existing or creation of new Planned Development Districts (PD). 
+​[BOOK A CURRENT PLANNING CONSULATION ](https://outlook.office365.com/book/CurrentPlanningIntake%40dallastxgov.onmicrosoft.com/?ismsaljsauthenabled=true)  
+or appointments can be made one-day in advance by calling 214.670.4209  
+---  
+  
+
+**Zoning Staff Consultation:**
+Schedule an appointment with Zoning staff to discuss development and uses currently allowed on a property including zoning interpretation and regulations, development regulations, building sites, permit processes, inspections, setbacks, height, FAR, Lot Coverage or lot size. Appointments can be In-Person or Virtual. 
+​[BOOK A ZONING CONSULATION](https://outlook.office365.com/book/DevelopmentServicesZoningConsultations%40dallastxgov.onmicrosoft.com/?ismsaljsauthenabled=true)  
+or appointments should be scheduled in advance by calling 214.670.4209 or in person at Dallas City Hall, 5B North   
+---  
+  
+
+  
+
+  
+
+##  **Consultations below are held at 320 E. Jefferson or virtual**
+Two types of consultations options are offered:   
+
+  * **Basic Consultation** _(20 min. - Free):_ The Basic Consultation is designed to provide foundational knowledge for your site. These are complimentary 20-minute sessions with a knowledgeable team member. This consultation is a starting point for understanding the basics for your project. 
+
+
+  * **E****nhanced Consultation** _(up to 1-hr - $115 fee):_ In addition to our standard complimentary 20-minute Basic Consultations, offer Enhanced Consultation for more in-depth guidance. This fee-based service ensures focused time to discuss more intricate or complex questions. There is a $15 technology fee and an additional $100 consultation fee required upfront. The initial fee for this service starts at $115 for up to a one-hour session. Additional fees may apply for certain determinations and/or additional research and any time exceeding one hour. 
+
+
+  
+
+  
+
+##  **Building Code Review Consultation**
+Schedule an appointment with a Building Code Review team member for Building code inquires. Appointments can be in-person in 320 E. Jefferson Blvd, Room 105 or virtual. 
+  
+
+[ BOOK A CONSULTATION with  BUILDING CODE REVIEW TEAM](https://outlook.office365.com/book/BuildingCodeReviewConsultations%40dallastxgov.onmicrosoft.com/?ismsaljsauthenabled)  
+---  
+  
+
+  
+
+##  **Electrical Review Consultation**
+Schedule an appointment with a Electrical Review team member for Building code inquires. Appointments can be in-person in 320 E. Jefferson Blvd or virtual. 
+  
+
+[ ​BOOK A CONSULTATION with   
+ELECTRICAL REVIEW TEAM  
+](https://outlook.office365.com/book/ElectricalInspections%40dallastxgov.onmicrosoft.com/?ismsaljsauthenabled)  
+---  
+  
+
+  
+
+##  **Engineering Services**
+Schedule an appointment with one of the three Engineering Services below either 320 E. Jefferson Blvd, Room 200 or virtual:   
+ _Paving & Drainage_  
+
+  * Help you understand the Paving and Drainage submittal requirements and the permitting processes. Also, reviews of new project plans, guidance on plat requirements as it relates to public infrastructure, floodplain, easements, abandonments, real estate, and Q-team Paving and Drainage review. 
+
+
+_Water & Wastewater_  
+
+  * Help you understand the Water and Wastewater submittal requirements and the permitting process. reviews of new project plans, guidance on plat requirements as it relates to public infrastructure, easements, abandonments, backflow agreements, real estate, capacity flow studies, water/wastewater service requests, Q-team W/WW reviews and others.
+
+
+Traffic & Transportation
+  * Help you understand Traffic & Transportation requirements and processes. 
+
+
+[ BOOK A CONSULTATION with ENGINEERING TEAM](https://outlook.office365.com/book/Engineering%40dallastxgov.onmicrosoft.com/?ismsaljsauthenabled)  
+---  
+  
+
+  
+
+  
+
+##  **Fire Protection Consultation**
+Schedule an appointment with a Fire Protection team to understand submittal requirements and permitting process . Appointments can be in-person at 320 E. Jefferson Blvd Room 210 or virtual.
+[ BOOK A CONSULTATION with  FIRE PROTECTION TEAM​  
+](https://outlook.office365.com/book/PlanningandDevelopmentFireProtection%40dallastxgov.onmicrosoft.com/s/LY_gavVZC0OUlpNbLc7L6g2?ismsaljsauthenabled)  
+---  
+  
+
+  
+
+  
+
+##  **Green/Energy Code Review Consultation**
+Schedule an appointment with a Green/Energy Code team to understand Green/Energy Code submittal requirements and permitting process . Appointments can be in-person in at 320 E. Jefferson Blvd Room 105 or virtual.
+[ BOOK A CONSULTATION with GREEN/ENERGY CODE TEAM](https://outlook.office365.com/book/GreenEnergyCodeReviewConsultations%40dallastxgov.onmicrosoft.com/?ismsaljsauthenabled)  
+---  
+  
+
+  
+
+  
+
+##  **Plumbing/Mechanical/Irrigation Consultation**
+Schedule an appointment with a Plumbing/Mechanical/Irrigation team to understand the Plumbing/Mechanical/Irrigation Code submittal requirements and the permitting processes.  Appointments can be in-person 320 E. Jefferson Blvd Room 105 or virtual.
+[ BOOK A CONSULTATION with PLUMBING/MECHANICAL/IRRIGATION](https://outlook.office365.com/book/PlumbingMechanicalIrrigationCodeReviewConsultations%40dallastxgov.onmicrosoft.com/?ismsaljsauthenabled.&ismsaljsauthenabled=true)  
+---  
+  
+
+  
+
+  
+
+##  **Public Health Consultation**
+Schedule an appointment with a Public Health team to understand the Health Code submittal requirements and permitting process. 
+[ BOOK A CONSULTATION with PUBLIC HEALTH CONSULTATION](https://outlook.office365.com/book/HealthCodeReviewConsultations%40dallastxgov.onmicrosoft.com/?ismsaljsauthenabled)  
+---  
+  
+
+  
+
+##  **Residential Review Consultation**
+Schedule an appointment with a Residential team for clarity on residential building code, essential regulations, and permit requirements.  Appointments can be in-person at 320 E. Jefferson Blvd or virtual.
+[ BOOK A CONSULTATION with RESIDENTIAL REVIEW TEAM](https://outlook.office365.com/book/PDDRESIDENTIAL%40dallastxgov.onmicrosoft.com/?ismsaljsauthenabled=true)  
+---  
+  
+
+  
+
+  
+
+##  **Sub-Division Review Consultation**
+Schedule an appointment with a Subdivision team for consultation regarding platting. Appointments can be in-person at 320 E. Jefferson Blvd or virtual.
+[ BOOK A CONSULTATION with SUB-DIVISION REVIEW TEAM](https://outlook.office365.com/book/SubdivisionConsultations%40dallastxgov.onmicrosoft.com/?ismsaljsauthenabled)  
+---  
+  
+
+  
+
+##  **Velocity Consultation**
+Schedule an appointment with a the Velocity team to understand required documents and plans for one of the following permit types issued by the Velocity Team: Fence Demolition Reroof Foundation Certificate of Occupancy (CO) – Same Use CO – Temporary Sales/Seasonal CO – Doing Business As (DBA) Changes CO – Occupancy Update CO – Change of Use.
+[ BOOK A CONSULTATION with VELOCITY TEAM](https://outlook.office365.com/book/PlanningandDevelopmentVelocityConsultation%40dallastxgov.onmicrosoft.com/?ismsaljsauthenabled=true)  
+---  
+  
+​
+  
+
+  
+
+  
+
+_**Registration in[DallasNow ](https://dallascityhall.com/departments/sustainabledevelopment/Pages/DallasNow.aspx)prior to consultations **is highly recommended. Registration ensures you are in the system for quicker referrals to other departments and gives direct access to request documents such as Zoning Verification and Determination Letters._  
+
+  
+_Zoning Consultations are for preliminary conversations and not designed for open permit needs._
+_**Zoning Consultations****do not** **guarantee** permit **approval** or replace other services such as Site Plan Reviews or Pre-Development Meetings._
+  
+
+  
+
+##  [**Helpful Links & Resources**](https://dallascityhall.com/departments/pnv/Pages/Zoning-Resources.aspx)
+Visit [here](https://dallascityhall.com/departments/pnv/Pages/Zoning-Resources.aspx) for helpful links & resources. 
+**  
+Dallas Development Guide**  
+The [Dallas Development Guide](https://dallascityhall.com/departments/sustainabledevelopment/DCH%20documents/2025%20-2026-%20Development%20Guide%20%20FINAL%20DRAFT.pdf) is a guide to the Development Review Process. It provides a summary overview of the process, describes what circumstances will trigger a particular review, and provides flow charts showing the chronological processes that must be completed before proceeding to further reviews. It is not intended to provide every technical detail or requirement of each review that makes up the development review process, the intent of this guide to provide an overview of the city Permitting / Processing system, while aiding to identify any potential issues early in the process.
+  
+**Pre-Development Meetings**  
+For commercial projects in the initial planning and design phase, [Pre-Development Meetings](https://dallascityhall.com/departments/sustainabledevelopment/buildinginspection/Pages/predevelopment.aspx) are offered for applicants to assemble their development team and partner with City staff to review their preliminary development projects in a meeting setting. The meeting is an advisory session where collaborative discussions occur between City staff and the applicant, developer, design team and other consultants involved to identify, examine, and address project-related questions and concerns at the initial stages of planning and design. The purpose of this meeting is to facilitate a smooth, efficient, and cost-effective permit submittal process for applicants. The following subject matter experts will be present at the meeting:   
+
+  * ​Addressing, Subdivision, Zoning, Landscaping, Paving and Drainage Engineering, Traffic and Transportation Engineering, Water and Wastewater Engineering, Fire Rescue, Building Code and other trades, teams, and departments as needed (DSST, Conservation District, Historic Preservation, Economic Development, Housing & Revitalization, etc.).
+
+
+​  
+  
+[**Building Inspections - Central Files Online Library**](https://edms-public.dallas.gov/publicaccess/)
+This is a link to our Department's online record system.  
+
+### 
+###  **S** _**till have questions? Please call (214) 948-4480**_
+  
+
+  
+  
+  
+  
+  
+​  
+  
+  
+  
+  
+
+elp you understand the Paving and Drainage submittal requirements and the permitting processes.
+##  **Zoning Staff Consultation:**
+Schedule an appointment with Zoning staff to discuss development and uses currently allowed on a property including zoning interpretation and regulations, development regulations, building sites, permit processes, inspections. Appointments can be In-Person or Virtual. 
+  
+
+#  Title 
+![close modal](https://dallascityhall.com/PublishingImages/icons/Icons-Close.svg)
+
+
+--- EMBEDDED FILE CONTENT: https://dallascityhall.com/departments/sustainabledevelopment/DCH%20documents/2025%20-2026-%20Development%20Guide%20%20FINAL%20DRAFT.pdf ---
+
+**CITY OF DALLAS**
+2 0 2 52 0 2 62 0 2 52 0 2 6 D E V E L O P M E N TD E V E L O P M E N T G U I D EG U I D E
+* * *
+Welcome Responsibilities and Expectations DallasNow
+* * *
+## _Table of Contents_
+Getting Started
+* * *
+Pre-Development Meeting Design Standards & Considerations Consultation Services Escarpment Review Zoning Change Zoning Related Plans 4 5 6 8 9 12 13 14 16 Site PermitLand Development Shared Access Development Paving/Drainage Engineering Early Grading Platting Process Engineering Plan Review Tree Survey Review Water/Wastewater Engineering 19 21 22 24 26 27 28 Building Permit Overview Technical Building Reviews Building Code Electrical Fire Protection System Green/Energy Plumbing/Mechanical/Irrigation Health Reviews Landscaping Sidewalk Waiver Signs Permit Process Zoning Review Terminating a Parking Agreement 33 35 36 37 38 37 41 42 43 44 46 47 Section I Section II Special Services After-Hours Review Engineering Q-Team Minor Commercial Expedited Review Fire Alarm & Sprinkler Same-Day Team Q-Team Plan Review Rapid Single Family VIP Program Dedicated School Services Team Self-Certification Program 50 51 52 53 54 56 57 58 Final Steps Inspections Certificate of Occupancy 59 60 Boards and Commissions Board of Adjustment Building Inspection Advisory, Examining & Appeals Board City Plan Commission Landmark Commission Urban Design Peer Review Panel 62 64 65 66 67 Section IV Section III Other Involved City Departments 70 Section V Section VI
+* * *
+Welcome to the City of Dallas! We're excited to collaborate with you as you embark on construction and development projects within our vibrant city. At the Planning & Development Department, our mission is to foster a safe and economically thriving community through transparent and supportive interactions with our customers. This development guide serves as a comprehensive resource to assist our valued business partners in navigating the various processes involved in building within the City of Dallas. We understand that the development journey can be complex, with numerous regulations and policies to navigate. Therefore, our department is committed to providing clear and transparent communication every step of the way! Within this guide, you'll find detailed information on zoning changes, permitting procedures, inspection processes, and land development requirements. We've included helpful contacts, anticipated timelines, overviews of the development process, submission guidelines, fee schedules, relevant code references, useful links, and insights into our inspection procedures. We encourage our partners to stay engaged with us throughout the entire development process. Whether it's through pre-development meetings, in-person review sessions, or ongoing consultations during the zoning change and permitting phase, our team is here to provide you with guidance and support to ensure the success of your projects. Rest assured, our goal is to serve you with responsiveness and professionalism, striving to make your experience with us seamless and positive. We believe that this development guide will enhance your customer service experience and empower you to navigate the development landscape with confidence. Thank you for choosing to partner with the City of Dallas. We look forward to working together and contributing to the success of your development endeavors! W E L C O M EW E L C O M EW E L C O M EW E L C O M E 0 40 4 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e
+* * *
+## R E SP O N SIB ILITIE S
+A N D E X P E C TA TIO N S R E S P O N S I B I L I T I E S A N D E X P E C T A T I O N SR E SP O N SIB ILITIE S A N D E X P E C TA TIO N S R E S P O N S I B I L I T I E S A N D E X P E C T A T I O N S 0 50 5 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e Planning & Development (PDD) is excited to partner with the development community to foster economic vibrancy and build a safe and united Dallas. This goal is achieved via collaboration on plan review and inspections to ensure construction projects are safe and adhere to the city’s codes, ordinances and design standards. PDD pledges to be a responsive and consistent development partner. CONSTRUCTION CODES AND AMENDMENTS The City of Dallas adheres to the International Code Council (ICC) design and construction standards to ensure safe, sustainable development. Chapters 51, 51A and 52 of the Dallas Development Code govern the requirements by which the Planning & Development department reviews and approves construction plans and performs inspections. The ICC construction codes are reviewed and updated on a three year cycle, and the Dallas amendments to those codes are approved and codified by the Dallas City Council. The current code standards are below: CHAPTER 16: 2021 International Fire Code, with Dallas amendments (effective May 12, 2023) CHAPTER 52: Administrative Procedures for the Construction Codes of the Dallas City Code CHAPTER 53: 2021 International Building Code with Dallas Amendments CHAPTER 54: 2021 International Plumbing Code with Dallas Amendments CHAPTER 55: 2021 International Mechanical Code with Dallas Amendments CHAPTER 56: 2020 National Electrical Code with Dallas Amendments (effective June 13, 2022) CHAPTER 57: 2021 International Residential Code with Dallas Amendments CHAPTER 58: 2021 International Existing Building Code with Dallas Amendments (effective June 13, 2022) CHAPTER 59: 2021 International Energy Conservation Code with Dallas Amendments CHAPTER 60: 2021 International Fuel & Gas Code with Dallas Amendments CHAPTER 61: 2015 International Green Construction Code with Dallas Amendments CHAPTER 62: 2021 International Swimming Pool and Spa Code with Dallas Amendments (effective June 13, 2022)
+* * *
+M O R E I N F O R M A T I O N C U R R E N T C I T Y C O D E SM O R E I N F O R M A T I O N C U R R E N T C I T Y C O D E S
+* * *
+Launched May 5th, 2025, DallasNow is the City of Dallas’ new Land Management System. It replaces the decades-old Posse platform and unifies permitting, planning, platting, zoning, engineering, and inspections into one modern system. Streamline workflows by eliminating multiple disconnected systems Increase access through a centralized public access portal Improve accuracy and efficiency through digital processes and automation To support our customers and development community, we created the DallasNow Resource Hub, which includes: Step-by-step guides and walkthrough videos Updated contact lists and forms Guided self-service stations and dedicated service lanes Support staff is also available to assist in-person customers We continue to update these resources based on user feedback and through regular outreach with development organizations. All development applications, including zoning, platting, engineering, and permitting, are now submitted through DallasNow. Visit Dallas.gov/DallasNow for access to the system, instructions, and training resources. 0 60 6 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e
+* * *
+F O R M S A N D C H E C K L I S TF O R M S A N D C H E C K L I S T F O R F O R M S A N D C H E C K L I S TF O R F O R M S A N D C H E C K L I S T Helpful forms and checklist can be found at the PDD’s website: https://bit.ly/DSDforms G E T T I N G S T A R T E DG E T T I N G S T A R T E D C U S T O M E R R E S O U R C E SC U S T O M E R R E S O U R C E S DALLASNOW IS DESIGNED TO: A C C E S S D A L L A S N O WA C C E S S D A L L A S N O W
+* * *
+S e c t i o n IS e c t i o n I G E T T I N G S T A R T E DG E T T I N G S T A R T E D
+* * *
+PRE-DEV MEETING IN DALLASNOW 0 90 9 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e P R ED E V E L O P M E N T M E E T I N GP R ED E V E L O P M E N T M E E T I N G Oak Cliff Municipal Center
+* * *
+## _320 E. Jefferson, Room 204_
+Dallas, TX 75203
+* * *
+M-F 8:00 a.m.4:30 p.m. 214-948-4376 P U R P O S EP U R P O S E Pre-Development meetings provide an opportunity for project applicants to review preliminary plans with City of Dallas staff in a collaborative, advisory setting. These meetings help identify potential issues early, ensure consistent code interpretations, and streamline the development process—enhancing coordination, clarity, and efficiency before a formal permit application is submitted. P R ED E V E L O P M E N T M E E T I N GP R ED E V E L O P M E N T M E E T I N G When applying on DallasNow, please provide all requested information. It will also prompt you to upload a site plan. Please ensure the site plan includes, at minimum, full property lines, adjacent streets, and labels. It’s also helpful to include dimensions. The more information you provide, the more information city staff can give you in return. City of Dallas Addressing Subdivision Zoning Landscaping Paving/DrainageEngineering Traffic and Transportation Engineering Water/Wastewater Engineering Fire Department Building Code Other trades, teams, and departments as needed (School, Historic Preservation, etc.) I N F O R M A T I O N T O P R O V I D EI N F O R M A T I O N T O P R O V I D E W H O M A Y B E I N V O L V E DW H O M A Y B E I N V O L V E D Q U A L I F Y I N G P R O J E C T SQ U A L I F Y I N G P R O J E C T S Pre-Development meetings are only for Commercial projects New constructions Additions Remodels N O NQ U A L I F Y I N G P R O J E C T SN O NQ U A L I F Y I N G P R O J E C T S Residential projects Plats and Subdivision applications Sitework
+* * *
+## 1 01 0
+2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e C O N S E R V A T I O N D I S T R I C T D E S I G N S T A N D A R D S & C O N S I D E R A T I O N SC O N S E R V A T I O N D I S T R I C T D E S I G N S T A N D A R D S & C O N S I D E R A T I O N S PURPOSE Conservation District (CD) is a zoning tool used to designate an area(s) within a neighborhood with a distinct physical character. While similar to historic districts in that they are both forms of preservation, Historic Districts try to preserve historic integrity and materials from a particular time – often referred to as a period of significance, whereas CDs are intended to provide a means of conserving an area's distinctive character by protecting or enhancing its physical attributes. They are often seen as complementary branches of preservation. CDs have existed in the City of Dallas since 1988. These districts exist primarily in East Dallas and Oak Cliff, but as development expands, so does the need to try to retain the communities that already exist. CDs are neighborhood driven in that districts are initiated by the residents themselves, with procedural assistance from City Staff throughout the designation process. PROCESS Once a district ordinance has been codified by City Council, property owners are required to submit Conservation District Work Reviews (CDWR) for various scopes of work, including exterior work on the lot that may not necessarily require permits. The CDWR application is a separate process from the permit application and is reviewed by City Staff. As of 2025, the City of Dallas has moved to an electronic application submission system, DallasNow. Dallas City Hall
+* * *
+## _1500 Marilla Street, 5BN_
+Dallas, TX 75201
+* * *
+M-F 8:00 a.m.5:00 p.m. 214-670-4209 P L A N N I N G & D E V E L O P M E N T C O N S E R V A T I O N D I S T R I C T P L A N N I N G & D E V E L O P M E N T C O N S E R V A T I O N D I S T R I C T
+* * *
+## Dallas City Hall
+## _1500 Marilla Street, 5BN_
+Dallas, TX 75201
+* * *
+M-F 8:00 a.m.5:00 p.m. 214-670-4209 H I S T O R I C P R E S E R V A T I O NH I S T O R I C P R E S E R V A T I O N The Certificate of Appropriateness process averages 35 days. Maximum of 65 days for contributing structures and 40 days for non-contributing structures. Routine maintenance and replacement certificates of appropriateness are required to be approved or denied within 20 days after a complete application. The average time for routing a CA is one week. P U R P O S EP U R P O S E There are 156 historic preservation overlay zoning districts (21 large districts and over 140 individual sites) in Dallas. The City of Dallas Code first requires an approved Certificate of Appropriateness in order to receive a Master Permit for any exterior renovation, new construction, or demolition in these districts or on these structures. The City conducts a detailed review of the proposed work which must be consistent with architectural and design standards established for the district/structure. Certificates of Appropriateness are required for all exterior work including all repairs, painting, etc., even if a building permit is not required. Site Plan and official site survey Material information: paint, shingles, window, door specifications Scaled elevation plans especially for new construction I N F O R M A T I O N T O P R O V I D EI N F O R M A T I O N T O P R O V I D E DEVELOPER DELAYS Site plan to scale is not provided Elevations do not match plans Specifications/ product information not provided. Plans show requests not mentioned on the application Applicant not attending Task Force meeting or Landmark Commission public hearing Landmark Commission Code Compliance WHO MAY BE INVOLVED A CA must be obtained for work on all structures or sites in a Landmark district, including non-contributing, newer structures, work that occurs on the rear of any structure, and major landscaping changes anywhere on the property. WHEN IS A CA REQUIRED 1 11 1 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e H I S T O R I C P R E S E R V A T I O N D E S I G N S T A N D A R D S & C O N S I D E R A T I O N SH I S T O R I C P R E S E R V A T I O N D E S I G N S T A N D A R D S & C O N S I D E R A T I O N S
+* * *
+## 1 21 2
+2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e C O N S U L T A T I O N S E R V I C E SC O N S U L T A T I O N S E R V I C E S P U R P O S EP U R P O S E These consultations are intended to provide our customers with a high-level overview of the status of the property. These may be virtual or in person, and can be scheduled online at a time that works best for you. Planning & Development provides free, 20-minute consultations for zoning, engineering, residential and commercial projects. You may also schedule an in-depth consultation. This enhanced consultation is charged at a rate varying per discipline. W H O M A Y B E I N V O L V E DW H O M A Y B E I N V O L V E D Zoning Paving/Drainage Engineering Water/Wastewater Engineering Residential Plan Review Commercial Plan Review
+* * *
+## _320 E. Jefferson Blvd._
+Dallas, TX 75203
+* * *
+M-F 8:00 a.m.5:00 p.m. 214-948-4480 O A K C L I F F M U N I C I P A L C E N T E RO A K C L I F F M U N I C I P A L C E N T E R
+* * *
+## Oak Cliff Municipal Center
+## _320 E. Jefferson Blvd. Room 200_
+Dallas, TX 75203
+* * *
+M-F 8:00 a.m.4:30 p.m. 214-948-4120 E S C A R P M E N T R E V I E WE S C A R P M E N T R E V I E W P U R P O S EP U R P O S E The Escarpment is a steep, wooded, environmentally fragile bluff located in Southwest Dallas. It is the contact line between two geological formationsthe Austin Chalk and the Eagle Ford Shale. The escarpment zone is defined in the Dallas Development Code Section 51A-5.201, as a linear corridor within a width the distance between: a) the greater of 125 feet above chalk and shale contact, or 35 feet beyond the crest (that point above the escarpment line where the slope becomes less than 4:1); and b) the greater of 85 feet below the chalk and shale contact, or 10 feet beyond the toe (that point below the escarpment line where the slope becomes less than 5:1). No development is permitted in the Escarpment Zone. However, development may be permitted in the Geologically Similar Area (GSA) of the escarpment. The Escarpment Permit process ensures that any development in the GSA of the escarpment is sensitive to its impact on the fragile environmental conditions. It also seeks to prevent damage to development due to unstable slopes through soils investigation and slope stability analysis. If your proposed development is in the Geologically Similar Area of the escarpment you must follow the Escarpment Permit process. You must have proper zoning to begin the Escarpment Permit process. E N G I N E E R I N G D I V I S I O NE N G I N E E R I N G D I V I S I O N Completed application form in DallasNow. The record engineer executive report certifying the escarpment zone area and the GSA The Geologist record engineer report certifying the escarpment zone area and the GSA and boring logs to adequate depth for determination of escarpment contact point Plan showing the delineation of escarpment zone area and GSA with cross sections Name and address of owner and of person who prepared the application – Record Engineer and Record Geologist General vicinity map of proposed site 1": 800' scale locator map Property limits on 1": 100' scale contour map, with 2' contour intervals, and details of terrain and area drainage 1": 50' scale cross section and plan view of proposed project structure Slope stability analysis Erosion control plans Grading plan Vegetation and tree mitigation proposals Drainage plan I N F O R M A T I O N T O P R O V I D EI N F O R M A T I O N T O P R O V I D E APPLICATION GUIDELINES 1 31 3 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e Review fee $2,709.00
+* * *
+Z O N I N G C H A N G EZ O N I N G C H A N G E P U R P O S EP U R P O S E If a development cannot be completed “by right” in the existing zoning, a zoning change may be necessary. A zoning change may alter the permitted uses or development standards of a property. Property owners can request a zoning change by submitting a complete application to staff. Elected and appointed officials, Surrounding property owners and community organizations, Planning & Development staff, with input received from other departments and agencies such as: City Attorney’s Office Transportation and Public Works Park and Recreation Economic Development Housing Environmental Quality and Sustainability Dallas Fire-Rescue Aviation Dallas Water Utilities Dallas Area Rapid Transit (DART) Dallas Independent School District (DISD) WHO MAY BE INVOLVED H O W I T W O R K SH O W I T W O R K S Failure to meet with the community Failure to contact the City Plan Commissioner or City Council Member Incomplete information was provided (e.g. legal description doesn’t meet GIS standards, changes in scope or representative, lack of due diligence, etc.) DEVELOPER DELAYS HOW LONG WILL IT TAKE If the application is complete and there is community support, general zoning changes typically take 3-4 months (if there are no delays); similarly, planned development districts typically take 6 months to a year. The timeline of any zoning case varies based on the complexity of the zoning requested and the degree of community involvement. The process consists of (1) submittal of a complete package, (2) staff-level internal review and revisions, (3) scheduling for the first public hearing with the City Plan Commission, (4) scheduling for the second public hearing with the City Council, the decision-making authority. However, the process does not flow directly to City Council. The top delays noted must be thoroughly addressed to help the case flow smoothly and quickly. Zoning applications are submitted online through DallasNow with a completed Current Planning Request record. 1 41 4 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e CURRENT PLANNING Dallas City Hall
+* * *
+## _1500 Marilla Street, 5BN_
+Dallas, TX 75201
+* * *
+M-F 8:15 am5pm 214-670-4209
+* * *
+## Dallas City Hall
+## _1500 Marilla Street, 5BN_
+Dallas, TX 75201
+* * *
+M-F 8:15 a.m.5:00 p.m. 214-670-4209 C U R R E N T P L A N N I N GC U R R E N T P L A N N I N G 1 51 5 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e Application through DallasNow, including: Fees Certification that no taxes are owed on the property to be rezoned Certification that no liens are owed on the property to be rezoned Statement of proposed land uses and justification for zoning change request with identification of surrounding uses Property owner’s signature authorizing the change. If ownership is a corporation or partnership, a letter signed by officers authorizing the applicant or representation to conduct the rezoning on their behalf I N F O R M A T I O N T O P R O V I D EI N F O R M A T I O N T O P R O V I D E Traffic study as determined by Transportation and Public Works and the worksheet in the application. Generally, general zoning changes often do not require a traffic study, whereas planned development requests often do. For cases such as specific use permits or planned development districts, native PDF Site Plans, Landscape Plans, or Development Plans. These plans should include the basic dimensions of the property, including the street frontages, setbacks, and square footages, ingress egress, and building outlines. Interiors of buildings should not be included. S C A N F O R M O R E I N F O R M A T I O NS C A N F O R M O R E I N F O R M A T I O N
+* * *
+ZONING-RELATED PLANS P U R P O S EP U R P O S E Certain zoning, including planned development district (PD) and specific use permit (SUP), require controlling plans adopted by City Council. When plans are required, specific standards apply relating to submittal, approval, and amendments. The review process for development and landscape plans related to PDs and minor amendments to PD and SUP plans are classified as Miscellaneous Zoning records in DallasNow. Planning & Development Department Plan Review Team consisting of zoning/plan reviewers, arborist, subdivision, and geographic information systems. Public Works Dallas Fire-Rescue Transportation Members of the public Neighborhood and community organizations Other agencies: DART, Utility providers, school districts WHO MAY BE INVOLVED When an MZ record is created, the information entered into DallasNow will determine which documents are required to submit the application. All applications require a minimum of a deed, tax certificate, lien statement, and the plans being submitted. Other documents that may be required include a list of officers/partners, authorization letter(s), and traffic management plan or traffic study. Once submitted, the record enters a queue for application intake where staff will review the documents submitted and project details. If considered a complete application, the fees associated with the request are assessed. These include the corresponding plan review fee(s) for either original submittal or amendment and a technology fee. Some requests will carry additional engineering review fees or other fees, as required by the PD or development code. Once fees are paid, the application is officially in the queue for staff review. I N F O R M A T I O N T O P R O V I D EI N F O R M A T I O N T O P R O V I D E 1 61 6 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e To submit or amend plans, start with a Current Planning Request (CPR) referral from staff in the Planning & Development Department. This referral includes a consultation with Current Planning staff to discuss the application process and request. Next is the legal description review and approval. Once the legal description is approved, the closed CPR record can be used to create a Miscellaneous Zoning (MZ) record in the Planning Module of DallasNow within six months. CURRENT PLANNING Dallas City Hall
+* * *
+## _1500 Marilla Street, 5BN_
+Dallas, TX 75201
+* * *
+M-F 8:15 am5pm 214-670-4209
+* * *
+## Dallas City Hall
+## _1500 Marilla Street, 5BN_
+Dallas, TX 75201
+* * *
+M-F 8:15 am5pm 214-670-4209 ZONING-RELATED PLANS Failure to respond and comply with review comments Failure to contact the City Plan Commissioner or City Council Member Failure to meet with the community DEVELOPER DELAYS I N F O R M A T I O N T O P R O V I D E C O N T ’ DI N F O R M A T I O N T O P R O V I D E C O N T ’ D 1 71 7 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e Staff review consists of multiple departments examining the details of the request and providing feedback to the applicant. When feedback is provided, the request starts a new round of review. Once all feedback is addressed, the request is ready to final processing. Final processing may be approval by the director or the City Plan Commission. Determining factors for how the plan submittal or amendment will be processed can be found in the development code sections relating to zoning amendment for PDs and use regulations for SUPs. H O W L O N G W I L L I T T A K E?H O W L O N G W I L L I T T A K E? Depending on the processing requirements for the request, the plan review process and approval could take 60 120 days. Major factors to consider are whether public notification is required and timeliness in rounds of review. CURRENT PLANNING
+* * *
+S e c t i o n I IS e c t i o n I I S I T E P E R M I TL A N D D E V E L O P M E N TS I T E P E R M I TL A N D D E V E L O P M E N T
+* * *
+## 1 91 9
+2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e SHARED ACCESS DEVELOPMENT Oak Cliff Municipal Center
+* * *
+## _320 E. Jefferson Blvd. Room 200_
+Dallas, TX 75203
+* * *
+M-F 8:00 a.m.5:00 p.m. 214-948-4205 or 214-948-4607 PURPOSE E N G I N E E R I N G D I V I S I O NE N G I N E E R I N G D I V I S I O N To regulate non-traditional single family lots that rely on shared driveways for access rather than traditional street frontage. This permit ensures safe design, access, and maintenance of shared access areas while preserving compliance with city codes, fire protection standards, and infrastructure requirements. SCOPE Applies to developments with 3 to 36 individual single family lots created by plat. Governs the design, approval, and maintenance of shared access areas that provide entry to lots not fronting directly on a public or private street. Includes requirements for platting, written agreements, fire protection, utilities, public water/wastewater, drainage, traffic control, zoning, and guest parking. Ensures each lot complies with zoning regulations, setback requirements, and landscaping standards. Provides the City the right, but not the obligation, to make necessary repairs within the shared access area and recover costs. QUALIFIYING PROJECTS Residential projects platting no less than 3 and no more than 36 single family lots. Developments where one or more lots do not front on a public or private street and require a shared driveway for access. Projects restricted to single family use and not platted as a Community Unit Development (CUD). Shared access areas must: Front on a public or private street (not an alley). Have a minimum width of 20 feet and minimum pavement width of 16 feet. Meet fire code standards, traffic engineer approval, and utility installation requirements. Guest parking of 0.25 spaces per dwelling unit must be provided and needs to be confirmed with zoning. Public Water/Wastewater installation and easement requirements per DWU Standards Shared access areas must:
+* * *
+Inspection Approval R e l e a s e o f B u i l d i n g P e r m i t sR e l e a s e o f B u i l d i n g P e r m i t s Construction Plat Release** C o n s t r u c t i o n * * *C o n s t r u c t i o n * * * Meter Service Release Field Verification of Monumentation by Public Works SHARED ACCESS DEVELOPMENT PROCESS 2 02 0 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e Design Review Paving/Drainage Survey Water/Wastewater Inspection Approval *Any Easement by Separate Instrument must be recorded prior to release **Any Easement by Separate Instrument or WasteWater Backflow Agreement must be recorded prior to release. ***Requires Dallas Water Utilities paving release and recorded plat to obtain paving permit for internal drive. The following flow chart exhibit is a general guideline for the plat release and building permit release as it relates to Planning & DevelopmentEngineering: Paving and Drainage, Water/Wastewater, and Surveying. Each project’s review process contains multiple variables which affects its critical path. Engineering’s release is only one component of the overall building permit review process and it is the developer’s responsibility to obtain approval from all other required sections & departments. Please note that NO EARLY RELEASE IS AVAILABLE FOR SHARED ACCESS DEVELOPMENT. 311T Contracts (if req’d) r e q u i r e s D e v e l o p m e n t B o n dr e q u i r e s D e v e l o p m e n t B o n d Plat Release* Final Plat Review Easement Review Backflow Agreement Abandonments Preliminary Plat Review/ CPC Approval Design Review P Contracts (if req’d) Plat Release I N F O R M A T I O N T O P R O V I D EI N F O R M A T I O N T O P R O V I D E Submittal of Recorded Plat Can occur at the same time
+* * *
+## Oak Cliff Municipal Center
+## _320 E. Jefferson Blvd., Room 200_
+Dallas, TX 75203
+* * *
+M-F 8:00 a.m.5:00 p.m. 214-948-4205 Engadmin@dallas.gov Finalized Paving/DrainageEngineering and Traffic Department Comments Uploaded in DallasNow All Review Comments Addressed and Private Development Contract Executed? PAVING/DRAINAGE 2 12 1 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e P U R P O S EP U R P O S E The Paving/DrainageEngineering Team provides engineering review services on paving, grading and drainage design and impacts of private development projects. I N F O R M A T I O N T O P R O V I D EI N F O R M A T I O N T O P R O V I D E Completed through DallasNow Completed Paving/DrainageReview Checklist Copy of Proposed Paving, Grading and Drainage Plans, demolition, storm, and erosion control Copy of Drainage Report/Memo Copy of SWPPP (if applicable) Copy of Preliminary or Recorded Final Plat Applicable Utility Coordination Letter(s) Fire Department Approval Letter (if applicable) Copy of Water/Wastewater Plans (if applicable) Traffic Engineering Review Checklist Copy of Traffic, Signage and Striping, and Lighting Plans (if applicable can be provided/combined with Paving and Grading Plans) Copy of Proposed Landscape Plan (if applicable) E N G I N E E R I N G D I V I S I O NE N G I N E E R I N G D I V I S I O N 1st submittal review process: 15 business days Subsequent submittals: 7 business days Applicant submits plans to Permit Center Is Full Set of Engineering Plans Submittal Required? Research and Checklist Completion Engineering Plans Received Electronically Pre-Screening and Payment Final Design Plan QC and Batch Stamp P l a t i s R e l e a s e d t o S u b d i v i s i o n f o r R e c o r d a t i o nP l a t i s R e l e a s e d t o S u b d i v i s i o n f o r R e c o r d a t i o n Application and Site Plan Received by Email Paving, Drainage and Traffic Engineering Review Preliminary Plat approved or Final Flat Pre-Development Meeting (optional)
+* * *
+## Oak Cliff Municipal Center
+## _320 E. Jefferson Blvd., Room 200_
+Dallas, TX 75203
+* * *
+M-F 8:00 a.m.5:00 p.m. 214-948-4205 Engadmin@dallas.gov EARLY GRADING 2 22 2 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e P U R P O S EP U R P O S E To allow limited site grading work to begin prior to full building permit issuance. The early grading permit provides applicants the opportunity to prepare their site by balancing earthwork, establishing drainage patterns, and stabilizing soil, while ensuring compliance with city codes, stormwater protection measures, and environmental safety requirements. I N F O R M A T I O N T O P R O V I D EI N F O R M A T I O N T O P R O V I D E Applies to projects seeking to perform grading activities before obtaining a building permit. Covers excavation, embankment, fill, soil stabilization, temporary erosion control, and construction access. Requires review and approval of grading and drainage plans for conformance with city standards. Ensures compliance with environmental and stormwater pollution prevention requirements. Does not authorize building construction, utility installation, or paving work beyond temporary construction access. E N G I N E E R I N G D I V I S I O NE N G I N E E R I N G D I V I S I O N Q U A L I F Y I N G P R O J E C T SQ U A L I F Y I N G P R O J E C T S Platting: A Plat has been filed, or an approved preliminary plat is in progress of being recorded. Engineering Approvals: Paving/Drainage Engineering plans and Water/Wastewater Engineering plans have been approved and released. Subdivision Early Release (if applicable): If the project requires platting, an early release request has been submitted to Subdivision, with sign-offs obtained from Paving/DrainageEngineering, Water/Wastewater Engineering, and the Arborist Division. Stormwater Compliance: For sites one acre or larger, a Storm Water Pollution Prevention Plan (SWPPP) has been prepared and submitted to Paving/Drainage Engineering, Transportation & Public Works, and Stormwater. Tree Protection: Prior to any grading activity or tree removal, a tree removal permit has been obtained from the Chief Arborist, with applications submitted through DallasNow. *Early grading permits authorize grading only. Separate permits are required for paving, utility installation, and building construction.
+* * *
+## EARLY GRADING PERMIT
+APPLICATION CHECKLIST 2 32 3 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e BEFORE APPLYING: Plat has been filed, or an approved preliminary Plat is in progress of being recorded. Paving/Drainage Engineering plans approved and released. Water/Wastewater Engineering plans approved and released. If plating, an early release request must be submitted to Subdivision. Approval of the requested scope of work will require sign offs from the Drainage & Paving Engineering, Water/Wastewater Engineering, and Arborist divisions. If the site ≥ 1 acre, submit copy of the Storm Water Pollution Prevention Plan (SWPPP) to Paving/Drainage Engineering, Transportation and Public Works and Stormwater. Prior to any grading activity or tree removal, you must obtain a tree removal permit from the Chief Arborist. To apply, please submit application through Dallas Now. APPLICATION REQUIREMENTS: 2. Site Plan Review Application (permit type: SITEPR-YR-######) Required documents: Site plan showing proposed topography, paving, landscaping, and structures. Site Plan Review fee. REVIEW AND APPROVAL Subdivision early release letter (if applicable). Paving/DrainageEngineering confirmation of plan release and SWPPP approval (if ≥ 1 acre). Water/Wastewater Engineering confirmation of plan release. Zoning review and approval of Site Plan application. Arborist/tree protection review completed (if applicable). Applicants must submit the following separate applications through DallasNOW: 1.Grading Permit Application (permit type: EXCAV-GRADE-YR-######) Required Documents: Drainage plan if the property is one acre or larger, accompanied by a copy of the SWPPP. Tree survey or tree protection plan (if required by Article X). Arborist approval for any tree impacts. Subdivision Early Release Request (if platting).
+* * *
+APPLICATION REQS CONT’D: PERMIT ISSUANCE: Early grading permits are issued by the City and authorize grading only (no building, utility, or paving work). DURING CONSTRUCTION: Erosion and sediment control installed and maintained. Tree protection measures in place. Grading inspections scheduled and passed. Compliance with Chapter 52 Construction Site Management (erosion, drainage, litter control, etc.). An Early Grading Permit only allows grading activities. Separate permits are required for paving, building, and utility work.
+* * *
+P L A T T I N G P R O C E S SP L A T T I N G P R O C E S S The platting process for the City of Dallas is intended to guide the future growth and development of the city. It helps direct public policy and action to ensure adequate and efficient infrastructure, including transportation, streets, storm drainage, water, wastewater, parks, and open space facilities. The process also establishes the proper location and width of streets and building lines. P U R P O S EP U R P O S E 2 42 4 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e MINORa plat which does not require engineering plans and has an area that does not exceed five acres for residential zoning districts and three acres for all the other zoning districts. Further; a minor plat must abut an approved public or private street and must have adequate water, wastewater and storm sewer facilities already serving it. MAJORa plat which requires paving, drainage, water, wastewater, or other engineering plans, or which exceeds the acreage limits of a minor plat. The two major components of the platting process are the Preliminary Plat Approval and the Final Plat Approval processes. A PRELIMINARY PLAT is the initial plat proposed by the applicant, which is reviewed by City Staff and presented to the City Plan Commission (CPC) with condition for consideration. If the CPC determines that approval subject to conditions is appropriate, the Subdivision Administrator ensures that those conditions are met before the plat is finalized for endorsement by the Commission Chair. A FINAL PLAT is a plat that will be signed by the Commission Chair upon satisfaction of all conditions of approval and all other requirements of the article and will be effective once it is filed with the County Clerk On occasion, Early Release of a building permit may be issued by the Subdivision Administrator to allow, upon specific stipulations by technical staff that a building permit, foundation permit, grading permit may be issued after City Plan Commission approval of a preliminary plat, but before approval of a final plat. However, a Certificate of Occupancy will not be issued until the final plat is approved and recorded, and a PDF is emailed to Subdivision section. T Y P E S O F P L A T ST Y P E S O F P L A T S P L A T A P P R O V A L P R O C E S SP L A T A P P R O V A L P R O C E S S
+* * *
+PLATTING PROCESS GUIDELINES Oak Cliff Municipal Center
+* * *
+## _320 E. Jefferson Blvd., Room 101_
+Dallas, TX 75203
+* * *
+M-F 8:00 a.m.4:30 p.m. 214-948-4058 2 52 5 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e PLATTING PROCESS I N F O R M A T I O N T O P R O V I D EI N F O R M A T I O N T O P R O V I D E The City of Dallas Platting Process Guidelines are available Online and from staff at 320 E. Jefferson, Room 101. P L A T T I N G P R O C E S S G U I D E L I N E SP L A T T I N G P R O C E S S G U I D E L I N E S S U B D I V I S I O NS U B D I V I S I O N Please follow DallasNow at Dallas.gov/DallasNow and plat checklist for preliminary plat submittal requirements. ·Preliminary plat and Supporting Documents can be uploaded anytime via DallasNow for staff to review. However, it will be processed according to submittal Calendar. Mohammad H. Bordbar – Chief Planner/Subdivision Administrator 214-948-4622 Sharmila Shrestha – Senior Planner 214-948-4531 Hema Sharma – Senior Planner 214-948-4452 Maria Montoya – Administrative Specialist II 214-948-4454 Adriana Montes – Administrative Specialist II 214-948-4344 Gloria Fernandez – Office Assistant II 214-948-4058 Email: PDVsubdivision@dallas.gov S U B D I V I S I O N S T A F F & C O N T A C T SS U B D I V I S I O N S T A F F & C O N T A C T S
+* * *
+## 2 62 6
+2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e ENGINEERING PLAN REVIEW Oak Cliff Municipal Center
+* * *
+## _320 E. Jefferson Blvd., Room 200_
+Dallas, TX 75203
+* * *
+M-F 8:00 a.m.4:30 p.m. 214-948-4454 or 214-948-4205 Site/Grading plan, engineering plans, bonds, and contracts are frequently required in the Platting Process for major plats (e.g. drawings and specifications for paving, storm water drainage, and Water/Wastewater utilities). These are necessary to assure proper and adequate infrastructure to serve the proposed development. They also help to ensure that street geometrics, storm drainage, and utility provisions required by the development do not and will not create adverse impacts on the property owner and/or on property owners of land adjacent to the proposed development. See the Dallas Water Utilities Private Development Policies and Procedures for further information E N G I N E E R I N G D I V I S I O NE N G I N E E R I N G D I V I S I O N Preliminary plat and supporting documents can be uploaded anytime via DallasNow for staff to review. However, it will be processed according to submittal calendar. S U B M I T T A L S C H E D U L ES U B M I T T A L S C H E D U L E No final plat application will be accepted until all departments requiring releases have approved the plan and a final plat fee has been paid. (Minor plat may require no final fees.)
+* * *
+## _2021 Dallas Development Guide April 09, 2021_
+Page 11 The final plat submitted for the Plan
+* * *
+Commission Chair’s signature will be reviewed by the Survey Section to ensure it is the plat originally released by the Survey Section. All property taxes due for the property being platted must be paid before the final plat is recorded with the appropriate County Clerk. All final plats submitted will be retained by the county in which the property is located and the City of Dallas. If additional copies are desired, they must be submitted with the required number of plats. A final plat approved by the City Plan Commission should be filed in the office of the appropriate County Clerk within (10) ten days of the date of the Commission’s approval. Failure to record the final plat will result in the Plan Commission’s approval becoming void. Failure to return the recorded plats to the Subdivision Section may result in holds being placed on your Building Permits/Certificates of Occupancy or Revocation of permits and/or Certificates of Occupancy. FINAL PLAT APPROVAL
+* * *
+## _2025 PLAT SUBMITTAL_
+SCHEDULE
+* * *
+Final plat submittal deadline for the Chair’s signature is 4:30 pm Tuesday the week of the CPC hearing. The final plat will be routed to the Survey Section of the Planning & Development DepartmentEngineering Division to determine if the plat meets the requirements for recording. PURPOSE
+* * *
+## 2 72 7
+2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e T R E E S U R V E Y R E V I E WT R E E S U R V E Y R E V I E W A tree survey must contain the following information: Location on the lot Diameter at breast height (4.5 feet above ground) in inches Project name, street address, and lot and block description. Date, scale, north point, and the names, addresses, and telephone numbers of each property owner and the person preparing the plan. Location of existing boundary lines and dimensions of the lot, the zoning classification of the lot, and the zoning classification of adjacent properties. A vicinity map should also be attached to or made part of the plan. Name (both common and scientific)
+* * *
+All protected trees on the lot must be shown. P U R P O S EP U R P O S E The Tree Survey Review Process for the City of Dallas was established in May of 1994 to assess the number of trees that may be impacted by the development of the property. A tree survey is designed to document the presence of protected trees on property within the City of Dallas.
+* * *
+A tree survey may be required when applying for a plat, zoning change or building permit. Additionally, a tree survey may be required when grading, demolition, or house moving occurs on a lot within the City of Dallas. The survey must be supplied in time to be reviewed prior to any plat, zoning change, or building permit approval. The deadlines are therefore the same as any required for those mentioned above.
+* * *
+Customers are strongly encouraged to review the online Landscape and Tree Manual available on the Planning & Development website under the Quick Links. The sections have additional information on the process and technique of conducting tree surveys and forest stand delineations as needed. Oak Cliff Municipal Center
+* * *
+## _320 E. Jefferson, Room 105_
+Dallas, TX 75203
+* * *
+M-F 8:00 a.m.4:30 p.m. 214-948-4480 A R B O R I S TA R B O R I S T INFORMATION TO PROVIDE HOW IT WORKS Tree surveys are reviewed by the City of Dallas Arborists. If a tree survey is verified as correct by the Arborist, the process is continued. If the survey is incorrect, the responsible Arborist will notify the applicant of the necessary changes. The survey does not have to be prepared by a registered surveyor, architect, or landscape architect. However, accuracy of survey information is essential to assure the survey provides a fair assessment for the property owner and does not overstate the number of protected trees on the property.
+* * *
+## Oak Cliff Municipal Center
+## _320 E. Jefferson Blvd., Room 200_
+Dallas, TX 75203
+* * *
+M-F 8:00 a.m.5:00 p.m. 214-948-4607 Engadmin@dallas.gov Permit Review Only Engineering Review Required 2 82 8 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e WATER/WASTEWATER P U R P O S EP U R P O S E Water/Wastewater Engineering Division represents the Department of Dallas Water Utilities (DWU) on all projects related to private development. Our top priority is our commitment to safeguard the public health, protecting the environment, and supporting sustainable growth through the provisions of the design and construction of public infrastructure. We strive to uphold the highest standards of quality, integrity, and professionalism in the review and approval of public infrastructure to serve private developments while also ensuring resilient and reliable service is provided to our community both now and in the future. E N G I N E E R I N G D I V I S I O NE N G I N E E R I N G D I V I S I O N Utility Coordination Letters Fire Coordination Certificate Proposed Landscape Plan (if applicable) Copy of the preliminary or recorded final Plat. Copy of the proposed Water/Wastewater Plan Copy of the Paving/DrainagePlan (if applicable) DWU Design Checklist signed and dated by the Engineer of Record (EOR) Provide a detailed description of the proposed development including: Type of development (commercial, residential, mixed used etc.) Number of units proposed water demand and wastewater flow (gpm) I N F O R M A T I O N T O P R O V I D EI N F O R M A T I O N T O P R O V I D E Application Submittal Review Approved? Private Development Contract Required? Batch Stamp/Release to Construction P-Contract Submittal/Review/ Approval E n g i n e e r o f R e c o r d s u b m i t s 1 3 c o p i e s o f s t a m p e d p l a n t o P l a n n i n g & D e v e l o p m e n t, W / W W C o n t r a c t A d m i n i s t r a t o rE n g i n e e r o f R e c o r d s u b m i t s 1 3 c o p i e s o f s t a m p e d p l a n t o P l a n n i n g & D e v e l o p m e n t, W / W W C o n t r a c t A d m i n i s t r a t o r R E L E A S ER E L E A S E * * * R e l e a s e s i n c l u d e, P l a t R e l e a s e, E a r l y G r a d i n g, E a r l y B l d g. P e r m i t, B u i l d i n g P e r m i t, F o u n d a t i o n o n l y e t c.* * * R e l e a s e s i n c l u d e, P l a t R e l e a s e, E a r l y G r a d i n g, E a r l y B l d g. P e r m i t, B u i l d i n g P e r m i t, F o u n d a t i o n o n l y e t c. 1st submittal review process: 15 days Subsequent submittals: 7 days Pre-Screening/Assign to Staff for Review Zoning & Preliminary Plat Approved Pre-Dev Meeting (Optional) Batch Stamp/Release to Construction
+* * *
+City Hall
+* * *
+## _2121 Main Street, Suite 300_
+Dallas, TX 75201
+* * *
+M-F 8:00 a.m.5:00 p.m. 214-671-9075
+* * *
+## 92 9
+2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e
+* * *
+WATER/WASTEWATER D A L L A S W A T E R U T I L I T I E S D A L L A S W A T E R U T I L I T I E S I N F O R M A T I O N T O P R O V I D EI N F O R M A T I O N T O P R O V I D E Prior to the commencement of construction, a Dallas Water Utilities (DWU) Inspector must be assigned. Here is what must be submitted: Approved Right of Way (ROW) Permit, ROW permit may be obtained through right-of way-management. Approved Traffic Control (TCP) Permit or a screenshot of the permit number until it is time to get it and Traffic Control Plan, TCP, may be obtained at ROW Management site. Contract Program Safety Plan Trench Safety Plan Inspector Request Form Overtime Form must be completed with the following information: the Name of responsible person, mailing address, phone number and e-mail address. M O R E I N F O A B O U T R I G H TO FW A Y P E R M I TM O R E I N F O A B O U T R I G H TO FW A Y P E R M I T O B T A I N T R A F F I C C O N T R O L P E R M I TO B T A I N T R A F F I C C O N T R O L P E R M I T
+* * *
+B U I L D I N G P E R M I TB U I L D I N G P E R M I T S e c t i o n I I IS e c t i o n I I I
+* * *
+The following reviews are part of this service. Please check the Planning & Development website for all of the latest application forms and checklists. Paving/Draining Engineering Water/Wastewater Engineering Zoning Review Building Code Electrical Code Plumbing Code B U I L D I N G P E R M I T R E V I E W P R O C E S SB U I L D I N G P E R M I T R E V I E W P R O C E S S T h e b u i l d i n g p e r m i t a p p l i c a t i o n i s a c o n t r a c t b e t w e e n t h e a p p l i c a n t a n d t h e C i t y t h a t i n i t i a t e s r e v i e w s o f c o n s t r u c t i o n p l a n s a n d d e s i g n d o c u m e n t s t o c h e c k f o r m i n i m u m c o d e c o m p l i a n c e.T h e b u i l d i n g p e r m i t a p p l i c a t i o n i s a c o n t r a c t b e t w e e n t h e a p p l i c a n t a n d t h e C i t y t h a t i n i t i a t e s r e v i e w s o f c o n s t r u c t i o n p l a n s a n d d e s i g n d o c u m e n t s t o c h e c k f o r m i n i m u m c o d e c o m p l i a n c e. B u i l d i n g P e r m i t A p p l i c a t i o nB u i l d i n g P e r m i t A p p l i c a t i o n T e c h n i c a l R e v i e w sT e c h n i c a l R e v i e w s Mechanical Code Green/Energy Code Fire Plan Review Fire Protection System Tree/Landscaping 3 33 3 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e SCAN FOR CURRENT CITY CODES
+* * *
+## 1 Upload drawings/plans of your proposed
+project to DallasNow. Ensure that all necessary information is provided accurately to avoid delays in the review process. S u b m i t B u i l d i n g P e r m i t A p p l i c a t i o nS u b m i t B u i l d i n g P e r m i t A p p l i c a t i o n O n c e t h e a p p l i c a t i o n i s s u b m i t t e d, t h e b u i l d i n g p e r m i t p l a n s a r e a s s i g n e d t o c i t y s t a f f f o r r e v i e w. T h e s e s t a f f m e m b e r s a s s e s s t h e p l a n s t o e n s u r e c o m p l i a n c e w i t h l o c a l b u i l d i n g c o d e s, z o n i n g r e g u l a t i o n s, a n d o t h e r a p p l i c a b l e l a w s. O n c e t h e a p p l i c a t i o n i s s u b m i t t e d, t h e b u i l d i n g p e r m i t p l a n s a r e a s s i g n e d t o c i t y s t a f f f o r r e v i e w. T h e s e s t a f f m e m b e r s a s s e s s t h e p l a n s t o e n s u r e c o m p l i a n c e w i t h l o c a l b u i l d i n g c o d e s, z o n i n g r e g u l a t i o n s, a n d o t h e r a p p l i c a b l e l a w s. Building Permit Plan Reviews Assigned to City Staff D u r i n g t h i s s t a g e, t h e c i t y c o n d u c t s t e c h n i c a l r e v i e w s o f t h e b u i l d i n g p e r m i t p l a n s. T h i s i n v o l v e s a s s e s s i n g v a r i o u s a s p e c t s s u c h a s s t r u c t u r a l i n t e g r i t y, e l e c t r i c a l, p l u m b i n g, a n d f i r e s a f e t y s y s t e m s t o e n s u r e t h e y m e e t r e g u l a t o r y s t a n d a r d s a n d s a f e t y r e q u i r e m e n t s.D u r i n g t h i s s t a g e, t h e c i t y c o n d u c t s t e c h n i c a l r e v i e w s o f t h e b u i l d i n g p e r m i t p l a n s. T h i s i n v o l v e s a s s e s s i n g v a r i o u s a s p e c t s s u c h a s s t r u c t u r a l i n t e g r i t y, e l e c t r i c a l, p l u m b i n g, a n d f i r e s a f e t y s y s t e m s t o e n s u r e t h e y m e e t r e g u l a t o r y s t a n d a r d s a n d s a f e t y r e q u i r e m e n t s. C i t y T e c h n i c a l R e v i e w sC i t y T e c h n i c a l R e v i e w s A f t e r t h o r o u g h e v a l u a t i o n, t h e b u i l d i n g p e r m i t p l a n s a r e e i t h e r a p p r o v e d o r d e n i e d. I f a p p r o v e d, t h e a p p l i c a n t i s n o t i f i e d a n d p r o v i d e d w i t h t h e n e c e s s a r y d o c u m e n t a t i o n v i a e m a i l. I f d e n i e d, t h e r e a s o n s f o r d e n i a l a r e c o m m u n i c a t e d v i a e m a i l, a n d t h e a p p l i c a n t m a y b e r e q u i r e d t o r e v i s e a n d r e s u b m i t t h e p l a n s.A f t e r t h o r o u g h e v a l u a t i o n, t h e b u i l d i n g p e r m i t p l a n s a r e e i t h e r a p p r o v e d o r d e n i e d. I f a p p r o v e d, t h e a p p l i c a n t i s n o t i f i e d a n d p r o v i d e d w i t h t h e n e c e s s a r y d o c u m e n t a t i o n v i a e m a i l. I f d e n i e d, t h e r e a s o n s f o r d e n i a l a r e c o m m u n i c a t e d v i a e m a i l, a n d t h e a p p l i c a n t m a y b e r e q u i r e d t o r e v i s e a n d r e s u b m i t t h e p l a n s. R e v i e w A p p r o v e dR e v i e w A p p r o v e d W i t h t h e b u i l d i n g p e r m i t g r a n t e d, t h e a p p l i c a n t c a n c o m m e n c e c o n s t r u c t i o n a s o u t l i n e d i n t h e a p p r o v e d p l a n s.W i t h t h e b u i l d i n g p e r m i t g r a n t e d, t h e a p p l i c a n t c a n c o m m e n c e c o n s t r u c t i o n a s o u t l i n e d i n t h e a p p r o v e d p l a n s. B u i l d i n g P e r m i t G r a n t e d & B u i l d i n g C o n s t r u c t i o n B e g i n sB u i l d i n g P e r m i t G r a n t e d & B u i l d i n g C o n s t r u c t i o n B e g i n s 2 3 4 5
+* * *
+## _2025 FEE_
+GUIDE
+* * *
+bit.ly/DSDfees BUILDING PERMIT APPLICATION dallas.gov/DallasNow Oak Cliff Municipal Center
+* * *
+## _320 E. Jefferson, Room 118_
+Dallas, TX 75203
+* * *
+M-F 8:00 a.m.4:30 p.m. 214-948-4480 3 43 4 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e
+* * *
+## Oak Cliff Municipal Center
+## _320 E. Jefferson Blvd. Room 105_
+Dallas, TX 75203
+* * *
+M-F 8:00 a.m.4:30 p.m. 214-948-4463 B U I L D I N G C O D E R E V I E WB U I L D I N G C O D E R E V I E W 3 53 5 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e B U I L D I N G C O D E R E V I E W SB U I L D I N G C O D E R E V I E W S P U R P O S EP U R P O S E The Building Code Review is an essential part of the design and approval process for any construction or renovation project. Its main purpose is to ensure that a project meets all safety, structural, and legal requirements set by local, provincial, and national building codes. The review is typically carried out by municipal or regulatory authorities before construction begins. It ensures that the proposed work aligns with current building standards and does not pose risks to public safety or the environment. Building permit application. Certificate of Occupancy application. General sheet outlining the scope of work and including structural information. Architectural/Structural drawing. Detailed Drawing for different building elements. DOCUMENTS TO PROVIDE The initial review performance goal for CO is 7 days. SCAN FOR CHECKLIST & APPLICATIONS PROJECTS REVIEWED BY BUILDING CODE New commercial construction Exterior and interior renovations Certificate of Occupancy Access control systems Commercial swimming pools Generators High-piled storage Architects Engineers Building Officials Plan Examiners Inspectors Plumbing/Mechanical Team Electrical Team Code Consultants Contractors / Builders Developers / Owners / Project Managers Fire Marshals (Fire Department Representatives) Accessibility Experts WHO MAY BE INVOLVED The initial review performance goal for building permit is 14 days.
+* * *
+## Oak Cliff Municipal Center
+## _320 E. Jefferson Blvd. Room 210_
+Dallas, TX 75203
+* * *
+M-F 8:00 a.m.4:30 p.m. 214-948-4255 E L E C T R I C A L R E V I E WE L E C T R I C A L R E V I E W 3 63 6 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e E L E C T R I C A L R E V I E W SE L E C T R I C A L R E V I E W S P U R P O S EP U R P O S E Electrical plan reviews ensure that proposed electrical systems are designed in full compliance with the National Electrical Code (NEC), local ordinances, and other applicable standards before construction begins. Plan reviewers carefully examine drawings, one-line diagrams, load calculations, and equipment specifications to verify proper conductor sizing, overcurrent protection, grounding, and system coordination. This process helps identify potential safety or design issues early, reducing the risk of electrical hazards and costly field corrections during construction. Electrical plan review also provides a clear and consistent framework for contractors, engineers, and property owners to follow. By confirming that designs meet code requirements upfront, the review process ensures safer installations and smoother inspections once work is underway. It serves as a vital step in protecting public safety, maintaining electrical reliability, and supporting efficient project completion within the city. Full one line diagram for service and premise wiring distribution Calculated load for service and all panelboards Conductor and conduit sizes for service and panelboards Grounding electrode system diagram and all conductor sizes Conductor overcurrent protection for service and panelboards Panel schedules Location of electrical service and panels in or on structure Complete floor plan for lighting and power Equipment specifications and testing/listing information INFORMATION TO PROVIDE The initial review performance goal is 15 days. Building Plumbing Mechanical Zoning Green Fire WHO MAY BE INVOLVED SCAN FOR MORE INFORMATION
+* * *
+FIRE PROTECTION ENGINEERING DIVISION 3 73 7 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e F I R E P R O T E C T I O N R E V I E W SF I R E P R O T E C T I O N R E V I E W S Oak Cliff Municipal Center
+* * *
+## _320 E. Jefferson Blvd. Room 210_
+Dallas, TX 75203
+* * *
+M-F 8:00 a.m.4:30 p.m. 214-948-4602 P U R P O S EP U R P O S E Fire protection engineering is critical for ensuring public safety, protecting property, and minimizing the impact of fire-related incidents. The Planning & Development Fire Protection team reviews fire alarms, fire sprinklers, and flammable liquids permits to ensure compliance with International Fire Code standards. Building Code Fire Protection Engineering Division Zoning Review Electrical Review Plumbing & Mechanical Review Dallas Fire Rescue SCAN FOR MORE INFORMATION & APPLICATION The fire protection plan review process averages 15 days. Please refer to the Planning & Development fee schedule for detailed permit fee information. https://bit.ly/DSDFees INFORMATION TO PROVIDE WHO MAY BE INVOLVED Completed permit application Completed Fire Alarm /Sprinkler Plan Review Request Form Minimum one (1) copy of plans and one (1) copy of submittal book Drawn or cad to scale (Architect or Engineer) Text size minimum 3/32-inch = 1 foot Plans size between 11 x 1736 x 48 o Show all property lines with a North Arrow. Fire Protection licensing information and company name or Professional Engineer registered in Texas whose major discipline is Fire Protection Engineering (FPE). Email: DSDFIREENGINEERING@dallas.gov & DSDFIREPERMIT@dallas.gov DEVELOPER DELAYS Missing Contractor Information Missing Submittal Book Missing C of O Verification Missing Designer Stamps /Signature (i.e.. Alarm Planning Superintendent, RME-G and or Texas P.E.) Alternative Methods and Means Submittals
+* * *
+## Oak Cliff Municipal Center
+## _320 E. Jefferson Blvd. Room 105_
+Dallas, TX 75203
+* * *
+M-F 8:00 a.m.4:30 p.m. 214-948-4091 G R E E N / E N E R G Y C O D E R E V I E WG R E E N / E N E R G Y C O D E R E V I E W 3 83 8 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e G R E E N & E N E R G Y R E V I E W SG R E E N & E N E R G Y R E V I E W S P U R P O S EP U R P O S E The Green and Energy Code Program promotes sustainable building practices that enhance energy efficiency, environmental quality, and occupant comfort. Since 2009, the City of Dallas has implemented comprehensive Green Building Standards for new commercial and residential construction. The Green and Energy team ensures compliance through plan reviews and inspections, working closely with certified third-party providers. Applicant hires a Third-Party Green & Energy Provider Applicant uploads: Green Affidavit & Checklist Energy Compliance Path Forms with the permit application Green & Energy Team reviews documentation before permit issuance PLAN REVIEW PROCESS SCAN FOR THIRD PARTY GREEN PROVIDER LIST WHEN REQUIRED Green Construction Code applies to: New construction Additions First-time finish-outs (Not remodels or renovations) Applicant / Design Professional Third-Party Green and Energy Provider Green and Energy Review Team WHO MAY BE INVOLVED The initial review performance goal for building permit is 5 days. Energy Code applies to: New construction Additions First-time finish-outs Remodels and renovations The applicant must hire a registered Third Party Provider to perform plan reviews and inspections. The Green-Energy team maintains an up to-date list of registered Providers on the City website. Must be trained, and registered with the City of Dallas Provide signed Plan Review and Inspection Compliance Affidavits Maintain supporting documentation for at least 6 months THIRD PARTY PROVIDERS 1. Third-Party Provider performs inspections and submits green inspection compliance affidavits and energy compliance certificates to bigreencode@dallas.gov before the City’s final inspection 2. Green & Energy Team reviews inspection documents and finals the green and energy trades. INSPECTION PROCESS SCAN FOR THIRD PARTY ENERGY PROVIDER LIST
+* * *
+## 3 93 9
+2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e P L U M B I N G / M E C H A N I C A L / I R R I G A T I O N R E V I E W SP L U M B I N G / M E C H A N I C A L / I R R I G A T I O N R E V I E W S P U R P O S EP U R P O S E Plumbing, Mechanical and Irrigation plan review ensures that proposed plumbing, mechanical and irrigation systems complies with all applicable local and State construction safety codes before construction begins. These reviews ensures non-compliant designs are identified and rectified prior to the start of construction which saves the applicant time and money by preventing costly revisions and delays during construction. This process is a prerequisite for obtaining permits and provides a detailed record of plumbing, mechanical and irrigation systems which is useful for future inspections, maintenance and repairs. P L U M B I N G R E V I E W SP L U M B I N G R E V I E W S Plumbing reviews check for safety aspects like proper backflow prevention, adequate venting and correct piping materials including proper pipe slopes and pipe sizes for drainage, water, gas and vent piping and other plumbing code requirements. Plumbing plans must show a complete layout of all piping systems (water, sanitary, storm, gas and vents) from source to all fixtures, appliances and equipment. Include all pipe sizes (mains and branches or each section of piping) for all piping systems. All symbols on the plumbing plan must be labeled and identified in a legend. Plumbing Plans must show the location and label and identify all fixtures, appliances and equipment that is proposed to be connected to the plumbing system. M E C H A N I C A L R E V I E W SM E C H A N I C A L R E V I E W S Mechanical reviews check duct layout routing, duct size, airflow rates for all supply, return and exhaust ducts. This review checks the size and point of termination of the condensate drainage system. Mechanical review ensures proper hoods are installed where required in commercial occupancies. This review also ensures proper ventilation and exhaust systems are installed when required and other mechanical code requirements. Mechanical plans must show a complete layout of all ducts (supply, return, exhaust) from air handler units and fans to point of termination. The plan must provide airflow rates for all grills (registers). Mechanical plans must show the complete layout of the condensate drainage system from the unit to the point of termination. The location of all mechanical equipment and appliances must be labeled and identified on the plans. The mechanical plan must provide a schedule for the equipment and materials proposed to be installed including type of refrigeration. I N F O R M A T I O N T O P R O V I D EI N F O R M A T I O N T O P R O V I D E
+* * *
+## Oak Cliff Municipal Center
+## _320 E. Jefferson Blvd. Room 210/105_
+Dallas, TX 75203
+* * *
+M-F 8:00 a.m.5:00 p.m. 214-948-4255 P L U M B I N G / M E C H A N I C A L / I R R I G A T I O N R E V I E WP L U M B I N G / M E C H A N I C A L / I R R I G A T I O N R E V I E W 4 04 0 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e P L U M B I N G / M E C H A N I C A L / I R R I G A T I O N R E V I E W SP L U M B I N G / M E C H A N I C A L / I R R I G A T I O N R E V I E W S SCAN FOR MORE INFORMATION & CHECKLISTS W H O M A Y B E I N V O L V E DW H O M A Y B E I N V O L V E D Health Zoning Fire Building Electrical Green Dallas Water Utilities Atmos Energy IRRIGATION REVIEWS Irrigation plans must show a complete layout of all irrigation piping including mains and branches. All sections of the layout must be labeled with the size of the pipe. The location of all valves must be labeled and identified on the plan. The irrigation plans must provide hydraulic calculations which include the Design Pressure. The irrigation plan must label and identify all physical features and boundaries such as property lines, fences, sidewalks, driveways, patios, AC equipment, accessory buildings etc. The plan must provide zone flow measurements for each zone. The plan must provide a legend that identifies ALL symbols drawn on the plan. Irrigation reviews check for proper location of emission devices to ensure even coverage of the landscape, and design pressure to ensure water conservation. This review ensures that components such as rain and freeze sensors, controllers, backflow protection are installed per code requirements and manufacturers installation instructions. This review verifies the correct type of piping and pipe sizes are installed per code requirements and other irrigation code requirements. The information listed to provide is not the complete requirement of information required to be on plans please refer to the check list of information required to be on Plumbing, Mechanical and Irrigation plans. The initial review performance goal is 15 days. Application Fee is $121 Review Fee Plumbing/Mechanical $200 Review Fee Irrigation $120
+* * *
+H E A L T H I N S P E C T I O N SH E A L T H I N S P E C T I O N S 4 14 1 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e H E A L T H R E V I E W SH E A L T H R E V I E W S Oak Cliff Municipal Center
+* * *
+## _320 E. Jefferson Blvd. Room 210_
+Dallas, TX 75203
+* * *
+M-F 8:00 a.m.4:30 p.m. 214-948-4255 P U R P O S EP U R P O S E The food protection and education unit aims to promote healthy people and healthy communities through education and regulation of food service establishments which require a health permit. The food establishment permits are required for restaurants, bars, grocery stores, schools, and other retail food establishments. If you want to erect, construct, enlarge, add to, alter, repair, replace, move, improve, remove, install, convert, demolish, equip, use, occupy, or maintain a building, structure, permanent or fixed equipment to a kitchen/food prep areas you must follow the Building Permit process. The food prep/handling and storage areas including restrooms must be evaluated prior to a health permit being issued at the site. Building permit application Certificate of Occupancy application Health application A copy of the site plan and building plan Detailed floor plan including walls, ceilings, and materials Detailed kitchen layout including equipment Equipment schedule INFORMATION TO PROVIDE The initial review performance goal is 15 days. Current Planning Engineering Code ComplianceConsumer Health WHO MAY BE INVOLVED Application Fee: $121 Review Fee: $200 Missing equipment layout, legend or schedule (labeling issue) Missing plumbing diagrams Missing labels on wall schedule and food prep areas Incorrect water heater size (50 gallon minimum) and location Misplaced grease trap/wastewater interceptor Missing information on application DEVELOPER DELAYS
+* * *
+## 4 24 2
+2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e L A N D S C A P I N GL A N D S C A P I N G Basic map information and contacts Boundary dimensions, zoning, and adjoining property information Utility and significant feature information Locations and dimensions of landscape areas and plant features Complete description of required landscaping and screening for street buffer zones, residential buffer zones, and interior parking lot conditions as well as landscape design options. P U R P O S EP U R P O S E T h e L a n d s c a p e R e v i e w p r o c e s s i s t o e n s u r e c o m p l i a n c e w i t h t h e p r o v i s i o n s o u t l i n e d i n A r t i c l e X a n d v a r i o u s o t h e r l a n d s c a p i n g r e g u l a t i o n s g o v e r n i n g l a n d s c a p e p l a n s f o r c o m m e r c i a l a n d r e s i d e n t i a l p r o p e r t i e s w i t h i n d e s i g n a t e d d i s t r i c t s a n d c i r c u m s t a n c e s. T h i s r e v i e w a i m s t o a s s e s s s u b m i t t e d l a n d s c a p e p l a n s a g a i n s t t h e c r i t e r i a s p e c i f i e d i n t h e r e g u l a t i o n, e v a l u a t i n g a s p e c t s s u c h a s p r o p e r t y b o u n d a r i e s, z o n i n g c l a s s i f i c a t i o n s, d r a i n a g e f e a t u r e s, u t i l i t y l i n e s, s c r e e n i n g a n d f e n c i n g, l a n d s c a p i n g d e t a i l s, a n d p r o p o s e d a m e n i t i e s. A d d i t i o n a l l y, t h e r e v i e w m a y i n v o l v e c h e c k i n g r e v i s i o n s t o l a n d s c a p e p l a n s t o e n s u r e a l i g n m e n t w i t h t h e i n t e n t o f t h e r e g u l a t i o n s w h i l e a c c o m m o d a t i n g n e c e s s a r y a d j u s t m e n t s t h a t f u r t h e r t h e o b j e c t i v e s o f t h e a r t i c l e. T h r o u g h t h i s r e v i e w, t h e c i t y s e e k s t o u p h o l d l a n d s c a p i n g s t a n d a r d s c o n f o r m i n g t o t h e d e v e l o p m e n t t h a t e n h a n c e t h e a e s t h e t i c a p p e a l, e n v i r o n m e n t a l s u s t a i n a b i l i t y, a n d f u n c t i o n a l i t y o f p r o p e r t i e s w h i l e p r o m o t i n g s a f e t y a n d c o m p l i a n c e w i t h r e g u l a t o r y r e q u i r e m e n t s. C u s t o m e r s a r e s t r o n g l y e n c o u r a g e d t o r e v i e w t h e o n l i n e L a n d s c a p e a n d T r e e M a n u a l a v a i l a b l e o n t h e P l a n n i n g & D e v e l o p m e n t w e b s i t e.T h e L a n d s c a p e R e v i e w p r o c e s s i s t o e n s u r e c o m p l i a n c e w i t h t h e p r o v i s i o n s o u t l i n e d i n A r t i c l e X a n d v a r i o u s o t h e r l a n d s c a p i n g r e g u l a t i o n s g o v e r n i n g l a n d s c a p e p l a n s f o r c o m m e r c i a l a n d r e s i d e n t i a l p r o p e r t i e s w i t h i n d e s i g n a t e d d i s t r i c t s a n d c i r c u m s t a n c e s. T h i s r e v i e w a i m s t o a s s e s s s u b m i t t e d l a n d s c a p e p l a n s a g a i n s t t h e c r i t e r i a s p e c i f i e d i n t h e r e g u l a t i o n, e v a l u a t i n g a s p e c t s s u c h a s p r o p e r t y b o u n d a r i e s, z o n i n g c l a s s i f i c a t i o n s, d r a i n a g e f e a t u r e s, u t i l i t y l i n e s, s c r e e n i n g a n d f e n c i n g, l a n d s c a p i n g d e t a i l s, a n d p r o p o s e d a m e n i t i e s. A d d i t i o n a l l y, t h e r e v i e w m a y i n v o l v e c h e c k i n g r e v i s i o n s t o l a n d s c a p e p l a n s t o e n s u r e a l i g n m e n t w i t h t h e i n t e n t o f t h e r e g u l a t i o n s w h i l e a c c o m m o d a t i n g n e c e s s a r y a d j u s t m e n t s t h a t f u r t h e r t h e o b j e c t i v e s o f t h e a r t i c l e. T h r o u g h t h i s r e v i e w, t h e c i t y s e e k s t o u p h o l d l a n d s c a p i n g s t a n d a r d s c o n f o r m i n g t o t h e d e v e l o p m e n t t h a t e n h a n c e t h e a e s t h e t i c a p p e a l, e n v i r o n m e n t a l s u s t a i n a b i l i t y, a n d f u n c t i o n a l i t y o f p r o p e r t i e s w h i l e p r o m o t i n g s a f e t y a n d c o m p l i a n c e w i t h r e g u l a t o r y r e q u i r e m e n t s. C u s t o m e r s a r e s t r o n g l y e n c o u r a g e d t o r e v i e w t h e o n l i n e L a n d s c a p e a n d T r e e M a n u a l a v a i l a b l e o n t h e P l a n n i n g & D e v e l o p m e n t w e b s i t e. Oak Cliff Municipal Center
+* * *
+## _320 E. Jefferson, Room 105_
+Dallas, TX 75203
+* * *
+M-F 8:00 a.m.4:30 p.m. 214-948-4480 A R B O R I S TA R B O R I S T INFORMATION TO PROVIDE HOW IT WORKS Landscape plans are reviewed by the City of Dallas arborists when a new construction or addition requires new landscaping. When the plan complies with the applicable landscaping regulation for the property, the landscape review is completed. The landscaping is installed before the end of the building project and the arborist inspects for full compliance. The initial review performance goal is 15 days.
+* * *
+All Sidewalk Waiver applications are to be submitted through DallasNow. Once the submittal requirements are met and the fee has been paid, an inspection is performed within (2) two business days. Drainage/Paving/Traffic engineering staff will review the request within (5) five business days after the inspection has been performed. Applicants will receive an "Approval" or "Denial" confirmation from the Engineering staff with clear and specific reasons for any "Denial" responses. The Department will provide clear and specific reasons for all “Denial” responses. Oak Cliff Municipal Center
+* * *
+## _320 E. Jefferson, Room LL04_
+Dallas, TX 75203
+* * *
+M-F 8:00 a.m.4:30 p.m. 214-948-4480 4 34 3 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e S I D E W A L K W A I V E RS I D E W A L K W A I V E R PURPOSE Sidewalks play a critical role in the quality of life of our residents and are part of the City’s overall mobility infrastructure. Sidewalks promote walking, and connectivity, and serve as safe accessible conduits. As such, the construction of sidewalks is required along all public and private streets during the permitting/development process unless waived by the PDD Director. Applicants who are seeking to eliminate the construction of a sidewalk must complete and submit a Sidewalk Waiver Application and Agreement. A Sidewalk Waiver Application may only be submitted in conjunction with a plat or building permit (new structure) application. E N G I N E E R I N G D I V I S I O NE N G I N E E R I N G D I V I S I O N INFORMATION TO PROVIDE HOW IT WORKS The applicant shall submit the following documents and information at the time of request for a waiver: Building permit application number (new structure) A nonrefundable application fee of $208.00 Justification, documentation, and other pertinent information to assist the Director in making a determination A completed Sidewalk Waiver Application and Checklist The initial review performance goal is 7 days. Application Fee: $208 (exclude $15 Technology fee) SCAN FOR MORE INFORMATION & APPLICATION
+* * *
+## 4 44 4
+2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e SIGN PERMIT PROCESS C I T Y O F D A L L A S S T A F FC I T Y O F D A L L A S S T A F F Oak Cliff Municipal Center
+* * *
+## _320 E. Jefferson, Room LL04_
+Dallas, TX 75203
+* * *
+M-F 8:00 a.m.4:30 p.m. 214-948-4480 S I G N S S I G N S P U R P O S EP U R P O S E A sign permit will be required in the following cases: All signs more than 20 sq. ft. in size All signs more than 8 ft. in height All illuminated signs All signs with movement All signs erected in public right-of-way All signs projecting more than 18 inches from wall, roof, parapet or eave Scott Roper Supervisor 214-948-4675
+* * *
+## _320 E. Jefferson #LL04Michael Martin_
+Sr. Sign Inspector
+* * *
+214-671-0384
+* * *
+## _4850 Olson Drive_
+Trevor Lumsden
+* * *
+Sr. Plans Examiner 214-671-1917
+* * *
+## _320 E. Jefferson #LL04_
+Miguel Salas
+* * *
+South Area Inspector 214-671-1768
+* * *
+## _4850 Olson Drive_
+The initial review performance goal is 10 days. W H O M A Y B E I N V O L V E DW H O M A Y B E I N V O L V E D
+* * *
+Planning & Development Real Estate Division Aviation Current Planning Public Works Office of Historic Preservation Mike Erwin North Area Inspector 945-542-2325
+* * *
+## _7610 N Stemmons Ste 190_
+O a k C l i f f M u n i c i p a l C e n t e r 3 2 0 E. J e f f e r s o n, R o o m L L 0 4 D a l l a s, T X 7 5 2 0 3 MF 8 : 0 0 a. m.4 : 3 0 p. m. 2 1 49 4 84 4 8 0O a k C l i f f M u n i c i p a l C e n t e r 3 2 0 E. J e f f e r s o n, R o o m L L 0 4 D a l l a s, T X 7 5 2 0 3 MF 8 : 0 0 a. m.4 : 3 0 p. m. 2 1 49 4 84 4 8 0 SCAN FOR MORE INFORMATION Applicable Fee Completed permit application (thru online submission system) Overhead location map showing all proposed & existing signs on the premise or lease space. The proposed sign elevation showing The placement of a sign on the building (for attached signs) The overall dimensions of the façade including any other existing signs on the façade with overall sizes of each (for attached signs) The clearance from the ground to the bottom of the sign Exact wording to appear on the sign The letter height of each word and the length of each word on the sign The overall dimension of the sign Construction detail calling out materials, the overall depth of the sign, and the attachment method (sideview) Electrical detail if the sign is illuminated (side view) For attached signs with any portion of the sign that is 1.Larger than 100 sq. ft. 2.Projecting more than 4 ft. from the surface to which it is attached or 3.Located more than 50 ft. above grade, a drawing with engineer certification that the sign will be able to withstand minimum
+* * *
+## _2021 IBC wind load requirements._
+I N F O R M A T I O N T O P R O V I D EI N F O R M A T I O N T O P R O V I D E
+* * *
+4 54 5 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e IN ADDITION, FOR DETACHED SIGNS THE FOLLOWING IS REQUIRED: A “Sign premise warranty” form signed by the property owner or property manager A scaled site plan of the entire property showing easements, location of proposed sign, setback from property line, any other existing detached signs on the property and the distance between each sign. For detached sign larger than 32 sq. ft. or more than 8’ ft. tall, a drawing with engineer certification that the sign will be able to withstand minimum 2021 IBC wind load requirements.
+* * *
+Detached signs in business zoning districts, within 250 feet of private property in a non business zoning district is limited to monument signs only. Attached signs within 100 ft. of private property in a non business zoning district can’t exceed 40 sq. ft. All permits for illuminated signs must be obtained by a registered electrical sign contractor. S I G N P E R M I T P R O C E S SS I G N P E R M I T P R O C E S S
+* * *
+Z O N I N G R E V I E WZ O N I N G R E V I E W P U R P O S EP U R P O S E The Zoning Team ensures that building permits and Certificate of Occupancy applications comply with zoning regulations. Key areas of review include legal building sites, yard, lot, space regulations, parking requirements, and land use regulations. By conducting thorough reviews, the Zoning Team helps maintain orderly development by upholding community planning objectives, and preserving the integrity and characteristics of establish districts and neighborhoods. Zoning Review Landscape Engineering Current Planning Board of Adjustment WHO MAY BE INVOLVED Electronically scaled and dimensioned plans not provided Site plan/ parking analysis/ key plan not provided Legal building site not established Plat not provided Separate Site Plan review application not submitted Civil plans not approved Regulatory documents not recorded with Dallas County Records (parking agreements, easements). Early Release not in place Additional reviews; RAR, DIR. Design standards test, Major Modifications Real Estate licensing DEVELOPER DELAYS City Hall
+* * *
+## _1500 Marilla Street, Suite 5BN_
+Dallas, TX 75201
+* * *
+M-F 8:00 a.m.5:00 p.m. 214-670-4209 L A N D D E V E L O P M E N T Z O N I N GL A N D D E V E L O P M E N T Z O N I N G The initial review performance goal is 15 days. SCAN FOR MORE INFORMATION 4 64 6 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e ZONING MAP https://developmentweb.dallas cityhall.com/publiczoningweb/ SCAN FOR ZONING MAP
+* * *
+City Hall
+* * *
+## _1500 Marilla Street, Suite 5BN_
+Dallas, TX 75201
+* * *
+M-F 8:00 a.m.5:00 p.m. 214-670-4209 TERMINATING A PARKING AGREEMENT P U R P O S EP U R P O S E The recent City of Dallas parking reform has reduced or eliminated the parking requirements for many uses in general zoning districts. Parking agreements that provided for parking requirements are now obsolete for many properties. Through DallasNow, existing parking agreements may be amended or terminated. Parking agreement must be in ‘Active’ status in DallasNow Applicant for the amendment or termination must be a contact in the agreement or be added in order to have access to modify the agreement. Once the applicant has access to the parking agreement, click ‘Request update.’ HOW TO GET STARTED H O W I T W O R K SH O W I T W O R K S INFORMATION TO SUBMIT Reasons for terminating agreement Certified deeds for each property to prove ownership Copy of original agreement The initial review performance goal is 15 days. Special Parking Amendment or Termination Review Fee$100/hr with 1-hr minimum 4 74 7 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e Email: ZonApps@dallas.gov L A N D D E V E L O P M E N T Z O N I N GL A N D D E V E L O P M E N T Z O N I N G
+* * *
+S P E C I A L S E R V I C E S & F I N A L S T E P SS P E C I A L S E R V I C E S & F I N A L S T E P S S e c t i o n I VS e c t i o n I V
+* * *
+P L A N R E V I E W & F I E L D S E R V I C E I N S P E C T I O NP L A N R E V I E W & F I E L D S E R V I C E I N S P E C T I O N 5 05 0 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e A F T E RH O U R S R E V I E WA F T E RH O U R S R E V I E W Oak Cliff Municipal Center
+* * *
+## _320 E. Jefferson Blvd._
+Dallas, TX 75203
+* * *
+M-F 8:00 a.m.5:00 p.m. 214-948-4480 P U R P O S EP U R P O S E The After-Hours Review is a initiative that can be utilized for requesting an expedited plan review outside of normal business hours. An applicant or authorized agent may submit an after-hours commercial plan review request if they wish to have their projects reviewed sooner than the PDD’s established plan review goals. The request for after-hours plan review can be requested for the initial review, resubmittal of corrections, or post-permit revisions. After-Hours Request Form INFORMATION TO PROVIDE WHO MAY BE INVOLVED SCAN FOR MORE INFORMATION & APPLICATION The after-hours plan review can be requested for one or all associated trade reviews: Building Fire Electrical Plumbing Mechanical Tree Green Zoning Q-Team projects do not qualify for this service. PDD reserves the right to administer this process and success of the program depends on staff availability to work overtime. Fees will be assessed after the reviews are complete and must be paid prior to the issuance of a permit. The overtime after hours process is for plan review only. Building permits may only be issued after all other applicable permitting processes have been completed. $250 per hour/per trade with a $500 minimum
+* * *
+## 5 15 1
+2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e E N G I N E E R I N G QT E A ME N G I N E E R I N G QT E A M Oak Cliff Municipal Center
+* * *
+## _320 E. Jefferson Blvd. Room 200_
+Dallas, TX 75203
+* * *
+M-F 8:00 a.m.5:00 p.m. 214-948-4147 PURPOSE E N G I N E E R I N G QT E A ME N G I N E E R I N G QT E A M SCAN FOR PREQUALIFICATION CHECKLIST The Engineering Q-Team offers expedited review for engineering plans, including water/wastewater, paving/drainage, traffic, fire, and landscape. Applicants may opt for an enhanced “Q-Team +”, which adds zoning site plan review. The process culminates in a scheduled meeting with key stakeholders – consisting of the applicant, developer, design team, and City reviewers – to collaboratively resolve issues and streamline the project. REVIEW MEETINGS PATHS ENGINEERING Q-TEAM Standard plan review for Water/Wastewater, Paving/Drainage, and Transportation engineering trades. QUALIFIYING PROJECTS Prequalification is required. The following are examples of qualifying projects that may be submitted: Projects that are properly zoned for intended use. Projects that are platted, have an approved preliminary plat, or can validate a legal build site. Projects that have received the appropriate approvals from other departments in advance. Projects that are not located in Historic or Conservation Districts, or within FEMA Floodplain. ENGINEERING Q-TEAM+ Enhanced plan review for Water/Wastewater, Paving/Drainage, Transportation engineering trades. and an additional zoning site plan review. A base fee: $1,848.00 for Drainage/Paving Engineering and $1,848.00 for Water/Wastewater Engineering Engineering Q-Team review: $1,000.00/hour Engineering Q-Team + review: $1,000.00/hour + $200/hour (after first 2 hours) FEES
+* * *
+## 5 25 2
+2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e MINOR COMMERCIAL EXPEDITED REVIEW Oak Cliff Municipal Center
+* * *
+## _320 E. Jefferson Blvd. Room 118_
+Dallas, TX 75203
+* * *
+M-F 8:00 a.m.5:00 p.m. 214-948-4467 or 214-948-5383 PURPOSE B U I L D I N G I N S P E C T I O N SB U I L D I N G I N S P E C T I O N S As a customer service initiative, the Planning & Development Department is extending our expedited plan review service to our Minor Commercial Review Team (MCR). Our expedited plan review process is intended to expand customer options for faster permitting times through this expedited fee-based service. This initiative was implemented on August 20th, 2025. SCOPE The intent of the program is to provide quality, personalized, and expedited plan review services while partnering City staff with applicants via DallasNow. The program is designed to facilitate issuance of qualifying commercial projects within 24 hours. MCR expedited plan review service is available to any registered contractor, property owner, architect, or engineer. Before the expedited plan review, the applicant must call/ email and request MCR expedited plan review service via information listed below: Halie Gebre Michael : Phone: 214-948-4467 Email: haile.gebremichael@Dallas.gov Jade Thomas Phone: 214-948-5383 Email: jade.thomas@dallas.gov QUALIFIYING PROJECTS Interior finish outs, renovations, or expansions within existing building footprint Only one application per appointment Commercial New Construction (require coordination with respective disciplines) Commercial Additions (require coordination with respective disciplines) FEES Expedited Plan Review Fee: $500.00 nonrefundable minimum charge in addition to applicable permit fees $200.00/hour per speciality
+* * *
+## Oak Cliff Municipal Center
+## _320 E. Jefferson Blvd., Room 210_
+Dallas, TX 75203
+* * *
+M-F 8:00 a.m.4:30 p.m. 214-948-4602 FIRE PROTECTION ENGINEERING TEAM SCAN FOR MORE INFORMATION & ELIGIBLITY 5 35 3 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e FIRE ALARM & SPRINKLER SAME-DAY TEAM (FASST) P U R P O S EP U R P O S E The FASST service is a service offered by the Fire Protection Engineering Division to expedite plan review. This service is on an scheduled basis and aims to provide same day initial review for qualified fire protection system permits. The fee for an expedited plan review is a non-refundable minimum plan review charge of $500. This fee must be paid along with the application for permits. Please note that this fee is in addition to all other fees required under Chapter 52,Administrative Procedures for the Construction Code. (Ord.28096) F E E SF E E S This program does not guarantee the issuance of the permit on the same day. Approval timelines are contingent upon the accuracy of the information provided by the applicant. The availability of FASST may not always be guaranteed based on staff availability I N F O R M A T I O N T O P R O V I D EI N F O R M A T I O N T O P R O V I D E The Initial review goal is the same day. $200 per hour with a 1-hour minimum for consultations.
+* * *
+QT E A M P L A N R E V I E WQT E A M P L A N R E V I E W A Q-Team Plan Review is an expedited plan review process for commercial projects that allow individuals to take advantage of an accelerated plan review for an additional fee. The goal of the Q-Team Plan Review is to expedite the building permit process, answer all questions, and provide the applicant with a path toward timely and successful permit issuance. The official technical review of the project begins at the scheduled Q Team meeting. During this meeting, staff and stakeholders will collaborate and act as partners to discuss the proposed project. Following the meeting: If the permit is approved, it will be issued accordingly. If the permit is not approved, the applicant will be required to revise the drawings and resubmit them through the online system. All resubmitted materials will be reviewed within 5 to 10 business days from the date of resubmission.. P U R P O S EP U R P O S E Addressing Zoning Building Code Mechanical Plumbing Electrical Fire Green Engineering Paving/Drainage Engineering Transportation Engineering Water/Wastewater Other Trades Conservation District Historic District Economic Development W H O M A Y B E I N V O V L E DW H O M A Y B E I N V O V L E D All properties must be legally recognized as a build site before any submissions for new building construction or building additions can be accepted for review. Special zoning issues may delay the processing of your building permit application. Fire protection issues must be addressed Public infrastructure requirements such as upgrading new public water/wastewater lines, fire hydrants, storm water drainage system and paving improvements. Fire Sprinklers/Fire Alarm Reviews are for deferred submittals 5 45 4 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e $1,000 per hour with one hour minimum in addition to base fees COMMERCIAL ONLY T e c h n i c a l R e v i e w P r o c e s sT e c h n i c a l R e v i e w P r o c e s s I N F O R M A T I O N T O P R O V I D EI N F O R M A T I O N T O P R O V I D E
+* * *
+S t a f f r e v i e w w i t h i n 51 0 b u s i n e s s d a y s o f r e s u b m i t t a lS t a f f r e v i e w w i t h i n 51 0 b u s i n e s s d a y s o f r e s u b m i t t a l R e v i s e, r e d e s i g n, a n d r e s u b m i t R e v i s e, r e d e s i g n, a n d r e s u b m i t R e v i s e, r e d e s i g n, a n d r e s u b m i t Oak Cliff Municipal Center
+* * *
+## _320 E. Jefferson Blvd. Room 204_
+Dallas, TX 75203
+* * *
+M-F 8:00 a.m.5:00 p.m. 214-948-4337 Q U A L I F Y I N G P R O J E C T SQ U A L I F Y I N G P R O J E C T S R e v i e w A p p r o v e d?R e v i e w A p p r o v e d? A p p o i n t m e n t S c h e d u l e dA p p o i n t m e n t S c h e d u l e d B u i l d i n g P e r m i t A p p l i c a t i o n S u b m i t t e dB u i l d i n g P e r m i t A p p l i c a t i o n S u b m i t t e d C u s t o m e r P a y m e n t f o r B u i l d i n g P e r m i tC u s t o m e r P a y m e n t f o r B u i l d i n g P e r m i t B u i l d i n g P e r m i t I s s u e d a n d B u i l d i n g C o n s t r u c t i o n B e g i n sB u i l d i n g P e r m i t I s s u e d a n d B u i l d i n g C o n s t r u c t i o n B e g i n s T e c h n i c a l M e e t i n g w i t h a p p l i c a n t, d e s i g n t e a m a n d QT e a m S t a f fT e c h n i c a l M e e t i n g w i t h a p p l i c a n t, d e s i g n t e a m a n d QT e a m S t a f f Commercial classification New construction or additions or remodels Exterior building renovations or modifications Interior remodels, finish outs or renovations Projects that have a preliminary plat or final plat Projects that have completed the first engineering review (if applicable) N O NQ U A L I F Y I N G P R O J E C T SN O NQ U A L I F Y I N G P R O J E C T S Projects that are not properly zoned for intended use Projects that are not platted or cannot validate a legal build site Projects that have not received the appropriate approvals from other Departments in advance (Conservation, Historic, Floodplain, etc.) Projects that do not have a MIHDB Verification Letter. Projects that do not have an approved Development Plan. Projects that only involve sitework (paving, driveways, sidewalks, etc.) QT E A M R E V I E W P R O C E S SQT E A M R E V I E W P R O C E S S 5 55 5 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e C O M M E R C I A L QT E A MC O M M E R C I A L QT E A M SCAN FOR MORE INFORMATION
+* * *
+O a k C l i f f M u n i c i p a l C e n t e r 3 2 0 E. J e f f e r s o n B l v d., R o o m 1 0 5 MF 8 : 0 0 a. m.4 : 3 0 p. m. 2 1 46 7 17 7 8 7O a k C l i f f M u n i c i p a l C e n t e r 3 2 0 E. J e f f e r s o n B l v d., R o o m 1 0 5 MF 8 : 0 0 a. m.4 : 3 0 p. m. 2 1 46 7 17 7 8 7 R A P I D S I N G L EF A M I L Y V I P P R O G R A MR A P I D S I N G L EF A M I L Y V I P P R O G R A M P U R P O S EP U R P O S E T h e R a p i d S i n g l eF a m i l y V I P P r o g r a m ( R S V P) p r o g r a m i s a n a p p o i n t m e n tb a s e d e x p e d i t e d p l a n r e v i e w s e r v i c e d e s i g n e d t o s e r v i c e q u a l i f y i n g n e w s i n g l ef a m i l y h o m e s a n d d u p l e x e s.T h e R a p i d S i n g l eF a m i l y V I P P r o g r a m ( R S V P) p r o g r a m i s a n a p p o i n t m e n tb a s e d e x p e d i t e d p l a n r e v i e w s e r v i c e d e s i g n e d t o s e r v i c e q u a l i f y i n g n e w s i n g l ef a m i l y h o m e s a n d d u p l e x e s. R S V P T E A MR S V P T E A M Project must be a new single-family home (duplexes included) No minimum or maximum square footage requirements Maximum of three (3) stories (no basements) Must not be in a special overlay district (Historic, Floodplain, Conservation, Complex PD, or Shared Access) Property must be platted or have early release approvals Complete permit submittal package A minimum of a two (2)-hour review time slot may be reserved for each application submittal. 4 submittals allowed per week per customer No Addition remodels P R O J E C T E L I G I B I L I T YP R O J E C T E L I G I B I L I T Y Pre-srceenApproved? Apply via DallasNow RSVP Pre-Qualify Permit Issuance RSVP Intake Pre-screen A d d t ’ l i n f o r e q ’ d A d d t ’ l i n f o r e q ’ d 5 65 6 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e The initial review performance goal is the same day. Up to 7 calendar days for pending revisions/addendums $200 per hour with two-hour minimum DEVServicesRSVP@dallas.gov Initial Fee Payment RSVP Plan Review Final Fee Payment Teams Invite Sent SCAN FOR MORE INFORMATION
+* * *
+## Oak Cliff Municipal Center
+## _320 E. Jefferson Blvd., Room 105_
+M-F8:00 a.m.4:30 p.m. 214-948-4379 or 469-670-9979
+* * *
+DEDICATED SCHOOL SERVICES TEAM 5 75 7 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e DEDICATED SCHOOL SERVICES TEAM P U R P O S EP U R P O S E The Dedicated School Services Team, (DSST), focuses on Public and Private school projects within the city of Dallas. DSST provides Zoning and Building consultations, Pre Development Meetings, project permit reviews and project permitting management. Any private or public school within the City of Dallas that is a PREK-5; Middle School, High School, College or University. If a PD/SUP is required or needs modification due to project scope, the PD/SUP MUST be approved and be signed by Dallas City Council before submittal. If platting or re-platting, the plat must be at the preliminary stage before project can be submitted. If project requires engineering, the engineering project should be submitted prior to the building project submittal. A Pre-Submittal meeting with the DSST is required prior to project being Pre Screened. City of Dallas: Engineering Traffic Current Planning Real Estate Sub Division Public Works Fire Other City of Dallas Departments Public or Private School: Project Manager/Applicant Architect and/or a member of their team Engineer and/or a member of their team The owner and/or a member of their team WHO MAY BE INVOLVED I N F O R M A T I O N T O P R O V I D EI N F O R M A T I O N T O P R O V I D E Ready for Construction Plan Set submitted through DallasNow Project Permit Application/Certificate of Occupancy/ Site Plan Review Pre-Submittal Meeting Form Updated PD/SUP or other Zoning change documents Engineering Project Numbers Other Relevant Project Development Documents Photo courtesy of Dallas ISD R E Q U I R E M E N T S F O R S U B M I T T A LR E Q U I R E M E N T S F O R S U B M I T T A L SCAN TO BOOK AN APPOINTMENT
+* * *
+P D V A D M I N I S T R A T I O NP D V A D M I N I S T R A T I O N 5 85 8 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e S E L FC E R T I F I C A T I O N P R O G R A MS E L FC E R T I F I C A T I O N P R O G R A M Oak Cliff Municipal Center
+* * *
+## _320 E. Jefferson Blvd. Room 115_
+Dallas, TX 75203
+* * *
+M-F 8:00 a.m.5:00 p.m. 214-670-6904 P U R P O S EP U R P O S E The Self-Certification Program allows property owners and design professionals to take control of their projects while ensuring compliance with local building codes and regulations. This initiative aims to reduce plan review timelines while maintaining the highest safety and compliance standards. The Self-Certification Program simplifies the building permit plan review process by allowing Self-Certification Providers (SCP) to expedites approvals; excludes SCP-designed projects. The following outlines project eligibility, code professional requirements, application request process, and fees The following qualifying projects may be submitted through the Self-Certification Program. New one-and-two family dwelling units (all square footage sizes) Property must be platted or have early release approvals. Commercial remodels and interior finish out projects less than 5,000 square feet (Business Group “B” and Mercantile Group
+* * *
+> “M” occupancies only)
+1–2 family limits: no more than 3 stories, no basements and not in special overlay districts. PROJECT ELIGIBILITY CRITERIA SCAN FOR MORE INFORMATION & APPLICATION To participate in the SCP program, applications must submit the following to the Building Official: Certificate of Insurance Indemnification/Acknowledgement Forms Designation “Professional In-Charge” and
+* * *
+> “Technical Point of Contact”
+$500.00 nonrefundable Annual Registration Fee for each Self Certificate Professional $200 per additional reviewer; annual PDD training SELF-CERTIFICATION PROVIDER REQUIREMENTS ELIGIBLE REGISTRANTS To be eligible, you must be: TX architects/Professional Engineer or International Code Council Certified Building Official At least 3 years of code-compliance
+* * *
+## TO REQUEST AN INSPECTION
+Approved plans must be onsite. The address and permit must be posted onsite. Construction information signs must be posted and visiblefrom the street. Schedule your inspections through DallasNow when they’reready and 24 hours in advance. The City must have access to the job site to performscheduled inspection. Keep project site free of debris, construction litter, graffiti,and high weeds. Schedule your inspections through our new updated IVRsystem. An automated phone system that allowscontractors to schedule inspections without needingcomputer access Work only during approved construction hours.(M-F 7 a.m.- 7 p.m. Sat 8 a.m.6 p.m.) Work within the scope of City-approved permits.
+* * *
+> “Lot-to-lot drainage”–don’t allow storm water run-off fromyour job site to affect surrounding areas.
+5 95 9 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e SCAN TO SCHEDULE AN INSPECTION Northeast
+* * *
+## _11910 Greenville Ave._
+Suite 100
+* * *
+Dallas, TX 75243 214-670-7278 DISTRICT OFFICES Northwest
+* * *
+## _7610 N Stemmons_
+#190
+* * *
+Dallas, TX 75247 214-948-4480 Southeast
+* * *
+## _4850 Olson Dr._
+Dallas, TX 75227
+* * *
+214-670-8160 Southwest
+* * *
+## _2730 Coombs Creek Dr._
+Dallas, TX 75203
+* * *
+214-671-1531 HELPFUL TIPS For special requests, please contact the appropriate district office. Dallas.gov/DallasNow I N S P E C T I O N SI N S P E C T I O N S You may request a temporary certificate of occupancy at any of our district offices and DallasNow. IVR System 214-290-0347
+* * *
+## 6 06 0
+2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e CERTIFICATE OF OCCUPANCY P U R P O S EP U R P O S E The Dallas Development Code requires a certificate of occupancy for the use or change of the use of a building, a portion of a building, or land. A new Certificate of Occupancy (CO) is required for the following: Use of land or a building. A change of use of land or a building. A change of tenant/owner on an existing CO. Any change of floor area of an existing use. The Building Official may request additional information deemed necessary including plans, diagrams, parking plans, specifications, a detailed description of the use or occupancy that will be operated, services offered/produced, and City, County, or Federal license/registration to determine minimum compliance. We wish to help business owners understand their CO options as well as communicate our commitment to facilitating business startup. A “record change” can be made to a CO when the name of the business listed on a CO changes (DBA change). No inspections are made. For an existing multi-family housing complex, a record change is only available when there is no record of code violations for the complex. If there are any outstanding code violations found, a new CO application is required. CO are acquired through DallasNow. SCAN FOR MORE INFORMATION T E M P O R A R Y C E R T I F I C A T E O F O C C U P A N C YT E M P O R A R Y C E R T I F I C A T E O F O C C U P A N C Y A Temporary Certificate of Occupation (TCO) allows occupancy of a structure or suite while certain non-life safety issues, such as landscaping, are near completion. TCOs may be obtained at any of the the Planning & Development District Offices and DallasNow. P D D D I S T R I C T O F F I C E SP D D D I S T R I C T O F F I C E S SCAN FOR DISTRICT OFFICE INFORMATION
+* * *
+## B O A R D S &
+C O M M I S S I O N SB O A R D S & C O M M I S S I O N S S e c t i o n VS e c t i o n V
+* * *
+## 6 26 2
+2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e BOARD OF ADJUSTMENT P U R P O S EP U R P O S E The Dallas Board of Adjustment (BOA) is a 15 member volunteer board (up to 6 alternate members) appointed by the City Council that plays a key role in the city’s development process. This board reviews and decides on appeals related to specific development code regulations. Governed by the Dallas Development Code, the Board evaluates requests to adjust certain regulations by carefully considering the legal standards that must be met before any appeal can be granted. Staff will review these requests and make recommendations to the Board prior to the hearing. If your project needs a special exception as provided in Chapter 51 or 51A or a variance to requirements such as setbacks, lot width or depth, floor area ratios, or height, you may choose to go to the Board of Adjustment. The Board of Adjustment functions as a quasi-judicial body, meaning it must remain impartial and base its decisions solely on the evidence presented during public hearings. To maintain fairness, board members are prohibited from having any ex-parte communications—private discussions about the case—with anyone outside of these official hearings. As a result, the application materials, supporting documentation, presentations made during the public hearing, and testimony from the public, including neighbors, play a critical role in shaping the board’s final decision. For applicants, this makes it essential to provide clear and thorough application materials, actively engage neighbors to build support, and attend the public hearing to effectively advocate for their request. Current Planning Division Engineering Division City Attorney’s Office WHO MAY BE INVOLVED AFTER ACCEPTANCE: The process averages 60 days. If your proposed development cannot meet current zoning regulations, it may be eligible to go to the board. If eligible, it must go through a consultation/prescreen, staff review process, and a public hearing, where surrounding property owners will receive a notification letter of the public hearing. Before staff can accept an application, a consultation/prescreen with BOA staff is required. Conulations/Prescreens: REVIEW PROCESS Confirm whether the request is eligible for board consideration. Review application materials for completeness or discuss the required documents. Explain the hearing process and advise on best practices for approval. I N F O R M A T I O N T O P R O V I D EI N F O R M A T I O N T O P R O V I D E SCAN FOR MORE INFORMATION
+* * *
+City Hall
+* * *
+## _1500 Marilla St., 5CN_
+Dallas, TX 75201
+* * *
+MondayFriday, 8:00 a.m.4:30 p.m. 214-948-4454 or 214-948-4344 Dallas City Hall
+* * *
+## _1500 Marilla St., 5CN_
+Dallas, TX 75201
+* * *
+M-F 8am5pm 214-948-4501
+* * *
+B O A R D O F A D J U S T M E N TB O A R D O F A D J U S T M E N T B O A R D O F A D J U S T M E N TB O A R D O F A D J U S T M E N T 6 36 3 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e BOARD OF ADJUSTMENT PRESCREEN PROCESS If you have all the information required ready for review: 1. Send your completed application and supporting documents to BOAprescreen@dallas.gov 2. Our intake team will review your submittal and follow up with comments or next steps. Important: Submitting for prescreen does not mean your case has been accepted. Once the review is complete, staff will provide instructions for formal submission via DallasNow. APPLICATION DELAYS Incomplete application. Missing required documents. (ex. Original tax certificate warranty deed, etc.) Missing required drawings. Incomplete drawings. Failure to pay fees Failure to provide revisions Failure to meet deadlines CONSULTATION PROCESS If you’d like to meet before submitting a prescreen application, we can arrange a 15– 20 minute in-person, phone, or virtual consultation. To schedule: email us at BOAprescreen@dallas.gov or visit our office during business hours. Walk-ins are limited to 20 minutes— please bring questions, referrals and/or relevant plans. Appointment availability may vary depending on case complexity. FOR MORE INFORMATION For consultations, prescreen submissions, application materials, or general questions please contact: BOAprescreen@dallas.gov
+* * *
+## 6 46 4
+2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e BUILDING INSPECTION ADVISORY, EXAMINING & APPEALS BOARD Oak Cliff Municipal Center
+* * *
+## _320 E. Jefferson Blvd._
+Dallas, TX 75203
+* * *
+M-F 8:00 a.m.5:00 p.m. 214-948-4100 P U R P O S EP U R P O S E The Building Inspection Advisory, Examining, and Appeals Board is a quasi-judicial board, that was established to hear and decide appeals of orders, decisions, or determinations made by the building official relating to the application and interpretation of the codes. The Board will Hear appeals from decisions of the building official or the appropriate chief code administrator; Hear requests for the use of a material or method of construction not prescribed by the codes and authorize the use when in the board’s judgment the material or method of construction is at least equivalent to that which is prescribed; Hear and make recommendations concerning requests for amendments to the codes; and Hear requests to suspend a person’s ability to secure permits. (Ord. 26029; 28387) B I A E A B O A R DB I A E A B O A R D The fee to appeal a decision of the Building Official to the Building Inspection Advisory, Examining and Appeals Board is $714. FEE CONTACT To begin the appeal process, contact Tarona Lane via email at tarona.lane@dallas.gov
+* * *
+## 6 56 5
+2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e CITY PLAN COMMISSION (CPC) P U R P O S EP U R P O S E C I T Y P L A N C O M M I S S I O NC I T Y P L A N C O M M I S S I O N Considers the character of development or land use contemplated by proposed platting and zoning of property. Advises and makes recommendations on the comprehensive plan and its implementation as may be requested by the city council or city manager. Advertises and holds public hearings on zoning or changes in zoning. Exercises all other responsibilities as may be provided by applicable law. FEE CONTACT City Plan Commission is a 15-member volunteer commission appointed by the City Council that holds both discretionary and quasi-judicial purview. Serve as an advisory body to the City Council concerning amendments to the Dallas Development Code / Zoning Ordinance and the granting or denial of specific use permits. Administers the provisions of state law regarding the platting and recording of subdivisions and additions, and to require the owners and developers of land who desire to plat or replat land for urban development to: (A) dedicate streets, alleys, parks, easements or other public places of adequate dimensions; (B) coordinate street layouts and street planning with the city and with the county, state and federally designated highways; and (C) provide for building setback lines. Yolanda Pesina, Supervisor Business yolanda.hernandez@dallas.gov
+* * *
+## _1500 Marilla St_
+Dallas, TX 75201
+* * *
+M-F 8:00 a.m.5:00 p.m. 214-948-4100 Fees are assessed with Zoning Change application type. T H E C P C :T H E C P C : SCAN FOR MORE INFORMATION
+* * *
+## 6 66 6
+2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e LANDMARK COMMISSION
+* * *
+## _1500 Marilla St_
+Room 5CN
+* * *
+Dallas, TX 75201 M-F 8:00 a.m.5:00 p.m. 214-948-4100 P U R P O S EP U R P O S E OFFICE OF HISTORIC PRESERVATION FEE CONTACT To promote distinctive and important elements of the city's historical, cultural, social, economic, archeological, paleontological, ethnic, political and architectural history. The Commission will Be responsible for making decisions regarding Certificate of Appropriateness applications within all City of Dallas historic districts and individually designated structures. Encourage the use and/or adaptive reuse of historic buildings and housing within the City of Dallas. Evaluate landmark designations. Certificate of appropriateness for new construction- $500 Certificate for demolition or removal $400 Certificate of appropriateness/certificate of demolition or removal for unauthorized work- $600 According to district: Rhonda.Dunn@dallas.gov Fair Park Harwood Tenth Street West End Wheatley Place Landmark Designations Amendments to Historic Overlays Individually Landmarked Structures Christina.Paress@dallas.gov Junius Heights Munger Place Swiss Avenue Marcus.Watson@dallas.gov South Blvd-Park Row State Thomas Wilson Block
+* * *
+## 1500 Marilla St
+Room 1FN Dallas, TX 75201 M-F 8:00 a.m.5:00 p.m. 214-671-5149 or 214-670-3718 6 76 7 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e URBAN DESIGN PEER REVIEW PANEL P U R P O S EP U R P O S E URBAN DESIGN PEER REVIEW PANEL DESIGN RECOMMENDATIONS The purpose of the Urban Design Peer Review Panel (UDPRP) is to provide timely, consistent and effective urban design advice for applicable and/or identified projects. The UDPRP is charged with reviewing projects to: Ensure the goals of ForwardDallas 2.0, TIF Design Guidelines and other policies are met within the context of urban design Ensure that new buildings and public spaces demonstrate a high level of design, fit well within their context, contribute to Dallas’ economic success, competitive advantage and improve the quality of life for its citizens Support creative design responses in new development Foster an effective working relationship with the development community Broaden public discussion about design in Dallas. The UDPRP provides advice to staff, the City’s Tax Increment Fund Boards, Plan Commission and City Council as applicable. The UDPRP’s design recommendations will be based on Council adopted policy, the adopted comprehensive plan ForwardDallas2.0, TIF Design Guidelines and other associated policies. UDPRP comments shall be focused on relevant urban design issues and not on matters of architectural style, resulting in projects that comply with urban design policy and relevant guidelines. QUALIFYING PROJECTS Projects that are applying for TIF funds Municipal Projects within existing or previous TIF Districts or designated area plans Projects at the applicant’s request Other projects as designated by the City Manager or by the Director of Planning & Development, Director of Housing and Community Development, or the Director of Economic Development with the approval of the City Manager CONTACT Arturo Del Castillo, AIA arturo.delcastillo@dallas.gov Gray Parker, AICP theagray.parker@dallas.gov
+* * *
+O T H E R I N V O L V E D C I T Y D E P A R T M E N T SO T H E R I N V O L V E D C I T Y D E P A R T M E N T S S e c t i o n V IS e c t i o n V I
+* * *
+## Oak Cliff Municipal Center
+## _320 E. Jefferson Blvd., Room 312_
+Dallas, TX 75203
+* * *
+M- F 8:00 a.m.4:30 p.m. 214-948-4690 dallascityhall.com/departments/waterutilities/ stormwateroperations/Pages/Floodplain andDrainageManagement.aspx Dallas City Hall
+* * *
+## _1500 Marilla St., Room L1B South_
+Dallas, TX 75201
+* * *
+M-F 8:00 a.m.5:00 p.m. 214-670-6904 dallascityhall.com/departments/transportation/ Pages/thoroughfare-cbd-plan.aspx DDOT Field Operations, 3204 Canton St Dallas, TX 75203 M-F 7:00 a.m.4:00 p.m. 214-671-8973 dallascityhall.com/departments/ transportation/Pages/Traffic-Signals-and -Street-Lighting.aspx Dallas City Hall
+* * *
+## _1500 Marilla Street, Room 6FN_
+Dallas, TX 75201
+* * *
+M-F 8:00 a.m.5:00 p.m. 214-670-4209 7 07 0 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e 2 0 2 52 0 2 6 D a l l a s D e v e l o p m e n t G u i d e OTHER INVOLVED CITY DEPARTMENTS T H O R O U G H F A R E P L A N A M E N D M E N T T H O R O U G H F A R E P L A N A M E N D M E N T F L O O D P L A I NF L O O D P L A I N S T R E E T L I G H T I N GS T R E E T L I G H T I N G P A R K L A N D D E D I C A T I O N P A R K L A N D D E D I C A T I O N D A L L A S W A T E R U T I L I T I E S F L O O D P L A I N M A N A G E M E N TD A L L A S W A T E R U T I L I T I E S F L O O D P L A I N M A N A G E M E N T TRANSPORTATION AND PUBLIC WORKS TRANSPORTATION STREET LIGHTING Oak Cliff Municipal Center
+* * *
+## _320 E. Jefferson Blvd., Room 203_
+Dallas, TX 75203
+* * *
+M- F 8:00 a.m.5:00 p.m. 214-948-4100 A B A N D O N M E N T / P R I V A T E L I C E N S E A B A N D O N M E N T / P R I V A T E L I C E N S E FACILITIES AND REAL ESTATE MANAGEMENT REAL ESTATE DIVISION PARK AND RECREATION DEPARTMENT dallascityhall.com/departments/p nv/Pages/Park-Land-Dedication 2024.aspx dallascityhall.com/d epartments/buildin g-services/real estate/Pages/real_es tate_ abandonments.aspx
+* * *
+

@@ -1,0 +1,100 @@
+--- SOURCE: https://registertovote.ca.gov/km ---
+
+  * [Skip to Main Content](https://registertovote.ca.gov/km#main)
+  * [Skip to Footer](https://registertovote.ca.gov/km#footer)
+
+
+[ ![The Great Seal of the State of California](https://www.sos.ca.gov/packages/casos/themes/casos_theme/images/ca-seal.svg) California Secretary of State  Shirley N. Weber, Ph.D.  ](https://www.sos.ca.gov/ "California Secretary of State Home")
+View Search View Navigation
+  * [Home](https://registertovote.ca.gov/km)
+  * [ជំនួយវ៉ឹបសៃត៍](https://registertovote.ca.gov/km/WebsiteHelp)
+
+
+Language Preference 
+If you wish to continue in a language other than English, please select your language below. 
+[ English ](https://registertovote.ca.gov/) [ Español Spanish ](https://registertovote.ca.gov/es) [ हिन्दी Hindi ](https://registertovote.ca.gov/hi) [ 中文 Chinese ](https://registertovote.ca.gov/zh) [ 日本語 Japanese ](https://registertovote.ca.gov/ja) [ ខ្មែរ Khmer ](https://registertovote.ca.gov/km) [ 한국어 Korean ](https://registertovote.ca.gov/ko) [ Tagalog ](https://registertovote.ca.gov/tl) [ ภาษาไทย Thai ](https://registertovote.ca.gov/th) [ Tiếng Việt Vietnamese ](https://registertovote.ca.gov/vi)
+# ការចុះឈ្មោះអ្នកបោះឆ្នោតរដ្ឋកាលីហ្វ័រនីញ៉ាតាមអ៊ិនទ័រណិត
+សូមស្វាគមន៍មកវ៉ឹបសៃត៍ ការចុះឈ្មោះអ្នកបោះឆ្នោតរដ្ឋកាលីហ្វ័រនីញ៉ាតាមអ៊ិនទ័រណិត 
+ចុះឈ្មោះបោះឆ្នោតឥឡូវនេះ  
+សម្រាប់អ្នករស់នៅរដ្ឋកាលីហ្វ័រញ៉ាដែលចង់ក្លាយជាអ្នកបោះឆ្នោត
+ចុះឈ្មោះបោះឆ្នោតជាមុន  
+សម្រាប់អ្នករស់នៅរដ្ឋកាលីហ្វ័រញ៉ាអាយុ ១៦ និង ១៧ ឆ្នាំដែលចង់ក្លាយជាអ្នកបោះឆ្នោតនាពេលអនាគត
+ពិនិត្យមើលស្ថានភាពចុះឈ្មោះអ្នកបោះឆ្នោតរបស់អ្នក  
+សម្រាប់អ្នកបោះឆ្នោតរដ្ឋកាលីហ្វ័រញ៉ាដែលចង់បញ្ជាក់ពីអាស័យដ្ឋាននិងព័ត៌មានលំអិតផ្សេងទៀត
+## អ្នកចូលរួម Safe at Home (សុវត្ថិភាពនៅគេហដ្ឋាន)
+សូម**កុំ** ប្រើក្រដាសបំពេញនេះ សំរាប់ចុះឈ្មោះ ឬចុះឈ្មោះសាថ្មី ដើម្បីបោះឆ្នោតឡើយ បើសិនអ្នកបានចុះឈ្មោះក្នុងកម្មវិធីអាសយដ្ឋាន ជាសំងាត់ ដូចជា [Safe at Home (សុវត្ថិភាពនៅគេហដ្ឋាន)](https://www.sos.ca.gov/registries/safe-home/)។ បើការចែកចាយអាសយដ្ឋានរបស់អ្នក អាចនាំឲ្យអ្នកមានគ្រោះថ្នាក់ដែលយាយីអាយុជីវិត ត្បិតអ្នកអាចនឹងមានសិទ្ធិចុះឈ្មោះបោះឆ្នោតដោយសំងាត់។
+សំរាប់ព័ត៌មានបន្ថែម សូមទាក់ទងកម្មវិធី Safe at Home តាមលេខ [(877) 322-5227](tel:18773225227) ឬ មើល [www.sos.ca.gov/registries/safe-home/](https://www.sos.ca.gov/registries/safe-home/)។
+## ពេលកំណត់ការចុះឈ្មោះ
+ប្រសិនបើអ្នកកំពុងចុះឈ្មោះ ឬចុះឈ្មោះឡើងវិញតិចជាងរយៈពេល 15 ថ្ងៃមុនការបោះឆ្នោត អ្នកនឹងត្រូវបញ្ចប់ [ដំណើរការចុះឈ្មោះបោះឆ្នោតនៅថ្ងៃតែមួយ](https://www.sos.ca.gov/elections/voter-registration/same-day-reg/)តាមរយៈ និងស្នើសុំសន្លឹករបស់អ្នកដោយផ្ទាល់នៅទីតាំងបោះឆ្នោត ឬការិយាល័យបោះឆ្នោតក្នុងតំបន់របស់អ្នក។
+សម្រាប់ព័ត៌មានបន្ថែមអំពីការចុះឈ្មោះបោះឆ្នោត និងទីតាំងបោះឆ្នោត សូមទាក់ទងរបស់អ្នកតាមរយៈ [មន្ត្រីរៀបចំការបោះឆ្នោតក្នុងតំបន់](https://www.sos.ca.gov/elections/voting-resources/county-elections-offices/)។ 
+## អ្នកនឹងត្រូវការអ្វី
+ដើម្បីចុះឈ្មោះតាមអ៊ិនទ័រណិត អ្នកនឹងត្រូវការ
+  * លិខិតបើកបររដ្ឋកាលីហ្វ័រនីញ៉ារបស់អ្នក ឬ លេខអត្ដសញ្ញាណប័ណ្ណរដ្ឋកាលីហ្វ័រនីញ៉ា, 
+  * លេខបួនខ្ទង់ចុងក្រោយនៃលេខសូស្យ៉ាល់សឹគ្យួរិទីរបស់អ្នក និង
+  * ខែថ្ងៃឆ្នាំកំណើតរបស់អ្នក។
+
+
+ព័ត៌មានរបស់អ្នកនឹងបានផ្ដល់ទៅ ក្រសួងរថយន្ដ (Department of Motor Vehicles, DMV) រដ្ឋកាលីហ្វ័រនីញ៉ា ដើម្បីយកសំណៅ នៃហត្ថលេខា DMV របស់អ្នក។
+ប្រសិនបើអ្នកមិនមានបណ្ណបើកបរ ឬអត្តសញ្ញាណបណ្ណរដ្ឋកាលីហ្វញ៉ាទេ អ្នកនៅតែអាចប្រើទម្រង់បែបបទនេះ ដើម្បីចុះឈ្មោះបោះឆ្នោតបានដដែល។ ប៉ុន្តែអ្នកនឹងត្រូវអនុវត្តជំហានបន្ថែម ដើម្បីបញ្ចប់ការចុះឈ្មោះបោះឆ្នោតរបស់អ្នក។ 
+## ព័ត៌មានបន្ថែម
+ពិនិត្យមើល ប្រសិនបើអ្នក [បានចុះឈ្មោះបោះឆ្នោត](https://voterstatus.sos.ca.gov/) ហើយប្រសិនបើដូច្នោះ តើនៅក្នុងតំបន់អ្វី។
+បើសិនអ្នកមានអាយុ 16 ឬ 17 ឆ្នាំ អ្នកអាចប្រើពាក្យសុំចុះឈ្មោះតាមបណ្ដាញនេះ ដើម្បីចុះឈ្មោះបោះឆ្នោតជាមុន។
+សំរាប់ព័ត៌មានបន្ថែមអំពីការចុះឈ្មោះបោះឆ្នោត អ្នកអាចចូលមើល [សំណួរដែលបានសួរជាញឹកញាប់ របស់រដ្ឋលេខាធិការ (Frequently Asked Questions)](https://www.sos.ca.gov/elections/elections_faq.htm)។
+### តើមានសំណួរ ឬចង់រាយការណ៍ពីការគៃបន្លំឬទេ?
+ទូរស័ព្ទទៅលេខពិសេសអ្នកបោះឆ្នោតរបស់រដ្ឋលេខាធិការ តាមលេខ [(888) 345-4917](tel:18003458683) ឬ [ការិយាល័យបោះឆ្នោតខោនធីរបស់អ្នក](http://www.sos.ca.gov/elections/voting-resources/county-elections-offices/)។
+ចុះឈ្មោះបោះឆ្នោតឥឡូវនេះ  
+សម្រាប់អ្នករស់នៅរដ្ឋកាលីហ្វ័រញ៉ាដែលចង់ក្លាយជាអ្នកបោះឆ្នោត
+ចុះឈ្មោះបោះឆ្នោតជាមុន  
+សម្រាប់អ្នករស់នៅរដ្ឋកាលីហ្វ័រញ៉ាអាយុ ១៦ និង ១៧ ឆ្នាំដែលចង់ក្លាយជាអ្នកបោះឆ្នោតនាពេលអនាគត
+ពិនិត្យមើលស្ថានភាពចុះឈ្មោះអ្នកបោះឆ្នោតរបស់អ្នក  
+សម្រាប់អ្នកបោះឆ្នោតរដ្ឋកាលីហ្វ័រញ៉ាដែលចង់បញ្ជាក់ពីអាស័យដ្ឋាននិងព័ត៌មានលំអិតផ្សេងទៀត 
+
+ភ្នាក់ងារ 
+    
+  * [ទំព័រដើម](https://www.sos.ca.gov/)
+  * [អំពី](https://www.sos.ca.gov/administration/)
+  * [ពាណិជ្ជកម្ម](https://www.sos.ca.gov/business-programs/)
+  * [សច្ចានុម័ត និងការបញ្ជាក់](https://www.sos.ca.gov/notary/)
+  * [ការបោះឆ្នោត](https://www.sos.ca.gov/elections/)
+  * [ឃោសនា និងការបញ្ចុះបញ្ចូល](https://www.sos.ca.gov/campaign-lobbying/)
+  * [ឯកសារសំខាន់ៗរបស់រដ្ឋ](https://www.sos.ca.gov/archives/)
+  * [បញ្ជីឈ្មោះ](https://www.sos.ca.gov/registries/)
+  * [ដំណឹង](https://www.sos.ca.gov/administration/news-releases-and-advisories/2023-news-releases-and-advisories/)
+  * [ទាក់ទង](https://www.sos.ca.gov/administration/contact-information/)
+
+
+
+ធនធាន 
+    
+  * [Contracting Opportunities](https://www.sos.ca.gov/administration/current-career-and-job-opportunities/contracting-opportunities/)
+  * [ឱកាសអាជីព](https://www.sos.ca.gov/administration/current-career-contracting-opportunities/career-opportunities/)
+  * [កាលវិភាគថែរក្សាសៃត៍](https://www.sos.ca.gov/site-maintenance-schedule/)
+  * [ក្រដាសបំពេញបណ្ដឹងតាមភាសា](https://www.sos.ca.gov/administration/language-access-complaint-form/)
+  * [Public Records Act Requests](https://www.sos.ca.gov/administration/guidelines-access-public-records)
+  * [ឧបករណ៍អានឯកសារឥតគិតថ្លៃ](https://www.sos.ca.gov/free-doc-readers/)
+  * [ផែនទីសៃត៍](https://www.sos.ca.gov/sitemap/)
+  * [ គេហ៍ទំព័ររដ្ឋកាលីហ្វ័រនីញ៉ា ](https://www.ca.gov/)
+
+
+
+រដ្ឋលេខាធិការ រដ្ឋកាលីហ្វ័រនីញ៉ា 
+    
+Shirley N. Weber, Ph.D., California Secretary of State  1500 11th Street Sacramento, California  95814 Office: [(916) 653-6814](tel:916653-6814 "Call Our Office") 
+
+Social Media 
+    
+  * [ Facebook ](https://www.facebook.com/CaliforniaSOS/)
+  * [ Twitter ](https://twitter.com/CASOSvote/)
+  * [ Youtube ](https://www.youtube.com/user/CaliforniaSOS/)
+  * [ Snapchat ](https://www.snapchat.com/add/californiasos/)
+  * [ Instagram ](https://www.instagram.com/CaliforniaSOS_/)
+  * [ RSS Feed  ](https://www.sos.ca.gov/administration/multimedia/available-rss-feeds/)
+
+
+  * [ក្រឹត្យក្រមភាពឯកជន](https://www.sos.ca.gov/administration/privacy-policy/)
+  * [ជំនួយគេហ៍ទំព័រ](https://www.sos.ca.gov/website-help/)
+  * [លទ្ធភាពចូលមើល](https://www.sos.ca.gov/accessibility/)
+
+
+Copyright © 2024 រដ្ឋលេខាធិការ រដ្ឋកាលីហ្វ័រនីញ៉ា 
+[Top of Page](https://registertovote.ca.gov/km#top)
