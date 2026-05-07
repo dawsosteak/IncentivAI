@@ -2,6 +2,7 @@ import asyncio
 import contextlib
 import io
 import os
+import sys
 import zipfile
 from datetime import datetime
 from urllib.parse import urlparse
@@ -13,6 +14,35 @@ import streamlit as st
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 APP_VERSION = "compat-2026-05-07-1"
 DEFAULT_URL_COLUMN_NAMES = ("url", "urls", "link", "links", "website", "websites")
+
+
+class StreamlitPrintTee(io.TextIOBase):
+    def __init__(self, stream, on_write):
+        self.stream = stream
+        self.on_write = on_write
+
+    @property
+    def encoding(self):
+        return getattr(self.stream, "encoding", "utf-8")
+
+    def writable(self):
+        return True
+
+    def write(self, text):
+        self.stream.write(text)
+        self.stream.flush()
+        if text:
+            self.on_write(text)
+        return len(text)
+
+    def flush(self):
+        self.stream.flush()
+
+
+class PipelineRunError(Exception):
+    def __init__(self, message, log_text):
+        super().__init__(message)
+        self.log_text = log_text
 
 
 def _find_default_url_column(columns):
@@ -43,22 +73,43 @@ def _normalize_url(value):
     return ""
 
 
-def _run_pipeline_for_url(url, use_deep_crawl, model_name, truncation_length):
+def _run_pipeline_for_url(
+    url,
+    use_deep_crawl,
+    model_name,
+    truncation_length,
+    log_placeholder=None,
+):
     from test_single_link import (
         analyze_scraped_files,
         filter_analysis_results,
         scrape_single_link,
     )
 
-    scraped_files = asyncio.run(
-        scrape_single_link(
-            url,
-            use_deep_crawl=use_deep_crawl,
-            truncation_length=truncation_length,
-        )
-    )
-    analysis_files = analyze_scraped_files(scraped_files, model_name=model_name)
-    filter_analysis_results(analysis_files, model_name=model_name)
+    log_chunks = []
+
+    def append_log(text):
+        log_chunks.append(text)
+        if log_placeholder is not None:
+            log_placeholder.text("".join(log_chunks)[-12000:])
+
+    stdout_tee = StreamlitPrintTee(sys.stdout, append_log)
+    stderr_tee = StreamlitPrintTee(sys.stderr, append_log)
+
+    try:
+        with contextlib.redirect_stdout(stdout_tee), contextlib.redirect_stderr(stderr_tee):
+            scraped_files = asyncio.run(
+                scrape_single_link(
+                    url,
+                    use_deep_crawl=use_deep_crawl,
+                    truncation_length=truncation_length,
+                )
+            )
+            analysis_files = analyze_scraped_files(scraped_files, model_name=model_name)
+            filter_analysis_results(analysis_files, model_name=model_name)
+    except Exception as exc:
+        log_text = "".join(log_chunks)
+        raise PipelineRunError(str(exc), log_text) from exc
 
     final_files = []
     for analysis_file in analysis_files:
@@ -70,7 +121,7 @@ def _run_pipeline_for_url(url, use_deep_crawl, model_name, truncation_length):
         if os.path.exists(final_file):
             final_files.append(final_file)
 
-    return scraped_files, analysis_files, final_files, ""
+    return scraped_files, analysis_files, final_files, "".join(log_chunks)
 
 
 def _build_zip(filepaths):
@@ -135,36 +186,54 @@ except TypeError:
     st.set_page_config(page_title="Single Link Tester")
 
 st.title("Single Link Tester")
-_caption("Upload an Excel file of links and run the existing pipeline over each URL.")
+_caption("Run the existing pipeline for one URL or an Excel file of links.")
 _caption(f"App version: {APP_VERSION}")
 
-uploaded_file = st.file_uploader("Excel file", type=["xlsx"])
+input_mode = st.radio("Input method", ["Excel upload", "Single URL"], horizontal=True)
+urls = []
 
-if uploaded_file:
-    workbook = pd.ExcelFile(uploaded_file)
-    sheet_name = st.selectbox("Sheet", workbook.sheet_names)
-    df = pd.read_excel(workbook, sheet_name=sheet_name)
+if input_mode == "Excel upload":
+    uploaded_file = st.file_uploader("Excel file", type=["xlsx"])
 
-    if df.empty:
-        st.warning("This sheet is empty.")
-        st.stop()
+    if uploaded_file:
+        workbook = pd.ExcelFile(uploaded_file)
+        sheet_name = st.selectbox("Sheet", workbook.sheet_names)
+        df = pd.read_excel(workbook, sheet_name=sheet_name)
 
-    default_column = _find_default_url_column(df.columns)
-    column_options = list(df.columns)
-    default_index = column_options.index(default_column) if default_column in column_options else 0
-    url_column = st.selectbox("URL column", column_options, index=default_index)
+        if df.empty:
+            st.warning("This sheet is empty.")
+            st.stop()
 
-    urls = [_normalize_url(value) for value in df[url_column]]
-    urls = [url for url in urls if url]
-    urls = list(dict.fromkeys(urls))
+        default_column = _find_default_url_column(df.columns)
+        column_options = list(df.columns)
+        default_index = column_options.index(default_column) if default_column in column_options else 0
+        url_column = st.selectbox("URL column", column_options, index=default_index)
 
-    st.write(f"Found {len(urls)} valid unique URL(s).")
-    with _expander("Preview URLs"):
-        preview_rows = [{"url": url} for url in urls[:50]]
-        st.markdown(_markdown_table(preview_rows, ["url"]))
-        if len(urls) > 50:
-            _caption(f"Showing the first 50 of {len(urls)} URLs.")
+        urls = [_normalize_url(value) for value in df[url_column]]
+        urls = [url for url in urls if url]
+        urls = list(dict.fromkeys(urls))
 
+        st.write(f"Found {len(urls)} valid unique URL(s).")
+        with _expander("Preview URLs"):
+            preview_rows = [{"url": url} for url in urls[:50]]
+            st.markdown(_markdown_table(preview_rows, ["url"]))
+            if len(urls) > 50:
+                _caption(f"Showing the first 50 of {len(urls)} URLs.")
+    else:
+        st.info("Upload an Excel workbook to begin.")
+else:
+    single_url = st.text_input("URL", placeholder="https://www.example.com/rebates")
+    normalized_url = _normalize_url(single_url)
+
+    if single_url and normalized_url:
+        urls = [normalized_url]
+        st.write(f"Ready to run: {normalized_url}")
+    elif single_url:
+        st.warning("Enter a valid URL, such as https://www.example.com/rebates.")
+    else:
+        st.info("Enter a URL to begin.")
+
+if urls:
     _divider()
     use_deep_crawl = st.checkbox("Deep crawl", value=True)
     model_name = st.text_input("Ollama model", value="llama3.2")
@@ -176,9 +245,11 @@ if uploaded_file:
         step=10000,
     )
 
-    if urls and st.button("Run Pipeline"):
+    if st.button("Run Pipeline"):
         progress = st.progress(0)
         status = st.empty()
+        with _expander("Live pipeline log", expanded=True):
+            log_placeholder = st.empty()
         rows = []
         final_files = []
 
@@ -190,6 +261,7 @@ if uploaded_file:
                     use_deep_crawl=use_deep_crawl,
                     model_name=model_name,
                     truncation_length=int(truncation_length),
+                    log_placeholder=log_placeholder,
                 )
                 final_files.extend(finals)
                 rows.append(
@@ -203,7 +275,8 @@ if uploaded_file:
                     }
                 )
             except Exception as exc:
-                log_text = str(exc)
+                log_text = getattr(exc, "log_text", "")
+                log_text = f"{log_text}\nERROR: {exc}" if log_text else str(exc)
                 rows.append(
                     {
                         "url": url,
@@ -216,8 +289,7 @@ if uploaded_file:
                 )
 
             progress.progress(int(index / len(urls) * 100))
-            with _expander("Latest pipeline log", expanded=False):
-                st.text(log_text[-12000:])
+            log_placeholder.text(log_text[-12000:] or "No log output yet.")
 
         status.write("Run complete.")
         results_df = pd.DataFrame(rows)
@@ -250,5 +322,3 @@ if uploaded_file:
                         st.markdown(f.read())
         else:
             st.info("No final rebate markdown files were produced.")
-else:
-    st.info("Upload an Excel workbook to begin.")
