@@ -40,25 +40,38 @@ OUTPUT_FILE   = "utility_urls_discovered.xlsx"
 # Each phrase + state name => Google query.
 # Designed to match domain types seen in DSIRE:
 #   .coop, municipalelectric.*, *electric.com, energy.*.gov, pud.*.*, etc.
-TOPICS = [
-    # Find utility/coop official sites directly
-    "electric cooperative official website rebate",
-    "municipal electric utility rebate program",
-    "public utility district energy rebate",
-    "rural electric cooperative incentive program",
-    "investor owned utility energy efficiency rebate",
+# ── Search topics ─────────────────────────────────────────────────────────────
+# Derived from EIA-861 entity naming patterns:
+#   - Cooperative / Coop / Electric Assn  (~294 entities)
+#   - City of / Municipal Electric        (~595 entities)
+#   - Public Utility District / PUD       (~37 political subdivision entities)
+#   - Investor Owned / Light & Power      (~60 entities)
+# Goal: surface OFFICIAL UTILITY WEBSITES, not news or aggregators.
 
-    # Device-specific — utilities publish these as standalone program pages
-    "utility solar panel rebate apply",
-    "utility heat pump rebate program apply",
-    "utility EV charger rebate apply",
-    "utility smart thermostat rebate program",
-    "utility battery storage incentive apply",
-    "utility weatherization rebate low income",
-    "utility net metering program apply",
-    "utility on-bill financing energy upgrade",
-    "utility demand response incentive program",
-    "utility energy efficiency rebate commercial",
+TOPICS = [
+    # ── By utility type (maps to EIA-861 Ownership column) ──
+    "electric cooperative rebate incentive program",        # Cooperative
+    "electric coop energy efficiency rebate apply",         # Coop (abbrev.)
+    "electric association rebate program",                  # Electric Assn
+    "municipal electric utility rebate incentive",          # Municipal
+    "city electric utility energy rebate program",          # City of ...
+    "public utility district rebate incentive program",     # PUD / Political Subdivision
+    "rural electric cooperative incentive apply",           # Rural Coop
+    "investor owned utility energy efficiency rebate",      # Investor Owned
+    "light and power company rebate program",               # Light & Power Co.
+    "county electric cooperative rebate program",           # County Electric
+
+    # ── By device/program type (DSIRE program categories) ──
+    "electric utility solar rebate apply",
+    "electric utility heat pump rebate program",
+    "electric utility EV charger rebate apply",
+    "electric utility smart thermostat rebate",
+    "electric utility battery storage incentive",
+    "electric utility weatherization rebate low income",
+    "electric utility net metering program",
+    "electric utility on-bill financing program",
+    "electric utility demand response incentive",
+    "electric utility energy efficiency rebate commercial",
 ]
 
 # ── Domain filter ─────────────────────────────────────────────────────────────
@@ -151,6 +164,28 @@ def search(query: str, limit: int = NUM_RESULTS) -> List[Dict[str, Any]]:
         return []
 
 # ── Per-state search ──────────────────────────────────────────────────────────
+def load_existing_domains(path: str) -> set:
+    """Load existing URL database and return a set of bare domains for deduplication."""
+    try:
+        wb = load_workbook(path, read_only=True)
+        ws = wb.active
+        domains = set()
+        for row in ws.iter_rows(values_only=True):
+            for cell in row:
+                if cell and isinstance(cell, str) and cell.startswith("http"):
+                    d = urlparse(cell.strip()).netloc.lower().lstrip("www.")
+                    if d:
+                        domains.add(d)
+        wb.close()
+        print(f"📂 Loaded {len(domains)} existing domains from {path}")
+        return domains
+    except FileNotFoundError:
+        print(f"⚠️  No existing database found at '{path}' — all results will be kept.")
+        return set()
+
+# Loaded once at startup, shared across all states
+EXISTING_DOMAINS: set = set()
+
 def run_state(state: str) -> None:
     print(f"\n🔍 Discovering utility URLs for: {state}")
     wb, ws = (_get_or_create_workbook(OUTPUT_FILE) if EXCEL_AVAILABLE else (None, None))
@@ -171,11 +206,14 @@ def run_state(state: str) -> None:
 
         kept = []
         for item in results:
-            url = item.get("url", "")
-            if is_utility_url(url):
-                kept.append(item)
+            url    = item.get("url", "")
+            domain = urlparse(url).netloc.lower().lstrip("www.")
+            if not is_utility_url(url):
+                print(f"     u26d4 blocked : {url}")
+            elif domain in EXISTING_DOMAINS:
+                print(f"     u23edufe0f  exists  : {domain}")
             else:
-                print(f"     ⛔ filtered: {url}")
+                kept.append(item)
 
         total_found += len(results)
         total_kept  += len(kept)
@@ -231,8 +269,15 @@ def _cli(states: list):
         print(f"\n{'='*52}\n  🗺️  {state}\n{'='*52}")
         run_state(state)
 
+DATABASE_FILE = "Relevant_URLs.xlsx"   # existing URL database for deduplication
+
 if __name__ == "__main__":
+    # Pre-load existing domains so every search skips already-known sites
+    EXISTING_DOMAINS = load_existing_domains(DATABASE_FILE)
+    print()
     if len(sys.argv) > 1:
         _cli(sys.argv[1:])
     else:
         _interactive()
+
+DATABASE_FILE = "Relevant_URLs.xlsx"
