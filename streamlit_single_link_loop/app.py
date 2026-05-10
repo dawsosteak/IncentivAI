@@ -189,8 +189,9 @@ st.title("Single Link Tester")
 _caption("Run the existing pipeline for one URL or an Excel file of links.")
 _caption(f"App version: {APP_VERSION}")
 
-input_mode = st.radio("Input method", ["Excel upload", "Single URL"], horizontal=True)
+input_mode = st.radio("Input method", ["Excel upload", "Single URL", "Scraped markdown directory"], horizontal=True)
 urls = []
+scraped_files_dict = {}  # Maps URL to scraped files for directory mode
 
 if input_mode == "Excel upload":
     uploaded_file = st.file_uploader("Excel file", type=["xlsx"])
@@ -221,7 +222,7 @@ if input_mode == "Excel upload":
                 _caption(f"Showing the first 50 of {len(urls)} URLs.")
     else:
         st.info("Upload an Excel workbook to begin.")
-else:
+elif input_mode == "Single URL":
     single_url = st.text_input("URL", placeholder="https://www.example.com/rebates")
     normalized_url = _normalize_url(single_url)
 
@@ -233,10 +234,33 @@ else:
     else:
         st.info("Enter a URL to begin.")
 
+elif input_mode == "Scraped markdown directory":
+    directory = st.text_input("Directory path", placeholder=os.path.join(BASE_DIR, "scraped_markdown"))
+    if directory and os.path.isdir(directory):
+        md_files = [
+            os.path.join(directory, f)
+            for f in os.listdir(directory)
+            if f.endswith(".md")
+        ]
+        if md_files:
+            for md_file in md_files:
+                filename = os.path.basename(md_file)
+                url_part = filename.split("_scraped.md")[0]
+                url = url_part.replace("_", "/").replace("~", ":")
+                scraped_files_dict[url] = [md_file]
+            urls = list(scraped_files_dict.keys())
+            st.write(f"Found {len(urls)} URLs with scraped markdown files in the directory.")
+        else:
+            st.warning("No scraped markdown files found in the directory.")
+    elif directory:
+        st.warning("Enter a valid directory path that contains scraped markdown files.")
+    else:
+        st.info("Enter a directory path to begin.")
+
 if urls:
     _divider()
     use_deep_crawl = st.checkbox("Deep crawl", value=True)
-    model_name = st.text_input("Ollama model", value="llama3.2")
+    model_name = st.text_input("model", value="llama3.2")
     truncation_length = st.number_input(
         "Max scrape length",
         min_value=10000,
@@ -256,13 +280,34 @@ if urls:
         for index, url in enumerate(urls, start=1):
             status.write(f"Running {index} of {len(urls)}: {url}")
             try:
-                scraped, analyzed, finals, log_text = _run_pipeline_for_url(
-                    url=url,
-                    use_deep_crawl=use_deep_crawl,
-                    model_name=model_name,
-                    truncation_length=int(truncation_length),
-                    log_placeholder=log_placeholder,
-                )
+                # Skip scraping if using directory mode
+                if input_mode == "Scraped markdown directory":
+                    scraped = scraped_files_dict.get(url, [])
+                    log_text = f"Using pre-scraped files from directory: {scraped}"
+                else:
+                    scraped, _, _, _ = _run_pipeline_for_url(
+                        url=url,
+                        use_deep_crawl=use_deep_crawl,
+                        model_name=model_name,
+                        truncation_length=int(truncation_length),
+                        log_placeholder=log_placeholder,
+                    )
+                
+                from test_single_link import analyze_scraped_files, filter_analysis_results
+                
+                analyzed = analyze_scraped_files(scraped, model_name=model_name)
+                filter_analysis_results(analyzed, model_name=model_name)
+                
+                finals = []
+                for analysis_file in analyzed:
+                    base_name = os.path.basename(analysis_file).replace("_analysis.md", "")
+                    final_file = os.path.join(
+                        os.path.dirname(analysis_file),
+                        f"{base_name}_FINAL_rebates.md",
+                    )
+                    if os.path.exists(final_file):
+                        finals.append(final_file)
+                
                 final_files.extend(finals)
                 rows.append(
                     {
