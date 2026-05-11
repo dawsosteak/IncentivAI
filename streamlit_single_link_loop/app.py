@@ -312,6 +312,7 @@ if urls:
             log_placeholder = st.empty()
         rows = []
         final_files = []
+        log_text = ""
 
         for index, url in enumerate(urls, start=1):
             status.write(f"Running {index} of {len(urls)}: {url}")
