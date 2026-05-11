@@ -18,16 +18,73 @@ from crawl4ai.content_scraping_strategy import LXMLWebScrapingStrategy
 from crawl4ai.processors.pdf import PDFCrawlerStrategy, PDFContentScrapingStrategy
 
 # Langchain imports
-from langchain_ollama.llms import OllamaLLM
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
+
+from langchain_ollama.llms import OllamaLLM
+
+try:
+    from langchain_openai import ChatOpenAI
+except ImportError:
+    ChatOpenAI = None
+
+try:
+    from langchain_anthropic import ChatAnthropic
+except ImportError:
+    ChatAnthropic = None
+
+try:
+    from langchain_google_genai import ChatGoogleGenerativeAI
+except ImportError:
+    ChatGoogleGenerativeAI = None
 
 # ---------------------------------------------------------
 # CONSTANTS & CONFIGURATION
 # ---------------------------------------------------------
 
 #Model Name
+provider_name = "ollama"
 model_name = "llama3.2"
+
+
+def build_llm(provider: str, model: str, temperature: float):
+    provider = (provider or "ollama").lower()
+    model = model or "llama3.2"
+
+    if provider == "ollama":
+        return OllamaLLM(model=model, temperature=temperature)
+    if provider == "openai":
+        if ChatOpenAI is None:
+            raise ImportError("langchain-openai is not installed.")
+        return ChatOpenAI(model=model, temperature=temperature)
+    if provider in {"uw_ssec", "uw-ssec", "ssec"}:
+        if ChatOpenAI is None:
+            raise ImportError("langchain-openai is not installed.")
+
+        api_key = os.environ.get("UW_SSEC_AI_GATEWAY_KEY")
+        base_url = os.environ.get("UW_SSEC_AI_GATEWAY_BASE_URL")
+        if not api_key:
+            raise ValueError("UW_SSEC_AI_GATEWAY_KEY is not set.")
+        if not base_url:
+            raise ValueError("UW_SSEC_AI_GATEWAY_BASE_URL is not set.")
+
+        gateway_temperature = 1 if model.startswith("gpt-5") else temperature
+        return ChatOpenAI(
+            model=model,
+            temperature=gateway_temperature,
+            api_key=api_key,
+            base_url=base_url,
+        )
+    if provider == "anthropic":
+        if ChatAnthropic is None:
+            raise ImportError("langchain-anthropic is not installed.")
+        return ChatAnthropic(model=model, temperature=temperature)
+    if provider in {"google", "gemini"}:
+        if ChatGoogleGenerativeAI is None:
+            raise ImportError("langchain-google-genai is not installed.")
+        return ChatGoogleGenerativeAI(model=model, temperature=temperature)
+
+    raise ValueError(f"Unsupported provider: {provider}")
 
 PDF_KEYWORDS = [
     "incentive", "rebate", "grant", "funding", "assistance", 
@@ -299,7 +356,7 @@ async def scrape_single_link(url: str, use_deep_crawl: bool, truncation_length: 
 # ---------------------------------------------------------
 # ANALYZER MODULE
 # ---------------------------------------------------------
-def analyze_scraped_files(filepaths: list, model_name: str = "llama3.2", temperature: float = 0.1):
+def analyze_scraped_files(filepaths: list, provider: str = "ollama", model_name: str = "llama3.2", temperature: float = 0.1):
     base_dir = os.path.dirname(os.path.abspath(__file__))
     results_dir = os.path.join(base_dir, "analysis_results")
     error_log_path = os.path.join(base_dir, "analysis_errors.log")
@@ -316,7 +373,7 @@ def analyze_scraped_files(filepaths: list, model_name: str = "llama3.2", tempera
         
     modified_results_files = set()
 
-    model = OllamaLLM(model=model_name, temperature=temperature)
+    model = build_llm(provider, model_name, temperature)
     prompt = ChatPromptTemplate.from_template(TEMPLATE)
     chain = prompt | model | StrOutputParser()
 
@@ -382,11 +439,11 @@ def analyze_scraped_files(filepaths: list, model_name: str = "llama3.2", tempera
 # ---------------------------------------------------------
 # FINAL FILTER MODULE
 # ---------------------------------------------------------
-def filter_analysis_results(result_filepaths: list, model_name: str = "llama3.2", temperature: float = 0.1):
+def filter_analysis_results(result_filepaths: list, provider: str = "ollama", model_name: str = "llama3.2", temperature: float = 0.1):
     if not result_filepaths:
         return
         
-    model = OllamaLLM(model=model_name, temperature=temperature)
+    model = build_llm(provider, model_name, temperature)
     prompt = ChatPromptTemplate.from_template(FILTER_TEMPLATE)
     chain = prompt | model | StrOutputParser()
     
@@ -439,7 +496,14 @@ if __name__ == "__main__":
         "--model", 
         type=str, 
         default="llama3.2",
-        help="The Ollama model to use"
+        help="The model name to use"
+    )
+    parser.add_argument(
+        "--provider",
+        type=str,
+        default="ollama",
+        choices=["ollama", "openai", "anthropic", "google", "gemini", "uw_ssec"],
+        help="LLM provider to use"
     )
     parser.add_argument(
         "--analyze-only", 
@@ -460,7 +524,7 @@ if __name__ == "__main__":
         print(f"Filter-only mode: Found {len(result_files)} pre-analyzed files in '{results_dir}'.")
         
         # 3. Filter the analysis results to extract only actual rebates
-        filter_analysis_results(result_files, model_name=args.model)
+        filter_analysis_results(result_files, provider=args.provider, model_name=args.model)
         
     elif args.analyze_only:
         base_dir = os.path.dirname(os.path.abspath(__file__))
@@ -469,17 +533,17 @@ if __name__ == "__main__":
         print(f"Analyze-only mode: Found {len(generated_files)} pre-scraped files in '{scraped_dir}'.")
         
         # 2. Analyze the generated files
-        result_files = analyze_scraped_files(generated_files, model_name=args.model)
+        result_files = analyze_scraped_files(generated_files, provider=args.provider, model_name=args.model)
         
         # 3. Filter the analysis results to extract only actual rebates
-        filter_analysis_results(result_files, model_name=args.model)
+        filter_analysis_results(result_files, provider=args.provider, model_name=args.model)
         
     else:
         # 1. Scrape the URL
         generated_files = asyncio.run(scrape_single_link(args.url, not args.no_deep_crawl))
         
         # 2. Analyze the generated files
-        result_files = analyze_scraped_files(generated_files, model_name=args.model)
+        result_files = analyze_scraped_files(generated_files, provider=args.provider, model_name=args.model)
         
         # 3. Filter the analysis results to extract only actual rebates
-        filter_analysis_results(result_files, model_name=args.model)
+        filter_analysis_results(result_files, provider=args.provider, model_name=args.model)

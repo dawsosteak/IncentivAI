@@ -1,7 +1,9 @@
 import asyncio
 import contextlib
 import io
+import json
 import os
+import subprocess
 import sys
 import zipfile
 from datetime import datetime
@@ -14,6 +16,13 @@ import streamlit as st
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 APP_VERSION = "compat-2026-05-07-1"
 DEFAULT_URL_COLUMN_NAMES = ("url", "urls", "link", "links", "website", "websites")
+DEFAULT_MODEL_OPTIONS = {
+    "ollama": ["llama3.2", "qwen2.5:14b-instruct", "mistral"],
+    "openai": ["gpt-4.1", "gpt-4.1-mini", "gpt-4o-mini"],
+    "uw_ssec": ['gemma-4-31b', 'olmo-3.1-32b', 'gpt-5.4-pro', 'gpt-oss-120b', 'gpt-5.3-codex', 'devstral-small', 'gpt-5.4-mini'],
+    "anthropic": ["claude-sonnet-4-0", "claude-3-5-sonnet-latest"],
+    "google": ["gemini-2.5-pro", "gemini-2.5-flash"],
+}
 
 
 class StreamlitPrintTee(io.TextIOBase):
@@ -73,9 +82,30 @@ def _normalize_url(value):
     return ""
 
 
+def _default_models_for_provider(provider):
+    return DEFAULT_MODEL_OPTIONS.get((provider or "").lower(), ["llama3.2"])
+
+
+@st.cache_data(show_spinner=False)
+def _get_ollama_models():
+    try:
+        result = subprocess.run(["ollama", "list"], capture_output=True, text=True, check=True)
+    except Exception:
+        return []
+
+    models = []
+    lines = result.stdout.splitlines()
+    for line in lines[1:]:
+        parts = line.split()
+        if parts:
+            models.append(parts[0])
+    return models
+
+
 def _run_pipeline_for_url(
     url,
     use_deep_crawl,
+    provider,
     model_name,
     truncation_length,
     log_placeholder=None,
@@ -105,8 +135,8 @@ def _run_pipeline_for_url(
                     truncation_length=truncation_length,
                 )
             )
-            analysis_files = analyze_scraped_files(scraped_files, model_name=model_name)
-            filter_analysis_results(analysis_files, model_name=model_name)
+            analysis_files = analyze_scraped_files(scraped_files, provider=provider, model_name=model_name)
+            filter_analysis_results(analysis_files, provider=provider, model_name=model_name)
     except Exception as exc:
         log_text = "".join(log_chunks)
         raise PipelineRunError(str(exc), log_text) from exc
@@ -260,7 +290,13 @@ elif input_mode == "Scraped markdown directory":
 if urls:
     _divider()
     use_deep_crawl = st.checkbox("Deep crawl", value=True)
-    model_name = st.text_input("model", value="llama3.2")
+    provider = st.selectbox("LLM provider", ["ollama", "uw_ssec", "openai", "anthropic", "google"], index=0)
+    model_choices = _get_ollama_models() if provider == "ollama" else _default_models_for_provider(provider)
+    if provider == "ollama" and not model_choices:
+        model_choices = _default_models_for_provider(provider)
+    model_name = st.selectbox("Model", model_choices, index=0)
+    custom_model = st.text_input("Custom model name (optional)", value="")
+    model_name = custom_model.strip() or model_name
     truncation_length = st.number_input(
         "Max scrape length",
         min_value=10000,
@@ -288,6 +324,7 @@ if urls:
                     scraped, _, _, _ = _run_pipeline_for_url(
                         url=url,
                         use_deep_crawl=use_deep_crawl,
+                        provider=provider,
                         model_name=model_name,
                         truncation_length=int(truncation_length),
                         log_placeholder=log_placeholder,
@@ -295,8 +332,8 @@ if urls:
                 
                 from test_single_link import analyze_scraped_files, filter_analysis_results
                 
-                analyzed = analyze_scraped_files(scraped, model_name=model_name)
-                filter_analysis_results(analyzed, model_name=model_name)
+                analyzed = analyze_scraped_files(scraped, provider=provider, model_name=model_name)
+                filter_analysis_results(analyzed, provider=provider, model_name=model_name)
                 
                 finals = []
                 for analysis_file in analyzed:
