@@ -1,0 +1,230 @@
+--- SOURCE: https://www.anaheim.net/4544/The-Anaheim-Resort ---
+
+![Loading](https://www.anaheim.net/Common/images/ajax-loader.gif)
+Loading
+[Skip to Main Content](https://www.anaheim.net/4544/The-Anaheim-Resort#cc622007e8-e6c7-4d3b-8aef-85364de4b3e8)
+![Anaheim, CA](https://www.anaheim.net/ImageRepository/Document?documentID=41690)
+[![Home page](https://www.anaheim.net/ImageRepository/Document?documentID=41692)](https://www.anaheim.net/)
+[![Go to Site Search](https://www.anaheim.net/ImageRepository/Document?documentID=41694)](https://www.anaheim.net/Search/Results) Search
+  * [ ![Facebook](https://www.anaheim.net/ImageRepository/Document?documentID=41698) ](https://www.anaheim.net/facebook)
+
+
+  * [ ![Twitter](https://www.anaheim.net/ImageRepository/Document?documentID=41705) ](https://www.anaheim.net/twitter)
+
+
+  * [ ![Instagram](https://www.anaheim.net/ImageRepository/Document?documentID=41699) ](https://www.anaheim.net/instagram)
+
+
+  * [ ![YouTube](https://www.anaheim.net/ImageRepository/Document?documentID=41708) ](https://www.anaheim.net/youtube)
+
+
+  * [ ![Newsletter](https://www.anaheim.net/ImageRepository/Document?documentID=41697) ](https://www.anaheim.net/list.aspx)
+
+
+  1. [ Pay & Apply ](https://www.anaheim.net/6162/Pay-Apply)
+  2. [ Find & Report ](https://www.anaheim.net/6158/Find-Report)
+  3. [ Community Info ](https://www.anaheim.net/6161/Community-Info)
+  4. [ Departments ](https://www.anaheim.net/148/Departments)
+
+
+  1. [Home](https://www.anaheim.net/)
+  2. [Departments](https://www.anaheim.net/148/Departments)
+  3. [Planning & Building](https://www.anaheim.net/490/Planning-Building)
+  4. [Planning & Zoning](https://www.anaheim.net/691/Planning-Zoning)
+  5. [The Anaheim Resort](https://www.anaheim.net/4544/The-Anaheim-Resort)
+
+
+#  The Anaheim Resort 
+The Anaheim Resort is a [1,100-acre district](https://anaheim.net/DocumentCenter/View/14548/) including the theme parks hotels and shopping and dining of the Disneyland Resort, the Anaheim Convention Center, hotels, restaurants, shops, offices and visitor businesses. The area helps bring more than 25 million visitors to Anaheim each year and drives funding for city services.
+The city of Anaheim oversees The Anaheim Resort through various plans and regulations. You can learn more at the links below.
+You can also learn more about The Anaheim Resort by clicking on the fact sheet.
+[![Fact sheet web button Opens in new window](https://www.anaheim.net/ImageRepository/Document?documentID=30150)](https://www.anaheim.net/DocumentCenter/View/30151/Anaheim-Resort-fact-sheet-)
+# Specific Plans
+  * [Anaheim Resort Specific Plan (ARSP)](http://anaheim.net/1009/Anaheim-Resort)
+  * [Disneyland Resort Specific Plan (DRSP)](http://anaheim.net/1017/Disneyland-Resort)
+  * [Hotel Circle Specific Plan (HCSP)](http://anaheim.net/1038/Hotel-Circle)
+
+
+# Development Update
+  * [Anaheim Resort Development Update  
+](https://www.anaheim.net/DocumentCenter/View/10614)
+
+
+# The Anaheim Resort Standards and Guidelines
+  * [Maximum Permitted Structural Height Map](https://www.anaheim.net/DocumentCenter/View/55656/)
+  * [The Anaheim Resort Monument Sign Standards](https://www.anaheim.net/DocumentCenter/View/70000/)
+  * [The Anaheim Resort Plant and Shrub Matrix](https://www.anaheim.net/DocumentCenter/View/67757/)
+  * [The Anaheim Resort Identity Program](https://www.anaheim.net/DocumentCenter/View/55658/)
+  * [The Anaheim Resort Public Realm Landscape Program](https://www.anaheim.net/DocumentCenter/View/55657/)
+
+
+# Related Documents
+  * [The Anaheim Resort Mobility Study: A Toolbox of Potential Mobility Options](https://anaheim.net/5368/)
+
+
+### Contact Us
+  1. ### Planning & Building
+**_Building Division_ **  
+(714) 765-5153  
+ _**Business License**_  
+(714) 765-5194  
+ _**Code Enforcement**_  
+(714) 765-5158  
+ _**Planning Services**_  
+(714)765-5139
+### City Hall
+200 S. Anaheim Boulevard  
+1st Floor  
+Anaheim, CA 92805
+### Hours
+_Counter Hours_
+Building Services   
+Monday, Tuesday, Wednesday, Friday  
+8 a.m. - 4 p.m.  
+Thursday  
+Delayed opening 9 a.m. - 4 p.m.
+Business License   
+Monday-Friday  
+8 a.m. - 4 p.m.
+Planning Services  
+Monday-Friday  
+8 a.m. - 5 p.m.
+_Phone Hours_  
+Monday-Friday  
+8 a.m.-5 p.m.  
+[Directory](https://www.anaheim.net/Directory.aspx?DID=80)
+
+
+  1. [Zoning](http://anaheim.net/691/Planning-Zoning) [](https://www.anaheim.net/4544/The-Anaheim-Resort)
+    1. [Zoning Code](https://codelibrary.amlegal.com/codes/anaheim/latest/anaheim_ca/0-0-0-65497)
+    2. [Zoning Look-up](https://gis.anaheim.net/portal/apps/experiencebuilder/experience/?id=d4deefb190eb407dacf7f84680c8ea21)
+    3. [Zoning Map](https://www.anaheim.net/DocumentCenter/Home/View/1871)
+    4. [Guidelines](https://www.anaheim.net/691/) [](https://www.anaheim.net/4544/The-Anaheim-Resort)
+      1. [Colony Design Guidelines](https://www.anaheim.net/DocumentCenter/Home/View/1865)
+      2. [Small-Lot Guidelines](https://www.anaheim.net/DocumentCenter/Home/View/1870)
+      3. [Downtown Guide to Development](https://www.anaheim.net/4620/Downtown-Guide-to-Development)
+    5. [Records Request](https://www.anaheim.net/DocumentCenter/View/1869/)
+    6. [Administrative Permit Log](https://www.anaheim.net/999/Administrative-Permit-Log)
+    7. [Zoning Verification Letter](https://www.anaheim.net/2954/Zoning-Verification-Letter)
+    8. [Planning Standard Details](https://www.anaheim.net/6770/Planning-Standard-Details)
+  2. [Forms & Applications](https://www.anaheim.net/879/Forms-Applications) [](https://www.anaheim.net/4544/The-Anaheim-Resort)
+    1. [Discretionary Permits - Application Submittal Instructions](https://www.anaheim.net/5755/Discretionary-Permit-Applications)
+    2. [Administrative Permits - Application Submittal Instructions](https://www.anaheim.net/5756/Administrative-Permit-Applications)
+  3. [Fees](http://anaheim.net/DocumentCenter/View/22436/Fee-Schedule?bidId=) [](https://www.anaheim.net/4544/The-Anaheim-Resort)
+    1. [Planning Services Fees - Currently in Effect](https://www.anaheim.net/DocumentCenter/View/22436/New-Fee-Schedule)
+    2. [Fee Deferral Program](https://www.anaheim.net/4796/Business-Assistance-Program)
+    3. [CA Disability Access and Education Fund Fee](https://www.anaheim.net/5201/CA-Disability-Access-and-Education-Fund-)
+  4. [Visualizing the Code](https://www.anaheim.net/1098/Visualizing-the-Code)
+  5. [Quick Reference Handouts](https://www.anaheim.net/1101/Quick-Reference-Handouts)
+  6. [Planning Commission](https://www.anaheim.net/2229/Planning-Commission) [](https://www.anaheim.net/4544/The-Anaheim-Resort)
+    1. [Planning Commission Homepage](https://anaheim.net/2229/Planning-Commission)
+    2. [Public Participation at a Planning Commission Meeting](https://www.anaheim.net/6259/Public-Participation-at-a-Planning-Commi)
+  7. [General Plan](https://www.anaheim.net/712/General-Plan) [](https://www.anaheim.net/4544/The-Anaheim-Resort)
+    1. [General Plan](https://www.anaheim.net/712/General-Plan)
+    2. [General Plan Update](https://www.anaheim.net/5847/General-Plan-Update) [](https://www.anaheim.net/4544/The-Anaheim-Resort)
+      1. [General Plan Update](https://www.anaheim.net/5847/General-Plan-Update)
+      2. [2021-2029 Housing Element Update](https://www.anaheim.net/5848/2021-2029-Housing-Element-Update) [](https://www.anaheim.net/4544/The-Anaheim-Resort)
+        1. [Housing Element Update](https://www.anaheim.net/5848/2021-2029-Housing-Element-Update)
+        2. [2021-2029 Final Housing Element](https://www.anaheim.net/6700/2021-2029-Final-Housing-Element)
+        3. [2021-2029 Draft Housing Element](https://www.anaheim.net/5998/2021-2029-Draft-Housing-Element)
+        4. [Housing Element Sites (2021-2029)](https://www.anaheim.net/6701/Housing-Element-Sites-2021-2029)
+        5. [Project Documents](https://www.anaheim.net/6704/Project-Documents)
+      3. [Circulation Element Update](https://www.anaheim.net/6044/Circulation-Element-Update) [](https://www.anaheim.net/4544/The-Anaheim-Resort)
+        1. [Circulation Element Update](https://www.anaheim.net/6044/Circulation-Element-Update)
+        2. [Frequently Asked Questions (F.A.Q.)](https://www.anaheim.net/6073/Frequently-Asked-Questions-FAQ)
+        3. [Project Documents](https://www.anaheim.net/6075/Project-Documents)
+        4. [Additional Resources](https://www.anaheim.net/6078/Additional-Resources)
+      4. [Environmental Justice Element](https://www.anaheim.net/6079/Environmental-Justice-Element)
+      5. [Safety Element Update](https://www.anaheim.net/6124/Safety-Element-Update) [](https://www.anaheim.net/4544/The-Anaheim-Resort)
+        1. [Hazard Mitigation Plan Update](https://anaheim.net/6102/Be-Ready-Anaheim-A-Hazard-Mitigation-Pla)
+      6. [General Plan Update PEIR](https://www.anaheim.net/6093/General-Plan-Update-PEIR) [](https://www.anaheim.net/4544/The-Anaheim-Resort)
+        1. [NOP and Scoping Meeting](https://www.anaheim.net/6103/NOP-and-Scoping-Meeting)
+    3. [Environmental Impact Reports](https://www.anaheim.net/913/Environmental-Impact-Reports) [](https://www.anaheim.net/4544/The-Anaheim-Resort)
+      1. [EIR No. 330](https://www.anaheim.net/932/EIR-No-330)
+      2. [EIR No. 332](https://www.anaheim.net/1074/EIR-No-332)
+      3. [EIR No. 339](https://www.anaheim.net/1075/EIR-No-339)
+      4. [EIR No. 346](https://www.anaheim.net/912/EIR-No-346)
+      5. [EIR No. 356](https://www.anaheim.net/6093/)
+    4. [ Bicycle Master Plan](https://www.anaheim.net/3398/Bicycle-Master-Plan)
+  8. [Specific Plans](https://www.anaheim.net/1004/Specific-Plans) [](https://www.anaheim.net/4544/The-Anaheim-Resort)
+    1. [Anaheim Hills Festival](https://www.anaheim.net/1060/Anaheim-Hills-Festival)
+    2. [Anaheim Canyon](https://www.anaheim.net/1073/Anaheim-Canyon)
+    3. [Anaheim Resort Specific Plan](https://www.anaheim.net/1009/Anaheim-Resort-Specific-Plan)
+    4. [Beach Boulevard](https://www.anaheim.net/1080/Beach-Boulevard) [](https://www.anaheim.net/4544/The-Anaheim-Resort)
+      1. [Community Advisory Committee](https://www.anaheim.net/2821/Community-Advisory-Committee)
+      2. [Project Information](https://www.anaheim.net/2860/Project-Information)
+      3. [Community Workshops](https://www.anaheim.net/2906/Community-Workshops)
+    5. [Disneyland Resort Specific Plan](https://www.anaheim.net/1017/Disneyland-Resort-Specific-Plan)
+    6. [East Center Street](https://www.anaheim.net/1037/East-Center-Street)
+    7. [Highlands](https://www.anaheim.net/1061/Highlands)
+    8. [Hotel Circle](https://www.anaheim.net/1038/Hotel-Circle)
+    9. [Mountain Park](https://www.anaheim.net/1040/Mountain-Park)
+    10. [Northeast Area](https://www.anaheim.net/1042/Northeast-Area)
+    11. [PacifiCenter](https://www.anaheim.net/1052/PacifiCenter)
+    12. [Summit of Anaheim Hills](https://www.anaheim.net/1058/Summit-of-Anaheim-Hills)
+    13. [Sycamore Canyon](https://www.anaheim.net/1059/Sycamore-Canyon)
+  9. [The Anaheim Resort](https://www.anaheim.net/4544/The-Anaheim-Resort) [](https://www.anaheim.net/4544/The-Anaheim-Resort)
+    1. [Anaheim Resort Specific Plan](https://www.anaheim.net/1009/Anaheim-Resort)
+    2. [Disneyland Resort Specific Plan](https://www.anaheim.net/1017/Disneyland-Resort)
+    3. [Hotel Circle Specific Plan](https://www.anaheim.net/1038/Hotel-Circle)
+  10. [Anaheim Canyon](https://www.anaheim.net/1073/Anaheim-Canyon)
+  11. [Beach Boulevard](https://anaheim.net/1080/Beach-Boulevard)
+  12. [Platinum Triangle](https://www.anaheim.net/1072/Platinum-Triangle)
+  13. [Environmental Documents](https://www.anaheim.net/876/Environmental-Documents)
+  14. [Flood Zones](https://www.anaheim.net/877/Flood-Zones) [](https://www.anaheim.net/4544/The-Anaheim-Resort)
+    1. [Elevation Certificate](https://www.anaheim.net/878/Elevation-Certificate)
+    2. [Letter of Map Change](https://www.anaheim.net/878/)
+  15. [Property Info](https://www.anaheim.net/1002/Property-Info)
+  16. [Development Activity](https://www.anaheim.net/3348/Development-Activity)
+  17. [Affordable Housing](https://www.anaheim.net/5190/Affordable-Housing)
+  18. [Open Data Portal](https://main-anaheim.opendata.arcgis.com/)
+  19. [SALT Development: Deer Canyon Preserve, Builder's Remedy Project Proposal](https://www.anaheim.net/6362/SALT-Development-Deer-Canyon-Preserve-Bu)
+  20. [Anaheim Hills Festival Center](https://www.anaheim.net/6474/Anaheim-Hills-Festival-Center)
+
+
+  1. ![Anaheim](https://www.anaheim.net/ImageRepository/Document?documentId=41696)
+  
+
+
+
+### Contact Us
+  1. City of Anaheim  
+200 S. Anaheim Blvd.  
+Anaheim, CA 92805  
+([714) 765-4311](tel:714-765-4311)  
+[Dial 311](tel:%20311)
+
+
+### [Helpful Links](https://www.anaheim.net/QuickLinks.aspx?CID=374)
+  1. [City Council Video](https://www.anaheim.net/2142/Council-Meeting-Video)
+  2. [FY 2025/26 Adopted Budget](https://anaheim.net/Archive.aspx?AMID=38&Type=Recent)
+  3. [News and Media Center](https://www.anaheim.net/1737/News-Media-Center)
+  4. [Anaheim Newsletter](https://www.anaheim.net/1725/Anaheim-Newsletter)
+  5. [Visit Anaheim](http://visitanaheim.org/)
+  6. [Boards & Commissions](https://www.anaheim.net/176/Boards-Commissions)
+
+
+/QuickLinks.aspx
+### [Quick Links](https://www.anaheim.net/QuickLinks.aspx?CID=242)
+  1. [Contact Us](https://www.anaheim.net/directory.aspx)
+  2. [Home](https://www.anaheim.net/)
+  3. [Site Map](https://www.anaheim.net/sitemap)
+  4. [Accessibility](https://www.anaheim.net/Accessibility)
+  5. [Disability & Civil Rights Program ](https://www.anaheim.net/1740/Disability-Civil-Rights-Program)
+  6. [Copyright Notices](https://www.anaheim.net/site/copyright)
+
+
+/QuickLinks.aspx
+Government Websites by [CivicPlus®](https://connect.civicplus.com/referral)
+## Loading
+Loading 
+Do Not Show Again Close
+Select Language Abkhaz Acehnese Acholi Afar Afrikaans Albanian Alur Amharic Arabic Armenian Assamese Avar Awadhi Aymara Azerbaijani Balinese Baluchi Bambara Baoulé Bashkir Basque Batak Karo Batak Simalungun Batak Toba Belarusian Bemba Bengali Betawi Bhojpuri Bikol Bosnian Breton Bulgarian Buryat Cantonese Catalan Cebuano Chamorro Chechen Chichewa Chinese (Simplified) Chinese (Traditional) Chuukese Chuvash Corsican Crimean Tatar (Cyrillic) Crimean Tatar (Latin) Croatian Czech Danish Dari Dhivehi Dinka Dogri Dombe Dutch Dyula Dzongkha Esperanto Estonian Ewe Faroese Fijian Filipino Finnish Fon French French (Canada) Frisian Friulian Fulani Ga Galician Georgian German Greek Guarani Gujarati Haitian Creole Hakha Chin Hausa Hawaiian Hebrew Hiligaynon Hindi Hmong Hungarian Hunsrik Iban Icelandic Igbo Ilocano Indonesian Inuktut (Latin) Inuktut (Syllabics) Irish Italian Jamaican Patois Japanese Javanese Jingpo Kalaallisut Kannada Kanuri Kapampangan Kazakh Khasi Khmer Kiga Kikongo Kinyarwanda Kituba Kokborok Komi Konkani Korean Krio Kurdish (Kurmanji) Kurdish (Sorani) Kyrgyz Lao Latgalian Latin Latvian Ligurian Limburgish Lingala Lithuanian Lombard Luganda Luo Luxembourgish Macedonian Madurese Maithili Makassar Malagasy Malay Malay (Jawi) Malayalam Maltese Mam Manx Maori Marathi Marshallese Marwadi Mauritian Creole Meadow Mari Meiteilon (Manipuri) Minang Mizo Mongolian Myanmar (Burmese) Nahuatl (Eastern Huasteca) Ndau Ndebele (South) Nepalbhasa (Newari) Nepali NKo Norwegian Nuer Occitan Odia (Oriya) Oromo Ossetian Pangasinan Papiamento Pashto Persian Polish Portuguese (Brazil) Portuguese (Portugal) Punjabi (Gurmukhi) Punjabi (Shahmukhi) Quechua Qʼeqchiʼ Romani Romanian Rundi Russian Sami (North) Samoan Sango Sanskrit Santali (Latin) Santali (Ol Chiki) Scots Gaelic Sepedi Serbian Sesotho Seychellois Creole Shan Shona Sicilian Silesian Sindhi Sinhala Slovak Slovenian Somali Spanish Sundanese Susu Swahili Swati Swedish Tahitian Tajik Tamazight Tamazight (Tifinagh) Tamil Tatar Telugu Tetum Thai Tibetan Tigrinya Tiv Tok Pisin Tongan Tshiluba Tsonga Tswana Tulu Tumbuka Turkish Turkmen Tuvan Twi Udmurt Ukrainian Urdu Uyghur Uzbek Venda Venetian Vietnamese Waray Welsh Wolof Xhosa Yakut Yiddish Yoruba Yucatec Maya Zapotec Zulu
+Powered by [![Google Translate](https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png)Translate](https://translate.google.com)
+Arrow Left Arrow Right
+Slideshow Left Arrow Slideshow Right Arrow
+![](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
+Original text
+Rate this translation
+Your feedback will be used to help improve Google Translate
+Close **×**
