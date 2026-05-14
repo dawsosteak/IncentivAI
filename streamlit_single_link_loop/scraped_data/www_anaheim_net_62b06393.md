@@ -55,7 +55,7 @@ Phone: 714-765-4000
 
 
 
-![Chief Russell 2020 pic](https://www.anaheim.net/ImageRepository/Document?documentID=30969)
+![Chief Russell](https://www.anaheim.net/ImageRepository/Document?documentID=70852)
 Pat Russell  
 Email  
 Fire Chief

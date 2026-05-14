@@ -1862,3 +1862,23 @@
 ## Utility Information
 - **Utility Company Name:** Anaheim Public Utilities
 - **Utility Company Size:** Not specified
+
+
+--- SOURCE: www_anaheim_net_4397c91d.md ---
+
+# Program Name:Dusk-to-Dawn Lighting
+
+#Program URL: https://www.anaheim.net/2628/Dusk-to-Dawn-Lighting
+
+## Program Details
+- **Concrete Rebate Amounts:**
+- Up to 10 dusk-to-dawn lights
+
+## Eligibility
+- **Eligibility Requirements:**
+- Business properties/buildings and parking areas
+- Offered through the City of Anaheim for businesses
+
+## Utility Information
+- **Utility Company Name:** Anaheim Public Utilities
+- **Utility Company Size:** Not specified

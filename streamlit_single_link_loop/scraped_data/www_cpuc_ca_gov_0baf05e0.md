@@ -1,0 +1,71 @@
+--- SOURCE: https://www.cpuc.ca.gov/news-and-updates/newsroom/glossary/q ---
+
+[Skip to Main Content](https://www.cpuc.ca.gov/news-and-updates/newsroom/glossary/q#main-content)
+[ CA.gov ](http://www.ca.gov)
+[Share via Facebook](https://www.cpuc.ca.gov/news-and-updates/newsroom/glossary/q) [Share via Twitter](https://www.cpuc.ca.gov/news-and-updates/newsroom/glossary/q) [Share via LinkedIn](https://www.cpuc.ca.gov/news-and-updates/newsroom/glossary/q) Share via Email
+[Contact Us](https://www.cpuc.ca.gov/about-cpuc/contacting-the-puc) Translate Settings
+Default
+High Contrast
+Reset
+Increase Font Size Increase  Font Size 
+Decrease Font Size Decrease  Font Size 
+Translate this website:  
+
+[ ![California Public Utilities Commission](https://www.cpuc.ca.gov/assets/img/cpuc/cpuc-logo-md.png) California Public Utilities Commission ](https://www.cpuc.ca.gov/)
+Site Search
+Clear
+SearchLoading
+  1. [Home](https://www.cpuc.ca.gov/)
+  2. [News and Updates](https://www.cpuc.ca.gov/news-and-updates)
+  3. [Newsroom](https://www.cpuc.ca.gov/news-and-updates/newsroom)
+  4. [Glossary of Acronyms and Other Frequently Used Terms](https://www.cpuc.ca.gov/news-and-updates/newsroom/glossary)
+  5. [Q](https://www.cpuc.ca.gov/news-and-updates/newsroom/glossary/q)
+
+
+#  Q
+**QF – Qualifying Facility:** A cogeneration facility or small power production plant that can sell its electricity to public utilities.
+**Quantity Rates:** Rates that apply to the use of the commodity, such as water, and area based on the cost of the commodity and other operating costs.
+**Queue:** A temporary delay in providing service caused by the inability of the system, or call center, to handle the number of messages or calls attempted.
+**Quorum:** A majority of the PUC Commissioners 
+##  How can we help?
+Emergency? **Call 911**  
+
+[File a Complaint](https://www.cpuc.ca.gov/consumer-support/file-a-complaint)
+[Late Bill Assistance](https://www.cpuc.ca.gov/consumer-support/late-bill-assistance)
+[Power Outage Map](https://www.cpuc.ca.gov/consumer-support/power-outage-maps)
+[Are you in a high fire-threat area?](https://ia.cpuc.ca.gov/firemap/)
+[Financial Assistance](https://www.cpuc.ca.gov/consumer-support/financial-assistance-savings-and-discounts)
+[Consumer Programs and Services](https://www.cpuc.ca.gov/consumer-support/consumer-programs-and-services)
+[Electric Rate Comparison Website](https://www.cpuc.ca.gov/about-cpuc/divisions/news-and-public-information-office/public-advisors-office/consumer-choices-in-california)
+Website Feedback
+##  More Information
+[Consumer Support](https://www.cpuc.ca.gov/consumer-support)
+[Regulatory Services](https://www.cpuc.ca.gov/regulatory-services)
+[Industries and Topics](https://www.cpuc.ca.gov/industries-and-topics)
+[News and Updates](https://www.cpuc.ca.gov/news-and-updates)
+[Events and Meetings](https://www.cpuc.ca.gov/events-and-meetings)
+[Proceedings and Rulemaking](https://www.cpuc.ca.gov/proceedings-and-rulemaking)
+[Public Advocates Office](https://www.publicadvocates.cpuc.ca.gov/)
+[Office of the Tribal Advisor](https://www.cpuc.ca.gov/about-cpuc/divisions/office-of-the-tribal-advisor)
+[About CPUC](https://www.cpuc.ca.gov/about-cpuc)
+[Careers](https://www.cpuc.ca.gov/careers)
+##  California State Campaigns
+[Register to Vote](https://registertovote.ca.gov/)
+[Save our Water](https://saveourwater.com/)
+[Flex Alert](https://www.flexalert.org/)
+  * [Back to Top](https://www.cpuc.ca.gov/news-and-updates/newsroom/glossary/q#skip-to-content)
+  * [Conditions of Use](https://www.cpuc.ca.gov/about-cpuc/conditions-of-use)
+  * [Privacy Policy](https://www.cpuc.ca.gov/about-cpuc/privacy-policy)
+  * [Accessibility](https://www.cpuc.ca.gov/about-cpuc/accessibility)
+  * [Contact us](https://www.cpuc.ca.gov/about-cpuc/contacting-the-puc)
+  * [Employees](https://www.cpuc.ca.gov/about-cpuc/employee-information)
+
+
+  * [ X ](https://x.com/californiapuc)
+  * [ Facebook ](https://www.facebook.com/CaliforniaPUC)
+  * [ Instagram ](https://www.instagram.com/californiapuc)
+  * [ YouTube ](https://www.youtube.com/user/CaliforniaPUC)
+  * [ Linked In ](https://www.linkedin.com/company/californiapuc)
+
+
+Copyright © 2026 State of California 

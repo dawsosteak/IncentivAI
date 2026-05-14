@@ -42,25 +42,24 @@ Provides development-related services for private sector development and develop
 
 
 ## Subdivision
-  
-Tract/Parcel Maps [](https://gis.anaheim.net/BenchmarkViewer/)  
-[](https://gis.anaheim.net/BenchmarkViewer/)
-  * [City Benchmarks](https://gis.anaheim.net/portal/apps/webappviewer/index.html?id=e1e1ec14535146f692dfe832391c92ec) [](https://www.anaheim.net/519/Final-Tract-Map-Final-Parcel-Map-Procedu)
-  * [Final Tract Map and Final Parcel Map Procedures](https://www.anaheim.net/519/Final-Tract-Map-Final-Parcel-Map-Procedu) [](https://www.anaheim.net/DocumentCenter/View/13279)
+### Tract/Parcel Maps 
+  * [City Benchmarks](https://gis.anaheim.net/portal/apps/webappviewer/index.html?id=e1e1ec14535146f692dfe832391c92ec)
+  * [Final Tract Map and Final Parcel Map Procedures](https://www.anaheim.net/519/Final-Tract-Map-Final-Parcel-Map-Procedu)
   * [Anaheim Map Checklist](https://www.anaheim.net/DocumentCenter/View/13279)
 
 
-Certificate of Compliance (COC)
+### Certificate of Compliance (COC)
   * [Procedures](https://www.anaheim.net/DocumentCenter/View/67475/COC-Procedures)
   * [Application](https://www.anaheim.net/DocumentCenter/View/67472/COC-Application)
   * [Exhibits](https://www.anaheim.net/DocumentCenter/View/67474/COC-Exhibits)
   * [Checklist](https://www.anaheim.net/DocumentCenter/View/67473/COC-Checklist)
 
 
-Lot Line Adjustment (LLA)
+### Lot Line Adjustment (LLA)
   * [Procedures](https://www.anaheim.net/DocumentCenter/View/67478/LLA-Procedures)
   * [Exhibits](https://www.anaheim.net/DocumentCenter/View/67477/LLA-Exhibits)
   * [Checklist](https://www.anaheim.net/DocumentCenter/View/67476/LLA-Checklist)
+  * [Sample Conformance Grant Deed](https://www.anaheim.net/DocumentCenter/View/70845/Sample-Conformance-Grant-Deed)
 
 
 ## Applications
@@ -80,7 +79,7 @@ Lot Line Adjustment (LLA)
 
 
 ## Surface Water Quality
-### Water Quality Management Plan
+### Water Quality Management Plan 
   * [Preliminary and Final WQMP Review Checklist](https://www.anaheim.net/DocumentCenter/View/58421/Preliminary-and-Final-WQMP-Review-Checklist---City-of-Anaheim-2025)
   * [WQMP Template](https://www.anaheim.net/DocumentCenter/View/58557/WQMP-Template---City-of-Anaheim)
   * [BMP Design Guidelines](https://www.anaheim.net/DocumentCenter/View/58555/BMP-Design-Guidelines---City-of-Anaheim-2025)
@@ -127,7 +126,7 @@ Lot Line Adjustment (LLA)
 
 ## Fats, Oils & Grease Program 
 The City of Anaheim maintains the public sewer collection system serving Anaheim residents, restaurants and other businesses. The City is required under state law to implement a comprehensive fats, oils and grease (FOG) control program to prevent the discharge of FOG into the sewer system in order to reduce the potential of FOG related sewage spills. You can help protect the environment by keeping FOG out of your sinks and drains and by following the guidance below.
-Forms and Applications
+### Forms and Applications
   * [FOG Plan Review Process](https://www.anaheim.net/DocumentCenter/View/64082/Att-6---FOG-Plan-Review-Process-2025-03-18-Public)
   * [Variance Review Process Flow Chart](https://www.anaheim.net/DocumentCenter/View/66356/FOG-Variance-Review-Processes-2025-08-01-Web-Version)
   * [Variance Request Form](https://www.anaheim.net/DocumentCenter/View/64084/Att-8---FSE-Conditional-Variance-Form-2025-01-21-Public)
@@ -136,21 +135,21 @@ Forms and Applications
   * [Plan Check Requirements and Service](https://anaheim.net/5252/Building-Division)
 
 
-Education and Guidance:
+### Education and Guidance: 
   * [FOG FAQ](https://www.anaheim.net/DocumentCenter/View/64254/Att-1---FOG-FAQ-DRAFT-2025-04-30)
-  * FOG Log Sheets: [Training,](https://www.anaheim.net/DocumentCenter/View/64076/Att-2a---Log-Sheet---Employee-BMP-Training) [Interceptor](https://www.anaheim.net/DocumentCenter/View/64077/Att-2b---Log-Sheet---Interceptor-Trap-Maintenance), [Recycling,](https://www.anaheim.net/DocumentCenter/View/64078/Att-2c---Log-Sheet---Waste-Oil) [Lateral](https://www.anaheim.net/DocumentCenter/View/64079/Att-2d---Log-Sheet---Lateral-Maintenance)
+  * FOG Log Sheets: [Training,](https://www.anaheim.net/DocumentCenter/View/64076/Att-2a---Log-Sheet---Employee-BMP-Training)[Interceptor](https://www.anaheim.net/DocumentCenter/View/64077/Att-2b---Log-Sheet---Interceptor-Trap-Maintenance), [Recycling,](https://www.anaheim.net/DocumentCenter/View/64078/Att-2c---Log-Sheet---Waste-Oil)[Lateral](https://www.anaheim.net/DocumentCenter/View/64079/Att-2d---Log-Sheet---Lateral-Maintenance)
   * [Kitchen BMPs ](https://www.anaheim.net/DocumentCenter/View/64080/Att-3---BMP-Materials)
   * [Gravity Grease Interceptor Configuration](https://www.anaheim.net/DocumentCenter/View/64081/Att-5---GGI-Diagram)
 
 
-Regulations:
+### Regulations: 
   * [Anaheim FOG Code (Section 10.08.100) ](https://codelibrary.amlegal.com/codes/anaheim/latest/anaheim_ca/0-0-0-59562)
   * [Anaheim FOG Source Control Rules and Regulations (Document dated “Effective February 9, 2005” remains valid through 2030 or until new version adopted)](https://www.anaheim.net/DocumentCenter/View/64087/Att-11---Anaheim-FOG-Rules-and-Regulations)
 
 
 For additional information on the City’s FOG Program, contact the FOG Source Control Program Manager at:
 714-765-4141 or klinker@anaheim.net. 
-Additional Information: 
+###  Additional Information:
   1. Visit [OCSAN](https://www.ocsan.gov/ocsan-permits/businessfog/)
 
 

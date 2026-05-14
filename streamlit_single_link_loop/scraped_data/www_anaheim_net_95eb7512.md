@@ -33,14 +33,14 @@ Loading
 
 #  Summer Reading Program 
 ![Summer Reading Banner](https://www.anaheim.net/ImageRepository/Document?documentId=70826)
-  1. [Program Information](https://www.anaheim.net/4747/Summer-Reading-Fun#tab7beb6069-3bd2-4a90-8062-3b2abb20b154_0)
-  2. [Special Events](https://www.anaheim.net/4747/Summer-Reading-Fun#tab7beb6069-3bd2-4a90-8062-3b2abb20b154_1)
-  3. [Children & Family Programs](https://www.anaheim.net/4747/Summer-Reading-Fun#tab7beb6069-3bd2-4a90-8062-3b2abb20b154_2)
-  4. [Teen & Adult Programs](https://www.anaheim.net/4747/Summer-Reading-Fun#tab7beb6069-3bd2-4a90-8062-3b2abb20b154_3)
-  5. [Importance of Summer Reading](https://www.anaheim.net/4747/Summer-Reading-Fun#tab7beb6069-3bd2-4a90-8062-3b2abb20b154_4)
+  1. [Program Information](https://www.anaheim.net/4747/Summer-Reading-Fun#tab0a45d4cf-f13c-473a-a7da-49f14c7bc28f_0)
+  2. [Special Events](https://www.anaheim.net/4747/Summer-Reading-Fun#tab0a45d4cf-f13c-473a-a7da-49f14c7bc28f_1)
+  3. [Children & Family Programs](https://www.anaheim.net/4747/Summer-Reading-Fun#tab0a45d4cf-f13c-473a-a7da-49f14c7bc28f_2)
+  4. [Teen & Adult Programs](https://www.anaheim.net/4747/Summer-Reading-Fun#tab0a45d4cf-f13c-473a-a7da-49f14c7bc28f_3)
+  5. [Importance of Summer Reading](https://www.anaheim.net/4747/Summer-Reading-Fun#tab0a45d4cf-f13c-473a-a7da-49f14c7bc28f_4)
 
 
-  1. [Program Information](https://www.anaheim.net/4747/Summer-Reading-Fun#tab7beb6069-3bd2-4a90-8062-3b2abb20b154_0)
+  1. [Program Information](https://www.anaheim.net/4747/Summer-Reading-Fun#tab0a45d4cf-f13c-473a-a7da-49f14c7bc28f_0)
 
 
 # Plant a Seed, Read! 
@@ -60,8 +60,8 @@ Earn prizes and attend exciting programs while engaging with your community.
 From neighborhood clean-ups to ocean conservation, learn what you can do to make a difference.
 ### **[  
 ](https://www.instagram.com/p/DKaFaKOt8_d/)**
-Log your reading on Beanstack at [anaheim.beanstack.com](https://anaheim.beanstack.com/reader365)!
-  1. [Special Events](https://www.anaheim.net/4747/Summer-Reading-Fun#tab7beb6069-3bd2-4a90-8062-3b2abb20b154_1)
+[Log your reading on Beanstack](https://anaheim.beanstack.com/reader365)!
+  1. [Special Events](https://www.anaheim.net/4747/Summer-Reading-Fun#tab0a45d4cf-f13c-473a-a7da-49f14c7bc28f_1)
 
 
 # ![Angels Baseball](https://www.anaheim.net/ImageRepository/Document?documentId=70823)
@@ -96,7 +96,7 @@ Log your reading on Beanstack at [anaheim.beanstack.com](https://anaheim.beansta
   * Saturday, August 29 at Central Library, 10 a.m. - 1:30 p.m.
 
 
-  1. [Children & Family Programs](https://www.anaheim.net/4747/Summer-Reading-Fun#tab7beb6069-3bd2-4a90-8062-3b2abb20b154_2)
+  1. [Children & Family Programs](https://www.anaheim.net/4747/Summer-Reading-Fun#tab0a45d4cf-f13c-473a-a7da-49f14c7bc28f_2)
 
 
   * **Summer Reads Book Tasting**  
@@ -111,31 +111,39 @@ Saturday, June 6, 12 p.m. - 2 p.m. at Canyon Hills Branch
 Wednesday, June 10, 11 a.m. - 12 p.m. at Haskett Branch
   * **Summer Reading Kickoff with Grumpy Monkey Author Suzanne Lang**   
 Saturday, June 13, 1 p.m. - 3 p.m. at Canyon Hills Branch
+  * **Summer Reading Kickoff - Billy Bonkers Magic Show!**  
+Saturday, June 13, 2 p.m. - 3 p.m. at Central Library
   * **Dino Chase Through Space Puppet and Magic Show with Hey Hey Entertainment**   
-Wednesday, June 17, 2 p.m. - 3 p.m.
+Wednesday, June 17, 2 p.m. - 3 p.m. at Canyon Hill Branch
   * **Bubblepalooza**   
 Saturday, June 20, 1 p.m. - 2:30 p.m. at East Anaheim Branch
+  * **Paint and Plant**  
+Wednesday, June 24, 1 p.m. - 2 p.m. at East Anaheim Branch
   * **STEAM Storytime and Clog Buster Activity with Orange County Sanitation District**   
 Thursday, June 25, 11 a.m. - 12 p.m. at Canyon Hills Branch
   * **Big Vehicle Petting Zoo**  
 Thursday, June 25, 11 a.m. - 1 p.m. at Central Library
-  * **Paint and Plant**  
-Wednesday, June 24, 1 p.m. - 2 p.m. at East Anaheim Branch
   * **Careers in Wastewater Tweens and Teens Program with Orange County Sanitation District**   
 Thursday, June 25, 1 p.m. - 2 p.m. at Canyon Hills Branch
   * **Rally Readers with Angels Baseball and Chik-fil-A**  
 Friday, June 26, 11 a.m. - 12 p.m. at Canyon Hills Branch
   * **Fancy Nancy's Teddy Bear Birthday Bash with Illustrator Robin Preiss Glasser**  
 Saturday, June 27, 11 a.m. - 1 p.m. at Canyon Hills Branch
+  * **Mad Science STEM**  
+Saturday, June 27, 2 p.m. - 3 p.m. at Central Library
   * **Rubber Ducky Foam party with Full Spectrum Entertainment**  
 Tuesday, June 30, 11 a.m. - 1 p.m. at Canyon Hills Branch
   * **"EyeVentures" - The Optical Illusion Show (All Ages)**  
 Thursday, July 9, 1 p.m. - 2 p.m. at Canyon Hills Branch
+  * **Pokémon Party**  
+Saturday, July 11, 10 a.m. at Central Library
   * **Found Object Juggling and Comedy Show with Michael Rayner**  
 Saturday, July 11, 2 p.m. - 3 p.m. at Canyon Hills Branch
   * **Special Music and Puppet Storytime with Ranger Jack**  
 Tuesday, July 14, 11 a.m. - 12 p.m. at Canyon Hills Branch
   * **Directed Drawing with Kyle Tiernan** Wednesday, July 15, 11 a.m. - 12 p.m. at East Anaheim Branch
+  * **Stay & Play Foam Party**  
+Friday, July 17, 11 a.m. - 1 p.m. at Central Library
   * **Big Vehicle Petting Zoo**  
 Saturday, July 18, 1 p.m. - 4 p.m. at Sunkist Branch's STEAM Faire
   * **Billy Bonkers Magic Show**  
@@ -150,17 +158,20 @@ Wednesday, July 22, 2 p.m. - 3 p.m. at Canyon Hills Branch
 Friday, July 24, 12 p.m. - 1 p.m. at Canyon Hills Branch
   * **Hot Wheels Race Day**   
 Saturday, July 25, 1 p.m. - 2:30 p.m. at East Anaheim Branch
+  * **Wild Wonders Animal Show**  
+Saturday, July 25, 2 p.m. - 3 p.m. at Central Library
   * **Save the Ocean with Aquarium of the Pacific and Percy Jackson**  
 Saturday, August 1, 11 a.m. - 2:30 p.m. at Canyon Hills Branch
   * **Don't Drop Trash Where We Splash with Aquarium of the Pacific**  
 Saturday, August 15, 11 a.m. - 2:30 p.m. at Sunkist Branch
   * **Don't Drop Trash Where We Splash with Aquarium of the Pacific**  
-Saturday, August 29, 10 a.m. - 1:30 p.m. at Central Library
+Saturday, August 29, 10 a.m. - 1:30 p.m. at Central Library (_Reservation R_ _equired)_
+  * **California Joe - National Parks Magic Show** Saturday, September 19, 2 p.m. - 3 p.m. at Central Library
 
 
   
 
-  1. [Teen & Adult Programs](https://www.anaheim.net/4747/Summer-Reading-Fun#tab7beb6069-3bd2-4a90-8062-3b2abb20b154_3)
+  1. [Teen & Adult Programs](https://www.anaheim.net/4747/Summer-Reading-Fun#tab0a45d4cf-f13c-473a-a7da-49f14c7bc28f_3)
 
 
   * ****Summer Reads Book Tasting**  
@@ -191,13 +202,13 @@ Friday, July 24, 1 p.m. - 2 p.m. at Canyon Hills Branch
 
   
 
-  1. [Importance of Summer Reading](https://www.anaheim.net/4747/Summer-Reading-Fun#tab7beb6069-3bd2-4a90-8062-3b2abb20b154_4)
+  1. [Importance of Summer Reading](https://www.anaheim.net/4747/Summer-Reading-Fun#tab0a45d4cf-f13c-473a-a7da-49f14c7bc28f_4)
 
 
 ## Importance of Summer Reading
 As the summer months are approaching, you may hear the term “summer slide” start to make its way into conversations but what is that? Young people experience learning losses when they don’t engage in educational activities during the summer. Research spanning 100 years shows that students typically score lower on standardized tests at the end of summer vacation than they do on the same tests at the beginning of the summer. Typically, a child may lose up to three months of reading progress, leading to subpar reading levels by the beginning of the next school year.
 Preventing the effects of summer slide is simple – Read! Children and young adults need ongoing opportunities to learn and practice essential skills. Summer Reading reminds kids that reading is for fun. Reading for as little as twenty minutes a day helps to keep children engaged and in a mindset that supports the learning of new information. This can actually lead to an improvement of reading skills, better preparing your child for the upcoming school year. 
-The Anaheim Public Library hosts a _Summer Reading Program_ to help keep kids focused on [engaging activities](http://anaheim.net/calendar.aspx?CID=23,24,38,25,), fun programs, and reading materials. Our selection of[ children’s books](https://www.anaheim.net/4747/Summer-Reading-Fun) can stimulate their growing minds and get them ready to excel in academics.
+The Anaheim Public Library hosts a _Summer Reading Program_ to help keep kids focused on [engaging activities](https://anaheim.libcal.com/), fun programs, and reading materials. Our selection of [children’s books](https://www.anaheim.net/4747/Summer-Reading-Fun) can stimulate their growing minds and get them ready to excel in academics.
 # THANK YOU TO OUR SPONSORS
   
 

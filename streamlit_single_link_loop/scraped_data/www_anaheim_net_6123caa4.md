@@ -21,41 +21,23 @@ Loading
   4. [ I Want To... ](https://www.anaheim.net/1789/I-Want-To)
 
 
-![](https://www.anaheim.net/ImageRepository/Document?documentID=41693)
   1. [Home](https://www.anaheim.net/)
   2. [Departments](https://www.anaheim.net/148/Departments)
   3. [Fire & Rescue](https://www.anaheim.net/6096/Fire-Rescue)
   4. [Divisions](https://www.anaheim.net/655/Divisions)
 
 
-#  [Administration](https://www.anaheim.net/665/Administration)  
-
-Fire Administration provides administrative support to the Fire Chief as well as carries out a variety of other duties outlined in this section.  
-  
-
+# [Administration](https://www.anaheim.net/665/Administration)
+Fire Administration provides administrative support to the Fire Chief as well as carries out a variety of other duties outlined in this section.
 ## Divisions
-  
-  
-
 ### [Financial Services](https://www.anaheim.net/732/Financial-Services)
-  
-The Finance Division of the Anaheim Fire & Rescue provides financial services that support the operating functions of the department.  
-  
-
+The Finance Division of the Anaheim Fire & Rescue provides financial services that support the operating functions of the department.
 ### [Community Risk Reduction](http://www.anaheim.net/699/Community-Risk-Reduction)
-  
 The Community Risk Reduction Division operates under the direction of the Deputy Chief / Fire Marshal, and consists of 4 principle sections outlined in this resource.
-![PRussell](https://www.anaheim.net/ImageRepository/Document?documentID=27776)
-###  Pat Russell  
-
-Email  
-Fire Chief
-[Operations](http://www.anaheim.net/678/Operations)  
-The Operations Division is the largest division in the Anaheim Fire & Rescue focused on the provision of emergency services.  
-  
-[Support Services](http://www.anaheim.net/735/Support-Services)  
-The Support Services Division provides non-emergency support to the Operations Division and emergency management for the city  
-
+### [Operations](http://www.anaheim.net/678/Operations)
+The Operations Division is the largest division in the Anaheim Fire & Rescue focused on the provision of emergency services.
+### [Support Services](http://www.anaheim.net/735/Support-Services)
+The Support Services Division provides non-emergency support to the Operations Division and emergency management for the city
 ### Contact Us
   1. Anaheim West Tower  
 201 S Anaheim Boulevard  
@@ -68,6 +50,10 @@ Phone: 714-765-4000
 
 
 
+![Chief Russell](https://www.anaheim.net/ImageRepository/Document?documentId=70852)
+### Pat Russell
+Email  
+Fire Chief
 [![Anaheim Fire Patch Logo 275px](https://www.anaheim.net/ImageRepository/Document?documentID=44704)](https://www.anaheim.net/6096)
   1. [Administration](https://www.anaheim.net/665/Administration) [](https://www.anaheim.net/655/Divisions)
     1. [Community Engagement](https://www.anaheim.net/704/Community-Engagement)

@@ -102,8 +102,8 @@ City staff, community stakeholders and consultants
     10. [Beat the Heat](https://www.anaheim.net/5073/Beat-the-Heat)
   3. [Preparing for Wildfire](https://www.anaheim.net/5629/Preparing-for-Wildfire)
   4. [Be Ready Anaheim: A Hazard Mitigation Plan](https://www.anaheim.net/6102/Be-Ready-Anaheim-A-Hazard-Mitigation-Pla)
-  5. [Emergency Essentials Workshop](https://www.anaheim.net/DocumentCenter/View/44277/Emer-Essentials-Flyer-with-QR-Code-0622)
-  6. [Fire Hazard Severity Zones](https://www.anaheim.net/6660/Fire-Hazard-Severity-Zones)
+  5. [Fire Hazard Severity Zones](https://www.anaheim.net/6660/Fire-Hazard-Severity-Zones)
+  6. [Emergency Preparedness Guide](https://www.anaheim.net/DocumentCenter/View/70837/Anaheim-Emergency-Preparedness-Guide)
 
 
   1. ![Anaheim](https://www.anaheim.net/ImageRepository/Document?documentId=41696)

@@ -66,10 +66,11 @@ Monday - Friday
     4. [Stay Housed Anaheim Program](https://www.anaheim.net/6696/Housing-Stability-Program)
     5. [ATID Housing Committee](https://www.anaheim.net/6794/ATID-Housing-Committee)
   3. [Build More Homes Initiative](https://www.anaheim.net/6697/Build-More-Homes-Initiative)
-  4. [Stay Housed Anaheim Program](https://www.anaheim.net/6696/Stay-Housed-Anaheim-Program)
-  5. [Proposed Affordable Housing Development Projects](https://www.anaheim.net/780/Housing-Development)
-  6. [Rebuild Beach](https://anaheim.net/6064/Rebuild-Beach-Boulevard)
-  7. [Senior Safety Net Program](https://www.anaheim.net/6417/Senior-Safety-Net-Program)
+  4. [California Pro-Housing Designation](https://www.anaheim.net/6797/California-Pro-Housing-Designation)
+  5. [Stay Housed Anaheim Program](https://www.anaheim.net/6696/Stay-Housed-Anaheim-Program)
+  6. [Proposed Affordable Housing Development Projects](https://www.anaheim.net/780/Housing-Development)
+  7. [Rebuild Beach](https://anaheim.net/6064/Rebuild-Beach-Boulevard)
+  8. [Senior Safety Net Program](https://www.anaheim.net/6417/Senior-Safety-Net-Program)
 
 
   1. ![Anaheim](https://www.anaheim.net/ImageRepository/Document?documentId=41696)

@@ -1,0 +1,311 @@
+--- SOURCE: https://docs.cpuc.ca.gov/PUBLISHED/REPORT/51604.htm ---
+
+[Word Document](https://docs.cpuc.ca.gov/word_pdf/REPORT/51604.doc) [PDF Document](https://docs.cpuc.ca.gov/word_pdf/REPORT/51604.pdf)  
+---  
+#  **STATE OF CALIFORNIA**
+![](https://docs.cpuc.ca.gov/PUBLISHED/Graphics/51604-1.gif) **ENERGY COMMISSION** |  ![](https://docs.cpuc.ca.gov/PUBLISHED/Graphics/51604-2.gif) **PUBLIC UTILITIES COMMISSION**  
+---|---  
+
+
+**ENERGY ACTION PLAN II**
+**_IMPLEMENTATION ROADMAP  
+FOR ENERGY POLICIES_**
+**October 2005**
+**I. INTRODUCTION AND SUMMARY**
+In 2003, the three key energy agencies in California - the California Energy Commission (CEC), the California Power Authority (CPA), and the California Public Utilities Commission (CPUC) - came together in a spirit of unprecedented cooperation to adopt an "Energy Action Plan" (EAP)[1](https://docs.cpuc.ca.gov/PUBLISHED/REPORT/51604.htm#P40_451) that listed joint goals for California's energy future and set forth a commitment to achieve these goals through specific actions.
+The EAP was a living document meant to change with time, experience, and need. The CPUC and the CEC have jointly prepared this Energy Action Plan II to identify the further actions necessary to meet California's future energy needs.[2](https://docs.cpuc.ca.gov/PUBLISHED/REPORT/51604.htm#P43_1015) EAP II supports and expands the commitment to cooperation among state agencies embodied in the original EAP and reflected in the State's coordinated actions over the past two years. The development of EAP II has benefited from the active participation of the Business, Transportation, and Housing Agency, the Resources Agency, the State and Consumer Services Agency, the California Independent System Operator (CAISO), the California Environmental Protection Agency (Cal EPA), and other agencies with energy-related responsibilities.
+EAP II describes a coordinated implementation plan for state energy policies that have been articulated through the Governor's Executive Orders, instructions to agencies, public positions, and appointees' statements; the CEC's Integrated Energy Policy Report (IEPR); CPUC and CEC processes; the agencies' policy forums; and legislative direction. This document also is intended to be consistent with the energy policies embodied in the Governor's August 23, 2005, response to the 2003 and 2004 IEPRs.[3](https://docs.cpuc.ca.gov/PUBLISHED/REPORT/51604.htm#P46_2301) We expect to update or revise this action plan to reflect any changes needed to further implement the Governor's 2004 IEPR response, future energy policies, and decisions related to the forthcoming 2005 IEPR, as well as other relevant events that may arise in the future.
+In preparing EAP II, we do not assume that work undertaken in EAP I is complete or, conversely, to dismiss the accomplishments to date of EAP I. Rather, EAP II is intended to look forward to the actions needed in California over the next few years, and to refine and strengthen the foundation prepared by EAP I. Appendix A provides a status report on the progress of the EAP I activities to date.
+Our overarching goal is for California's energy to be adequate, affordable, technologically advanced, and environmentally-sound. Energy must be reliable - provided when and where needed and with minimal environmental risks and impacts. Energy must be affordable to households, businesses and industry, and motorists - and in particular to disadvantaged customers who rely on us to ensure that they can afford this fundamental commodity. Our actions must be taken with clear recognition of cost considerations and trade-offs to ensure reasonably priced energy for all Californians. We need to develop and tap advanced technologies to achieve these goals of reliability, affordability and an environmentally-sound energy future. These goals affirm the original objectives of EAP I.
+The State will achieve these goals by taking specific and measurable actions throughout California's energy sector. To do this we have expanded the scope of the EAP. The fuels used in the transportation of California's goods and population constitute a third energy sector, in addition to electricity and natural gas. We have incorporated into EAP II specific actions reflecting the importance of transportation fuels to California's economy and the need to mitigate the environmental impacts caused by their use. EAP II further expands the scope of the original EAP to describe research, development and demonstration activities that are critical to realizing our energy goals. In addition, EAP II highlights the importance of taking actions in the near term to mitigate California's contributions to climate change from the electricity, natural gas and transportation sectors.
+EAP II continues the strong support for the loading order - endorsed by Governor Schwarzenegger - that describes the priority sequence for actions to address increasing energy needs. The loading order identifies energy efficiency and demand response as the State's preferred means of meeting growing energy needs. After cost-effective efficiency and demand response, we rely on renewable sources of power and distributed generation, such as combined heat and power applications. To the extent efficiency, demand response, renewable resources, and distributed generation are unable to satisfy increasing energy and capacity needs, we support clean and efficient fossil-fired generation. Concurrently, the bulk electricity transmission grid and distribution facility infrastructure must be improved to support growing demand centers and the interconnection of new generation, both on the utility and customer side of the meter.
+We also see the need to provide open, transparent, and compelling information and education to all stakeholders and consumers in the State. The agencies are committed to providing more effective information dissemination through increased cooperation among all branches of government, businesses, and energy organizations. In particular, we pledge to remove the remaining barriers to transparency in the electricity resource procurement processes in the State and to increase outreach to consumers by providing improved education and services regarding energy efficiency, demand response, rates, climate change, and opportunities to reduce the environmental impacts of energy use.
+The EAP II is intended as an implementation roadmap for the entire State. 
+Once this new EAP is adopted, our next step will be to prepare a workplan that ascribes responsibility for each of these key action items, determines the specific roles that will be played by each agency, and develops a timeline that ensures the agencies' prompt attention.
+**II. SPECIFIC ACTION AREAS**
+**1. Energy Efficiency**
+As stated in EAP I and reiterated here, cost effective energy efficiency is the resource of first choice for meeting California's energy needs. Energy efficiency is the least cost, most reliable, and most environmentally-sensitive resource, and minimizes our contribution to climate change. California's energy efficiency programs are the most successful in the nation and we want to continue to build upon those successes.
+![](https://docs.cpuc.ca.gov/PUBLISHED/Graphics/51604-3.gif)
+For the past 30 years, while per capita electricity consumption in the US has increased by nearly 50 percent, California electricity use per capita has been approximately flat. This achievement is the result of continued progress in cost-effective building and appliance standards and ongoing enhancements to efficiency programs implemented by investor-owned utilities (IOUs), customer-owned utilities, and other entities. Since the mid-1970s, California has regularly increased the energy efficiency requirements for new appliances sold and new buildings constructed here. In addition, in a creative and precedent-setting move, the CPUC in the 1980s de-coupled the utilities' financial results from their direct energy sales, facilitating utility support for efficiency programs. These efforts have reduced peak capacity needs by more than 12,000 MW and continue to save about 40,000 GWh per year of electricity. Most recently, in September 2004, the CPUC adopted the nation's most aggressive energy savings goals for both electricity and natural gas. In achieving these targets, the IOUs will save an additional 5,000 MW and 23,000 GWh per year of electricity, and 450 million therms per year of natural gas by 2013.
+However, to achieve the full energy efficiency potential that exists in California, we must continue to ratchet up our efforts. We need to focus not only on developing and supporting programs, but also on increasing public outreach and education; promoting research, development, and demonstration; and improving the evaluation, measurement, and verification of efficiency programs. 
+**KEY ACTIONS:**
+> > 1. Require that all cost-effective energy efficiency is integrated into utilities' resource plans on an equal basis with supply-side resource options.
+>> 2. Adopt 2006-2008 energy efficiency program portfolios and funding by late 2005.
+>> 3. Expand efforts to improve public awareness and adoption of energy efficiency measures. 
+>> 4. Promote a balanced portfolio of baseload energy, demand, and peak demand reductions to obtain both reliability and long-term resource benefits of energy efficiency for both electricity and natural gas.
+>> 5. Integrate demand response programs with energy efficiency programs.
+>> 6. Implement actions outlined in the Governor's Green Buildings Action Plan to improve building performance and reduce grid-based electrical energy purchases in all State and commercial buildings by 20 percent by 2015.[4](https://docs.cpuc.ca.gov/PUBLISHED/REPORT/51604.htm#P80_9954)
+>> 7. Work with customer-owned utilities in the implementation of all cost-effective energy efficiency programs so that they treat energy efficiency savings as a resource and help California reach its goal of a reduction in per capita electricity use.
+>> 8. Adopt new appliance standards by 2006, supplementing those adopted in December 2004.
+>> 9. Adopt new building standards for implementation in 2008 that include, among other measures, cost effective demand response technologies and integrated photovoltaic systems.
+>> 10. Increase the availability of State-sponsored low-interest loans for energy efficiency and clean distributed generation projects.
+>> 11. Improve energy efficiency programs for low income, non-English speaking, and other hard-to-reach communities.
+>> 12. Adopt verifiable performance-based incentives in 2006 for IOU energy efficiency investments, with risks and rewards based on performance that will align the utility incentives with customer interests.
+>> 13. Update and augment, as necessary, utility evaluation, measurement and verification protocols to assure that energy efficiency continues to be fully integrated into resource planning, emission reduction benefits are quantified, and compliance goals are verified.
+>> 14. Identify opportunities and support programs to reduce electricity demand related to the water supply system during peak hours and opportunities to reduce the energy needed to operate water conveyance and treatment systems.
+>> 15. Adopt a report on improving efficiency in existing buildings, as required by Assembly Bill 549, and pursue legislation and regulations to implement its recommendations.
+
+
+> > ![](https://docs.cpuc.ca.gov/PUBLISHED/Graphics/51604-4.gif)
+>> ![](https://docs.cpuc.ca.gov/PUBLISHED/Graphics/51604-5.gif)
+**2. Demand Response**
+California is in the process of transforming its electric utility distribution network from a system using 1960s era technology to an intelligent, integrated network enabled by modern information and control system technologies. This transformation can decrease the costs of operating and maintaining the electrical system, while also providing customers with accurate information on energy use, time of use, and cost. With the implementation of well-designed dynamic pricing tariffs and demand response programs for all customer classes, California can lower consumer costs and increase electricity system reliability. To achieve this transformation, state agencies will ensure that appropriate, cost-effective technologies are chosen, emphasize public education regarding the benefits of such technologies, and develop tariffs and programs that result in cost-effective savings and inducements for customers to achieve those savings.
+**KEY ACTIONS:**
+> > 1. Issue decisions on the proposals for statewide installation of advanced metering infrastructure for all small commercial and residential IOU customers by mid-2006 and expedite adoption of concomitant tariffs for any approved meter deployment.
+>> 2. Expedite decisions on dynamic pricing tariffs to allow increased participation for summer 2006 for customers with installed advanced metering systems and encourage load shifting that does not result in increases in overall consumption.
+>> 3. Identify and adopt new programs and revise current programs as necessary to achieve the goal to meet five percent demand response by 2007 and to make dynamic pricing tariffs available for all customers.
+>> 4. Educate Californians about the time sensitivity of energy use and the ways to take advantage of dynamic pricing tariffs and other demand response programs.
+>> 5. Create standardized measurement and evaluation mechanisms to ensure that demand response savings are verifiable. 
+>> 6. Provide that the utilities' demand response investment opportunities offer returns commensurate with investments in traditional plant. 
+>> 7. Integrate demand response into retail sellers' electricity resource procurement efforts so that these programs are considered equally with supply options.
+>> 8. Provide customer access to their energy use information and allow participation in demand response programs, regardless of retail provider.
+>> 9. Evaluate and, if appropriate, incorporate demand response technologies such as programmable communicating thermostats into the 2008 building standards.
+>> 10. Incorporate demand response appropriately and consistently into the planning protocols of the CPUC, the CEC, and the CAISO.
+>> 11. Encourage the integration of demand response programs into a capacity market or other mechanisms.
+>> 12. Coordinate IOU demand-response programs with customer-owned utility demand-response efforts to provide a comprehensive, statewide contribution to California's resource adequacy portfolio.
+**3. Renewables**
+California can reduce its greenhouse gas emissions, moderate its increasing dependence on natural gas, and mitigate the associated risks of electricity price volatility by aggressively developing renewable energy resources to meet the Renewables Portfolio Standard (RPS) requirements. As originally established, the RPS requires 20 percent of electricity sales to come from renewable sources by 2017. In the first EAP, we set a goal of accelerating the 20 percent target from 2017 to 2010. We are now identifying the steps necessary to achieve that target, as well as higher goals beyond 2010, such as Governor Schwarzenegger's proposed goal of 33 percent of electricity sales by 2020. To reach these goals, we must streamline and make transparent all of our approval processes, provide funding for renewable resources that reflects these policy priorities, and establish the necessary infrastructure for delivery of power from new renewable projects. We intend that our increasing reliance on renewable resources within California and from the western region will help mitigate energy impacts on climate change and the environment. We expect that all California load serving entities will contribute to these goals.
+**KEY ACTIONS:**
+> > 1. Expeditiously approve contracts from the initial IOU RPS solicitations and interim renewable solicitations, and approve agreements for any necessary supplemental energy payments.
+>> 2. Expeditiously approve the IOU RPS solicitations for 2005 and the next three years so that California IOUs will meet the accelerated RPS goal of 20 percent renewables by 2010.
+>> 3. Consider improvements to the renewables solicitation process.
+>> 4. Ensure that operations protocols and tariffs do not discriminate against renewable resources and study the effects of increasing penetration of renewable resources on the reliable operation of the electricity grid.
+>> 5. Evaluate and develop implementation paths for achieving renewable resource goals beyond 2010, including 33 percent renewables by 2020, in light of cost-benefit and risk analysis, for all load serving entities.
+>> 6. Monitor and support existing renewable resources, including facilitating re-powering projects and addressing contract renewals in a timely fashion.
+>> 7. Ensure new transmission lines are built to access renewable resources through a comprehensive, integrated transmission planning process, including the creation of state-led study groups to examine tapping particular resource regions.
+>> 8. Implement a cost-effective program to achieve the 3,000 MW goal of the Governor's "Million Solar Roofs" initiative.[5](https://docs.cpuc.ca.gov/PUBLISHED/REPORT/51604.htm#P126_17205)
+>> 9. Implement RPS standards for energy service providers and community choice aggregators so that all load serving entities are contributing proportionally to California's renewable goals.
+>> 10. Work with customer-owned utilities in the development of their renewable plans and incorporate their results into a comprehensive statewide RPS review. 
+>> 11. Complete the Western Renewable Generation Information System to accurately account for renewable generation through an electronic certificate tracking system.
+>> 12. Implement a renewable energy certificates trading system for meeting RPS goals.
+>> 13. Assist local permitting agencies in implementing methods of mitigating the avian impacts of wind energy generation.
+>> 14. Develop and implement forestry, agriculture, and waste management policies to encourage the generation of electricity from landfills, biomass and biogas.
+![](https://docs.cpuc.ca.gov/PUBLISHED/Graphics/51604-6.gif)
+**4. Electricity Adequacy, Reliability and Infrastructure**
+Significant capital investments are needed to augment existing facilities, replace aging infrastructure, and ensure that California's electrical supplies will meet current and future needs at reasonable prices and without over-reliance on a single fuel source. Even with the emphasis on energy efficiency, demand response, renewable resources, and distributed generation, investments in conventional power plants will be needed. The State will work to establish a regulatory climate that encourages investment in environmentally-sound conventional electricity generation resources.
+An expanded, robust electric transmission system is required to access cleaner and more competitively priced energy, mitigate grid congestion, increase grid reliability, permit the retirement of aging plants, and bring new renewable and conventional power plants on line. Streamlined, open and fair transmission planning and permitting processes must move projects through planning and into construction in a timely manner. The state agencies must work closely with the CAISO to achieve these objectives and to benefit from its expertise in grid operation and planning. Finally, the distribution system, which has the most direct effect on reliable service for consumers, must be continually upgraded and reinforced.
+**KEY ACTIONS:**
+> > 1. Ensure that all load serving entities meet the state's adopted reserve and resource adequacy requirements of a 15-17 percent planning reserve no later than June 2006, through a reasonable mix of short-, medium- and long-term resource commitments.
+>> 2. Provide for the continued operation of cost-effective and environmentally-sound existing generation needed to meet current reliability needs, including combined heat and power generation.
+>> 3. After incorporating higher loading order resources, encourage the development of cost-effective, highly-efficient, and environmentally-sound supply resources to provide reliability and consistency with the State's energy priorities.
+>> 4. Establish appropriate incentives for the development and operation of new generation to replace the least efficient and least environmentally sound of California's aging power plants.
+>> 5. Evaluate the potential for California's access to clean coal energy resources and recommend a California clean coal policy in the 2005 IEPR.
+>> 6. Manage California's aging electricity infrastructure to coordinate maintenance and outages and to provide orderly retirements.
+>> 7. Adopt a long-term policy for existing and new qualifying facility resources, including better integration of these resources into CAISO tariffs and deliverability standards.
+>> 8. Promote adequate investment in the utility distribution system, with an emphasis on translating those expenditures into higher levels of reliability.
+>> 9. Develop tariffs and remove barriers to encourage the development of environmentally-sound combined heat and power resources and distributed generation projects.
+>> 10. The CEC supports legislation to consolidate the permitting process for all new bulk transmission lines within the CEC, while the CPUC believes existing permitting authority should remain in place. Irrespective of the status of legislative efforts, the two Commissions agree to continue to work together to improve the transmission planning and permitting processes under existing authorities.
+>> 11. Improve the State's transmission line planning and permitting processes by integrating the CAISO's transmission planning and modeling capabilities, the CEC's power plant licensing, environmental and planning expertise, and the CPUC's ratemaking function and by ensuring that the processes are adaptable, flexible and representative of broad stakeholder input.
+>> 12. Adapt the state's transmission planning process to better evaluate strategic benefits, as well as economic costs and benefits, of proposed projects over multiple decades, including recommending a range of discount rates to be used to evaluate transmission lines.
+>> 13. Support legislation to expand the CEC's transmission corridor planning process, coordinated with applicable federal and state agencies, local governments and other stakeholders, to designate and preserve critical corridors for potential development in the future.
+>> 14. Coordinate the state's transmission planning process with regional efforts in the interconnected western states and identify and recommend means to increase California's participation in the broader western regional energy planning efforts.
+>> 15. Apply the GHG adder as a resource selection criterion in IOU procurement decisions to more appropriately value the risk of future environmental regulation in long-term investment decisions made now.
+>> 16. Acknowledge the interdependent nature of the energy needs among all the Western states, Canadian provinces, and Mexico by collaborating with our regional partners on regional resource and transmission planning, in particular by addressing overall resource adequacy and deliverability in the West, including cost allocation, planning, and routing of inter-regional transmission projects. 
+**5. Electricity Market Structure**
+To promote dependable, affordable, environmentally-responsible wholesale and retail markets, the agencies must foster sound market rules, increase regulatory certainty, and improve coordination with the rest of the West's electrical system. These goals are not possible without working closely with the CAISO, which plays the fundamental role of operating most of California's electricity grid and its critical energy markets. The agencies will continue to cooperate with and assist the CAISO in its core missions.
+Californians pay some of the highest utility rates in the nation and the State must take action to decrease overall retail energy bills and to reform rate structures while providing consumers tools to manage their energy usage. The agencies will work to reduce total retail energy bills by supporting programs for energy efficiency, demand response, and self-generation; ensuring that utilities' supply portfolios promote the delivery of energy at the least cost; and increasing education and outreach about energy usage. Partnering with private industry, the State will also identify, assess, and, where appropriate, implement actions, such as the development of capacity markets, to enhance reliability, and promote investment in energy infrastructure serving California.
+**KEY ACTIONS:**
+> > 1. Restructure the IOU rate-making process to reduce the number of proceedings, create more transparency in consumer electricity rates, adopt rates based on clear cost-causation principles, and identify steps to reduce electricity costs.
+>> 2. Complete and refine, as necessary, the current IOU electricity procurement process to provide that it is competitive, transparent, fair, proceeds in a timely fashion, and achieves California's resource adequacy requirements.
+>> 3. Complete and implement, by February 2007, the CAISO's Market Redesign and Technology Upgrade to reform California's wholesale electricity market
+>> 4. Promote the continued viability and efficient operation of the existing direct access market for retail electricity supply.
+>> 5. Develop rules to promote an effective core/non-core retail market structure, including mechanisms to guard against cost-shifting, preserve reliability, pursue energy efficiency goals, achieve RPS goals, and maintain the loading order for all load serving entities.
+>> 6. Develop capacity markets, with tradable capacity rights and obligations, to create appropriate incentives and flexibility for power plant development and utility procurement. 
+**6. Natural Gas Supply, Demand, and Infrastructure**
+To ensure reliable, long-term natural gas supplies to California at reasonable rates, the agencies must reduce or moderate demand for natural gas. Because natural gas is becoming more expensive, and because much of electricity demand growth is expected to be met by increases in natural gas-fired generation, reducing consumption of electricity and diversifying electricity generation resources are significant elements of plans to reduce natural gas demand and lower consumers' bills. California must also promote infrastructure enhancements, such as additional pipeline and storage capacity, and diversify supply sources to include liquefied natural gas (LNG).
+> > **KEY ACTIONS:**
+>> 1. Adopt additional natural gas and electric efficiency programs and standards to reduce the reliance on natural gas for various end uses. 
+>> 2. Establish a program to encourage solar hot water heating to reduce the reliance on natural gas for water heating.
+>> 3. Provide that the natural gas delivery and storage system is sufficient to meet California's peak demand needs.
+>> 4. Encourage the development of additional in-state natural gas storage to enhance reliability and mitigate price volatility.
+>> 5. Continue the State's LNG Interagency Permitting Working Group and develop a process to facilitate the prompt and environmentally-sensitive evaluation and siting of needed LNG facilities.
+>> 6. Establish standards for the timing of and payment for new transmission and storage capacity additions and for access to natural gas transmission systems.
+>> 7. Evaluate the appropriateness of current rules for natural gas quality.
+>> 8. Provide ongoing assessments of global natural gas markets.
+**7. Transportation Fuels Supply, Demand, and Infrastructure**
+The fuels used in the transportation of California's goods and population constitute a third facet of our energy sector, in addition to electricity and natural gas. Today, California's gasoline and diesel markets are characterized by increasing demands, tight supplies, and volatile and record high prices. California imports more than half of its crude oil and over 15 percent of its refined products and its dependence on this increasingly expensive energy resource continues to grow. Moreover, fossil fuel-based transportation of products and people is a major contributor of carbon dioxide, the principal catalyst to climate change. While we must ensure sufficient and economic supplies of gasoline and diesel to sustain California's economic vitality, we also must take steps to build an efficient, multi-fuel transportation market to serve the future needs of its citizens. Governor Schwarzenegger has tasked the Energy Commission to take the lead in crafting, by March 31, 2006, a workable long-term plan to achieve significant reductions in gasoline and diesel use and increase the use of alternative fuels so that California is working toward a set of realistic, achievable objectives with identifiable and measurable milestones. It is expected that the plan will include actions to be undertaken by state agencies.
+**KEY ACTIONS**
+> > 1. Prepare by March 31, 2006 a long term transportation fuels plan to increase the use of alternative fuels, increase vehicle efficiency, increase the use of mass transit, reduce dependence on petroleum fuels, and improve land use planning.
+>> 2. Increase coordination of petroleum infrastructure permitting among state, local, and regional agencies, including developing guiding principles for approval of new petroleum facilities.
+>> 3. Continue to work with other states and stakeholders to convince the federal government to double the Corporate Average Fuel Economy (CAFE) standards.
+>> 4. Work in conjunction with Cal EPA to implement the California Hydrogen Highway Blueprint.
+>> 5. Increase the use of high-efficiency, fuel flexible vehicles, and dedicated non-petroleum-fueled vehicles in the state's fleet of passenger cars and light-duty trucks. Increase the use of non-petroleum fuels in the state's fleet of medium- and heavy-duty on-road and off-road vehicles.
+>> 6. Complete testing to evaluate tire rolling resistance and fuel economy potential, establish standards, and implement a voluntary reporting program. Consider a rulemaking for mandatory reporting in the event voluntary compliance is inadequate.
+>> 7. The CPUC, in conjunction with the CEC, Cal EPA, and local air districts, will continue to evaluate and implement policies to promote the development of equipment and infrastructure needed to facilitate the use of electric power and natural gas to fuel low-emission vehicles as required by Public Utilities Code sections 740.3, 740.8, and 451.
+**8. Research, Development and Demonstration**
+California's continued success in supplying an efficient and diverse mix of resources to meet our energy needs is dependent upon technological innovations. The agencies are committed to encouraging research, development, and demonstration (RD&D) projects in technologies that will allow California to achieve its policies to make energy efficiency, demand response and renewable resources more effective and cost-competitive. We must also encourage RD&D for conventional generation sources and transportation fuels to reduce emissions, increase efficiency, and mitigate environmental impacts.
+**KEY ACTIONS**
+> > 1. Transform RD&D projects on energy efficiency technologies into energy efficiency tools and standards.
+>> 2. Allocate and prioritize RD&D funding for energy efficiency and demand response, including new communication and control technologies, planning models, end-use technologies, and validation methodologies.
+>> 3. Align RD&D funding with public policy goals for new renewable technologies and greenhouse gas mitigation technologies, including efficiency, renewable generation technologies, and energy storage.
+>> 4. Align public purpose funded natural gas RD&D to reflect supply policies affecting biogas and syngas; to improve long-term storage reservoir management, safety and efficiency; and to ensure high quality natural gas. 
+>> 5. Support RD&D to improve the efficiency of petroleum-fueled vehicles and to reduce the cost and promote the availability of non-petroleum fuels.
+>> 6. Support clean coal technology research and development, and continue to develop methods for capturing and storing significant amounts of CO2, either as an integral part of the energy conversion process or in pairing with external CO2 sequestration.
+>> 7. Encourage the development of cost-effective dry-cooling technologies and reduce once-through cooling practices to minimize the impact of new generation on California's water resources.
+>> 8. Align RD&D funding with public policy goals for transmission technology development to maximize efficient use of the bulk electricity grid.
+>> 9. Support and the Interagency Working Group in developing an integrated and comprehensive state policy on biomass that encompasses electricity, natural gas and transportation fuel substitution potential, and encourage the participation of the Biomass Collaborative.
+**9. Climate Change**
+Governor Schwarzenegger signed Executive Order S-3-05 on June 1, 2005, clearly establishing California's leadership in and commitment to the fight against climate change. The Executive Order establishes greenhouse gas (GHG) emission reduction targets that call for a reduction of GHG emissions to 2000 levels by 2010; to 1990 levels by 2020; and to 80 percent below 1990 levels by 2050. The Executive Order also directs Cal EPA to lead a multi-agency Climate Action Team to conduct an analysis of the impacts of climate change on California and to develop strategies to achieve the targets and mitigation and adaptation plans for the State.
+Joining Cal EPA on the Climate Action Team are high-level representatives from the Business, Transportation and Housing Agency, CPUC, CEC, Department of Food and Agriculture, and Resources Agency. The Team is responsible for developing a plan to achieve the Governor's GHG emissions targets by implementing state agency programs that reduce or avoid greenhouse gas emissions. The Climate Action Team has established subgroups specifically to evaluate options for a statewide "cap-and-trade" program and adaptation and mitigation scenarios.
+Climate change is the most serious threat to our environmental future, and demands immediate action. Its symptoms are already evident in California. The transportation sector is the primary source of our GHG emissions in California. An important step in reducing GHG emissions from this sector was the adoption by the Air Resources Board in December 2004 of its motor vehicle GHG emission regulations. Increasing energy efficiency, demand response, and renewable resources to the maximum extent possible in California and the western region will further reduce our contribution to climate change. Due to the strong connection between energy use and climate change, many necessary actions to reduce greenhouse gas emissions have already been outlined in previous sections.
+**KEY ACTIONS:**
+> > 1. Implement the motor vehicle greenhouse gas regulations. 
+>> 2. Implement all strategies identified by the Climate Action Team as needed to meet the Governor's GHG emission reduction goals, including recommendations developed as part of the 2005 IEPR.
+>> 3. Report to the Governor and the Legislature in January 2006, and biennially thereafter to provide regular updates on the progress made toward meeting the Governor's target and other directives in Executive Order S-3-05.
+>> 4. Report to the Governor on the findings of the Climate Action Team subgroup on cap and trade options for the State. 
+>> 5. Consider 2010, 2020, and 2050 GHG reduction targets for retail sellers of electricity to contribute to meeting the Governor's GHG emission reduction targets.
+>> 6. Coordinate with the Climate Action Team on the regulatory proceeding that is considering establishment of a cap and trade program for IOUs.
+>> 7. Ensure that energy supplies serving California, from any source, are consistent with the Governor's climate change goals.
+>> 8. Require reporting of GHG emissions as a condition of state licensing of new electric generating facilities.
+>> 9. Participate in public outreach efforts to educate the public and businesses in California on climate change impacts and actions to mitigate emissions and encourage stakeholder participation in the development of programs to meet California's climate change goals.
+>> 10. Encourage all participants in the electricity, natural gas, and transportation fuels industries, as well as other regulated industries, to participate in the California Climate Action Registry and to improve reporting of GHG emissions.
+>> 11. Identify western state policies and strategies to achieve production of 30,000 MW of clean energy across the west by 2015, consistent with the Western Governors' Association Clean and Diversified Energy Advisory Committee and West Coast Climate Initiative goals.[6](https://docs.cpuc.ca.gov/PUBLISHED/REPORT/51604.htm#P240_36798)
+>> 12. Identify methodologies to quantify the expected costs and benefits of climate change policies.
+>> 13. Continue research performed by the California Climate Change Center in evaluating the economic and ecological consequences of climate change and adaptation and mitigation strategies to preserve and improve quality of life.
+**APPENDIX A**
+**_EAP I Progress Report_**
+Since 2003, California has worked diligently to implement EAP I, which contained both overall policy objectives for the State's energy sector while also proposing a series of specific action items for the agencies to undertake. While we have been successful in accomplishing many of the action items we proposed in EAP I, we recognize that much more work remains to be done in California to ensure a reliable, affordable and environmentally-sound energy industry. A complete assessment of our response to the specific actions items prescribed in EAP I is provided below.
+#  **_I. Optimize Energy Conservation and Resource Efficiency_**
+> > ## **1. Implement a voluntary dynamic pricing system to reduce peak demand by as much as 1,500 to 2,000 megawatts by 2007.**
+**Status: In Progress**
+> > **·** The CPUC authorized voluntary demand response programs for large customers, with statewide potential estimated at 520 MW, and a statewide two-year pilot program to study the demand response capability of residential and small commercial customers.
+>> **·** The CEC provided funding to install 23,300 interval meters on large customers starting in 2001, and the CPUC directed the IOUs to complete the process and authorized funding when general funds were exhausted.
+>> **·** Pursuant to CPUC directions, the IOUs have submitted plans to deploy advanced metering infrastructure (AMI) systems or to develop them for all customers for consideration in 2005 and 2006.
+## **2. Improve new and remodeled building efficiency by 5 percent.**
+**Status: Achieved**
+> > **·** The CEC adopted building energy efficiency standards for existing and new buildings, effective October 2005, and adopted appliance standards effective mid-April 2005, and subsequent years. 
+>> **·** The CPUC and the CEC approved programs to provide standards for building tune-ups and retro-fits, and to install and to retrofit efficient lighting and HVAC systems.
+## **3. Improve air conditioner efficiency by 10 percent above federally mandated standards.**
+**Status: Achieved**
+> > **·** The CEC supported the successful multi-state lawsuit against the Federal Department of Energy's rollback of air conditioner standards through the state Attorney General's office, allowing all states to implement the ten percent higher standards.
+>> **·** The CPUC approved programs to install energy efficient air conditioners, to improve ventilation, and to promote upgrades and enhancements in codes and standards.
+>> ## **4. Make every new state building a model of energy efficiency.**
+**Status: In Progress**
+> > **·** The CPUC ordered IOUs to emphasize commercial and state building efficiency programs in their 2006-2008 program cycle as a step in implementing the Governor's Green Building Action Plan.
+>> **·** The CEC is developing a benchmarking methodology that would apply to all commercial buildings in California. The CEC is scheduled to submit the proposed methodology and implementation schedule to the Governor in September 2005.
+>> ## **5. Create customer incentives for aggressive energy demand reduction.**
+**Status: In progress**
+> > **·** The CPUC established demand response and interruptible programs that provide customer incentives through bill credits or discounted rates, with 1,590 MWs of interruptible load available.
+>> **·** The CPUC established free energy audit services to help customers evaluate their demand response capability.
+>> **·** The CPUC authorized programs for IOUs and 3rd parties to offer rebates for energy efficient products such as lighting, fixtures, windows, coolers, HVAC and refrigeration systems, programmable thermostats, pool pumps and motor replacements.
+>> ## **6. Increase local government conservation and energy efficiency programs.**
+**Status: Achieved**
+> > **·** The CPUC approved $49 million of partnership programs for local governments and schools to provide energy efficiency incentives, services, and education for customers in 2004 and 2005.
+>> **·** The CEC completed two bond issuances totaling $66 million to finance energy efficiency projects for local governments and schools.
+>> ## **7. Incorporate, as appropriate per Public Resources Code section 25402, distributed generation or renewable technologies into energy efficiency standards for new building construction.**
+**Status: In Progress**
+> > **·** The CEC is investigating how solar generation can be included in the 2008 Building Energy Efficiency Standards.
+#  **_II. Accelerate the State's Goal for Renewable Generation_**
+> > ## **1. Add a net annual average of up to 600 MW of new renewable resources to the IOU's portfolios.**
+**Status: In Progress**
+> > **·** IOU contracts filed in 2005 add between 285-586 MW[7](https://docs.cpuc.ca.gov/PUBLISHED/REPORT/51604.htm#P286_41906) of new renewable generation, with contracts in negotiation for 2005 and 2006 pushing the total well over 600 MW.
+>> **·** The 2002 and 2003 interim renewable solicitations resulted in over 620 MW in contracted capacity from existing renewable generation facilities.
+>> ## **2. Establish key RPS implementation rules for IOUs by June 30, 2003.**
+**Status: Achieved**
+> > **·** The CPUC issued a decision on June 2003, that laid the foundation for the RPS program, and issued four additional decisions by July 2004, that set standard contract terms and conditions, established a benchmark price for contracts, created a methodology for calculating transmission costs, and developed an evaluation methodology for ranking RPS bids.
+>> ## **3. Facilitate an orderly and cost-effective expansion of the transmission system to connect potential renewable resources to load.**
+**Status: In Progress**
+> > **·** In conjunction with the CEC's report on the location of renewable resource potential in California, the CPUC prepared a comprehensive transmission plan for conceptual facilities for wind, solar, geothermal and biomass renewable electricity generation.
+>> **·** Pursuant to CPUC order, SCE filed an application to build transmission to the Tehachapi region in anticipation of tapping 4,000 MW of wind resource potential. The CPUC is now processing the request.
+>> · The CPUC and the CEC established working groups to facilitate transmission projects to access renewable resources in the Tehachapi and Imperial Valley areas.
+>> ## **4. Initiate the development of RPS compliance rules for energy service providers and community choice aggregators.**
+**Status: In Progress**
+> > **·** The CPUC held legal briefing and evidentiary hearings regarding ESP and CCA participation in the RPS, and posted a draft framework decision in June 2005.
+>> ## **5. Coordinate implementation with all relevant state agencies and with municipal utilities to facilitate their achievement of the standard.**
+**Status: In Progress**
+> > **·** The CEC, CPUC, CPA and CAISO initiated a statewide renewables forum in 2004 and have held three coordination meetings.
+>> **·** The CEC provides assistance to municipal utilities on an ad hoc basis and is tracking their progress towards meeting the EAP goals for renewables.
+>> ## **6. Encourage companies that invest in energy conservation and resource efficiency to register with the state's Climate Change Registry.**
+**Status: Achieved**
+> > **·** The CEC and CPUC joined the Registry in order to lead by example.
+>> **·** In conjunction with other state agencies, the CPUC held an en banc in February 2005, to explore climate change issues and sent letters to CPUC-regulated entities encouraging them to join the Registry.
+>> **·** The CPUC issued a decision in April 2005, directing the IOUs to include marketing and outreach activities to support the Registry in their energy efficiency program plan applications.
+>> **·** The CEC provides technical assistance to the Registry on its reporting and certification protocols.
+#  **_III. Ensure Reliable, Affordable Electricity Generation_**
+> > ## **1. Add new generation resources to meet anticipated demand growth, modernize old, inefficient and dirty plants and achieve and maintain reserve levels in the 15 percent-18 percent range. Current estimates show a statewide need for 1500 - 2000 MW per year.**
+**Status: In Progress**
+> > **·** Since the EAP was adopted in March 2003, the CEC permitted 8,505 MW of new power plants, 6,269 MW of re-powered and new plants became operational, and 559 MW more will be online by the end of September 2005.
+>> **·** In January and October 2004, the CPUC adopted resource adequacy requirements for the IOUs and ESPs to secure a 15-17 percent planning reserve margin by June 2006.
+> ## **2. Finance a few critical power plants that the agencies conclude are necessary and would not otherwise be built. An estimated 300 MW of peaking capacity located in critical areas is needed to provide local reliability, help achieve adequate reserves, and reduce congestion and the need for new transmission lines.**
+**Status: Achieved**
+> > **·** Through the CPUC's procurement process, 500 MW of previously mothballed generation has returned to service in Southern California under IOU contracts.
+>> **·** Significant new generation is now under construction after timely contract and permit review and approval by the CPUC and CEC, respectively, including Mountainview (1,056 MW), Palomar (546 MW), and Otay Mesa (590 MW).
+>> ## **3. Work with the CAISO to ensure the development of a workable, competitive wholesale energy market that has meaningful market power mitigation rules.**
+**Status: In Progress**
+> > **·** State agencies participate in the CAISO's Market Redesign and Technology Upgrade (MRTU) process scheduled to be implemented in February 2007, and have supported at FERC the CAISO's development of a new market model based on locational marginal pricing (energy pricing that incorporates the cost of transmission congestion) and which includes extensive market power mitigation.
+>> ## **4. Monitor the electricity market to identify any exercise of market power and manipulation, and work to improve FERC-established market rules to correct any observed abuses.**
+**Status: In Progress**
+> > **·** State agencies participate in FERC proceedings, the CAISO Market Surveillance Committee, the Seams Steering Group of the Western Interconnection Market Monitoring Group to further the development of and to ensure adequate monitoring of electricity markets and to identify abuses of market power.
+#  **_IV. Upgrade and Expand the Electricity Transmission and Distribution Infrastructure_**
+> > ## **1. The agencies will collaborate, in partnership with other state, local, and non-governmental agencies with energy responsibilities, in the California Energy Commission's integrated energy planning process to determine the statewide need for particular bulk transmission projects. This collaboration will build upon the California Independent System Operator's annual transmission plan and evaluate transmission, generation and demand side alternatives. It is intended to ensure that state objectives are evaluated and balanced in determining transmission investments that best meet the needs of California electricity users.**
+**Status: In Progress**
+> > · The CPUC granted regulatory approval for construction of additional transmission on Path 15, the major interconnection between northern and southern California, and approved several other major transmission upgrades, including Miguel-Mission and Otay Mesa in San Diego and Jefferson-Martin on the San Francisco Peninsula.
+>> **·** State agencies collaborated on the CEC's 2003-2004 IEPR energy planning processes, which provided policies to improve the transmission planning and permitting processes.
+>> **·** State agencies are collaborating in the 2005 IEPR process to prepare a strategic transmission grid plan for the State with recommendations for transmission infrastructure investments.
+>> **·** The CPUC and the CEC participate in the CAISO's annual transmission planning process of quarterly stakeholder meetings where projects are studied for one, five and ten year horizons, as proposed by PG&E, SCE, SDG&E, or by the CAISO.
+> ## **2. The Public Utilities Commission will issue an Order Instituting Rulemaking to propose changes to its Certificate of Public Convenience and Necessity process, required under Public Utilities Code § 1001 et seq., in recognition of industry, marketplace, and legislative changes, like the creation of the CAISO and the directives of SB 1389. The Rulemaking will, among other things, propose to use the results of the Energy Commission's collaborative transmission assessment process to guide and fund IOU-sponsored transmission expansion or upgrade projects without having the PUC revisit questions of need for individual projects in certifying transmission improvements.**
+**Status: In Progress**
+> > **·** The CPUC opened this rulemaking in January 2004, but the methodology to coordinate need determination between agencies remains under development in CAISO and CPUC forums.
+## **3. The Public Utilities Commission will ensure that IOUs build out and properly staff and maintain distribution systems to meet California's growth, provide reliable service, and stand ready to restore service after unplanned distribution system outages.**
+**Status: In Progress**
+> > **·** The CPUC authorized the IOUs in their recent general rate cases to increase spending by four to seven percent on capital additions for distribution infrastructure over the next three years, with an emphasis on improving reliability. 
+>> ## **4. The Energy Commission will work with municipal utilities to help ensure completion of transmission expansion or upgrade projects in their systems for which the collaborative transmission assessment process finds a need.**
+**Status: In Progress**
+> > **·** The CEC is assessing municipal utilities' transmission expansion plans and will recommend actions on near-term transmission projects (including municipal utility projects) in its November 2005 Strategic Transmission Investment Plan.
+#  **_V. Promote Customer and Utility Owned Distributed Generation_**
+## **1. Promote clean, small generation resources located at load centers.**
+**Status: Achieved**
+> > **·** The CPUC adopted favorable rate policies for DG, including exemptions from stand-by and departing load charges, and expanded net metering.
+>> **·** State incentive programs paid rebates leading to 116 MW of renewable and clean DG from the CPUC's Self Generation Incentive Program and 53 MW of primarily solar from the CEC's Emerging Renewables Program.
+>> **·** The CPUC and the CEC streamlined interconnection rules, resulting in 487 MW of interconnected DG since January 2001, and resulting in an 80 percent reduction in the time to interconnect new distributed generation.
+## **2. Determine whether and how to hold distributed generation customers responsible for costs associated with Department of Water Resources power purchases.**
+**Status: Achieved**
+> > **·** The CPUC adopted a DG cost responsibility surcharge in April 2003, and provided exemptions for a capped amount of clean and large-scale DG, which the CEC manages, monitors, and publicly reports.
+## **3. Determine system benefits of distributed generation and related costs.**
+**Status: In Progress**
+> > **·** The CEC Public Interest Energy Research Program has invested over $19 million to quantify the system benefits and effects of interconnecting DG to the electric grid.
+>> **·** The CPUC and the CEC are developing a common DG cost-benefit methodology for utility procurement and planning processes, and for setting incentive levels for renewable and clean DG, with evidentiary hearings held in May 2005, and a decision expected by the end of 2005.
+## **4. Develop standards so that renewable distributed generation may participate in the Renewable Portfolio Standard program.**
+**Status: Achieved**
+> > **·** The CPUC determined that the owner of renewable DG facilities owns the renewable energy credits associated with the generation of electricity from those facilities and is eligible to participate in the RPS program.
+## **5. Standardize definitions of eligible distributed generation technologies across agencies to better leverage programs and activities that encourage distributed generation.**
+**Status: In Progress**
+> > **·** The CEC developed a working definition in the 2005 IEPR-related proceedings and the CPUC is developing a formal definition through evidentiary hearings, with a decision expected by the end of 2005.
+## **6. Collaborate with the Air Resources Board, Cal EPA and representatives of local air quality districts to achieve better integration of energy and air quality policies and regulations affecting distributed generation.**
+**Status: In Progress**
+> > **·** The agencies are participating in the Cal EPA process to implement a 2007 DG Emission Standard.
+>> **·** The CPUC adopted in May 2005 a program to encourage IOU agricultural customers to convert diesel pumping engines to electric service to improve air quality in the Central Valley. 
+## **7. The agencies will work together to further develop distributed generation policies, target research and development, track the market adoption of distributed generation technologies, identify cumulative energy system impacts and examine issues associated with new technologies and their use.**
+**Status: In Progress**
+> > **·** EAP I formalized a long-standing CPUC/CEC Distributed Generation Collaborative.
+>> **·** The CEC completed a comprehensive set of recommendations to revise California's interconnection rules, and submitted them to the CPUC for public comment in February 2005. The CPUC expects to issue a decision on the recommendations in the third quarter of 2005.
+#  **_VI. Ensure Reliable Supply of Reasonably Priced Natural Gas_**
+## **1. Identify critical new gas transmission, distribution and storage facilities needed to meet California's future needs.**
+**Status: Achieved**
+> > **·** The CEC initiated its 2005 Integrated Energy Policy Report, which includes an assessment of long-term natural gas infrastructure needs.
+>> **·** The CPUC adopted flexible interstate pipeline capacity contract approval procedures, and approved interstate pipeline capacity requirements for the Southern California Gas Company, San Diego Gas and Electric Company, and Pacific Gas and Electric Company.
+>> **·** Over 1,000 MMcfd of interstate pipeline capacity to California has been added, mainly due to Kern River expansion in May 2003.
+>> **·** Over 20 Bcf of storage capacity has been added since early 2002, and more capacity is expected in the next few years.
+>> **·** The CPUC and the CEC established a natural gas research and development program to facilitate more efficient use of natural gas.
+## **2. Monitor the gas market to identify any exercise of market power and manipulation, and work to improve FERC-established market rules to correct any observed abuses.**
+**Status: In Progress**
+> > **·** The CPUC and CEC have joined FERC investigations of price rises in early 2003, and early 2004, conduct monthly meetings to monitor infrastructure and market conditions, and prepare monthly reports summarizing California's natural gas infrastructure and operations.
+>> **·** Agencies' efforts contributed to the FERC conclusion of the El Paso market manipulation case, resulting in customer refunds of hundreds of millions of dollars.
+> ## **3. Evaluate the net benefits of increasing the state's natural gas supply options, such as liquefied natural gas (LNG).**
+**Status: In Progress**
+> > **·** The CPUC adopted policy rules in September 2004 that establish a level playing field for consideration of new natural gas supplies from LNG, and adopted procedures by which natural gas utilities would obtain new contracts with LNG suppliers.
+>> **·** The CEC prepared a report in early 2005 of existing safety rules and regulations governing LNG terminals, and updated its long-term outlook on natural gas demand and supplies available to California.
+>> **·** The CEC chairs monthly meetings of the LNG Interagency Working Group to ensure a smooth flow of information from all perspectives on LNG issues affecting California.
+## **4. Support electric utilities and gas distribution companies entering into longer-term contracts as a hedge against volatile and high spot market prices.**
+**Status: In Progress**
+> > **·** The CPUC has not taken specific actions to encourage additional long-term physical natural gas supply contracts as a policy and instead has encouraged natural gas and electric utilities to use financial instruments and storage to hedge against volatile spot market natural gas prices in order to meet this policy objective.
+
+
+[1](https://docs.cpuc.ca.gov/PUBLISHED/REPORT/51604.htm#P40_452) EAP I can be viewed at the CPUC's website at <[ http://www.cpuc.ca.gov/PUBLISHED/REPORT/28715.htm>](http://www.cpuc.ca.gov/PUBLISHED/REPORT/28715.htm>) or at the CEC's website at <[ http://www.energy.ca.gov/energy_action_plan/2003-05-08_ACTION_PLAN.PDF>](http://www.energy.ca.gov/energy_action_plan/2003-05-08_ACTION_PLAN.PDF>).
+[2](https://docs.cpuc.ca.gov/PUBLISHED/REPORT/51604.htm#P43_1016) The Consumer Power and Conservation Financing Authority was a co-agency in EAP I. Funding for the agency was eliminated in SB 1113 (Chesbro) Chapter 208, the 2004-2005 budget. No additional funding is proposed in the Governor's 2005-2006 budget.
+[3](https://docs.cpuc.ca.gov/PUBLISHED/REPORT/51604.htm#P46_2302) Governor Schwarzenegger's "Review of Major Integrated Energy Policy Report Recommendations" in his August 23, 2005, letter to Senator Don Perata, President pro tempore of the California State Senate.
+[4](https://docs.cpuc.ca.gov/PUBLISHED/REPORT/51604.htm#P80_9955) See Executive Order S-20-04, dated December 14, 2004,_[ http://www.dot.ca.gov/hq/energy/ExecOrderS-20-04.htm>](http://www.dot.ca.gov/hq/energy/ExecOrderS-20-04.htm>)._
+[5](https://docs.cpuc.ca.gov/PUBLISHED/REPORT/51604.htm#P126_17206) View the Governor's press release at <[ http://www.governor.ca.gov/state/govsite/gov_htmldisplay.jsp?sCatTitle=Press%20Release&sFilePath=/govsite/spotlight/august20_update.html>](http://www.governor.ca.gov/state/govsite/gov_htmldisplay.jsp?sCatTitle=Press%20Release&sFilePath=/govsite/spotlight/august20_update.html>).
+[6](https://docs.cpuc.ca.gov/PUBLISHED/REPORT/51604.htm#P240_36799) See WGA Policy Resolution 04-14, June 22, 2004, at _<http://www.westgov.org/wga/policy/04/clean-energy.pdf> and_ WGA's Clean and Diversified Energy Initiative webpage at <[ http://www.westgov.org/wga/initiatives/cdeac/index.htm>](http://www.westgov.org/wga/initiatives/cdeac/index.htm>). Also see <[ http://www.climatechange.ca.gov/westcoast/index.html>](http://www.climatechange.ca.gov/westcoast/index.html>) for information on the West Coast Governors' Initiative.
+[7](https://docs.cpuc.ca.gov/PUBLISHED/REPORT/51604.htm#P286_41907) Some contracts allow the generators to increase output in an incremental fashion. Final output is determined by how many units are brought on line per contract.
+[![Top Of Page](https://docs.cpuc.ca.gov/PUBLISHED/Graphics/gtabtop.gif)](https://docs.cpuc.ca.gov/PUBLISHED/REPORT/51604.htm#TopOfPage)

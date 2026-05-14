@@ -228,5 +228,4 @@ Loading
 Do Not Show Again Close
 Arrow Left Arrow Right
 Slideshow Left Arrow Slideshow Right Arrow
-×
 Close **×**

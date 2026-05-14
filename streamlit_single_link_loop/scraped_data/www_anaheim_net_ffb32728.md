@@ -50,14 +50,14 @@ Loading
 ****Check back for 2019 event details in late 2018!!**
 **The Anaheim Central Library hosts the Science Fiction and Comic Book event AnaCon event in February. The FREE event features science fiction authors, comic book illustrators, book giveaways and many more surprises.****  
 ****Check back for 2019 event details in late 2018!!**
-  1. [Special Guests](https://www.anaheim.net/4743/AnaCon#tabdcd45d6a-e7c0-443f-a565-80c91b6d9a04_0)
-  2. [Vendors](https://www.anaheim.net/4743/AnaCon#tabdcd45d6a-e7c0-443f-a565-80c91b6d9a04_4)
-  3. [Food](https://www.anaheim.net/4743/AnaCon#tabdcd45d6a-e7c0-443f-a565-80c91b6d9a04_5)
-  4. [Parking](https://www.anaheim.net/4743/AnaCon#tabdcd45d6a-e7c0-443f-a565-80c91b6d9a04_6)
-  5. [AnaCon 2027](https://www.anaheim.net/4743/AnaCon#tabdcd45d6a-e7c0-443f-a565-80c91b6d9a04_9)
+  1. [Special Guests](https://www.anaheim.net/4743/AnaCon#tabde828591-ecd2-4888-a8c0-335dcdce988a_0)
+  2. [Vendors](https://www.anaheim.net/4743/AnaCon#tabde828591-ecd2-4888-a8c0-335dcdce988a_4)
+  3. [Food](https://www.anaheim.net/4743/AnaCon#tabde828591-ecd2-4888-a8c0-335dcdce988a_5)
+  4. [Parking](https://www.anaheim.net/4743/AnaCon#tabde828591-ecd2-4888-a8c0-335dcdce988a_6)
+  5. [AnaCon 2027](https://www.anaheim.net/4743/AnaCon#tabde828591-ecd2-4888-a8c0-335dcdce988a_9)
 
 
-  1. [Special Guests](https://www.anaheim.net/4743/AnaCon#tabdcd45d6a-e7c0-443f-a565-80c91b6d9a04_0)
+  1. [Special Guests](https://www.anaheim.net/4743/AnaCon#tabde828591-ecd2-4888-a8c0-335dcdce988a_0)
 
 
 ##  ![ify](https://www.anaheim.net/ImageRepository/Document?documentId=70197)Ify Nwadiwe
@@ -91,13 +91,13 @@ Arlin is an illustrator and Risograph printmaker known for his colorful and deta
 
 ##  ![EmmaSteinkellner_headshot](https://www.anaheim.net/ImageRepository/Document?documentId=70617)Emma Steinkellner
 ### Illustrator, Cartoonist, Writer
-Emma Steinkellner is an illustrator, cartoonist, and writer working in comics and animation based in Los Angeles, CA. Steinkellner is the author and illustrator of _The Okay Witch_ (Aladdin Books) series of middle grade graphic novels, fairy-tale comic diary series _Nell of Gumbling_ (Random House) and the brand-new graphic novel, _Last Day Pool Party_ (Random House). Her illustrations in the graphic novel _Quince_ (Fanbase Press) received a prestigious Eisner nomination. You can read more about her work here: [emmasteinkellner.com](https://www.emmasteinkellner.com/). 
+Emma Steinkellner is an illustrator, cartoonist, and writer working in comics and animation based in Los Angeles, CA. Steinkellner is the author and illustrator of _The Okay Witch_ (Aladdin Books) series of middle grade graphic novels, fairy-tale comic diary series _Nell of Gumbling_ (Random House) and the brand-new graphic novel, _Last Day Pool Party_ (Random House). Her illustrations in the graphic novel _Quince_ (Fanbase Press) received a prestigious Eisner nomination. [Read more about Emma's work](https://www.emmasteinkellner.com/). 
   
   
 
 ##  ![KitSteinkellner_headshot](https://www.anaheim.net/ImageRepository/Document?documentId=70618)Kit Steinkellner
 ### Producer, Writer, Director
-Kit is the creator and executive producer of the Facebook Watch half-hour series _SORRY FOR YOUR LOSS_ starring Elizabeth Olsen, which ran for two seasons on the platform and holds a 97% on Rotten Tomatoes. In the print world, Kit penned the Eisner-nominated graphic novel, _QUINCE_. And as a television writer she has written and developed for Amazon, Netflix, FX, Showtime, Hulu, and Starz. In 2026, her directorial debut _ARE WE STILL MARRIED?_ held its world premiere at SXSW. You can follow Kit on Instagram @kitsteinkellner or check out her IMDB page [here](https://www.imdb.com/name/nm6844237/?ref_=ext_shr_lnk).
+Kit is the creator and executive producer of the Facebook Watch half-hour series _SORRY FOR YOUR LOSS_ starring Elizabeth Olsen, which ran for two seasons on the platform and holds a 97% on Rotten Tomatoes. In the print world, Kit penned the Eisner-nominated graphic novel, _QUINCE_. And as a television writer she has written and developed for Amazon, Netflix, FX, Showtime, Hulu, and Starz. In 2026, her directorial debut _ARE WE STILL MARRIED?_ held its world premiere at SXSW. You can follow Kit on Instagram @kitsteinkellner or check out [Kit's IMDB page](https://www.imdb.com/name/nm6844237/?ref_=ext_shr_lnk).
   
   
 
@@ -108,7 +108,7 @@ Carlos Nieto III is a former layout artist for _The Simpsons_ and _King of the H
 
 ###   
 
-  1. [Vendors](https://www.anaheim.net/4743/AnaCon#tabdcd45d6a-e7c0-443f-a565-80c91b6d9a04_4)
+  1. [Vendors](https://www.anaheim.net/4743/AnaCon#tabde828591-ecd2-4888-a8c0-335dcdce988a_4)
 
 
 ##  ![Allen carter](https://www.anaheim.net/ImageRepository/Document?documentId=70331)Allen Carter
@@ -152,6 +152,11 @@ A 2D animator that has worked on various indie animated short films such as the 
 
   
   
+
+##  ![DJ Kirkbride - D.J. Kirkbride](https://www.anaheim.net/ImageRepository/Document?documentId=70335)D.J. Kirkbride
+### Author
+D.J. Kirkbride (he/him) got his start in comics as an editor and contributing writer on the POPGUN anthologies from Image Comics, winning an Eisner and two Harvey Awards. He co-wrote the acclaimed fantasy series AMELIA COLE and wrote the cosmic space opera THE BIGGER BANG and its sequel, THE BIGGEST BANG, all from IDW Publishing. He wrote the sci-fi misadventure ERRAND BOYS and co-wrote a modern reimagining of the King Arthur saga called THE ONCE AND FUTURE QUEEN and the superhero drama NEVER ENDING, each published by Dark Horse Books. His latest comic is LASER JOAN AND THE RAYGUNS, a one-shot about rock 'n roll spies. Check out his website: [here](https://www.djkirkbride.com).
+  
   
 
 ##  ![cover-image - Darin Henry](https://www.anaheim.net/ImageRepository/Document?documentId=70336)Darin Henry
@@ -161,10 +166,19 @@ Henry resides in Santa Monica, California with his wife, son and daughter. IG: @
   
   
 
-##  ![DJ Kirkbride - D.J. Kirkbride](https://www.anaheim.net/ImageRepository/Document?documentId=70335)D.J. Kirkbride
-### Author
-D.J. Kirkbride (he/him) got his start in comics as an editor and contributing writer on the POPGUN anthologies from Image Comics, winning an Eisner and two Harvey Awards. He co-wrote the acclaimed fantasy series AMELIA COLE and wrote the cosmic space opera THE BIGGER BANG and its sequel, THE BIGGEST BANG, all from IDW Publishing. He wrote the sci-fi misadventure ERRAND BOYS and co-wrote a modern reimagining of the King Arthur saga called THE ONCE AND FUTURE QUEEN and the superhero drama NEVER ENDING, each published by Dark Horse Books. His latest comic is LASER JOAN AND THE RAYGUNS, a one-shot about rock 'n roll spies. Check out his website: [here](https://www.djkirkbride.com).
+##  ![Dean Rullan photo](https://www.anaheim.net/ImageRepository/Document?documentId=70858)Dean Rullan
+### Illustrator
+Dean is a freelance illustrator that draws moments that create an impact whether it be a comicbook cover or a drawing of your dog. IG: @redinkedpanda
   
+
+  
+
+  
+
+  
+
+  
+
   
 
 ##  ![Douglas_aka_heysoupface - heysoupface](https://www.anaheim.net/ImageRepository/Document?documentId=70349)Douglas aka heysoupface
@@ -411,14 +425,14 @@ DoddleVee is a character-driven brand built around an original world called Dodd
 For as long as he can remember, Warrick Walker has always had a deep love for storytelling. Some of his fondest memories revolve around a campfire, being scared to death, or coming up with the funniest scenarios possible with friends, laughing till our sides hurt, and our voices barely recognizable. Through writing, Warrick has been able to explore unknown lands and express feeling that might be hard otherwise. Comics have helped him through some of his hardest times, and he will devote the rest of his life to honing his craft and contributing to the thing that brings him so much joy. IG: @warrickwalker
   
 
-  1. [Food](https://www.anaheim.net/4743/AnaCon#tabdcd45d6a-e7c0-443f-a565-80c91b6d9a04_5)
+  1. [Food](https://www.anaheim.net/4743/AnaCon#tabde828591-ecd2-4888-a8c0-335dcdce988a_5)
 
 
 # ![Guac n roll food truck](https://www.anaheim.net/ImageRepository/Document?documentId=54099)
   
 
 Delicious eats from Guac N' Roll! 
-  1. [Parking](https://www.anaheim.net/4743/AnaCon#tabdcd45d6a-e7c0-443f-a565-80c91b6d9a04_6)
+  1. [Parking](https://www.anaheim.net/4743/AnaCon#tabde828591-ecd2-4888-a8c0-335dcdce988a_6)
 
 
 ## Parking is available at the Central Library.
@@ -429,7 +443,7 @@ Delicious eats from Guac N' Roll!
 
   
 
-  1. [AnaCon 2027](https://www.anaheim.net/4743/AnaCon#tabdcd45d6a-e7c0-443f-a565-80c91b6d9a04_9)
+  1. [AnaCon 2027](https://www.anaheim.net/4743/AnaCon#tabde828591-ecd2-4888-a8c0-335dcdce988a_9)
 
 
 # Interested in being a vendor for our 10th Anniversary?
@@ -438,7 +452,7 @@ Delicious eats from Guac N' Roll!
 ## Saturday, April 24, 2027
   
 
-### Fill out the interest form:[ HERE!](https://forms.gle/GpNUnkv9HsVqstmY9)
+### Fill out the [**2027 AnaCon vendor interest form**](https://forms.gle/GpNUnkv9HsVqstmY9)!
 [![Library Home Page](https://www.anaheim.net/ImageRepository/Document?documentID=42940)](https://www.anaheim.net/6100)
   1. [Library Web Calendar ](https://anaheim.libcal.com)
   2. [Branch Calendars](https://www.anaheim.net/2679/Branch-Calendars)

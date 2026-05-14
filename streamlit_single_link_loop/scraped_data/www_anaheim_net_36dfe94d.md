@@ -40,6 +40,14 @@ Technical consultant services are of a professional nature. Due to the ethical c
 Agreements Under $200,000   
 Agreements valued at $200,000 or less may be awarded by the City Manager. Agreements valued between $25,000 and $200,000 are displayed below for a period of 30 days after award. Persons desiring more information about these contracts should contact the appropriate Department Administrator.
 * * *
+## May
+CRITICAL STRUCTURES, INC., Agreement to provide professional expertise for structural engineering services.  
+**Award Date:** May 12, 2026  
+**Award Amount:** $49,000.00  
+**Service Provider:** Critical Structures, Inc.  
+**Department Receiving Services:** Convention Center  
+**Department Administrator:** Tom Morton 714-765-8920  
+[Click here](https://www.anaheim.net/DocumentCenter/View/70859/AGR-15959-CRITICAL-STRUCTURES-INC) to view the agreement
 ## April
 PYRO SPECTACULARS BY SOUZA, Agreement for full service Fireworks Show and production for event on Saturday, July 4, 2026.  
 **Award Date:** April 28, 2026  

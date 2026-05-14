@@ -100,8 +100,8 @@ Fireworks may be discharged between 10 a.m. and 10 p.m. only on July 4.
       10. [Beat the Heat](https://www.anaheim.net/5073/Beat-the-Heat)
     3. [Preparing for Wildfire](https://www.anaheim.net/5629/Preparing-for-Wildfire)
     4. [Be Ready Anaheim: A Hazard Mitigation Plan](https://www.anaheim.net/6102/Be-Ready-Anaheim-A-Hazard-Mitigation-Pla)
-    5. [Emergency Essentials Workshop](https://www.anaheim.net/DocumentCenter/View/44277/Emer-Essentials-Flyer-with-QR-Code-0622)
-    6. [Fire Hazard Severity Zones](https://www.anaheim.net/6660/Fire-Hazard-Severity-Zones)
+    5. [Fire Hazard Severity Zones](https://www.anaheim.net/6660/Fire-Hazard-Severity-Zones)
+    6. [Emergency Preparedness Guide](https://www.anaheim.net/DocumentCenter/View/70837/Anaheim-Emergency-Preparedness-Guide)
   2. [Fireworks in Anaheim](https://www.anaheim.net/3280/Fireworks-in-Anaheim)
   3. [Anaheim Health Fair](https://www.anaheim.net/3154/Anaheim-Health-Fair)
   4. [Honda Center: OC Vibe](https://www.anaheim.net/5157/Honda-Center-OC-Vibe)
@@ -170,4 +170,3 @@ Loading
 Do Not Show Again Close
 Arrow Left Arrow Right
 Slideshow Left Arrow Slideshow Right Arrow
-Close **×**

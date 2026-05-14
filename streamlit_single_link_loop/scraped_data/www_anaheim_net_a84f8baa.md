@@ -27,7 +27,6 @@ Loading
   4. [ Departments ](https://www.anaheim.net/148/Departments)
 
 
-![](https://www.anaheim.net/ImageRepository/Document?documentID=41693)
   1. [Home](https://www.anaheim.net/)
   2. [Departments](https://www.anaheim.net/148/Departments)
   3. [City Administration](https://www.anaheim.net/149/City-Administration)
@@ -87,8 +86,8 @@ _
       10. [Beat the Heat](https://www.anaheim.net/5073/Beat-the-Heat)
     3. [Preparing for Wildfire](https://www.anaheim.net/5629/Preparing-for-Wildfire)
     4. [Be Ready Anaheim: A Hazard Mitigation Plan](https://www.anaheim.net/6102/Be-Ready-Anaheim-A-Hazard-Mitigation-Pla)
-    5. [Emergency Essentials Workshop](https://www.anaheim.net/DocumentCenter/View/44277/Emer-Essentials-Flyer-with-QR-Code-0622)
-    6. [Fire Hazard Severity Zones](https://www.anaheim.net/6660/Fire-Hazard-Severity-Zones)
+    5. [Fire Hazard Severity Zones](https://www.anaheim.net/6660/Fire-Hazard-Severity-Zones)
+    6. [Emergency Preparedness Guide](https://www.anaheim.net/DocumentCenter/View/70837/Anaheim-Emergency-Preparedness-Guide)
   2. [Fireworks in Anaheim](https://www.anaheim.net/3280/Fireworks-in-Anaheim)
   3. [Anaheim Health Fair](https://www.anaheim.net/3154/Anaheim-Health-Fair)
   4. [Honda Center: OC Vibe](https://www.anaheim.net/5157/Honda-Center-OC-Vibe)
@@ -155,12 +154,6 @@ Government Websites by [CivicPlus®](https://connect.civicplus.com/referral)
 ## Loading
 Loading 
 Do Not Show Again Close
-Select Language Abkhaz Acehnese Acholi Afar Afrikaans Albanian Alur Amharic Arabic Armenian Assamese Avar Awadhi Aymara Azerbaijani Balinese Baluchi Bambara Baoulé Bashkir Basque Batak Karo Batak Simalungun Batak Toba Belarusian Bemba Bengali Betawi Bhojpuri Bikol Bosnian Breton Bulgarian Buryat Cantonese Catalan Cebuano Chamorro Chechen Chichewa Chinese (Simplified) Chinese (Traditional) Chuukese Chuvash Corsican Crimean Tatar (Cyrillic) Crimean Tatar (Latin) Croatian Czech Danish Dari Dhivehi Dinka Dogri Dombe Dutch Dyula Dzongkha Esperanto Estonian Ewe Faroese Fijian Filipino Finnish Fon French French (Canada) Frisian Friulian Fulani Ga Galician Georgian German Greek Guarani Gujarati Haitian Creole Hakha Chin Hausa Hawaiian Hebrew Hiligaynon Hindi Hmong Hungarian Hunsrik Iban Icelandic Igbo Ilocano Indonesian Inuktut (Latin) Inuktut (Syllabics) Irish Italian Jamaican Patois Japanese Javanese Jingpo Kalaallisut Kannada Kanuri Kapampangan Kazakh Khasi Khmer Kiga Kikongo Kinyarwanda Kituba Kokborok Komi Konkani Korean Krio Kurdish (Kurmanji) Kurdish (Sorani) Kyrgyz Lao Latgalian Latin Latvian Ligurian Limburgish Lingala Lithuanian Lombard Luganda Luo Luxembourgish Macedonian Madurese Maithili Makassar Malagasy Malay Malay (Jawi) Malayalam Maltese Mam Manx Maori Marathi Marshallese Marwadi Mauritian Creole Meadow Mari Meiteilon (Manipuri) Minang Mizo Mongolian Myanmar (Burmese) Nahuatl (Eastern Huasteca) Ndau Ndebele (South) Nepalbhasa (Newari) Nepali NKo Norwegian Nuer Occitan Odia (Oriya) Oromo Ossetian Pangasinan Papiamento Pashto Persian Polish Portuguese (Brazil) Portuguese (Portugal) Punjabi (Gurmukhi) Punjabi (Shahmukhi) Quechua Qʼeqchiʼ Romani Romanian Rundi Russian Sami (North) Samoan Sango Sanskrit Santali (Latin) Santali (Ol Chiki) Scots Gaelic Sepedi Serbian Sesotho Seychellois Creole Shan Shona Sicilian Silesian Sindhi Sinhala Slovak Slovenian Somali Spanish Sundanese Susu Swahili Swati Swedish Tahitian Tajik Tamazight Tamazight (Tifinagh) Tamil Tatar Telugu Tetum Thai Tibetan Tigrinya Tiv Tok Pisin Tongan Tshiluba Tsonga Tswana Tulu Tumbuka Turkish Turkmen Tuvan Twi Udmurt Ukrainian Urdu Uyghur Uzbek Venda Venetian Vietnamese Waray Welsh Wolof Xhosa Yakut Yiddish Yoruba Yucatec Maya Zapotec Zulu
-Powered by [![Google Translate](https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png)Translate](https://translate.google.com)
 Arrow Left Arrow Right
 Slideshow Left Arrow Slideshow Right Arrow
-![](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
-Original text
-Rate this translation
-Your feedback will be used to help improve Google Translate
 Close **×**

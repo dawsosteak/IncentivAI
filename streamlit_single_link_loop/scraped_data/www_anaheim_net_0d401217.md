@@ -88,3 +88,4 @@ Arrow Left Arrow Right
 Slideshow Left Arrow Slideshow Right Arrow
 ### Live Edit
 [](https://www.anaheim.net/ "Close this window")
+Close **×**

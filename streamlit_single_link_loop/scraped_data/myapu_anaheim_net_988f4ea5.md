@@ -28,9 +28,4 @@ Anaheim, CA 92805
 #### Text Size:
 ![Font Decrease](https://myapu.anaheim.net/capricorn/images/fontDecrease.png) ![Font Normal](https://myapu.anaheim.net/capricorn/images/fontNormal.png) ![Font Increase](https://myapu.anaheim.net/capricorn/images/fontIncrease.png)
 #### Choose a Language:
-![](https://www.google.com/images/cleardot.gif)[![](https://www.google.com/images/cleardot.gif)​![](https://www.google.com/images/cleardot.gif)▼](https://myapu.anaheim.net/app/forgotPassword.jsp)
 All contents ©2026 City of Anaheim. 
-![](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
-Original text
-Rate this translation
-Your feedback will be used to help improve Google Translate

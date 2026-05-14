@@ -31,17 +31,17 @@ Loading
   7. [Qualifying Income Levels](https://www.anaheim.net/6423/Qualifying-Income-Levels)
 
 
-#  2025 Qualifying Income Levels 
+#  2026 Qualifying Income Levels 
 Household Size | Household Income  
 ---|---  
-**1** | **$94,750**  
-**2** | **$108,300**  
-**3** | **$121,850**  
-**4** | **$135,350**  
-**5** | **$146,200**  
-**6** | **$157,050**  
-**7** | **$167,850**  
-**8** | **$178,700**  
+**1** | **$104,200**  
+**2** | **$119,100**  
+**3** | **$134,000**  
+**4** | **$148,850**  
+**5** | **$160,800**  
+**6** | **$172,700**  
+**7** | **$184,600**  
+**8** | **$196,500**  
 ### Information per Department of Housing & Urban Development. Based on 80 percent of the Orange County Median Family Income Level, which is adjusted annually. 
   
 
@@ -93,3 +93,4 @@ Loading
 Do Not Show Again Close
 Arrow Left Arrow Right
 Slideshow Left Arrow Slideshow Right Arrow
+Close **×**

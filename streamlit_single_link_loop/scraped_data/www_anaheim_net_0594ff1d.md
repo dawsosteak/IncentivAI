@@ -22,7 +22,6 @@ Loading
   5. [ Resources ](https://www.anaheim.net/375/Resources)
 
 
-![](https://www.anaheim.net/ImageRepository/Document?documentID=41693)
   1. [Home](https://www.anaheim.net/)
   2. [Departments](https://www.anaheim.net/148/Departments)
   3. [Public Utilities](https://www.anaheim.net/6099/Public-Utilities)

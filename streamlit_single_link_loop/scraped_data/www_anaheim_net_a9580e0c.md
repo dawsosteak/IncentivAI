@@ -32,17 +32,21 @@ Loading
 
 
 #  Book Clubs for Teens 
-  1. [Central Library](https://www.anaheim.net/6776/Book-Clubs-for-Teens#tab9f6d5c02-b45b-4f15-ae4b-8008eb670943_0)
+  1. [Central Library](https://www.anaheim.net/6776/Book-Clubs-for-Teens#tab684a5c6e-86b4-4544-9156-8a88c288b04f_0)
 
 
-  1. [Central Library](https://www.anaheim.net/6776/Book-Clubs-for-Teens#tab9f6d5c02-b45b-4f15-ae4b-8008eb670943_0)
+  1. [Central Library](https://www.anaheim.net/6776/Book-Clubs-for-Teens#tab684a5c6e-86b4-4544-9156-8a88c288b04f_0)
 
 
-# Low-Commitment Book Club
-**Saturday, March 28, 1 p.m. - 2 p.m. Central Library, 500 W. Broadway**
-First 12 teens to register can pick up a free copy of the book selection FIVE SURVIVE by Holly Jackson, courtesy of the APL Foundation. Register [**HERE!**](https://anaheim.libcal.com/event/16459883)
+# Teen Low-Commitment Book Club
+### **Central Library, 500 W. Broadway**
   
 
+Join us for bookish discussion, snacks, and tea. Whether you finished the book or not, all are welcome to join!
+The Teen Low-Commitment Book Club meets on the 1st Saturday of the month in the Central Library's Teen Lounge at 1 p.m. The Anaheim Public Library Foundation provides multiple free copies of discussion titles each month. Copies may also be procured from the library's collection or neighboring library systems.
+Next:   
+Saturday, Jun. 6, at 1 p.m.  
+Book: [Six Crimson Cranes](https://ana.ent.sirsi.net/client/en_US/virtual/search/results?qu=Six+crimson+cranes&te=) by Elizabeth Lim![Six Crimson Cranes bookcover](https://www.anaheim.net/ImageRepository/Document?documentId=70849)
   
 
 ---------

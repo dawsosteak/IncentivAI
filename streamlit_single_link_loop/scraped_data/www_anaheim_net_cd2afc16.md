@@ -35,16 +35,12 @@ Loading
 
 
 #  Voter Information 
-  * [**Vote Center & Ballot Box Locations throughout Anaheim**](https://www.anaheim.net/6734/Vote-Center-and-Ballot-Box-Locations-thr)
+  1. [Eligibility](https://www.anaheim.net/2922/Voter-Information#tab5142d008-12ae-4dd7-9f67-e6d7511ddcc6_0)
+  2. [Registration Options](https://www.anaheim.net/2922/Voter-Information#tab5142d008-12ae-4dd7-9f67-e6d7511ddcc6_1)
+  3. [Vote Centers](https://www.anaheim.net/2922/Voter-Information#tab5142d008-12ae-4dd7-9f67-e6d7511ddcc6_2)
 
 
-* * *
-  1. [Eligibility](https://www.anaheim.net/2922/Voter-Information#tabf2b301ab-35e1-4add-92b7-4f296445897d_0)
-  2. [Registration Options](https://www.anaheim.net/2922/Voter-Information#tabf2b301ab-35e1-4add-92b7-4f296445897d_1)
-  3. [Vote Centers](https://www.anaheim.net/2922/Voter-Information#tabf2b301ab-35e1-4add-92b7-4f296445897d_2)
-
-
-  1. [Eligibility](https://www.anaheim.net/2922/Voter-Information#tabf2b301ab-35e1-4add-92b7-4f296445897d_0)
+  1. [Eligibility](https://www.anaheim.net/2922/Voter-Information#tab5142d008-12ae-4dd7-9f67-e6d7511ddcc6_0)
 
 
 Eligibility Requirements to Register and Vote   
@@ -55,7 +51,7 @@ A person must be:
   * Not currently found mentally incompetent to vote by a court
 
 
-  1. [Registration Options](https://www.anaheim.net/2922/Voter-Information#tabf2b301ab-35e1-4add-92b7-4f296445897d_1)
+  1. [Registration Options](https://www.anaheim.net/2922/Voter-Information#tab5142d008-12ae-4dd7-9f67-e6d7511ddcc6_1)
 
 
 Voter Registration Options
@@ -77,7 +73,7 @@ Santa Ana, CA 92705
 
   
 
-  1. [Vote Centers](https://www.anaheim.net/2922/Voter-Information#tabf2b301ab-35e1-4add-92b7-4f296445897d_2)
+  1. [Vote Centers](https://www.anaheim.net/2922/Voter-Information#tab5142d008-12ae-4dd7-9f67-e6d7511ddcc6_2)
 
 
 **Vote Centers** mean more voting options for voters - vote centers will be open for voting and registration for up to 4 days prior to election day and voters will have the opportunity to cast their ballot at any vote center throughout Orange County. Also, with this new voting model, all voters will receive a vote-by-mail ballot in the mail prior to the election. [Learn more](http://www.anaheim.net/5414/Orange-County-Vote-Centers)

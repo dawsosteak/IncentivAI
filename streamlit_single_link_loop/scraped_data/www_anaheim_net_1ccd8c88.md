@@ -28,7 +28,6 @@ Loading
   5. [ I Want to... ](https://www.anaheim.net/4885/I-Want-to)
 
 
-![](https://www.anaheim.net/ImageRepository/Document?documentID=41693)
   1. [Home](https://www.anaheim.net/)
   2. [Departments](https://www.anaheim.net/148/Departments)
   3. [Housing and Community Development](https://www.anaheim.net/6363/Housing-and-Community-Development)
@@ -97,11 +96,6 @@ Government Websites by [CivicPlus®](https://connect.civicplus.com/referral)
 ## Loading
 Loading 
 Do Not Show Again Close
-[![Google Translate](https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png)Translate](https://translate.google.com)
 Arrow Left Arrow Right
 Slideshow Left Arrow Slideshow Right Arrow
-![](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
-Original text
-Rate this translation
-Your feedback will be used to help improve Google Translate
 Close **×**

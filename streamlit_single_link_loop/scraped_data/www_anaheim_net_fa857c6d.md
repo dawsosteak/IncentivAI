@@ -73,8 +73,8 @@ Anaheim's police chief plays a leading role in connecting the department to the 
       10. [Beat the Heat](https://www.anaheim.net/5073/Beat-the-Heat)
     3. [Preparing for Wildfire](https://www.anaheim.net/5629/Preparing-for-Wildfire)
     4. [Be Ready Anaheim: A Hazard Mitigation Plan](https://www.anaheim.net/6102/Be-Ready-Anaheim-A-Hazard-Mitigation-Pla)
-    5. [Emergency Essentials Workshop](https://www.anaheim.net/DocumentCenter/View/44277/Emer-Essentials-Flyer-with-QR-Code-0622)
-    6. [Fire Hazard Severity Zones](https://www.anaheim.net/6660/Fire-Hazard-Severity-Zones)
+    5. [Fire Hazard Severity Zones](https://www.anaheim.net/6660/Fire-Hazard-Severity-Zones)
+    6. [Emergency Preparedness Guide](https://www.anaheim.net/DocumentCenter/View/70837/Anaheim-Emergency-Preparedness-Guide)
   2. [Fireworks in Anaheim](https://www.anaheim.net/3280/Fireworks-in-Anaheim)
   3. [Anaheim Health Fair](https://www.anaheim.net/3154/Anaheim-Health-Fair)
   4. [Honda Center: OC Vibe](https://www.anaheim.net/5157/Honda-Center-OC-Vibe)
@@ -141,11 +141,6 @@ Government Websites by [CivicPlus®](https://connect.civicplus.com/referral)
 ## Loading
 Loading 
 Do Not Show Again Close
-[![Google Translate](https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png)Translate](https://translate.google.com)
 Arrow Left Arrow Right
 Slideshow Left Arrow Slideshow Right Arrow
-![](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
-Original text
-Rate this translation
-Your feedback will be used to help improve Google Translate
 Close **×**

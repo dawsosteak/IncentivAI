@@ -161,8 +161,8 @@ Jump to:
             10. [Beat the Heat](https://www.anaheim.net/5073/Beat-the-Heat)
           3. [Preparing for Wildfire](https://www.anaheim.net/5629/Preparing-for-Wildfire)
           4. [Be Ready Anaheim: A Hazard Mitigation Plan](https://www.anaheim.net/6102/Be-Ready-Anaheim-A-Hazard-Mitigation-Pla)
-          5. [Emergency Essentials Workshop](https://www.anaheim.net/6244/Emergency-Essentials-Workshop)
-          6. [Fire Hazard Severity Zones](https://www.anaheim.net/6660/Fire-Hazard-Severity-Zones)
+          5. [Fire Hazard Severity Zones](https://www.anaheim.net/6660/Fire-Hazard-Severity-Zones)
+          6. [Emergency Preparedness Guide](https://www.anaheim.net/6798/Emergency-Preparedness-Guide)
         2. [Fireworks in Anaheim](https://www.anaheim.net/3280/Fireworks-in-Anaheim)
         3. [Anaheim Health Fair](https://www.anaheim.net/3154/Anaheim-Health-Fair)
         4. [K9Monuments](https://www.anaheim.net/3264/K9Monuments)
@@ -846,10 +846,11 @@ Jump to:
           4. [Stay Housed Anaheim Program](https://www.anaheim.net/6787/Stay-Housed-Anaheim-Program)
           5. [ATID Housing Committee](https://www.anaheim.net/6794/ATID-Housing-Committee)
         3. [Build More Homes Initiative](https://www.anaheim.net/6697/Build-More-Homes-Initiative)
-        4. [Stay Housed Anaheim Program](https://www.anaheim.net/6696/Stay-Housed-Anaheim-Program)
-        5. [Proposed Affordable Housing Development Projects](https://www.anaheim.net/6415/Proposed-Affordable-Housing-Development-)
-        6. [Rebuild Beach](https://www.anaheim.net/6416/Rebuild-Beach)
-        7. [Senior Safety Net Program](https://www.anaheim.net/6417/Senior-Safety-Net-Program)
+        4. [California Pro-Housing Designation](https://www.anaheim.net/6797/California-Pro-Housing-Designation)
+        5. [Stay Housed Anaheim Program](https://www.anaheim.net/6696/Stay-Housed-Anaheim-Program)
+        6. [Proposed Affordable Housing Development Projects](https://www.anaheim.net/6415/Proposed-Affordable-Housing-Development-)
+        7. [Rebuild Beach](https://www.anaheim.net/6416/Rebuild-Beach)
+        8. [Senior Safety Net Program](https://www.anaheim.net/6417/Senior-Safety-Net-Program)
       5. [I Want To](https://www.anaheim.net/6385/I-Want-To)
         1. [See Community Job Opportunities](https://www.anaheim.net/6403/See-Community-Job-Opportunities)
         2. [Find Employees to Hire](https://www.anaheim.net/6404/Find-Employees-to-Hire)
@@ -1685,7 +1686,6 @@ Jump to:
       2. [Maps & Directions](https://www.anaheim.net/1268/Maps-Directions)
 [▲ Back to Top](https://www.anaheim.net/sitemap#siteMapTop)
   9. ###  [Businesses](https://www.anaheim.net/35/Businesses)
-    1. [Business Opportunities](https://www.anaheim.net/2256/Business-Opportunities)
-      1. [Electronic Bid Notices](https://www.anaheim.net/140/Electronic-Bid
+    1. [Business Opportunities](https://www.anahei
 
 ...[TRUNCATED TO PREVENT OVERWHELMING ANALYZER]

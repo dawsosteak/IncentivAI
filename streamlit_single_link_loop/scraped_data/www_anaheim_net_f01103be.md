@@ -35,7 +35,7 @@ Loading
 
 #  Historic Preservation 
 Historic Preservation creates, maintains and monitors the inventory and database for the City's designated and potential historic properties; assists owners of these properties by providing education, resources, advice and financial incentives; and provides information to the general public regarding the City's Historic Preservation programs and historic properties.
-Missed the 2025 Historic Preservation Workshop? You can view the workshop presentation [here](https://www.anaheim.net/DocumentCenter/View/66493/2025-Historic-Preservation-Workshop), or contact City staff at HPreservation@anaheim.net for additional information
+Missed the 2026 Historic Preservation Workshop? You can view the workshop presentation [here](https://www.anaheim.net/DocumentCenter/View/70836/), or contact City staff at HPreservation@anaheim.net for additional information
 # Contact Us
 ## Amanda Lauffer
 Phone: (714) 765 - 4479
@@ -102,3 +102,4 @@ Loading
 Do Not Show Again Close
 Arrow Left Arrow Right
 Slideshow Left Arrow Slideshow Right Arrow
+Close **×**

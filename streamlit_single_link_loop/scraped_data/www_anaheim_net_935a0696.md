@@ -36,8 +36,6 @@ Loading
 The Office of the City Clerk is responsible for a myriad of functions and is comprised of three core functions: official records, elections and passport services. Responsibilities include maintenance of the city's legislative history, City Charter and Municipal Code; administering special and general municipal elections; coordinating and administering all activities of Council meetings in compliance with the Brown Act and related Government Codes; administering the city-wide Records Management Program; managing and coordinating Council appointed boards and commissions; and ensuring compliance with the Political Reform Act and AB1234. The City Clerk is also the custodian of the City seal and is appointed by and reports to the City Council.
 [![Council Meeting Calendar Opens in new window](https://www.anaheim.net/ImageRepository/Document?documentID=42658)](https://www.anaheim.net/DocumentCenter/View/67140/2026-City-Council-Meeting-Calendar)
 ## Upcoming:
-  * **Tuesday, May 5, 2026**  
-[City Council Meeting](https://communitycalendar.anaheim.net/anaheimca/260117746?utm_source=bewith&utm_medium=share)
   * **Tuesday, May 12, 2026**  
 [City Council Meeting](https://communitycalendar.anaheim.net/anaheimca/260117747?utm_source=bewith&utm_medium=share)
   * **Tuesday, June 9, 2026**  

@@ -39,11 +39,12 @@ Emergency: Dial 911
   5. [ I Want To... ](https://pd.anaheim.net/35/I-Want-To)
 
 
-![](https://pd.anaheim.net/ImageRepository/Document?documentID=89)
+![](https://pd.anaheim.net/ImageRepository/Document?documentID=90)
   1. [Office of the Chief](https://pd.anaheim.net/163/Office-of-the-Chief) [](https://pd.anaheim.net/27/About)
     1. [Executive Staff](https://pd.anaheim.net/166/Executive-Staff)
     2. [Chief's Advisory Panel](https://pd.anaheim.net/168/Chiefs-Advisory-Panel)
-    3. [Department Organizational Chart (PDF)](https://pd.anaheim.net/DocumentCenter/View/409/Anaheim-Police-Organizational-Chart-PDF)
+    3. [Police Review Board](https://www.anaheim.net/4802/Police-Review-Board)
+    4. [Department Organizational Chart (PDF)](https://pd.anaheim.net/DocumentCenter/View/418/Anaheim-Police-Organizational-Chart-PDF)
   2. [Contact Us](https://pd.anaheim.net/Directory.aspx)
   3. [Patch](https://pd.anaheim.net/162/Patch)
   4. [Recruiting](https://pd.anaheim.net/160/Recruiting)

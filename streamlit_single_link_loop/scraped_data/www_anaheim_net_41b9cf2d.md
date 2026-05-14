@@ -206,12 +206,10 @@ Kurtis Adams
 | Business | June 30, 2030  
 Richard Licerio  
 | Labor | June 30, 2030  
-**Vacancy** |   
-|   
-  
-**Vacancy** |   
-|   
-  
+Luis Aleman  
+| Business | June 30, 2030  
+Jimmy Elrod  
+| Labor | June 30, 2030  
 **Vacancy** |   
 |   
   

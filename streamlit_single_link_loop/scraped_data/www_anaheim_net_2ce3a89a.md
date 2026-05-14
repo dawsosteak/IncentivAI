@@ -37,6 +37,16 @@ Loading
 
 #  Bid Results 
 Bid results will be posted within 3 working days of bid openings and will remain available online for 3 months.
+## Street Improvements at the Southwest Corner of the Santa Ana Canyon Road & Royal Oak Road Intersection
+  * Bid Date: April 9, 2026
+  * Bid Results are available [here](https://procurement.opengov.com/portal/anaheim/projects/198366)
+
+
+## Harbor Boulevard Rehabilitation
+  * Bid Date: May 8, 2026
+  * Bid Results are available [here](https://procurement.opengov.com/portal/anaheim/projects/249944)
+
+
 ## BROOKHURST STREET IMPROVEMENTS FROM CERRITOS AVENUE TO 150' N/O GUINIDA LANCE
   * Bid Date: March 19, 2026
   * Bid Results are available [here](https://procurement.opengov.com/portal/anaheim/projects/237142)
@@ -113,11 +123,6 @@ Government Websites by [CivicPlus®](https://connect.civicplus.com/referral)
 ## Loading
 Loading 
 Do Not Show Again Close
-[![Google Translate](https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png)Translate](https://translate.google.com)
 Arrow Left Arrow Right
 Slideshow Left Arrow Slideshow Right Arrow
-![](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
-Original text
-Rate this translation
-Your feedback will be used to help improve Google Translate
 Close **×**

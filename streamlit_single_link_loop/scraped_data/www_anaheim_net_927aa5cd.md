@@ -28,7 +28,6 @@ Loading
   5. [ I Want To ](https://www.anaheim.net/6385/I-Want-To)
 
 
-![](https://www.anaheim.net/ImageRepository/Document?documentID=41693)
   1. [Home](https://www.anaheim.net/)
   2. [Departments](https://www.anaheim.net/148/Departments)
   3. [Housing and Community Development](https://www.anaheim.net/6363/Housing-and-Community-Development)
@@ -46,13 +45,15 @@ Loading
 [Link to page](https://www.anaheim.net/6693/Anaheim-Local-Housing-Trust-Fund)
   3. Build More Homes Initiative 
 [Link to page](https://www.anaheim.net/6697/Build-More-Homes-Initiative)
-  4. Stay Housed Anaheim Program 
+  4. California Pro-Housing Designation 
+[Link to page](https://www.anaheim.net/6797/California-Pro-Housing-Designation)
+  5. Stay Housed Anaheim Program 
 [Link to page](https://www.anaheim.net/6696/Stay-Housed-Anaheim-Program)
-  5. Proposed Affordable Housing Development Projects 
+  6. Proposed Affordable Housing Development Projects 
 [Link to page](https://www.anaheim.net/780/Housing-Development)
-  6. Rebuild Beach 
+  7. Rebuild Beach 
 [Link to page](https://anaheim.net/6064/Rebuild-Beach-Boulevard)
-  7. Senior Safety Net Program 
+  8. Senior Safety Net Program 
 [Link to page](https://www.anaheim.net/6417/Senior-Safety-Net-Program)
 
 
@@ -64,10 +65,11 @@ Loading
     4. [Stay Housed Anaheim Program](https://www.anaheim.net/6696/Housing-Stability-Program)
     5. [ATID Housing Committee](https://www.anaheim.net/6794/ATID-Housing-Committee)
   3. [Build More Homes Initiative](https://www.anaheim.net/6697/Build-More-Homes-Initiative)
-  4. [Stay Housed Anaheim Program](https://www.anaheim.net/6696/Stay-Housed-Anaheim-Program)
-  5. [Proposed Affordable Housing Development Projects](https://www.anaheim.net/780/Housing-Development)
-  6. [Rebuild Beach](https://anaheim.net/6064/Rebuild-Beach-Boulevard)
-  7. [Senior Safety Net Program](https://www.anaheim.net/6417/Senior-Safety-Net-Program)
+  4. [California Pro-Housing Designation](https://www.anaheim.net/6797/California-Pro-Housing-Designation)
+  5. [Stay Housed Anaheim Program](https://www.anaheim.net/6696/Stay-Housed-Anaheim-Program)
+  6. [Proposed Affordable Housing Development Projects](https://www.anaheim.net/780/Housing-Development)
+  7. [Rebuild Beach](https://anaheim.net/6064/Rebuild-Beach-Boulevard)
+  8. [Senior Safety Net Program](https://www.anaheim.net/6417/Senior-Safety-Net-Program)
 
 
   1. ![Anaheim](https://www.anaheim.net/ImageRepository/Document?documentId=41696)
@@ -107,12 +109,6 @@ Government Websites by [CivicPlus®](https://connect.civicplus.com/referral)
 ## Loading
 Loading 
 Do Not Show Again Close
-Select Language Abkhaz Acehnese Acholi Afar Afrikaans Albanian Alur Amharic Arabic Armenian Assamese Avar Awadhi Aymara Azerbaijani Balinese Baluchi Bambara Baoulé Bashkir Basque Batak Karo Batak Simalungun Batak Toba Belarusian Bemba Bengali Betawi Bhojpuri Bikol Bosnian Breton Bulgarian Buryat Cantonese Catalan Cebuano Chamorro Chechen Chichewa Chinese (Simplified) Chinese (Traditional) Chuukese Chuvash Corsican Crimean Tatar (Cyrillic) Crimean Tatar (Latin) Croatian Czech Danish Dari Dhivehi Dinka Dogri Dombe Dutch Dyula Dzongkha Esperanto Estonian Ewe Faroese Fijian Filipino Finnish Fon French French (Canada) Frisian Friulian Fulani Ga Galician Georgian German Greek Guarani Gujarati Haitian Creole Hakha Chin Hausa Hawaiian Hebrew Hiligaynon Hindi Hmong Hungarian Hunsrik Iban Icelandic Igbo Ilocano Indonesian Inuktut (Latin) Inuktut (Syllabics) Irish Italian Jamaican Patois Japanese Javanese Jingpo Kalaallisut Kannada Kanuri Kapampangan Kazakh Khasi Khmer Kiga Kikongo Kinyarwanda Kituba Kokborok Komi Konkani Korean Krio Kurdish (Kurmanji) Kurdish (Sorani) Kyrgyz Lao Latgalian Latin Latvian Ligurian Limburgish Lingala Lithuanian Lombard Luganda Luo Luxembourgish Macedonian Madurese Maithili Makassar Malagasy Malay Malay (Jawi) Malayalam Maltese Mam Manx Maori Marathi Marshallese Marwadi Mauritian Creole Meadow Mari Meiteilon (Manipuri) Minang Mizo Mongolian Myanmar (Burmese) Nahuatl (Eastern Huasteca) Ndau Ndebele (South) Nepalbhasa (Newari) Nepali NKo Norwegian Nuer Occitan Odia (Oriya) Oromo Ossetian Pangasinan Papiamento Pashto Persian Polish Portuguese (Brazil) Portuguese (Portugal) Punjabi (Gurmukhi) Punjabi (Shahmukhi) Quechua Qʼeqchiʼ Romani Romanian Rundi Russian Sami (North) Samoan Sango Sanskrit Santali (Latin) Santali (Ol Chiki) Scots Gaelic Sepedi Serbian Sesotho Seychellois Creole Shan Shona Sicilian Silesian Sindhi Sinhala Slovak Slovenian Somali Spanish Sundanese Susu Swahili Swati Swedish Tahitian Tajik Tamazight Tamazight (Tifinagh) Tamil Tatar Telugu Tetum Thai Tibetan Tigrinya Tiv Tok Pisin Tongan Tshiluba Tsonga Tswana Tulu Tumbuka Turkish Turkmen Tuvan Twi Udmurt Ukrainian Urdu Uyghur Uzbek Venda Venetian Vietnamese Waray Welsh Wolof Xhosa Yakut Yiddish Yoruba Yucatec Maya Zapotec Zulu
-Powered by [![Google Translate](https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png)Translate](https://translate.google.com)
 Arrow Left Arrow Right
 Slideshow Left Arrow Slideshow Right Arrow
-![](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
-Original text
-Rate this translation
-Your feedback will be used to help improve Google Translate
 Close **×**

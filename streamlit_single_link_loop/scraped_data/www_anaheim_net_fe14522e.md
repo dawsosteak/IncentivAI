@@ -39,7 +39,7 @@ _Click the bottom right to translate to another language • Haga clic abajo a l
 ##  Immigration enforcement: timely updates  
   
 
-**ANAHEIM, Calif.** (May 11,  
+**ANAHEIM, Calif.** (May 13, 2026) — We are tracking any potential federal immigration enforcement activity in Anaheim on Wednesday.  
   
 Anaheim is seeing incidents of targeted enforcement, which focuses on one or two people, about each week to 10 days. We urge caution in what you see and share and encourage everyone to be responsible by following best practices by trying to note size, agency, vehicles, time, equipment and other critical factors. Federal immigration enforcement uses everyday vehicles and plainclothes, which can bring confusion and makes detailed observation even more important. 
 The entire city of Anaheim is not involved in federal immigration enforcement, and we do not support how some federal immigration enforcement is being done. We have joined with other cities in litigation against excessive enforcement tactics. We urge you to seek out trusted information here or call us [(714) 765-5162](tel:\(714\)%20765-5162) if you have questions.

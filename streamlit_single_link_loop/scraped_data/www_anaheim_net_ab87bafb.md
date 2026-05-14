@@ -36,19 +36,18 @@ Loading
 
 
 #  Project Advertisements 
-  1. [Electric Utility Relocation Project at Cerritos Ave. and Douglass Rd.](https://www.anaheim.net/309/Project-Advertisements#tabe137937b-3124-4ba6-baf8-6c11c54e351d_0)
-  2. [BROADWAY REHABILITATION FROM ANAHEIM bOULEVARD TO EAST STREET](https://www.anaheim.net/309/Project-Advertisements#tabe137937b-3124-4ba6-baf8-6c11c54e351d_1)
-  3. [Orangewood avenue bridge widening project over the santa ana river](https://www.anaheim.net/309/Project-Advertisements#tabe137937b-3124-4ba6-baf8-6c11c54e351d_2)
-  4. [Installation for Signing and Striping at Ten Local Roadways](https://www.anaheim.net/309/Project-Advertisements#tabe137937b-3124-4ba6-baf8-6c11c54e351d_3)
-  5. [Broadway and elder street sanitary sewer improvement](https://www.anaheim.net/309/Project-Advertisements#tabe137937b-3124-4ba6-baf8-6c11c54e351d_4)
-  6. [STREET IMPROVEMENT AT THE SW CORNER OF SANTA ANA CANYON ROAD & ROYAL OAK INTERSECTION](https://www.anaheim.net/309/Project-Advertisements#tabe137937b-3124-4ba6-baf8-6c11c54e351d_5)
-  7. [MAGNOLIA AVENUE AND BROADWAY SANITARY SEWER IMPROVEMENT PROJECT](https://www.anaheim.net/309/Project-Advertisements#tabe137937b-3124-4ba6-baf8-6c11c54e351d_6)
-  8. [Residential Street Improvement Project Monterrey & Baker Group 19](https://www.anaheim.net/309/Project-Advertisements#tabe137937b-3124-4ba6-baf8-6c11c54e351d_7)
-  9. [HARBOR BOULEVARD REHABILITATION FROM N/O LINCOLN AVENUE TO NORTH STREET](https://www.anaheim.net/309/Project-Advertisements#tabe137937b-3124-4ba6-baf8-6c11c54e351d_8)
-  10. [CITYWIDE SAFE ROUTES TO SCHOOL SIDEWALK GAP CLOSURE](https://www.anaheim.net/309/Project-Advertisements#tabe137937b-3124-4ba6-baf8-6c11c54e351d_9)
+  1. [Electric Utility Relocation Project at Cerritos Ave. and Douglass Rd.](https://www.anaheim.net/309/Project-Advertisements#tab3a9b6934-96a7-4083-a735-2c105b32b32d_0)
+  2. [Orangewood avenue bridge widening project over the santa ana river](https://www.anaheim.net/309/Project-Advertisements#tab3a9b6934-96a7-4083-a735-2c105b32b32d_1)
+  3. [Installation for Signing and Striping at Ten Local Roadways](https://www.anaheim.net/309/Project-Advertisements#tab3a9b6934-96a7-4083-a735-2c105b32b32d_2)
+  4. [Broadway and elder street sanitary sewer improvement](https://www.anaheim.net/309/Project-Advertisements#tab3a9b6934-96a7-4083-a735-2c105b32b32d_3)
+  5. [STREET IMPROVEMENT AT THE SW CORNER OF SANTA ANA CANYON ROAD & ROYAL OAK INTERSECTION](https://www.anaheim.net/309/Project-Advertisements#tab3a9b6934-96a7-4083-a735-2c105b32b32d_4)
+  6. [MAGNOLIA AVENUE AND BROADWAY SANITARY SEWER IMPROVEMENT PROJECT](https://www.anaheim.net/309/Project-Advertisements#tab3a9b6934-96a7-4083-a735-2c105b32b32d_5)
+  7. [Residential Street Improvement Project Monterrey & Baker Group 19](https://www.anaheim.net/309/Project-Advertisements#tab3a9b6934-96a7-4083-a735-2c105b32b32d_6)
+  8. [HARBOR BOULEVARD REHABILITATION FROM N/O LINCOLN AVENUE TO NORTH STREET](https://www.anaheim.net/309/Project-Advertisements#tab3a9b6934-96a7-4083-a735-2c105b32b32d_7)
+  9. [CITYWIDE SAFE ROUTES TO SCHOOL SIDEWALK GAP CLOSURE](https://www.anaheim.net/309/Project-Advertisements#tab3a9b6934-96a7-4083-a735-2c105b32b32d_8)
 
 
-  1. [Electric Utility Relocation Project at Cerritos Ave. and Douglass Rd.](https://www.anaheim.net/309/Project-Advertisements#tabe137937b-3124-4ba6-baf8-6c11c54e351d_0)
+  1. [Electric Utility Relocation Project at Cerritos Ave. and Douglass Rd.](https://www.anaheim.net/309/Project-Advertisements#tab3a9b6934-96a7-4083-a735-2c105b32b32d_0)
 
 
 **Electric Utility Relocation Project at Cerritos Ave and Douglass Rd**
@@ -59,18 +58,7 @@ Loading
 
 
 [Project Summary](https://www.anaheim.net/DocumentCenter/View/67259/Notice-of-Bid-for-Electric-Utility-Relocation-Project-at-Cerritos-Ave-and-Douglass-Rd-Project-Summary-1)
-  1. [BROADWAY REHABILITATION FROM ANAHEIM bOULEVARD TO EAST STREET](https://www.anaheim.net/309/Project-Advertisements#tabe137937b-3124-4ba6-baf8-6c11c54e351d_1)
-
-
-**Broadway Rehabilitation from Anaheim Boulevard to East Street**
-  * Bid Date: December 11, 2025
-  * Bid Time: 2:00 PM OpenGov
-  * Original Bonds to be submitted to the City Clerks Office by the bid date and time.
-  * 200 S. Anaheim Boulevard, 2nd Floor, Anaheim CA 92805
-
-
-[Project Summary](https://www.anaheim.net/DocumentCenter/View/67261/Project-Summary---Broadway-Rehab)
-  1. [Orangewood avenue bridge widening project over the santa ana river](https://www.anaheim.net/309/Project-Advertisements#tabe137937b-3124-4ba6-baf8-6c11c54e351d_2)
+  1. [Orangewood avenue bridge widening project over the santa ana river](https://www.anaheim.net/309/Project-Advertisements#tab3a9b6934-96a7-4083-a735-2c105b32b32d_1)
 
 
 **ORANGEWOOD AVENUE BRIDGE WIDENING PROJECT OVER THE SANTA ANA RIVER**
@@ -81,7 +69,7 @@ Loading
 
 
 [Project Summary](https://www.anaheim.net/DocumentCenter/View/69622/Project-Summary)
-  1. [Installation for Signing and Striping at Ten Local Roadways](https://www.anaheim.net/309/Project-Advertisements#tabe137937b-3124-4ba6-baf8-6c11c54e351d_3)
+  1. [Installation for Signing and Striping at Ten Local Roadways](https://www.anaheim.net/309/Project-Advertisements#tab3a9b6934-96a7-4083-a735-2c105b32b32d_2)
 
 
 **INSTALLATION AND STRIPING AT TEN LOCAL ROADWAYS**
@@ -92,7 +80,7 @@ Loading
 
 
 [Project Summary](https://www.anaheim.net/DocumentCenter/View/69779/Project-Summary)
-  1. [Broadway and elder street sanitary sewer improvement](https://www.anaheim.net/309/Project-Advertisements#tabe137937b-3124-4ba6-baf8-6c11c54e351d_4)
+  1. [Broadway and elder street sanitary sewer improvement](https://www.anaheim.net/309/Project-Advertisements#tab3a9b6934-96a7-4083-a735-2c105b32b32d_3)
 
 
 **BROADWAY AND ELDER STREET SANITARY SEWER IMPROVEMENT**
@@ -103,7 +91,7 @@ Loading
 
 
 [Project Summary](https://www.anaheim.net/DocumentCenter/View/70135/Project-Summary)
-  1. [STREET IMPROVEMENT AT THE SW CORNER OF SANTA ANA CANYON ROAD & ROYAL OAK INTERSECTION](https://www.anaheim.net/309/Project-Advertisements#tabe137937b-3124-4ba6-baf8-6c11c54e351d_5)
+  1. [STREET IMPROVEMENT AT THE SW CORNER OF SANTA ANA CANYON ROAD & ROYAL OAK INTERSECTION](https://www.anaheim.net/309/Project-Advertisements#tab3a9b6934-96a7-4083-a735-2c105b32b32d_4)
 
 
 **STREET IMPROVEMENT AT THE SW CORNER OF SANTA ANA CANYON ROAD & ROYAL OAK INTERSECTION**
@@ -114,7 +102,7 @@ Loading
 
 
 [Project Summary](https://www.anaheim.net/DocumentCenter/View/70136/Project-Summary)
-  1. [MAGNOLIA AVENUE AND BROADWAY SANITARY SEWER IMPROVEMENT PROJECT](https://www.anaheim.net/309/Project-Advertisements#tabe137937b-3124-4ba6-baf8-6c11c54e351d_6)
+  1. [MAGNOLIA AVENUE AND BROADWAY SANITARY SEWER IMPROVEMENT PROJECT](https://www.anaheim.net/309/Project-Advertisements#tab3a9b6934-96a7-4083-a735-2c105b32b32d_5)
 
 
 **MAGNOLIA AVENUE AND BROADWAY SANITARY SEWER IMPROVEMENT PROJECT**
@@ -125,7 +113,7 @@ Loading
 
 
 [Project Summary](https://www.anaheim.net/DocumentCenter/View/70212/Project-Summary)
-  1. [Residential Street Improvement Project Monterrey & Baker Group 19](https://www.anaheim.net/309/Project-Advertisements#tabe137937b-3124-4ba6-baf8-6c11c54e351d_7)
+  1. [Residential Street Improvement Project Monterrey & Baker Group 19](https://www.anaheim.net/309/Project-Advertisements#tab3a9b6934-96a7-4083-a735-2c105b32b32d_6)
 
 
 **RESIDENTIAL STREET IMPROVEMENT PROJECT MONTERREY & BAKER GROUP 19**
@@ -136,7 +124,7 @@ Loading
 
 
 [Project Summary](https://www.anaheim.net/DocumentCenter/View/70295/Project-Summary)
-  1. [HARBOR BOULEVARD REHABILITATION FROM N/O LINCOLN AVENUE TO NORTH STREET](https://www.anaheim.net/309/Project-Advertisements#tabe137937b-3124-4ba6-baf8-6c11c54e351d_8)
+  1. [HARBOR BOULEVARD REHABILITATION FROM N/O LINCOLN AVENUE TO NORTH STREET](https://www.anaheim.net/309/Project-Advertisements#tab3a9b6934-96a7-4083-a735-2c105b32b32d_7)
 
 
 **HARBOR BOULEVARD REHABILITATION FROM N/O LINCOLN AVENUE TO NORTH STREET**
@@ -147,7 +135,7 @@ Loading
 
 
 [Project Summary](https://www.anaheim.net/DocumentCenter/View/70457/Project-Summary)
-  1. [CITYWIDE SAFE ROUTES TO SCHOOL SIDEWALK GAP CLOSURE](https://www.anaheim.net/309/Project-Advertisements#tabe137937b-3124-4ba6-baf8-6c11c54e351d_9)
+  1. [CITYWIDE SAFE ROUTES TO SCHOOL SIDEWALK GAP CLOSURE](https://www.anaheim.net/309/Project-Advertisements#tab3a9b6934-96a7-4083-a735-2c105b32b32d_8)
 
 
 **CITYWIDE SAFE ROUTES TO SCHOOL SIDEWALK GAP CLOSURE**

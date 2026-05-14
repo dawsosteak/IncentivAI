@@ -30,6 +30,7 @@ Loading
 
 
 #  Be Water Smart - Save Water 
+[![web banner](https://www.anaheim.net/ImageRepository/Document?documentID=70842)](https://www.anaheim.net/FormCenter/Public-Utilities-6/Sustainable-Landscape-Workshop-424)
 California experiences periods of drought, with the most recent drought lasting three years between 2019 and 2022. APU collaborates with regional partners and adjacent cities to implement long-term solutions by strategically implementing water sustainability initiatives. Expansion of the Orange County Water District’s Groundwater Replenishment System provides access to drought-proof supplies for future resiliency, and APU has ongoing capital projects to restore full access to the local aquifer. 
 To remain resilient, we must continue to plan for future drought-related impacts by modernizing water systems and investing in innovative and sustainable projects. Anaheim Public Utilities recognizes we are part of one State with interconnected water supplies and we must be part of the solution for the current statewide dry conditions. We must minimize wasteful water use, including:
   * Washing driveways and sidewalks with water
