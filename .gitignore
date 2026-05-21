@@ -205,3 +205,18 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# local Python version files
+.python-version
+incentivai/.python-version
+
+# Slurm/log output files
+streamlit_single_link_loop/logs/
+*.out
+*.err
+
+# local sbatch scripts
+streamlit_single_link_loop/run_analysis_scraped_data.sbatch
+
+# scraped data
+streamlit_single_link_loop/scraped_data/
