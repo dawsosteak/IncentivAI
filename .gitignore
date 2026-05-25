@@ -221,3 +221,18 @@ streamlit_single_link_loop/run_analysis_scraped_data.sbatch
 
 # scraped data
 streamlit_single_link_loop/scraped_data/
+
+# local/input spreadsheets
+25-end_Testing_links_incentivai.xlsx
+
+# local Python version files
+.python-version
+incentivai/.python-version
+
+# Slurm/log output files
+streamlit_single_link_loop/logs/
+*.out
+*.err
+
+# local sbatch scripts
+streamlit_single_link_loop/run_analysis_scraped_data.sbatch
