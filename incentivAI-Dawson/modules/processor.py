@@ -1,7 +1,7 @@
 import re
 import json
 from config import MAX_RETRIES, DEFAULT_TRUNCATION
-from modules.llm_agent import call_ollama
+from modules.llm_agent import call_llm
 from utils.logger import get_logger
 
 logger = get_logger()
@@ -31,7 +31,7 @@ Rules:
 - Do not infer or fabricate any information.
 - Only extract explicitly stated programs.
 - For financial_details: any number, dollar sign, percentage, or rate near a program
-  description counts as a financial detail — capture it verbatim from the source text.
+  description counts — capture it verbatim from the source text.
 - For program_type: be specific (e.g. "rebate", "grant", "tax credit", "low-interest loan",
   "on-bill financing", "weatherization assistance") rather than generic.
 - For sector: use one or more of Residential, Commercial, Industrial, Agricultural.
@@ -43,8 +43,15 @@ Rules:
 """
 
 
-def build_prompt(text):
+def build_prompt(text: str, url: str = "") -> str:
+    """
+    Build the LLM extraction prompt.
+    Truncates input, includes source URL as context hint,
+    and provides detailed field-by-field extraction instructions.
+    """
     truncated = text[:DEFAULT_TRUNCATION]
+    source_hint = f"Source URL: {url}\n\n" if url else ""
+
     return f"""
 You are an expert data extraction assistant specializing in energy efficiency programs,
 utility rebates, government incentives, and financial assistance programs.
@@ -64,13 +71,20 @@ EXTRACTION INSTRUCTIONS:
    - Any numeric value appearing near or within a program description
    Capture these values VERBATIM as they appear in the source text. Do not paraphrase.
 
+   Examples:
+   "Rebate of $500 for qualifying heat pumps"        → "$500"
+   "Covers up to 50% of installation costs"          → "up to 50% of installation costs"
+   "Annual incentive not to exceed $2,000"           → "not to exceed $2,000 annually"
+   "$0.10 per kWh saved"                             → "$0.10 per kWh"
+   If you see ANY dollar sign, percentage, or per-unit rate — capture it.
+
 2. PROGRAM NAME — Use the full official name as written. If no formal name exists,
    construct a descriptive name from the context (e.g. "Residential Heat Pump Rebate").
 
 3. PROGRAM TYPE — Be as specific as possible:
-   - Rebate, Grant, Tax Credit, Low-Interest Loan, On-Bill Financing,
-     Weatherization Assistance, Energy Audit, Free Equipment, Buy-Down Program,
-     Performance Incentive, or any other specific type mentioned.
+   Rebate, Grant, Tax Credit, Low-Interest Loan, On-Bill Financing,
+   Weatherization Assistance, Energy Audit, Free Equipment, Buy-Down Program,
+   Performance Incentive, or any other specific type mentioned.
 
 4. ELIGIBILITY — Extract all qualifying conditions including:
    - Customer type (residential, commercial, industrial, agricultural)
@@ -79,6 +93,13 @@ EXTRACTION INSTRUCTIONS:
    - Geographic restrictions (e.g. "available only in service territory")
    - Utility account requirements (e.g. "must be an active customer")
    - Any other stated conditions for qualification
+
+   Examples of what to look for:
+   "Must be a residential customer in our service territory"
+   "Income at or below 80% of Area Median Income"
+   "Equipment must be ENERGY STAR certified"
+   "Available to small commercial customers under 200kW demand"
+   Capture ALL conditions stated — do not summarize.
 
 5. APPLICATION PROCESS — Extract any information about:
    - How to apply (online portal, mail-in form, contractor submission)
@@ -113,17 +134,38 @@ IMPORTANT REMINDERS:
 - If a field truly cannot be found, use null — never guess.
 - Financial amounts are critical — look for any number near a program description.
 - Company name is critical — look everywhere in the text for any organization name.
+- If this page is a news article, blog post, or general advice with no concrete program, 
+  return programs as [] and note it in summary_of_page.
 
 TEXT:
 \"\"\"
-{truncated}
+{source_hint}{truncated}
 \"\"\"
 
 {SCHEMA_TEMPLATE}
 """
 
 
-def process_text(text, url, temperature):
+def process_text(text: str, url: str, temperature: float,
+                 provider: str = "ollama", model: str = None) -> dict:
+    """
+    Run LLM extraction on scraped text.
+    Retries up to MAX_RETRIES times on JSON parse failure.
+    Strips markdown fences before parsing.
+
+    Args:
+        text:        scraped page content
+        url:         source URL (used in prompt and error logging)
+        temperature: LLM temperature
+        provider:    LLM provider (ollama, openai, uw_ssec, etc.)
+        model:       model name override (uses config default if None)
+
+    Returns:
+        dict matching the JSON schema
+    """
+    from config import MODEL_NAME
+    model = model or MODEL_NAME
+
     if not text or len(text) < 50:
         logger.warning(f"Content too short to process for {url}")
         return {
@@ -132,11 +174,11 @@ def process_text(text, url, temperature):
             "summary_of_page": "Scraped content was empty or too short."
         }
 
-    prompt = build_prompt(text)
+    prompt = build_prompt(text, url=url)
 
     for attempt in range(MAX_RETRIES + 1):
         try:
-            response = call_ollama(prompt, temperature)
+            response = call_llm(prompt, provider=provider, model=model, temperature=temperature)
 
             cleaned = response.strip()
             if cleaned.startswith("```"):
