@@ -8,9 +8,6 @@ Usage examples:
   # OpenAI
   python cli.py --file urls.xlsx --provider openai --model gpt-4o
 
-  # UW SSEC Gateway (requires env vars)
-  python cli.py --file urls.xlsx --provider uw_ssec --model gpt-5.4-pro
-
   # Auto search by state
   python cli.py --state California --provider openai --model gpt-4o
 
@@ -47,7 +44,6 @@ def main():
 Providers:
   ollama     Local Ollama instance (default)
   openai     OpenAI API (requires OPENAI_API_KEY)
-  uw_ssec    UW SSEC AI Gateway (requires UW_SSEC_AI_GATEWAY_KEY and UW_SSEC_AI_GATEWAY_BASE_URL)
   anthropic  Anthropic API (requires ANTHROPIC_API_KEY)
   google     Google Gemini API (requires GOOGLE_API_KEY)
         """

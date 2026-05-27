@@ -1,0 +1,142 @@
+--- SOURCE: https://www.anaheim.net/533/Inspection ---
+
+![Loading](https://www.anaheim.net/Common/images/ajax-loader.gif)
+Loading
+[Skip to Main Content](https://www.anaheim.net/533/Inspection#cc622007e8-e6c7-4d3b-8aef-85364de4b3e8)
+![Anaheim, CA](https://www.anaheim.net/ImageRepository/Document?documentID=41690)
+[![Home page](https://www.anaheim.net/ImageRepository/Document?documentID=41692)](https://www.anaheim.net/)
+[![Go to Site Search](https://www.anaheim.net/ImageRepository/Document?documentID=41694)](https://www.anaheim.net/Search/Results) Search
+  * [ ![Facebook](https://www.anaheim.net/ImageRepository/Document?documentID=41698) ](https://www.anaheim.net/facebook)
+
+
+  * [ ![Twitter](https://www.anaheim.net/ImageRepository/Document?documentID=41705) ](https://www.anaheim.net/twitter)
+
+
+  * [ ![Instagram](https://www.anaheim.net/ImageRepository/Document?documentID=41699) ](https://www.anaheim.net/instagram)
+
+
+  * [ ![YouTube](https://www.anaheim.net/ImageRepository/Document?documentID=41708) ](https://www.anaheim.net/youtube)
+
+
+  * [ ![Newsletter](https://www.anaheim.net/ImageRepository/Document?documentID=41697) ](https://www.anaheim.net/list.aspx)
+
+
+  1. [ Pay & Apply ](https://www.anaheim.net/6162/Pay-Apply)
+  2. [ Find & Report ](https://www.anaheim.net/6158/Find-Report)
+  3. [ Community Info ](https://www.anaheim.net/6161/Community-Info)
+  4. [ Departments ](https://www.anaheim.net/148/Departments)
+
+
+  1. [Home](https://www.anaheim.net/)
+  2. [Departments](https://www.anaheim.net/148/Departments)
+  3. [Planning & Building](https://www.anaheim.net/490/Planning-Building)
+  4. [Building Division](https://www.anaheim.net/5252/Building-Division)
+  5. [Inspection](https://www.anaheim.net/533/Inspection)
+
+
+#  Inspection 
+![Background2](https://www.anaheim.net/ImageRepository/Document?documentID=38881)
+[CLICK HERE TO SCHEDULE INSPECTION](https://aca-prod.accela.com/anaheim/default.aspx)
+[CLICK HERE TO SCHEDULE _VIRTUAL_ INSPECTION](https://aca-prod.accela.com/anaheim/default.aspx)
+[](https://www.anaheim.net/DocumentCenter/View/30870/Virtual-Interactive-Inspection-Guide)[Click for more information about our virtual inspections ](https://www.anaheim.net/DocumentCenter/View/30870/Virtual-Interactive-Inspection-Guide)
+  
+
+**CITY OF ANAHEIM BUILDING DEPARTMENT INSPECTIONS**
+**COVID-19 INSPECTION PROCEDURES**
+  
+
+  * The City of Anaheim Building Dept. is currently performing on-site and virtual inspections.
+  * All jobsites must follow the COVID-19 SAFETY GUIDANCE FOR CONSTRUCTION SITES
+  * Due to social distancing and the safety of our citizens and employees some inspections may qualify to be performed virtually. Click our Virtual Inspections tab on the left to schedule or learn more about our virtual inspection process.
+  * Inspections must be scheduled by 5:00pm the prior business day
+
+
+  
+
+[COVID-19 SAFETY GUIDANCE FOR CONSTRUCTION SITES](https://www.anaheim.net/DocumentCenter/View/31133/COVID-19-SAFETY-GUDANCE-FOR-CONSTRUCTION-SITES)
+## General Information
+  
+
+  * [Hiring Contractors](http://user.govoutreach.com/anaheim/faq.php?cid=3780)
+  * [Temporary Certificate of Occupancy (TCO) Application](https://www.anaheim.net/DocumentCenter/View/738)
+  * [Temporary Certificate of Occupancy (TCO) Handout](https://www.anaheim.net/DocumentCenter/View/739)
+  * [Temporary Utility Release Application](https://www.anaheim.net/DocumentCenter/View/740)
+  * [Temporary Utility Release Handout](https://www.anaheim.net/DocumentCenter/View/741)
+
+
+## Building Project Tracking Application
+  
+
+Fill out the [building project tracking application](https://aca-prod.accela.com/anaheim/default.aspx) in order to find information about inspection results, time frames/status, and inspection correction notice.
+### Contact Us
+  1. ### Building Division
+Phone: 714-765-5153  
+Fax: 714-765-4607
+### City Hall
+200 S Anaheim Boulevard  
+1st Floor, Suite 145  
+Anaheim, CA 92805  
+[Map](https://www.anaheim.net/DocumentCenter/View/471)
+### Hours
+Counter Hours  
+Monday, Tuesday, Wednesday, Friday  
+8 a.m. - 4 p.m.  
+Thursday  
+Delayed opening 9 a.m. - 4 p.m.
+Phone Hours  
+Monday - Friday  
+8 a.m. - 5 p.m.  
+[Directory](https://www.anaheim.net/Directory.aspx?DID=132)
+
+
+  1. [Permit Processing Info](https://www.anaheim.net/6010/Permit-Processing-Info)
+  2. [Applications and Forms](https://www.anaheim.net/6013/Applications-and-Forms)
+  3. [Fees](https://www.anaheim.net/6062/Fees)
+  4. [Information Bulletins and Handouts](https://www.anaheim.net/6014/Information-Bulletins-and-Handouts)
+  5. [Online Permit Center](https://www.anaheim.net/6015/Online-Permit-Center)
+  6. [Inspection](https://www.anaheim.net/533/Inspection)
+  7. [Current Building Codes and Design Criteria](https://www.anaheim.net/6018/Current-Building-Codes-and-Design-Criter)
+  8. [Certificates of Occupancy & TCOs](https://www.anaheim.net/6019/Certificates-of-Occupancy-TCOs)
+  9. [ Important Links and Other Resources](https://www.anaheim.net/6020/Important-Links-and-Other-Resources)
+
+
+  1. ![Anaheim](https://www.anaheim.net/ImageRepository/Document?documentId=41696)
+  
+
+
+
+### Contact Us
+  1. City of Anaheim  
+200 S. Anaheim Blvd.  
+Anaheim, CA 92805  
+([714) 765-4311](tel:714-765-4311)  
+[Dial 311](tel:%20311)
+
+
+### [Helpful Links](https://www.anaheim.net/QuickLinks.aspx?CID=374)
+  1. [City Council Video](https://www.anaheim.net/2142/Council-Meeting-Video)
+  2. [FY 2025/26 Adopted Budget](https://anaheim.net/Archive.aspx?AMID=38&Type=Recent)
+  3. [News and Media Center](https://www.anaheim.net/1737/News-Media-Center)
+  4. [Anaheim Newsletter](https://www.anaheim.net/1725/Anaheim-Newsletter)
+  5. [Visit Anaheim](http://visitanaheim.org/)
+  6. [Boards & Commissions](https://www.anaheim.net/176/Boards-Commissions)
+
+
+/QuickLinks.aspx
+### [Quick Links](https://www.anaheim.net/QuickLinks.aspx?CID=242)
+  1. [Contact Us](https://www.anaheim.net/directory.aspx)
+  2. [Home](https://www.anaheim.net/)
+  3. [Site Map](https://www.anaheim.net/sitemap)
+  4. [Accessibility](https://www.anaheim.net/Accessibility)
+  5. [Disability & Civil Rights Program ](https://www.anaheim.net/1740/Disability-Civil-Rights-Program)
+  6. [Copyright Notices](https://www.anaheim.net/site/copyright)
+
+
+/QuickLinks.aspx
+Government Websites by [CivicPlus®](https://connect.civicplus.com/referral)
+## Loading
+Loading 
+Do Not Show Again Close
+Arrow Left Arrow Right
+Slideshow Left Arrow Slideshow Right Arrow
+Close **×**
