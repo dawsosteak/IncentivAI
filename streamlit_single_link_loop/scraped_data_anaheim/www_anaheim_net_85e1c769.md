@@ -1,0 +1,193 @@
+--- SOURCE: https://www.anaheim.net/3310/Enterprise-System-Catalog ---
+
+![Loading](https://www.anaheim.net/Common/images/ajax-loader.gif)
+Loading
+[Skip to Main Content](https://www.anaheim.net/3310/Enterprise-System-Catalog#cc622007e8-e6c7-4d3b-8aef-85364de4b3e8)
+![Anaheim, CA](https://www.anaheim.net/ImageRepository/Document?documentID=41690)
+[![Home page](https://www.anaheim.net/ImageRepository/Document?documentID=41692)](https://www.anaheim.net/)
+[![Go to Site Search](https://www.anaheim.net/ImageRepository/Document?documentID=41694)](https://www.anaheim.net/Search/Results) Search
+  * [ ![Facebook](https://www.anaheim.net/ImageRepository/Document?documentID=41698) ](https://www.anaheim.net/facebook)
+
+
+  * [ ![Twitter](https://www.anaheim.net/ImageRepository/Document?documentID=41705) ](https://www.anaheim.net/twitter)
+
+
+  * [ ![Instagram](https://www.anaheim.net/ImageRepository/Document?documentID=41699) ](https://www.anaheim.net/instagram)
+
+
+  * [ ![YouTube](https://www.anaheim.net/ImageRepository/Document?documentID=41708) ](https://www.anaheim.net/youtube)
+
+
+  * [ ![Newsletter](https://www.anaheim.net/ImageRepository/Document?documentID=41697) ](https://www.anaheim.net/list.aspx)
+
+
+  1. [ Pay & Apply ](https://www.anaheim.net/6162/Pay-Apply)
+  2. [ Find & Report ](https://www.anaheim.net/6158/Find-Report)
+  3. [ Community Info ](https://www.anaheim.net/6161/Community-Info)
+  4. [ Departments ](https://www.anaheim.net/148/Departments)
+
+
+![](https://www.anaheim.net/ImageRepository/Document?documentID=41693)
+  1. [Home](https://www.anaheim.net/)
+  2. [Departments](https://www.anaheim.net/148/Departments)
+  3. [City Clerk](https://www.anaheim.net/218/City-Clerk)
+  4. [City Clerk Bookshelf & Records](https://www.anaheim.net/1920/City-Clerk-Bookshelf-Records)
+  5. [Enterprise System Catalog](https://www.anaheim.net/3310/Enterprise-System-Catalog)
+
+
+#  Enterprise System Catalog (Senate Bill 272) 
+Untitled Document
+Approved on October 11, 2015, Senate Bill 272 adds a section to the California Public Records Act requiring local agencies to create a catalog of Enterprise Systems by July 1, 2016 with annual updates.
+  
+
+Enterprise Systems are software applications or computer systems that collect, store, exchange and analyze information that the agency uses that is both of the following:
+  * • A multi-departmental system or a system that contains information collected about the public; and  
+• A system that serves as an original source of data within an agency.
+
+
+An Enterprise System does not include any of the following:
+  * • Information Technology security systems, including firewalls and other cybersecurity systems;  
+• Physical access control systems, employee identification management systems, video monitoring and other physical control systems;  
+• Infrastructure and mechanical control systems, including those that control or manage street lights, electrical, natural gas or water or sewer functions;  
+• Systems related to 911 dispatch and operation or emergency services;  
+• Systems that would be restricted from disclosure by Section 6254.19; and/or  
+• The specific records that the information technology system collects, stores, exchanges or analyzes.  
+  
+
+
+
+* * *
+##  • **[Enterprise System Catalog](https://www.anaheim.net/DocumentCenter/View/21605/SB272)  
+  
+**
+##  • **[Senate Bill 272 Text](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201520160SB272)  
+**
+### Contact Us
+  1. ### City Clerk
+Theresa Bass, CMC  
+Email
+City of Anaheim  
+Office of the City Clerk  
+200 S. Anaheim Boulevard  
+2nd Floor, Room 217  
+Anaheim, CA 92805
+Phone: (714) 765-5166  
+Fax: (714) 765-4105
+* * *
+### Hours
+Monday - Friday  
+8 a.m. - 5 p.m.
+* * *
+### Passport Services Hours
+**by appointment only**
+Appointment Hours  
+Monday - Friday  
+9 a.m. - 3 p.m.   
+  
+Phone: (714) 765-4540
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+
+  1. [City Council Meetings](https://www.anaheim.net/173/City-Council) [](https://www.anaheim.net/3310/Enterprise-System-Catalog)
+    1. [Agendas](https://www.anaheim.net/2527/Agendas)
+    2. [Action Agendas](http://records.anaheim.net/CityClerk/Browse.aspx?dbid=0&startid=1973388&row=1)
+    3. [City Council Meeting & Workshop Videos](http://www.anaheim.net/2142/Council-Meeting-Video)
+    4. [Public Hearing Notices](https://www.anaheim.net/6492/Public-Hearing-Notices)
+    5. [Public Participation at a City Council Meeting](https://www.anaheim.net/344/Speak-at-a-City-Council-Meeting)
+    6. [2026 City Council Meeting Calendar](https://www.anaheim.net/DocumentCenter/View/67140/2026-City-Council-Meeting-Calendar)
+  2. [Boards and Commissions](http://www.anaheim.net/176/Boards-Commissions) [](https://www.anaheim.net/3310/Enterprise-System-Catalog)
+    1. [Rosters and Vacancies](https://www.anaheim.net/1886/Rosters-and-Vacancies)
+    2. [Draft Minutes](https://www.anaheim.net/1893/Draft-Minutes)
+  3. [City Clerk Bookshelf & Records](https://www.anaheim.net/1920/City-Clerk-Bookshelf-Records) [](https://www.anaheim.net/3310/Enterprise-System-Catalog)
+    1. [Records Public Portal](http://records.anaheim.net/cityclerk/Welcome.aspx?)
+    2. [Request a Public Record](http://www.anaheim.net/2153/Request-a-Public-Record)
+    3. [Public Records Request Archive](https://www.anaheim.net/2924/Public-Records-Request-Archive)
+    4. [Anaheim Municipal Code](https://www.anaheim.net/2904/Anaheim-Municipal-Code)
+    5. [Enterprise System Catalog](https://www.anaheim.net/3310/Enterprise-System-Catalog)
+    6. [Event Ticket Distribution Disclosures (Form 802)](https://www.anaheim.net/6487/Event-Ticket-Distribution-Disclosures-Fo)
+  4. [Districting](https://www.anaheim.net/2154/Districting) [](https://www.anaheim.net/3310/Enterprise-System-Catalog)
+    1. [Redistricting Process - 2020 Census](https://www.anaheim.net/6219/Redistricting-Process---2020-Census)
+    2. [Districting Process - 2016](https://www.anaheim.net/5807/Districting-Process---2016)
+    3. [Interactive District Map](https://www.anaheim.net/6218/Interactive-District-Map)
+  5. [Elections](https://www.anaheim.net/2917/Elections) [](https://www.anaheim.net/3310/Enterprise-System-Catalog)
+    1. [City Clerk (Homepage)](https://www.anaheim.net/218/City-Clerk)
+    2. [Candidate Resources](https://www.anaheim.net/2915/Candidate-Resources) [](https://www.anaheim.net/3310/Enterprise-System-Catalog)
+      1. [Elections (Homepage)](https://www.anaheim.net/2917/Elections)
+      2. [Campaign Contribution Limits](https://www.anaheim.net/4569/Campaign-Contribution-Limits)
+      3. [Candidate Handbook](https://www.anaheim.net/3396/Candidate-Handbook)
+      4. [Election Calendar](https://www.anaheim.net/2918/Election-Calendar)
+    3. [Voter Information](https://www.anaheim.net/2922/Voter-Information) [](https://www.anaheim.net/3310/Enterprise-System-Catalog)
+      1. [Elections (Homepage)](https://www.anaheim.net/2917/Elections)
+      2. [Orange County Vote Centers ](https://www.anaheim.net/5414/Orange-County-Vote-Centers)
+    4. [Campaign Statements / FPPC Filings](https://netfile.com/agency/ana/)
+    5. [Past Election Results](https://www.anaheim.net/2921/Past-Election-Results)
+  6. [Forms](https://www.anaheim.net/1900/Forms) [](https://www.anaheim.net/3310/Enterprise-System-Catalog)
+    1. [File a Claim](https://www.anaheim.net/438/File-a-Claim)
+    2. [Request for Public Records](https://www.anaheim.net/2153/Request-for-Public-Records)
+    3. [Form 700 Statement of Economic Interests](https://www.anaheim.net/2832/Form-700-Statement-of-Economic-Interests) [](https://www.anaheim.net/3310/Enterprise-System-Catalog)
+      1. [87200 Filers](https://www.anaheim.net/6624/87200-Filers)
+    4. [Request for City Council Re-Hearing](https://www.anaheim.net/DocumentCenter/View/4489)
+    5. [Appeal of Planning Commission Decision](http://ca-anaheim.civicplus.com/DocumentCenter/Home/View/4488)
+  7. [Lobbyist Registration Program](https://www.anaheim.net/4710/Lobbyist-Registration-Program) [](https://www.anaheim.net/3310/Enterprise-System-Catalog)
+    1. [Lobbyist Registry & Quarterly Reports of Activity](https://www.anaheim.net/5453/Lobbyist-Registry-Quarterly-Reports-of-A) [](https://www.anaheim.net/3310/Enterprise-System-Catalog)
+      1. [Terminated Lobbyists](https://www.anaheim.net/5456/Terminated-Lobbyists)
+    2. [Forms/Resources](https://www.anaheim.net/4735/FormsResources)
+    3. [Lobbying Guide](http://anaheim.net/DocumentCenter/View/17930)
+  8. [Passport Services](https://www.anaheim.net/1875/Passport-Services) [](https://www.anaheim.net/3310/Enterprise-System-Catalog)
+    1. [Schedule an Appointment](https://www.anaheim.net/5924/Schedule-an-Appointment)
+
+
+  1. ![Anaheim](https://www.anaheim.net/ImageRepository/Document?documentId=41696)
+  
+
+
+
+### Contact Us
+  1. City of Anaheim  
+200 S. Anaheim Blvd.  
+Anaheim, CA 92805  
+([714) 765-4311](tel:714-765-4311)  
+[Dial 311](tel:%20311)
+
+
+### [Helpful Links](https://www.anaheim.net/QuickLinks.aspx?CID=374)
+  1. [City Council Video](https://www.anaheim.net/2142/Council-Meeting-Video)
+  2. [FY 2025/26 Adopted Budget](https://anaheim.net/Archive.aspx?AMID=38&Type=Recent)
+  3. [News and Media Center](https://www.anaheim.net/1737/News-Media-Center)
+  4. [Anaheim Newsletter](https://www.anaheim.net/1725/Anaheim-Newsletter)
+  5. [Visit Anaheim](http://visitanaheim.org/)
+  6. [Boards & Commissions](https://www.anaheim.net/176/Boards-Commissions)
+
+
+/QuickLinks.aspx
+### [Quick Links](https://www.anaheim.net/QuickLinks.aspx?CID=242)
+  1. [Contact Us](https://www.anaheim.net/directory.aspx)
+  2. [Home](https://www.anaheim.net/)
+  3. [Site Map](https://www.anaheim.net/sitemap)
+  4. [Accessibility](https://www.anaheim.net/Accessibility)
+  5. [Disability & Civil Rights Program ](https://www.anaheim.net/1740/Disability-Civil-Rights-Program)
+  6. [Copyright Notices](https://www.anaheim.net/site/copyright)
+
+
+/QuickLinks.aspx
+Government Websites by [CivicPlus®](https://connect.civicplus.com/referral)
+## Loading
+Loading 
+Do Not Show Again Close
+Select Language Abkhaz Acehnese Acholi Afar Afrikaans Albanian Alur Amharic Arabic Armenian Assamese Avar Awadhi Aymara Azerbaijani Balinese Baluchi Bambara Baoulé Bashkir Basque Batak Karo Batak Simalungun Batak Toba Belarusian Bemba Bengali Betawi Bhojpuri Bikol Bosnian Breton Bulgarian Buryat Cantonese Catalan Cebuano Chamorro Chechen Chichewa Chinese (Simplified) Chinese (Traditional) Chuukese Chuvash Corsican Crimean Tatar (Cyrillic) Crimean Tatar (Latin) Croatian Czech Danish Dari Dhivehi Dinka Dogri Dombe Dutch Dyula Dzongkha Esperanto Estonian Ewe Faroese Fijian Filipino Finnish Fon French French (Canada) Frisian Friulian Fulani Ga Galician Georgian German Greek Guarani Gujarati Haitian Creole Hakha Chin Hausa Hawaiian Hebrew Hiligaynon Hindi Hmong Hungarian Hunsrik Iban Icelandic Igbo Ilocano Indonesian Inuktut (Latin) Inuktut (Syllabics) Irish Italian Jamaican Patois Japanese Javanese Jingpo Kalaallisut Kannada Kanuri Kapampangan Kazakh Khasi Khmer Kiga Kikongo Kinyarwanda Kituba Kokborok Komi Konkani Korean Krio Kurdish (Kurmanji) Kurdish (Sorani) Kyrgyz Lao Latgalian Latin Latvian Ligurian Limburgish Lingala Lithuanian Lombard Luganda Luo Luxembourgish Macedonian Madurese Maithili Makassar Malagasy Malay Malay (Jawi) Malayalam Maltese Mam Manx Maori Marathi Marshallese Marwadi Mauritian Creole Meadow Mari Meiteilon (Manipuri) Minang Mizo Mongolian Myanmar (Burmese) Nahuatl (Eastern Huasteca) Ndau Ndebele (South) Nepalbhasa (Newari) Nepali NKo Norwegian Nuer Occitan Odia (Oriya) Oromo Ossetian Pangasinan Papiamento Pashto Persian Polish Portuguese (Brazil) Portuguese (Portugal) Punjabi (Gurmukhi) Punjabi (Shahmukhi) Quechua Qʼeqchiʼ Romani Romanian Rundi Russian Sami (North) Samoan Sango Sanskrit Santali (Latin) Santali (Ol Chiki) Scots Gaelic Sepedi Serbian Sesotho Seychellois Creole Shan Shona Sicilian Silesian Sindhi Sinhala Slovak Slovenian Somali Spanish Sundanese Susu Swahili Swati Swedish Tahitian Tajik Tamazight Tamazight (Tifinagh) Tamil Tatar Telugu Tetum Thai Tibetan Tigrinya Tiv Tok Pisin Tongan Tshiluba Tsonga Tswana Tulu Tumbuka Turkish Turkmen Tuvan Twi Udmurt Ukrainian Urdu Uyghur Uzbek Venda Venetian Vietnamese Waray Welsh Wolof Xhosa Yakut Yiddish Yoruba Yucatec Maya Zapotec Zulu
+Powered by [![Google Translate](https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png)Translate](https://translate.google.com)
+Arrow Left Arrow Right
+Slideshow Left Arrow Slideshow Right Arrow
+Close **×**
+![](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
+Original text
+Rate this translation
+Your feedback will be used to help improve Google Translate

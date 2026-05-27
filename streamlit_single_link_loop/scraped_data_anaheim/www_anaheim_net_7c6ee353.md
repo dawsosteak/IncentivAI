@@ -1,0 +1,214 @@
+--- SOURCE: https://www.anaheim.net/6597/APL-Accessibility ---
+
+![Loading](https://www.anaheim.net/Common/images/ajax-loader.gif)
+Loading
+[Skip to Main Content](https://www.anaheim.net/6597/APL-Accessibility#cc622007e8-e6c7-4d3b-8aef-85364de4b3e8)
+![Anaheim, CA](https://www.anaheim.net/ImageRepository/Document?documentID=41690)
+[![Home page](https://www.anaheim.net/ImageRepository/Document?documentID=41692)](https://www.anaheim.net/)
+[![Go to Site Search](https://www.anaheim.net/ImageRepository/Document?documentID=41694)](https://www.anaheim.net/Search/Results) Search
+  * [ ![](https://www.anaheim.net/ImageRepository/Document?documentID=41698) ](https://www.facebook.com/AnaheimPLAYS)
+
+
+  * [ ![](https://www.anaheim.net/ImageRepository/Document?documentID=41699) ](https://www.instagram.com/anaheimplays)
+
+
+  * [ ![](https://www.anaheim.net/ImageRepository/Document?documentID=41697) ](https://www.anaheim.net/5232/Community-Services-Newsletter)
+
+
+  1. [ Using the Library ](https://www.anaheim.net/1229/Get-Started)
+  2. [ Programs & Services ](https://www.anaheim.net/1104/Programs-Services)
+  3. [ Online Resources ](https://www.anaheim.net/1105/Online-Resources)
+  4. [ Books & More ](https://www.anaheim.net/991/Books-More)
+  5. [ I Want To... ](https://www.anaheim.net/1344/I-Want-To)
+
+
+  1. [Home](https://www.anaheim.net/)
+  2. [Departments](https://www.anaheim.net/148/Departments)
+  3. [Community Services](https://www.anaheim.net/6094/Community-Services)
+  4. [Library](https://www.anaheim.net/6100/Library)
+  5. [Programs & Services](https://www.anaheim.net/1104/Programs-Services)
+  6. [APL Accessibility ](https://www.anaheim.net/6597/APL-Accessibility)
+
+
+#  APL Accessibility 
+![Access Logo](https://www.anaheim.net/ImageRepository/Document?documentID=57103)
+The Anaheim Public Library is dedicated to offering inclusive and accessible events for everyone. If you need assistance or would like to request an accommodation for a library program or visit, please call**714-765-1700** or fill out an online form below. 
+**[APL ADA accommodation request form](https://anaheim.net/FormCenter/Library-8/APL-ADA-Accommodation-Request-348)****[  
+](https://anaheim.net/FormCenter/Library-8/APL-ADA-Accommodation-Request-348)**
+If you are unsure what accommodation may be needed, please include any suggestions about what options we can explore. 
+Check out our **[Event & Programs Calendar](https://anaheim.libcal.com/calendars?cid=-1&t=g&d=0000-00-00&cal=-1&inc=0)** for information on upcoming programs at all of our locations! 
+## Service Animals
+  
+
+The [City of Anaheim](https://www.anaheim.net/3111/Service-Animal-Work-Culture) and Anaheim Public Library follows all ADA Guidelines regarding service animals: 
+Service animals are defined as dogs that are individually trained to do work or perform tasks for people with disabilities. 
+Under the ADA, State and local governments, businesses, and nonprofit organizations that serve the public generally must allow service animals to accompany people with disabilities in all areas of the facility where the public is allowed to go. 
+All service animals must be under the control of the owner and that the owner is responsible for taking it out for bathroom breaks as needed. Service animals must also be harnessed, leashed, or tethered, unless the individual’s disability prevents using these devices or these devices interfere with the service animal’s safe, effective performance of tasks ([ADA Requirements: Service Animals](https://www.ada.gov/service_animals_2010.htm)).
+## Library Services
+  
+
+[**ASLdeafined**](https://anaheimlibrary.idm.oclc.org/login?url=https://www.asldeafined.com/login/library/?org=anaheimpl)
+**ASLdeafined** is a leading provider of online American Sign Language learning resources, with a comprehensive platform of over 300 themed video lessons, an 18,000+ video dictionary, a free mobile app, and taught by a diverse group of Deaf and Hard of Hearing (DHH) mentors, advocates, and professionals from all across the United States.
+## Library Materials
+  
+
+**For Adults**
+  * Large Print Books 
+  * Books on CD 
+  * Audio / Digital Books – CloudLibrary
+  * Writing Tablets and Visual Cue Cards in English/Spanish
+
+
+**For Teens and Tweens**
+  * Teen Lounge (Central Library) 
+  * Audio / Digital Books – CloudLibrary
+  * Writing Tablets and Visual Cue Cards in English/Spanish
+
+
+**For Children**
+  * Sensory Storytimes at [Central Library](https://www.anaheim.net/DocumentCenter/View/43456/Central-Childrens-Events-), [East Anaheim Branch](https://www.anaheim.net/DocumentCenter/View/58584/2025-East-Region-Storytime-Bookmark---Winter-and-Spring), and [Sunkist Branch](https://www.anaheim.net/DocumentCenter/View/7945/Sunkist-Branch-Calendar)
+  * Children’s Braille Book Collection (Central Library) 
+  * Sensory Book Collection (Central Library) 
+
+
+**More Local Resources:**
+  * [Dayle McIntosh Center](https://daylemc.org/)
+  * [Regional Center of Orange County](https://www.rcocdd.com/)
+  * [Braille Institute – Anaheim Center](https://www.brailleinstitute.org/)
+  * [OC DEAF: Orange County Deaf Equal Access Foundation](https://www.facebook.com/ocdeaf/)
+
+
+[![Library Home Page](https://www.anaheim.net/ImageRepository/Document?documentID=42940)](https://www.anaheim.net/6100)
+  1. [APL Accessibility ](https://www.anaheim.net/6597/APL-Accessibility)
+  2. [Programs & Events](https://www.anaheim.net/4745/Programs-Events) [](https://www.anaheim.net/6597/APL-Accessibility)
+    1. [Library Web Calendar ](https://anaheim.libcal.com)
+    2. [Branch Calendars](https://www.anaheim.net/2679/Branch-Calendars)
+    3. [Library Newsletter](https://apl.patronpoint.com/email/preview/253)
+    4. [Reading Programs](http://www.anaheim.net/5611/Reading-Programs)
+    5. [Amnesty Month](https://www.anaheim.net/6583/Amnesty-Month)
+    6. [Lunch at the Library](https://www.anaheim.net/6503/Lunch-at-the-Library)
+    7. [Black History Month](https://www.anaheim.net/6626/Black-History-Month)
+    8. [Chicano Heritage Month](https://www.anaheim.net/6451/Chicano-Heritage-Month)
+    9. [Hispanic Heritage Month](https://www.anaheim.net/6453/Hispanic-Heritage-Month)
+    10. [AnaCon](https://www.anaheim.net/4743/AnaCon)
+    11. [Indie Author Day](https://www.anaheim.net/6272/Indie-Author-Day)
+    12. [Native Art Festival](https://www.anaheim.net/6596/Native-Art-Festival)
+    13. [Spinal Dread: Horror Literature and Culture Festival](https://www.anaheim.net/6686/Spinal-Dread-Horror-Literature-and-Cultu)
+  3. [Heritage Services](https://www.anaheim.net/2474/Heritage-Services) [](https://www.anaheim.net/6597/APL-Accessibility)
+    1. [Anaheim Heritage Center](https://www.anaheim.net/2473/Anaheim-Heritage-Center)
+    2. [Anaheim Photo Collections](https://www.anaheim.net/1294/Anaheim-Photo-Collections) [](https://www.anaheim.net/6597/APL-Accessibility)
+      1. [Dr. James Hovey Bullard Family Photo Collection](https://www.anaheim.net/3478/Dr-James-Hovey-Bullard-Family-Photo-Coll) [](https://www.anaheim.net/6597/APL-Accessibility)
+        1. [Bullard Family](http://www.anaheim.net/3478/Dr-James-Hovey-Bullard-Family-Photo-Coll)
+        2. [Langenberger Family](https://ca-anaheim.civicplus.com/4592/August-Langenberger)
+      2. [Hirahara Family Photo Collection](https://www.anaheim.net/2626/Hirahara-Family-Photo-Collection) [](https://www.anaheim.net/6597/APL-Accessibility)
+        1. [Hirahara Family Photo Collection](https://www.anaheim.net/2626/Hirahara-Family-Photo-Collection)
+        2. [First Generation](https://www.anaheim.net/2686/First-Generation)
+        3. [Second Generation](https://www.anaheim.net/2687/Second-Generation)
+        4. [Frank C. Hirahara](https://www.anaheim.net/2589/Frank-C-Hirahara)
+        5. [Mary Hirahara](https://www.anaheim.net/2591/Mary-Hirahara)
+        6. [Patti Hirahara](https://www.anaheim.net/2592/Patti-Hirahara)
+        7. [Community Participation](https://www.anaheim.net/2652/Community-Participation)
+        8. [Japanese American Incarceration](https://www.anaheim.net/2629/Japanese-American-Incarceration)
+        9. [Heart Mountain slide show](https://www.anaheim.net/5071/Heart-Mountain-slide-show)
+        10. [Heart Mountain Documentary](https://www.anaheim.net/2635/Heart-Mountain-Documentary)
+        11. [Other Hirahara Collections & Exhibits](https://www.anaheim.net/2653/Other-Hirahara-Collections-Exhibits)
+        12. [Japanese American Project](https://www.anaheim.net/4562/Japanese-American-Project)
+        13. [I am an American Exhibition](https://www.anaheim.net/5342/I-am-an-American-Exhibition)
+      3. [Digital Anaheim](https://www.anaheim.net/2625/Digital-Anaheim)
+    3. [Founders' Park](https://www.anaheim.net/2475/Founders-Park)
+    4. [Anaheim's Historical Information](https://www.anaheim.net/152/Anaheims-Historical-Information) [](https://www.anaheim.net/6597/APL-Accessibility)
+      1. [Anaheim Library History Timeline](https://www.anaheim.net/1230/Library-History)
+      2. [City Officials](https://www.anaheim.net/159/City-Officials)
+      3. [Community Spirits ](https://www.anaheim.net/166/Community-Spirits)
+      4. [Digital Anaheim](https://www.anaheim.net/1294/digital-anaheim)
+      5. [Historic Founder's Park](https://www.anaheim.net/Facilities/Facility/Details/Founders-Park-51)
+      6. [History of Modern Day Anaheim](https://www.anaheim.net/153/History-of-Modern-Day-Anaheim) [](https://www.anaheim.net/6597/APL-Accessibility)
+        1. [Prologue](https://www.anaheim.net/154/Prologue)
+        2. [Photo Gallery](https://www.anaheim.net/gallery.aspx?AID=2)
+        3. [The 1950s - 1980s](https://www.anaheim.net/156/The-1950s---1980s)
+      7. [Jack Benny's Anaheim](https://www.anaheim.net/164/Jack-Bennys-Anaheim)
+      8. [The Phoenix Club ](https://www.anaheim.net/168/The-Phoenix-Club)
+      9. [Portraits of a Small Town](https://www.anaheim.net/160/Portraits-of-a-Small-Town)
+      10. [Street Stories & Orange Growers ](https://www.anaheim.net/155/Street-Stories-Orange-Growers)
+      11. [What's In a Name](https://www.anaheim.net/167/Whats-In-a-Name)
+      12. [Ancestry.com](https://www.anaheim.net/1108/Ancestrycom)
+    5. [Library History](https://www.anaheim.net/1230/Library-History) [](https://www.anaheim.net/6597/APL-Accessibility)
+      1. [Library History Timeline](https://www.anaheim.net/1230/Library-History)
+      2. [Heritage Services](https://www.anaheim.net/2474/Heritage-Services)
+      3. [Historic Photo Collections](https://www.anaheim.net/1294/Anaheim-Photo-Collections)
+    6. [Japanese American Project](https://www.anaheim.net/4562/Japanese-American-Heritage-Project) [](https://www.anaheim.net/6597/APL-Accessibility)
+      1. [I am an American Exhibition](https://www.anaheim.net/5342/I-am-an-American-Exhibition)
+      2. [Oral History Interviews](https://www.anaheim.net/5404/Oral-History-Interviews)
+  4. [For Kids & Families](https://www.anaheim.net/1095/For-Kids-Families) [](https://www.anaheim.net/6597/APL-Accessibility)
+    1. [Early Literacy](https://www.anaheim.net/1045/Early-Literacy) [](https://www.anaheim.net/6597/APL-Accessibility)
+      1. [Six Early Literacy Skills](https://www.anaheim.net/1050/Six-Early-Literacy-Skills)
+      2. [Early Literacy Resources for Families](https://www.anaheim.net/5715/Early-Literacy-Resources-for-Families)
+      3. [Choosing the Right Book](https://www.anaheim.net/1085/Choosing-the-Right-Book)
+      4. [Developmental Milestones](https://www.anaheim.net/1055/Developmental-Milestones)
+      5. [Music](https://www.anaheim.net/1087/Music)
+    2. [Reading Programs](https://www.anaheim.net/5611/Reading-Programs)
+    3. [Student Success Portal](https://anaheim.net/5977/Student-Success-Portal)
+    4. [](https://www.anaheim.net/4554/)
+  5. [STEAM Services](https://www.anaheim.net/5508/STEAM-Services) [](https://www.anaheim.net/6597/APL-Accessibility)
+    1. [STEAM on the Go! Kits](https://www.anaheim.net/5734/STEAM-on-the-Go-Kits)
+    2. [STEAM Adventures](https://www.anaheim.net/5821/STEAM-Adventures)
+    3. [STEAM Exploration on Wheels](https://www.anaheim.net/5969/STEAM-Exploration-on-Wheels)
+  6. [Link Labs](https://www.anaheim.net/6445/Link-Labs) [](https://www.anaheim.net/6597/APL-Accessibility)
+    1. [Makerspace](https://www.anaheim.net/6668/Makerspace)
+    2. [Media Lab](https://www.anaheim.net/6669/Media-Lab)
+    3. [Memory Lab](https://www.anaheim.net/6670/Memory-Lab)
+    4. [Request a Link Labs Appointment](https://www.anaheim.net/6671/Request-a-Link-Labs-Appointment)
+    5. [Link Labs Policies](https://www.anaheim.net/6738/Link-Labs-Policies)
+  7. [For Teens](https://www.anaheim.net/1154/For-Teens) [](https://www.anaheim.net/6597/APL-Accessibility)
+    1. [Teen Programs](https://anaheim.libcal.com/calendars?cid=-1&t=g&d=0000-00-00&cal=-1&audience=10059&inc=0)
+    2. [Teen Reading Lists](https://www.anaheim.net/6132/Teen-Reading-Lists)
+    3. [Teen Volunteering](https://anaheim.net/3213/Volunteer)
+    4. [Foster Care Youth](https://www.anaheim.net/6230/Foster-Care-Youth)
+  8. [For Adults](https://www.anaheim.net/2497/For-Adults) [](https://www.anaheim.net/6597/APL-Accessibility)
+    1. [Career Resources](https://www.anaheim.net/1125/Career-Resources) [](https://www.anaheim.net/6597/APL-Accessibility)
+      1. [Leadership Collection](https://www.anaheim.net/5128/Leadership-Collection)
+    2. [Citizenship Corner](https://www.anaheim.net/5430/Citizenship-Corner) [](https://www.anaheim.net/6597/APL-Accessibility)
+      1. [Welcoming Anaheim - Library Resources](https://www.anaheim.net/5149/Welcoming-Anaheim---Library-Resources)
+    3. [Recursos en Español](https://www.anaheim.net/6108/Recursos-en-Espaol)
+
+
+  1. ![Anaheim](https://www.anaheim.net/ImageRepository/Document?documentId=41696)
+  
+
+
+
+### Contact Us
+  1. City of Anaheim  
+200 S. Anaheim Blvd.  
+Anaheim, CA 92805  
+([714) 765-4311](tel:714-765-4311)  
+[Dial 311](tel:%20311)
+
+
+### [Helpful Links](https://www.anaheim.net/QuickLinks.aspx?CID=374)
+  1. [City Council Video](https://www.anaheim.net/2142/Council-Meeting-Video)
+  2. [FY 2025/26 Adopted Budget](https://anaheim.net/Archive.aspx?AMID=38&Type=Recent)
+  3. [News and Media Center](https://www.anaheim.net/1737/News-Media-Center)
+  4. [Anaheim Newsletter](https://www.anaheim.net/1725/Anaheim-Newsletter)
+  5. [Visit Anaheim](http://visitanaheim.org/)
+  6. [Boards & Commissions](https://www.anaheim.net/176/Boards-Commissions)
+
+
+/QuickLinks.aspx
+### [Quick Links](https://www.anaheim.net/QuickLinks.aspx?CID=242)
+  1. [Contact Us](https://www.anaheim.net/directory.aspx)
+  2. [Home](https://www.anaheim.net/)
+  3. [Site Map](https://www.anaheim.net/sitemap)
+  4. [Accessibility](https://www.anaheim.net/Accessibility)
+  5. [Disability & Civil Rights Program ](https://www.anaheim.net/1740/Disability-Civil-Rights-Program)
+  6. [Copyright Notices](https://www.anaheim.net/site/copyright)
+
+
+/QuickLinks.aspx
+Government Websites by [CivicPlus®](https://connect.civicplus.com/referral)
+## Loading
+Loading 
+Do Not Show Again Close
+Arrow Left Arrow Right
+Slideshow Left Arrow Slideshow Right Arrow
+Close **×**
