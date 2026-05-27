@@ -13,6 +13,7 @@ Supports three modes: **URL Discovery** (find new utility websites), **Incentive
 - [Configuration](#configuration)
 - [Running the App](#running-the-app)
   - [Streamlit UI](#streamlit-ui)
+  - [Running the Pipeline Directly (Terminal)](#running-the-pipeline-directly-terminal)
   - [CLI / Terminal](#cli--terminal)
   - [Supercomputer / SLURM](#supercomputer--slurm)
 - [Modes](#modes)
@@ -20,7 +21,7 @@ Supports three modes: **URL Discovery** (find new utility websites), **Incentive
   - [Auto Search Utilities](#auto-search-utilities)
   - [City URL Discovery](#city-url-discovery)
 - [OpenSERP Setup](#openserp-setup)
-- [LLM Providers](#llm-providers)
+- [LLM Providers & Model Selection](#llm-providers--model-selection)
 - [Output Files](#output-files)
 - [Dependencies](#dependencies)
 
@@ -114,12 +115,6 @@ export ANTHROPIC_API_KEY=your_key_here
 export GOOGLE_API_KEY=your_key_here
 ```
 
-**UW SSEC AI Gateway:**
-```bash
-export UW_SSEC_AI_GATEWAY_KEY=your_key_here
-export UW_SSEC_AI_GATEWAY_BASE_URL=your_base_url_here
-```
-
 ---
 
 ## Configuration
@@ -140,8 +135,8 @@ MARKDOWN_CSV        = "markdown_output.csv"
 
 | Setting | Small laptop | Gaming laptop | Supercomputer |
 |---|---|---|---|
-| `MODEL_NAME` | `qwen2.5:7b` | `qwen2.5:14b` | `gpt-4o` via UW SSEC |
-| `DEFAULT_TRUNCATION` | `5000` | `8000` | `15000` |
+| `MODEL_NAME` | `qwen2.5:7b` | `qwen2.5:14b` | `gpt-4o` |
+| `DEFAULT_TRUNCATION` | `5000` | `8000` | `32000+` |
 | `LLM_TIMEOUT` | `180` | `120` | `60` |
 
 ---
@@ -156,6 +151,77 @@ streamlit run app.py
 
 Opens in your browser at `http://localhost:8501`.
 
+---
+
+### Running the Pipeline Directly (Terminal)
+
+If you don't need the UI, you can run the pipeline straight from the terminal using `main.py`. This is useful for automation, testing, or running on a server without a browser.
+
+**Activate your venv first:**
+```bash
+# Windows
+.\.venv\Scripts\activate
+
+# Mac / Linux
+source .venv/bin/activate
+```
+
+**Basic usage — Excel file with Ollama:**
+```bash
+python -c "
+from main import run_pipeline
+run_pipeline(
+    mode='Upload Excel',
+    uploaded_file='urls.xlsx',
+    provider='ollama',
+    model='qwen2.5:7b',
+    temperature=0.0,
+    truncation_length=8000,
+)
+"
+```
+
+**With OpenAI (GPT-4o):**
+```bash
+python -c "
+from main import run_pipeline
+run_pipeline(
+    mode='Upload Excel',
+    uploaded_file='urls.xlsx',
+    provider='openai',
+    model='gpt-4o',
+    temperature=0.0,
+    truncation_length=32000,
+)
+"
+```
+
+**Quick one-liner for a single URL:**
+```bash
+python -c "
+import pandas as pd, io
+from main import run_pipeline
+
+df = pd.DataFrame({'URLs': ['https://www.pge.com/rebates']})
+buf = io.BytesIO()
+df.to_excel(buf, index=False)
+buf.seek(0)
+
+run_pipeline(
+    mode='Upload Excel',
+    uploaded_file=buf,
+    provider='ollama',
+    model='qwen2.5:7b',
+    temperature=0.0,
+    truncation_length=8000,
+)
+"
+```
+
+Output files (`incentives_output.csv`, `errors.csv`, `markdown_output.csv`) will be written to your current working directory.
+
+---
+
 ### CLI / Terminal
 
 ```bash
@@ -165,14 +231,11 @@ python cli.py --file urls.xlsx --provider ollama --model qwen2.5:7b
 # Run with OpenAI
 python cli.py --file urls.xlsx --provider openai --model gpt-4o
 
-# Run with UW SSEC Gateway
-python cli.py --file urls.xlsx --provider uw_ssec --model gpt-5.4-pro
-
 # Auto search by state
 python cli.py --state California --provider openai --model gpt-4o
 
 # Save output to a specific directory
-python cli.py --file urls.xlsx --provider uw_ssec --model gpt-5.4-pro --output /results/
+python cli.py --file urls.xlsx --provider openai --model gpt-4o --output /results/
 ```
 
 **All CLI options:**
@@ -201,13 +264,6 @@ Monitor your job:
 ```bash
 squeue -u $USER
 tail -f logs/incentivai_<job_id>.out
-```
-
-The script sets `UW_SSEC_AI_GATEWAY_KEY` and `UW_SSEC_AI_GATEWAY_BASE_URL` from your environment — set these before submitting:
-```bash
-export UW_SSEC_AI_GATEWAY_KEY=your_key
-export UW_SSEC_AI_GATEWAY_BASE_URL=your_url
-sbatch run_job.sh
 ```
 
 ---
@@ -244,9 +300,45 @@ Requires OpenSERP running locally — see [OpenSERP Setup](#openserp-setup).
 
 ## OpenSERP Setup
 
-OpenSERP is a local search API that queries Google, Bing, or DuckDuckGo without rate limits. It is required for **City URL Discovery** mode.
+OpenSERP is a local search API that lets you query Google, Bing, or DuckDuckGo programmatically without hitting rate limits or needing API keys. It runs as a local server on your machine and IncentivAI talks to it over `http://localhost:7070`.
 
-### Install and run via Docker
+### What it does
+
+When City URL Discovery runs, it sends search queries like `"electric utility rebate programs Texas"` to OpenSERP, which performs the actual web search and returns structured JSON results. IncentivAI then filters those results down to real utility websites, strips out aggregators and news sites, and saves the URLs for extraction.
+
+Without OpenSERP running, City URL Discovery will not work.
+
+---
+
+### Option 1 — OpenSERP executable (recommended for Windows)
+
+One of the project contributors built and tested a working OpenSERP executable that runs directly without Docker or Go installation. This is the easiest option on Windows.
+
+**To run it:**
+```bash
+# Navigate to wherever openserp.exe is located, then:
+python openserp.exe
+```
+
+> **Note:** The exact command may vary depending on how the executable was built.
+> The server should start up in your terminal with a blue output indicating it's running.
+> Once you see it listening, leave that terminal open and start IncentivAI in a separate terminal.
+
+When it's running you should see something like:
+```
+Starting OpenSERP server on :7070
+Listening...
+```
+
+Set the **OpenSERP URL** field in the Streamlit UI to `http://localhost:7070` (this is the default).
+
+> **TODO:** Update this section with the exact run command once confirmed.
+
+---
+
+### Option 2 — Docker
+
+If you have Docker installed, this is the most reliable cross-platform option:
 
 ```bash
 docker pull karust/openserp
@@ -260,13 +352,23 @@ curl "http://localhost:7070/google/search?text=electric+utility+rebate+Texas&lim
 
 You should get back a JSON array of search results.
 
-### In the Streamlit UI
+---
 
-Set the **OpenSERP URL** field to `http://localhost:7070` (default).
+### Option 3 — Build from source
+
+If you have Go installed:
+```bash
+git clone https://github.com/karust/openserp.git
+cd openserp
+go build -o openserp
+./openserp serve --port 7070
+```
+
+---
 
 ### On the supercomputer
 
-Run OpenSERP on a login node or as a background service before submitting your SLURM job:
+Run OpenSERP on a login node before submitting your SLURM job:
 ```bash
 docker run -d -p 7070:7070 karust/openserp
 ```
@@ -276,9 +378,11 @@ Or run it on your local machine and tunnel the port:
 ssh -L 7070:localhost:7070 your_netid@klone.hyak.uw.edu
 ```
 
+---
+
 ### Search topics
 
-Discovery runs 20 search queries per state, targeting utility types from the EIA-861 database:
+Discovery runs search queries per state targeting utility types from the EIA-861 database:
 - Electric cooperatives
 - Municipal utilities
 - Public utility districts
@@ -289,24 +393,91 @@ Results are filtered against a domain blocklist that removes aggregators (DSIRE,
 
 ---
 
-## LLM Providers
+## LLM Providers & Model Selection
+
+The model you choose has a **direct impact on extraction quality**, and the `DEFAULT_TRUNCATION` setting in `config.py` should be matched to what your model can actually handle. Sending more text than a small model can process doesn't improve results — it actively makes them worse. Larger models genuinely benefit from more context.
+
+---
+
+### Tier 1 — Small local models (sub-10B parameters)
+
+Examples: `qwen2.5:7b`, `llama3.2:3b`, `mistral:7b`
+
+These run on most laptops with 8–16GB RAM via Ollama. They work, but have real limitations:
+
+- **Stay at or below `8000` truncation.** These models have limited context windows and degrade noticeably when given more text than they can handle — you'll get hallucinated values, missed fields, and malformed JSON. More text is not better here.
+- Financial details and eligibility fields are the hardest for small models — expect some misses.
+- Best used for development, testing, and running the pipeline when no internet or API access is available.
+
+```python
+# config.py for small models
+MODEL_NAME         = "qwen2.5:7b"
+DEFAULT_TRUNCATION = 8000
+LLM_TIMEOUT        = 180   # small models are slower, give them more time
+```
+
+---
+
+### Tier 2 — Medium local models (10B–30B parameters)
+
+Examples: `qwen2.5:14b`, `qwen2.5:32b`, `mixtral:8x7b`
+
+Require a gaming laptop or workstation with 16–32GB RAM. Noticeably better extraction quality:
+
+- **Push truncation to `12000`–`16000`.** These models handle longer context well and will catch financial details that smaller models miss.
+- Field extraction is significantly more reliable, especially for eligibility and application process.
+- Still slower than cloud models but fully local and free to run.
+
+```python
+# config.py for medium models
+MODEL_NAME         = "qwen2.5:14b"
+DEFAULT_TRUNCATION = 16000
+LLM_TIMEOUT        = 120
+```
+
+---
+
+### Tier 3 — Large cloud models (GPT-4o, Claude, Gemini)
+
+Examples: `gpt-4o`, `gpt-4o-mini`, `claude-3-5-sonnet`, `gemini-1.5-pro`
+
+This is where the pipeline really performs. Confirmed working end-to-end with GPT-4o.
+
+- **Push truncation as high as you want** — GPT-4o has a 128k token context window. Set `DEFAULT_TRUNCATION` to `32000`, `64000`, or higher. More page content = better extraction, especially for complex multi-program pages.
+- Extraction quality is dramatically better across all fields, especially financial details.
+- Requires an API key and costs money per run — budget accordingly for large batches.
+- Fastest wall-clock time despite being remote, since inference is done on powerful hardware.
+
+```python
+# config.py for cloud models
+MODEL_NAME         = "gpt-4o"
+DEFAULT_TRUNCATION = 32000   # or higher — GPT-4o can handle it
+LLM_TIMEOUT        = 60
+```
+
+---
+
+### Provider setup
 
 | Provider | Flag | Requires |
 |---|---|---|
-| Ollama (local) | `ollama` | Ollama installed + model pulled |
-| OpenAI | `openai` | `OPENAI_API_KEY` env var |
-| UW SSEC Gateway | `uw_ssec` | `UW_SSEC_AI_GATEWAY_KEY` + `UW_SSEC_AI_GATEWAY_BASE_URL` |
-| Anthropic | `anthropic` | `ANTHROPIC_API_KEY` env var |
-| Google Gemini | `google` | `GOOGLE_API_KEY` env var |
+| Ollama (local) | `ollama` | Ollama installed + model pulled via `ollama pull <model>` |
+| OpenAI | `openai` | `OPENAI_API_KEY` environment variable |
+| Anthropic | `anthropic` | `ANTHROPIC_API_KEY` environment variable |
+| Google Gemini | `google` | `GOOGLE_API_KEY` environment variable |
 
-**Recommended models by use case:**
+**Any model available in Ollama works** — just run `ollama pull <model-name>` and use that exact name (including the tag) in `config.py` or the model name field in the UI. Run `ollama list` to see what you have installed.
 
-| Use case | Provider | Model |
-|---|---|---|
-| Local development | ollama | `qwen2.5:7b` |
-| Best local quality | ollama | `qwen2.5:14b` |
-| Production / best results | uw_ssec | `gpt-5.4-pro` |
-| Fast + cheap | openai | `gpt-4o-mini` |
+---
+
+### Recommended models by use case
+
+| Use case | Provider | Model | Truncation |
+|---|---|---|---|
+| Local dev / no internet | ollama | `qwen2.5:7b` | `8000` |
+| Best local quality | ollama | `qwen2.5:14b` | `16000` |
+| Fast + cheap cloud | openai | `gpt-4o-mini` | `16000` |
+| Best results / production | openai | `gpt-4o` | `32000+` |
 
 ---
 
