@@ -1,129 +1,399 @@
-# Single Link Tester
+# IncentivAI Pipeline
 
-This is a standalone testing environment for the IncentivAI scraping and analysis pipeline. It is designed to test the extraction of utility rebates and incentives from a single URL using the exact workflow utilized in Kaleb's dual-script setup (`Scrapper_crawl.py` and `Analyzer_crawl.py`), but consolidated into a single convenient script.
+This repo contains a Streamlit and terminal wrapper around the IncentivAI URL scraping, rebate analysis, URL discovery, and URL database merge workflow.
 
-## Prerequisites
+The main entrypoint is `app.py`. It can run as:
 
-1. **Python 3.10+**
-2. **LLM Provider**: Ollama is the default, but you can also use OpenAI, Anthropic, or Google Gemini.
-   - For Ollama, install and run it locally, then pull the model you want. The default is `llama3.2`.
-   - For OpenAI, Anthropic, or Google, set the appropriate API key in your environment.
-   - For UW SSEC AI Gateway, set `UW_SSEC_AI_GATEWAY_KEY` and `UW_SSEC_AI_GATEWAY_BASE_URL` in your environment.
+- A Streamlit app with selectable modes.
+- A terminal CLI using labeled arguments such as `--mode`, `--url`, `--provider`, and `--crawl-depth`.
 
-## Installation
+The underlying worker scripts are still available:
 
-Ensure you have the required dependencies installed. You can install them via pip:
+- `test_single_link.py`: scrape, analyze, and filter rebate results.
+- `Searching/energy_search.py`: discover utility URLs through OpenSERP.
+- `Searching/merge_urls.py`: merge discovered URLs into an existing database.
+
+## 1. Prerequisites
+
+Install these first:
+
+- Python 3.11 or newer
+- `uv`
+- An LLM provider
+- Optional: Docker, if you want to use URL Discovery through OpenSERP
+
+Check Python:
 
 ```bash
-pip install -U crawl4ai pandas openpyxl beautifulsoup4 aiohttp langchain-ollama streamlit langchain-openai langchain-anthropic langchain-google-genai
+python3 --version
 ```
 
-*Note: Depending on your exact system, `crawl4ai` might require Playwright browser binaries to be installed (`playwright install`).*
+Install `uv` if you do not already have it:
 
----
-
-## Testing Different Models on Pre-Scraped Data
-
-If you already have scraped `.md` files in the `scraped_data/` folder and just want to test how different models perform on the same data, use the `--analyze-only` flag. This skips crawling entirely and runs only the analysis + filtering steps.
-
-**Step 1 — Pull or configure the model you want to test (if needed):**
 ```bash
-ollama pull <model-name>
+curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 
-**Step 2 — Run analysis with that model:**
+Restart your terminal after installing `uv`, then check:
+
 ```bash
-python test_single_link.py --analyze-only --provider "ollama" --model "<model-name>"
+uv --version
 ```
 
-**That's it.** Results will be written to `analysis_results/`.
+## 2. Create The uv Environment
 
-### Model Swap Examples
+From the repo root:
 
-| Model | Command |
+```bash
+cd /Users/gio/github/IncentivAI/incentivai_g1
+uv sync
+```
+
+This creates or updates `.venv/` from `pyproject.toml` and `uv.lock`.
+
+If `crawl4ai` or Playwright reports missing browser binaries during a crawl, run:
+
+```bash
+uv run python -m playwright install chromium
+```
+
+You do not need to manually activate the virtual environment if you use `uv run ...`.
+
+Optional activation:
+
+```bash
+source .venv/bin/activate
+```
+
+## 3. Configure An LLM Provider
+
+### Ollama
+
+Ollama is the default provider.
+
+Install Ollama separately, start it, then pull the default model:
+
+```bash
+ollama pull llama3.2
+```
+
+Run a quick model check:
+
+```bash
+ollama list
+```
+
+### UW SSEC AI Gateway
+
+Set both environment variables in the same terminal where you run Streamlit or CLI commands:
+
+```bash
+export UW_SSEC_AI_GATEWAY_KEY="your-api-key"
+export UW_SSEC_AI_GATEWAY_BASE_URL="https://your-gateway-base-url"
+```
+
+Then use:
+
+```bash
+--provider uw_ssec --model-name gpt-5.4-mini
+```
+
+### OpenAI
+
+```bash
+export OPENAI_API_KEY="your-api-key"
+```
+
+Then use:
+
+```bash
+--provider openai --model-name gpt-4.1-mini
+```
+
+### Anthropic And Google
+
+The code supports these providers if the corresponding LangChain packages and API keys are available in your environment:
+
+```bash
+export ANTHROPIC_API_KEY="your-api-key"
+export GOOGLE_API_KEY="your-api-key"
+```
+
+If you plan to use these providers and the imports are missing, add the optional packages:
+
+```bash
+uv add langchain-anthropic langchain-google-genai
+```
+
+## 4. Run Through Streamlit
+
+Start the app:
+
+```bash
+uv run streamlit run app.py
+```
+
+If your shell has an old or broken `streamlit` executable, use:
+
+```bash
+uv run python -m streamlit run app.py
+```
+
+Then open the local URL printed by Streamlit, usually:
+
+```text
+http://localhost:8501
+```
+
+### Streamlit Modes
+
+The Streamlit app has five modes:
+
+| Mode | What it does |
 |---|---|
-| llama3.2 (default) | `python test_single_link.py --analyze-only --provider "ollama" --model "llama3.2"` |
-| OpenAI GPT-4.1 | `python test_single_link.py --analyze-only --provider "openai" --model "gpt-4.1"` |
-| UW SSEC GPT-5 Mini | `python test_single_link.py --analyze-only --provider "uw_ssec" --model "gpt-5-mini"` |
-| UW SSEC Kimi K2 Thinking | `python test_single_link.py --analyze-only --provider "uw_ssec" --model "kimi-k2-thinking"` |
-| Claude | `python test_single_link.py --analyze-only --provider "anthropic" --model "claude-sonnet-4-0"` |
-| Gemini | `python test_single_link.py --analyze-only --provider "google" --model "gemini-2.5-pro"` |
+| `Excel upload` | Upload an Excel workbook, choose the sheet and URL column, then run the scrape/analyze/filter pipeline on each URL. |
+| `Single URL` | Run the pipeline on one URL. |
+| `Scraped markdown directory` | Skip scraping and analyze existing `.md` files from a directory. |
+| `URL Discovery` | Search OpenSERP for utility URLs by state and write discovered URLs to an Excel workbook. |
+| `Merge Database` | Merge discovered URLs into an existing URL database with domain-level deduplication. |
 
-> **Tip:** If you only want to re-run the final cleanup/filtering pass on already-analyzed files (skipping even the first analysis pass), use `--filter-only` instead:
-> ```bash
-> python test_single_link.py --filter-only --provider "<provider>" --model "<model-name>"
-> ```
+For pipeline modes, set:
 
----
+- **Deep crawl**: enabled by default.
+- **Crawl depth**: default is `3`.
+- **LLM provider**: default is `ollama`.
+- **Model**: default is `llama3.2`.
+- **Max scrape length**: default is `150000`.
 
-## Usage
+For `URL Discovery`, start OpenSERP first. If you use the Docker command in this README, set the Streamlit **OpenSERP URL** field to:
 
-### Streamlit App (Batch Excel Upload)
-
-Run the simple frontend from this folder:
-
-```bash
-streamlit run app.py
+```text
+http://localhost:7000
 ```
 
-Upload an Excel file, select the sheet and URL column, then click **Run Pipeline**. The app loops through each valid link using the existing `test_single_link.py` pipeline and offers the final rebate markdown files as a zip download.
+## 5. Run Through Terminal
 
-### Basic Run (Scrape + Analyze)
-```bash
-python test_single_link.py --url "http://cpuc.ca.gov/energyefficiency/"
-```
+Use `app.py` with `--mode`.
 
-### All Options
-
-| Flag | Description | Default |
-|---|---|---|
-| `--url` | URL to scrape and analyze | `http://cpuc.ca.gov/energyefficiency/` |
-| `--no-deep-crawl` | Only crawl the main page, don't follow links | off |
-| `--provider` | LLM provider to use | `ollama` |
-| `--model` | Model name to use for analysis | `llama3.2` |
-| `--analyze-only` | Skip crawling; analyze pre-scraped files in `scraped_data/` | off |
-| `--filter-only` | Skip crawling + analysis; only re-run the final filter pass on `analysis_results/` | off |
-
-### More Examples
-
-**Shallow crawl with a specific model:**
-```bash
-python test_single_link.py --url "https://www.example.com/rebates" --no-deep-crawl --provider "ollama" --model "qwen2.5:14b-instruct"
-```
-
-**Analyze pre-scraped data (most common for model testing — see section above):**
-```bash
-python test_single_link.py --analyze-only --provider "ollama" --model "llama3.2"
-```
-
-**Analyze pre-scraped data with the UW SSEC AI Gateway:**
-```bash
-export UW_SSEC_AI_GATEWAY_KEY="your-api-key"
-export UW_SSEC_AI_GATEWAY_BASE_URL="https://llmaven-prod-litellm-prod.lemonmoss-19296c81.westus2.azurecontainerapps.io"
-python test_single_link.py --analyze-only --provider "uw_ssec" --model "gpt-5-mini"
-```
-
-> **Note:** The gateway's `gpt-5` models require `temperature=1`; the pipeline handles this automatically for `gpt-5*` model names.
-
-The `export` commands only apply to the current terminal session. Run them again when you open a new terminal, restart your computer, or launch Streamlit from a different environment. To use the gateway in the Streamlit interface, export the variables first, then start the app from that same terminal:
+Show all CLI options:
 
 ```bash
-export UW_SSEC_AI_GATEWAY_KEY="your-api-key"
-export UW_SSEC_AI_GATEWAY_BASE_URL="https://llmaven-prod-litellm-prod.lemonmoss-19296c81.westus2.azurecontainerapps.io"
-streamlit run app.py
+uv run python app.py --help
 ```
 
-For convenience, you can add these exports to your shell profile, such as `~/.zshrc`, but that stores the key on disk. If you use a `.env` file or any local secrets file, make sure it is listed in `.gitignore` and never committed.
+### Single URL
 
-**Re-run only the final filter pass:**
 ```bash
-python test_single_link.py --filter-only --provider "ollama" --model "llama3.2"
+uv run python app.py \
+  --mode single-url \
+  --url "https://www.example.com/rebates" \
+  --provider ollama \
+  --model-name llama3.2 \
+  --crawl-depth 3 \
+  --truncation-length 150000 \
+  --summary-csv run_summary.csv
 ```
 
----
+Use a shallow crawl:
 
-## How It Works
+```bash
+uv run python app.py \
+  --mode single-url \
+  --url "https://www.example.com/rebates" \
+  --no-deep-crawl
+```
 
-1. **Scraping**: The script uses `crawl4ai` to fetch the HTML, PDFs, or Excel files. Deep crawling will follow relevant embedded links and dump truncated markdown chunks for each page into the `scraped_data/` folder.
-2. **Analysis Pass 1**: The script iterates through all `.md` files in `scraped_data/`, interfacing with your local Ollama instance to extract structured markdown regarding program names, rebate amounts, eligibility, and utility details. It appends these findings (including "NOT RELEVANT" blocks) into a single raw markdown file per domain located in the `analysis_results/` folder (e.g., `cpuc_ca_gov_analysis.md`).
-3. **Analysis Pass 2 (Filtering)**: A second LLM pass reads the raw `_analysis.md` file, discards all conversational filler and empty/irrelevant blocks, and produces a final, clean file containing strictly actionable rebates (e.g., `cpuc_ca_gov_FINAL_rebates.md`).
+### Excel Upload Mode From Terminal
+
+This runs the same batch pipeline as the Streamlit Excel upload mode:
+
+```bash
+uv run python app.py \
+  --mode excel-upload \
+  --excel-file "Searching/Relevant_URLs.xlsx" \
+  --sheet "All URLs" \
+  --url-column "Program Source URLs" \
+  --provider ollama \
+  --model-name llama3.2 \
+  --crawl-depth 3 \
+  --summary-csv excel_run_summary.csv
+```
+
+If you omit `--sheet`, the first sheet is used.
+
+If you omit `--url-column`, the app tries to detect a URL/link column.
+
+### Scraped Markdown Directory Mode
+
+Use this when you already have scraped markdown files and only want to run analysis and filtering:
+
+```bash
+uv run python app.py \
+  --mode scraped-markdown-directory \
+  --directory "scraped_data" \
+  --provider ollama \
+  --model-name llama3.2 \
+  --summary-csv markdown_run_summary.csv
+```
+
+### URL Discovery Mode
+
+URL Discovery requires an OpenSERP server.
+
+Start OpenSERP with Docker:
+
+```bash
+docker run -p 127.0.0.1:7000:7000 -it karust/openserp serve -a 0.0.0.0 -p 7000
+```
+
+Leave that running, then in a second terminal run:
+
+```bash
+cd /Users/gio/github/IncentivAI/incentivai_g1
+uv run python app.py \
+  --mode url-discovery \
+  --states Texas California \
+  --openserp-url "http://localhost:7000" \
+  --engine google \
+  --results-per-query 8 \
+  --database-file "Searching/Relevant_URLs.xlsx" \
+  --output-file "Searching/utility_urls_discovered.xlsx"
+```
+
+Use custom search topics by repeating `--topic`:
+
+```bash
+uv run python app.py \
+  --mode url-discovery \
+  --states Texas \
+  --openserp-url "http://localhost:7000" \
+  --topic "electric cooperative rebate incentive program" \
+  --topic "municipal electric utility solar rebate"
+```
+
+If `--database-file` is provided, discovered domains already present in that workbook are skipped.
+
+### Merge Database Mode
+
+This merges discovered URLs into an existing URL workbook by domain.
+
+It does not overwrite your database unless you explicitly choose the same output path.
+
+```bash
+uv run python app.py \
+  --mode merge-database \
+  --database-file "Searching/Relevant_URLs.xlsx" \
+  --discovered-file "Searching/utility_urls_discovered.xlsx" \
+  --output-file "Searching/Relevant_URLs_merged.xlsx"
+```
+
+The output workbook contains:
+
+- `All URLs`: original URLs plus new URLs.
+- `New URLs`: only the newly added URL rows with metadata.
+
+## 6. Direct Worker Script Usage
+
+You can still run the single-link worker directly.
+
+```bash
+uv run python test_single_link.py \
+  --url "https://www.example.com/rebates" \
+  --provider ollama \
+  --model llama3.2 \
+  --crawl-depth 3
+```
+
+Analyze already-scraped files in `scraped_data/`:
+
+```bash
+uv run python test_single_link.py \
+  --analyze-only \
+  --provider ollama \
+  --model llama3.2
+```
+
+Re-run only the final filter pass on `analysis_results/`:
+
+```bash
+uv run python test_single_link.py \
+  --filter-only \
+  --provider ollama \
+  --model llama3.2
+```
+
+## 7. Outputs
+
+Pipeline runs write to:
+
+| Path | Description |
+|---|---|
+| `scraped_data/` | Markdown files produced by crawling. |
+| `analysis_results/` | Raw `_analysis.md` files and final `_FINAL_rebates.md` files. |
+| `run_summary.csv` or your `--summary-csv` path | Optional terminal run summary. |
+| `Searching/utility_urls_discovered.xlsx` | Default URL Discovery output. |
+| `Searching/Relevant_URLs_merged.xlsx` | Example merged URL database output. |
+
+## 8. Common Problems
+
+### `ModuleNotFoundError`
+
+Run commands through `uv`:
+
+```bash
+uv run python app.py --help
+```
+
+If dependencies are missing, sync again:
+
+```bash
+uv sync
+```
+
+### Missing browser binaries
+
+```bash
+uv run python -m playwright install chromium
+```
+
+### Streamlit command points to the wrong Python
+
+Use:
+
+```bash
+uv run python -m streamlit run app.py
+```
+
+### Ollama model not found
+
+Pull the model:
+
+```bash
+ollama pull llama3.2
+```
+
+### OpenSERP connection errors
+
+Confirm Docker is running and OpenSERP is listening:
+
+```bash
+docker run -p 127.0.0.1:7000:7000 -it karust/openserp serve -a 0.0.0.0 -p 7000
+```
+
+Then pass the same URL to the app:
+
+```bash
+--openserp-url "http://localhost:7000"
+```
+
+## 9. Defaults
+
+| Setting | Default |
+|---|---|
+| LLM provider | `ollama` |
+| Model | `llama3.2` |
+| Deep crawl | enabled |
+| Crawl depth | `3` |
+| Max scrape length | `150000` |
+| URL Discovery engine | `google` |
+| URL Discovery results per query | `8` |
