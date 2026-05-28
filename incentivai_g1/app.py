@@ -1,7 +1,9 @@
 import asyncio
+import argparse
 import contextlib
 import io
 import json
+import logging
 import os
 import re
 import subprocess
@@ -13,6 +15,11 @@ from urllib.parse import urlparse
 
 import pandas as pd
 import requests
+
+CLI_MODE_REQUESTED = len(sys.argv) > 1
+if CLI_MODE_REQUESTED:
+    logging.disable(logging.CRITICAL)
+
 import streamlit as st
 from openpyxl import Workbook, load_workbook
 from openpyxl.styles import Alignment, Border, Font, PatternFill, Side
@@ -450,6 +457,296 @@ def _build_merged_workbook(existing_urls, new_rows):
         ws_new.row_dimensions[row_index].height = 45
 
     return wb
+
+
+def _final_files_for_analysis(analysis_files):
+    final_files = []
+    for analysis_file in analysis_files:
+        base_name = os.path.basename(analysis_file).replace("_analysis.md", "")
+        final_file = os.path.join(os.path.dirname(analysis_file), f"{base_name}_FINAL_rebates.md")
+        if os.path.exists(final_file):
+            final_files.append(final_file)
+    return final_files
+
+
+def _urls_from_excel(excel_file, sheet_name=None, url_column=None):
+    workbook = pd.ExcelFile(excel_file)
+    resolved_sheet = sheet_name or workbook.sheet_names[0]
+    df = pd.read_excel(workbook, sheet_name=resolved_sheet)
+    if df.empty:
+        return []
+
+    resolved_column = url_column or _find_default_url_column(df.columns)
+    if resolved_column not in df.columns:
+        raise ValueError(f"URL column '{resolved_column}' was not found in {excel_file}.")
+
+    urls = [_normalize_url(value) for value in df[resolved_column]]
+    return list(dict.fromkeys(url for url in urls if url))
+
+
+def _scraped_files_from_directory(directory):
+    if not os.path.isdir(directory):
+        raise ValueError(f"Directory not found: {directory}")
+
+    scraped_files = {}
+    for filename in os.listdir(directory):
+        if not filename.endswith(".md"):
+            continue
+        path = os.path.join(directory, filename)
+        url_part = filename.split("_scraped.md")[0]
+        url = url_part.replace("_", "/").replace("~", ":")
+        scraped_files[url] = [path]
+    return scraped_files
+
+
+def _run_pipeline_batch(urls, args, scraped_files_by_url=None):
+    from test_single_link import analyze_scraped_files, filter_analysis_results
+
+    rows = []
+    final_files = []
+    scraped_files_by_url = scraped_files_by_url or {}
+
+    for index, url in enumerate(urls, start=1):
+        print(f"[{index}/{len(urls)}] Running pipeline for {url}")
+        try:
+            if url in scraped_files_by_url:
+                scraped = scraped_files_by_url[url]
+                analysis_files = analyze_scraped_files(scraped, provider=args.provider, model_name=args.model_name)
+                filter_analysis_results(analysis_files, provider=args.provider, model_name=args.model_name)
+                finals = _final_files_for_analysis(analysis_files)
+            else:
+                scraped, analysis_files, finals, _ = _run_pipeline_for_url(
+                    url=url,
+                    use_deep_crawl=args.deep_crawl,
+                    provider=args.provider,
+                    model_name=args.model_name,
+                    truncation_length=args.truncation_length,
+                )
+
+            final_files.extend(finals)
+            rows.append(
+                {
+                    "url": url,
+                    "status": "done",
+                    "scraped_files": len(scraped),
+                    "analysis_files": len(analysis_files),
+                    "final_files": len(finals),
+                    "error": "",
+                }
+            )
+        except Exception as exc:
+            rows.append(
+                {
+                    "url": url,
+                    "status": "error",
+                    "scraped_files": 0,
+                    "analysis_files": 0,
+                    "final_files": 0,
+                    "error": str(exc),
+                }
+            )
+            print(f"ERROR: {exc}")
+
+    results_df = pd.DataFrame(rows)
+    if args.summary_csv:
+        results_df.to_csv(args.summary_csv, index=False)
+        print(f"Saved summary CSV: {args.summary_csv}")
+
+    print(results_df.to_string(index=False))
+    unique_final_files = list(dict.fromkeys(final_files))
+    if unique_final_files:
+        print("\nFinal rebate markdown files:")
+        for path in unique_final_files:
+            print(f"  {path}")
+    return 1 if any(row["status"] == "error" for row in rows) else 0
+
+
+def _run_discovery_cli(args):
+    topics = args.topic or TOPICS
+    states = args.states
+    existing_domains = set()
+    if args.database_file:
+        existing_domains = _load_existing_domains(args.database_file)
+        print(f"Loaded {len(existing_domains)} existing domains from {args.database_file}")
+
+    os.makedirs(os.path.dirname(os.path.abspath(args.output_file)), exist_ok=True)
+    wb, ws = _xl_get_or_create(args.output_file)
+    discovered_rows = []
+    total_queries = len(states) * len(topics)
+    query_count = 0
+
+    for state in states:
+        for topic in topics:
+            query_count += 1
+            query = f"{topic} {state}"
+            print(f"[{query_count}/{total_queries}] Searching: {query}")
+            results = _search_openserp(query, args.openserp_url, args.engine, limit=args.results_per_query)
+            discovered_at = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+            for item in results:
+                result_url = item.get("url", "")
+                domain = _extract_domain(result_url)
+                if not result_url or not domain:
+                    continue
+                if not is_utility_url(result_url):
+                    print(f"  blocked: {result_url}")
+                elif domain in existing_domains:
+                    print(f"  exists: {domain}")
+                else:
+                    existing_domains.add(domain)
+                    title = item.get("title", "")
+                    description = item.get("description", "")
+                    _xl_append_row(ws, state, query, result_url, title, description, discovered_at)
+                    discovered_rows.append(
+                        {
+                            "State": state,
+                            "Search Query": query,
+                            "URL": result_url,
+                            "Page Title": title,
+                            "Description": description,
+                            "Discovered At": discovered_at,
+                        }
+                    )
+                    print(f"  new: {result_url}")
+
+            if args.sleep_seconds:
+                time.sleep(args.sleep_seconds)
+
+    wb.save(args.output_file)
+    print(f"Saved discovered URLs: {args.output_file}")
+    print(f"Found {len(discovered_rows)} new URL(s).")
+    return 0
+
+
+def _run_merge_cli(args):
+    existing_urls = _load_existing_urls(args.database_file)
+    existing_domains = {_extract_domain(url) for url in existing_urls if _extract_domain(url)}
+    discovered_rows = _load_discovered_file(args.discovered_file)
+
+    seen_domains = set(existing_domains)
+    new_rows = []
+    skipped = 0
+    for row in discovered_rows:
+        result_url = str(row.get("URL", "") or "").strip()
+        domain = _extract_domain(result_url)
+        if not domain:
+            continue
+        if domain in seen_domains:
+            skipped += 1
+        else:
+            seen_domains.add(domain)
+            new_rows.append(row)
+
+    if args.output_file:
+        output_file = args.output_file
+    else:
+        stamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        output_file = os.path.join(os.path.dirname(os.path.abspath(args.database_file)), f"Relevant_URLs_merged_{stamp}.xlsx")
+
+    os.makedirs(os.path.dirname(os.path.abspath(output_file)), exist_ok=True)
+    merged_workbook = _build_merged_workbook(existing_urls, new_rows)
+    merged_workbook.save(output_file)
+
+    print(f"Database URLs: {len(existing_urls)}")
+    print(f"Discovered rows: {len(discovered_rows)}")
+    print(f"New URLs: {len(new_rows)}")
+    print(f"Skipped duplicate domains: {skipped}")
+    print(f"Saved merged database: {output_file}")
+    return 0
+
+
+def _build_cli_parser():
+    parser = argparse.ArgumentParser(description="Run IncentivAI app modes from the terminal.")
+    parser.add_argument(
+        "--mode",
+        required=True,
+        choices=["single-url", "excel-upload", "scraped-markdown-directory", "url-discovery", "merge-database"],
+        help="App mode to run.",
+    )
+    parser.add_argument("--provider", default="ollama", help="LLM provider for pipeline modes.")
+    parser.add_argument("--model-name", default="llama3.2", help="LLM model name for pipeline modes.")
+    parser.add_argument("--truncation-length", type=int, default=150000, help="Max scrape length for pipeline modes.")
+    parser.add_argument("--deep-crawl", action=argparse.BooleanOptionalAction, default=True, help="Enable or disable deep crawl.")
+    parser.add_argument("--summary-csv", help="Optional CSV path for pipeline run summaries.")
+
+    parser.add_argument("--url", help="URL for --mode single-url.")
+    parser.add_argument("--excel-file", help="Excel workbook path for --mode excel-upload.")
+    parser.add_argument("--sheet", help="Sheet name for --mode excel-upload. Defaults to the first sheet.")
+    parser.add_argument("--url-column", help="URL column for --mode excel-upload. Defaults to the detected URL/link column.")
+    parser.add_argument("--directory", help="Directory of scraped markdown files for --mode scraped-markdown-directory.")
+
+    parser.add_argument("--states", nargs="+", help="States for --mode url-discovery.")
+    parser.add_argument("--openserp-url", default="http://localhost:7070", help="OpenSERP base URL for --mode url-discovery.")
+    parser.add_argument("--engine", default="google", choices=["google", "bing", "duckduckgo"], help="Search engine for URL discovery.")
+    parser.add_argument("--results-per-query", type=int, default=8, help="Number of search results per query for URL discovery.")
+    parser.add_argument("--topic", action="append", help="Discovery topic. Repeat to override the default topic list.")
+    parser.add_argument("--sleep-seconds", type=float, default=0.8, help="Pause between discovery queries.")
+    parser.add_argument(
+        "--output-file",
+        help="Output workbook path for url-discovery or merge-database.",
+    )
+    parser.add_argument(
+        "--database-file",
+        help="Existing URL database workbook for url-discovery dedupe or merge-database.",
+    )
+    parser.add_argument("--discovered-file", help="Discovered URL workbook for --mode merge-database.")
+    return parser
+
+
+def _run_cli(argv):
+    parser = _build_cli_parser()
+    args = parser.parse_args(argv)
+
+    if args.mode == "single-url":
+        if not args.url:
+            parser.error("--url is required for --mode single-url")
+        normalized_url = _normalize_url(args.url)
+        if not normalized_url:
+            parser.error("--url must be a valid URL")
+        return _run_pipeline_batch([normalized_url], args)
+
+    if args.mode == "excel-upload":
+        if not args.excel_file:
+            parser.error("--excel-file is required for --mode excel-upload")
+        urls = _urls_from_excel(args.excel_file, sheet_name=args.sheet, url_column=args.url_column)
+        if not urls:
+            print("No valid URLs found.")
+            return 1
+        return _run_pipeline_batch(urls, args)
+
+    if args.mode == "scraped-markdown-directory":
+        if not args.directory:
+            parser.error("--directory is required for --mode scraped-markdown-directory")
+        scraped_files_by_url = _scraped_files_from_directory(args.directory)
+        if not scraped_files_by_url:
+            print("No scraped markdown files found.")
+            return 1
+        return _run_pipeline_batch(list(scraped_files_by_url.keys()), args, scraped_files_by_url=scraped_files_by_url)
+
+    if args.mode == "url-discovery":
+        if not args.states:
+            parser.error("--states is required for --mode url-discovery")
+        invalid_states = [state for state in args.states if state not in VALID_STATES]
+        if invalid_states:
+            parser.error(f"Unrecognized state(s): {', '.join(invalid_states)}")
+        args.output_file = args.output_file or os.path.join(BASE_DIR, "Searching", "utility_urls_discovered.xlsx")
+        if not args.database_file:
+            default_database = os.path.join(BASE_DIR, "Searching", "Relevant_URLs.xlsx")
+            args.database_file = default_database if os.path.exists(default_database) else None
+        return _run_discovery_cli(args)
+
+    if args.mode == "merge-database":
+        if not args.database_file:
+            parser.error("--database-file is required for --mode merge-database")
+        if not args.discovered_file:
+            parser.error("--discovered-file is required for --mode merge-database")
+        return _run_merge_cli(args)
+
+    parser.error(f"Unsupported mode: {args.mode}")
+
+
+if __name__ == "__main__" and len(sys.argv) > 1:
+    raise SystemExit(_run_cli(sys.argv[1:]))
 
 
 try:
