@@ -40,6 +40,8 @@ Rules:
   object in the programs array. Do not merge or summarize multiple programs into one.
 - For utility_company: never leave this null if any organization name appears anywhere
   in the text. Use the domain name as a last resort.
+- If this page is a news article, blog post, or general advice with no concrete program,
+  return programs as [] and note it in summary_of_page.
 """
 
 
@@ -58,6 +60,10 @@ utility rebates, government incentives, and financial assistance programs.
 
 Your task is to carefully analyze the text below and extract every energy-related program,
 rebate, incentive, grant, or financial assistance opportunity that is explicitly mentioned.
+
+CRITICAL: If this document is merely a news article, a blog post, a glossary, or general
+advice about energy efficiency with no concrete active program, return programs as [] and
+note it in summary_of_page. Do not fabricate programs.
 
 EXTRACTION INSTRUCTIONS:
 
@@ -134,8 +140,6 @@ IMPORTANT REMINDERS:
 - If a field truly cannot be found, use null — never guess.
 - Financial amounts are critical — look for any number near a program description.
 - Company name is critical — look everywhere in the text for any organization name.
-- If this page is a news article, blog post, or general advice with no concrete program, 
-  return programs as [] and note it in summary_of_page.
 
 TEXT:
 \"\"\"

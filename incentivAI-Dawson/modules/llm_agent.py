@@ -1,5 +1,7 @@
 import os
 import threading
+from langchain_core.prompts import ChatPromptTemplate
+from langchain_core.output_parsers import StrOutputParser
 from config import MODEL_NAME, LLM_TIMEOUT
 from utils.logger import get_logger
 
@@ -7,9 +9,9 @@ logger = get_logger()
 
 # Optional provider imports — fail gracefully if not installed
 try:
-    import ollama as ollama_client
+    from langchain_ollama.llms import OllamaLLM
 except ImportError:
-    ollama_client = None
+    OllamaLLM = None
 
 try:
     from langchain_openai import ChatOpenAI
@@ -29,16 +31,16 @@ except ImportError:
 
 def build_llm(provider: str, model: str, temperature: float):
     """
-    Build and return an LLM client for the given provider.
+    Build and return a langchain LLM client for the given provider.
     Supports: ollama, openai, uw_ssec, anthropic, google/gemini
     """
     provider = (provider or "ollama").lower()
     model = model or MODEL_NAME
 
     if provider == "ollama":
-        if ollama_client is None:
-            raise ImportError("ollama package is not installed. Run: uv pip install ollama")
-        return None  # ollama is called directly, not via langchain
+        if OllamaLLM is None:
+            raise ImportError("langchain-ollama is not installed. Run: uv pip install langchain-ollama")
+        return OllamaLLM(model=model, temperature=temperature)
 
     if provider == "openai":
         if ChatOpenAI is None:
@@ -76,56 +78,45 @@ def build_llm(provider: str, model: str, temperature: float):
     raise ValueError(f"Unsupported provider: {provider}. Choose from: ollama, openai, uw_ssec, anthropic, google")
 
 
-def call_ollama(prompt: str, temperature: float = 0.2) -> str:
-    """
-    Call local Ollama model with a threading-based timeout.
-    Uses LLM_TIMEOUT from config to prevent hanging.
-    """
-    if ollama_client is None:
-        raise ImportError("ollama package is not installed.")
-
-    result = [None]
-    error = [None]
-
-    def _call():
-        try:
-            response = ollama_client.chat(
-                model=MODEL_NAME,
-                messages=[{"role": "user", "content": prompt}],
-                options={"temperature": temperature}
-            )
-            result[0] = response["message"]["content"]
-        except Exception as e:
-            error[0] = e
-
-    thread = threading.Thread(target=_call)
-    thread.start()
-    thread.join(LLM_TIMEOUT)
-
-    if thread.is_alive():
-        raise TimeoutError(f"LLM call timed out after {LLM_TIMEOUT}s")
-    if error[0]:
-        raise error[0]
-
-    return result[0]
-
-
 def call_llm(prompt: str, provider: str, model: str, temperature: float) -> str:
     """
-    Unified LLM call that routes to the correct provider.
-    For Ollama uses the native client with timeout.
-    For all other providers uses langchain.
+    Unified LLM call that routes to the correct provider via langchain.
+    Ollama calls use a threading-based timeout to prevent infinite hangs.
+
+    Args:
+        prompt:      full prompt string
+        provider:    llm provider name
+        model:       model name
+        temperature: sampling temperature
+
+    Returns:
+        LLM response string
     """
     provider = (provider or "ollama").lower()
-
-    if provider == "ollama":
-        return call_ollama(prompt, temperature)
-
-    # All non-Ollama providers go through langchain
-    from langchain_core.prompts import ChatPromptTemplate
-    from langchain_core.output_parsers import StrOutputParser
-
     llm = build_llm(provider, model, temperature)
     prompt_template = ChatPromptTemplate.from_template("{input}")
     chain = prompt_template | llm | StrOutputParser()
+
+    if provider == "ollama":
+        # Threading-based timeout for local Ollama to prevent infinite hangs
+        result = [None]
+        error = [None]
+
+        def _call():
+            try:
+                result[0] = chain.invoke({"input": prompt})
+            except Exception as e:
+                error[0] = e
+
+        thread = threading.Thread(target=_call)
+        thread.start()
+        thread.join(LLM_TIMEOUT)
+
+        if thread.is_alive():
+            raise TimeoutError(f"LLM call timed out after {LLM_TIMEOUT}s")
+        if error[0]:
+            raise error[0]
+        return result[0]
+
+    # All other providers — call directly via langchain
     return chain.invoke({"input": prompt})

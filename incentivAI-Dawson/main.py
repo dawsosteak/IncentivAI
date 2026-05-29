@@ -98,9 +98,9 @@ def run_pipeline(
     Main pipeline: fetch URLs → scrape → LLM extract → export.
 
     Args:
-        mode:               "Upload Excel" or "Auto Search Utilities"
-        uploaded_file:      Excel file object (Streamlit or file path string)
-        state:              state name for auto search mode
+        mode:               "Upload Excel", "Single URL", or "Upload Markdown"
+        uploaded_file:      Excel/Markdown file object or file path string
+        state:              unused, kept for API compatibility
         temperature:        LLM temperature
         truncation_length:  max chars of scraped content to send to LLM
         progress_callback:  callable(current, total, url, message)
@@ -124,6 +124,8 @@ def run_pipeline(
 
         main_url = entry["url"]
         excel_parent = entry["parent"]
+        # For markdown mode, content is pre-loaded in the entry
+        pre_loaded_content = entry.get("content")
         timestamp = datetime.datetime.utcnow().isoformat()
         idx += 1
 
@@ -133,6 +135,17 @@ def run_pipeline(
                 url=main_url,
                 message=f"({idx}/{total_entries}) [main link] Scraping: {main_url}"
             )
+
+        # ── Markdown mode: content already loaded, skip scraping ─────────
+        if pre_loaded_content is not None:
+            _process_page(
+                url=main_url, parent=excel_parent, url_type="markdown",
+                content=pre_loaded_content, temperature=temperature,
+                timestamp=timestamp, all_results=all_results,
+                progress_callback=progress_callback,
+                idx=idx, total=total_entries, provider=provider, model=model
+            )
+            continue
 
         # ── File types: scrape directly, process as single page ──────────
         _, file_type = is_file_url(main_url)
