@@ -117,7 +117,7 @@ st.sidebar.header("Configuration")
 
 mode = st.sidebar.radio(
     "Select Mode",
-    ["Upload Excel", "Single URL", "Upload Markdown", "City URL Discovery"]
+    ["Upload Excel", "Single URL", "Upload Markdown", "State URL Discovery"]
 )
 
 uploaded_file  = None
@@ -169,9 +169,9 @@ def _find_url_column(columns):
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
-# MODE: City URL Discovery
+# MODE: State URL Discovery
 # ═══════════════════════════════════════════════════════════════════════════════
-if mode == "City URL Discovery":
+if mode == "State URL Discovery":
     st.subheader("Discover New Utility URLs by State")
     st.caption(
         "Searches OpenSERP for electric utility and cooperative websites by state. "
@@ -181,7 +181,7 @@ if mode == "City URL Discovery":
     disc_col1, disc_col2 = st.columns(2)
     with disc_col1:
         selected_states = st.multiselect("States to search", VALID_STATES, default=["Texas"])
-        openserp_url    = st.text_input("OpenSERP URL", value="http://localhost:7000")
+        openserp_url    = st.text_input("OpenSERP URL", value="http://localhost:7070")
         engine          = st.selectbox("Search engine", ["bing", "duckduckgo", "google"], index=0)
     with disc_col2:
         num_results = st.slider("Results per query", min_value=3, max_value=15, value=8)

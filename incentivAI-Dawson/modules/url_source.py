@@ -294,16 +294,15 @@ def _get_urls_from_state_search(state: str) -> list[dict]:
 # ── Mode 3: City-based URL discovery via OpenSERP ────────────────────────────
 
 def _search_openserp(query: str, openserp_url: str, engine: str, limit: int = 8) -> list:
-    """
-    Query a local OpenSERP instance and return raw result list.
-    Returns empty list on any failure.
-    """
     url = f"{openserp_url}/{engine}/search"
     params = {"text": query, "limit": limit, "gl": "us", "lang": "EN"}
     try:
         resp = requests.get(url, params=params, timeout=15)
         resp.raise_for_status()
-        return resp.json()
+        data = resp.json()
+        if not isinstance(data, list):   # ← add this guard
+            return []
+        return data
     except Exception:
         return []
 
