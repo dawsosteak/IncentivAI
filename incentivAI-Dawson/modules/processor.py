@@ -1,3 +1,4 @@
+
 import re
 import json
 from config import MAX_RETRIES, DEFAULT_TRUNCATION
@@ -50,6 +51,11 @@ def build_prompt(text: str, url: str = "") -> str:
     Build the LLM extraction prompt.
     Truncates input, includes source URL as context hint,
     and provides detailed field-by-field extraction instructions.
+
+    FIX (Bug 3): Added explicit IMPORTANT block instructing the model NOT to
+    fabricate or reference any URLs other than the one provided. Small models
+    (qwen2.5:7b etc.) pattern-match the Source URL hint and invent plausible
+    subpage URLs in their output — this instruction suppresses that behaviour.
     """
     truncated = text[:DEFAULT_TRUNCATION]
     source_hint = f"Source URL: {url}\n\n" if url else ""
@@ -64,6 +70,13 @@ rebate, incentive, grant, or financial assistance opportunity that is explicitly
 CRITICAL: If this document is merely a news article, a blog post, a glossary, or general
 advice about energy efficiency with no concrete active program, return programs as [] and
 note it in summary_of_page. Do not fabricate programs.
+
+IMPORTANT — URL DISCIPLINE:
+The Source URL shown below is the ONLY page you are analyzing.
+Do NOT reference, invent, suggest, or include any other URLs anywhere in your response —
+not in notes, not in application_process, not in summary_of_page, not anywhere.
+If a program has an application link, describe how to apply in plain text only (e.g.
+"Apply online through the utility's website" or "Submit form by mail"). Never output a URL.
 
 EXTRACTION INSTRUCTIONS:
 
@@ -99,12 +112,6 @@ EXTRACTION INSTRUCTIONS:
    - Geographic restrictions (e.g. "available only in service territory")
    - Utility account requirements (e.g. "must be an active customer")
    - Any other stated conditions for qualification
-
-   Examples of what to look for:
-   "Must be a residential customer in our service territory"
-   "Income at or below 80% of Area Median Income"
-   "Equipment must be ENERGY STAR certified"
-   "Available to small commercial customers under 200kW demand"
    Capture ALL conditions stated — do not summarize.
 
 5. APPLICATION PROCESS — Extract any information about:
@@ -113,6 +120,7 @@ EXTRACTION INSTRUCTIONS:
    - Deadlines or application windows
    - Contact information or where to submit
    - Pre-approval requirements
+   Describe in plain text. Do NOT output any URLs.
 
 6. SECTOR — Identify all applicable sectors:
    Residential, Commercial, Industrial, Agricultural.
@@ -123,7 +131,7 @@ EXTRACTION INSTRUCTIONS:
    - Waitlists or limited availability notices
    - Stacking rules (e.g. "cannot be combined with federal tax credit")
    - Important disclaimers or conditions not captured elsewhere
-   - Links or references to additional program details
+   Do NOT include any URLs in this field.
 
 8. UTILITY COMPANY — Search aggressively for the organization name by looking at:
    - The page header, logo text, or site title
@@ -140,6 +148,7 @@ IMPORTANT REMINDERS:
 - If a field truly cannot be found, use null — never guess.
 - Financial amounts are critical — look for any number near a program description.
 - Company name is critical — look everywhere in the text for any organization name.
+- Do NOT output any URLs anywhere in your response.
 
 TEXT:
 \"\"\"
@@ -185,6 +194,7 @@ def process_text(text: str, url: str, temperature: float,
             response = call_llm(prompt, provider=provider, model=model, temperature=temperature)
 
             cleaned = response.strip()
+            # Strip markdown code fences that some models wrap around JSON
             if cleaned.startswith("```"):
                 cleaned = re.sub(r"^```(?:json)?\n?", "", cleaned)
                 cleaned = re.sub(r"\n?```$", "", cleaned)

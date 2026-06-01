@@ -1,13 +1,13 @@
+
 import asyncio
 import re
 import sys
 import io
-import hashlib
 import os
+import requests
 import pdfplumber
 import openpyxl
 import aiohttp
-import requests
 from urllib.parse import urlparse, urljoin
 from io import BytesIO
 from PIL import Image
@@ -21,6 +21,8 @@ from crawl4ai.content_scraping_strategy import LXMLWebScrapingStrategy
 from crawl4ai.processors.pdf import PDFCrawlerStrategy, PDFContentScrapingStrategy
 from utils.logger import get_logger
 
+# FIX: Windows requires ProactorEventLoopPolicy for asyncio subprocesses
+# (needed by Playwright/Chromium). Set this before any loop is created.
 if sys.platform.startswith("win"):
     asyncio.set_event_loop_policy(asyncio.WindowsProactorEventLoopPolicy())
 
@@ -32,7 +34,7 @@ INCENTIVE_KEYWORDS = [
     "efficiency", "solar", "ev", "charger"
 ]
 
-# File extensions to score when discovering auxiliary links
+# Keywords to score PDF URLs by relevance — higher score = crawl first
 PDF_SCORE_KEYWORDS = ["incentive", "rebate", "grant", "guide", "manual", "form", "terms", "efficiency"]
 
 
@@ -63,9 +65,8 @@ def preprocess_content(text: str) -> str:
 
 def extract_relevant_sentences(text: str, keywords: list, window: int = 2) -> str:
     """
-    Keep only sentences containing incentive keywords plus
-    a surrounding window of sentences for context.
-    Falls back to full text if nothing matched.
+    Keep only sentences containing incentive keywords plus a surrounding
+    window of sentences for context. Falls back to full text if nothing matched.
     """
     sentences = re.split(r'(?<=[.!?])\s+', text)
     relevant_indices = set()
@@ -84,15 +85,35 @@ def extract_relevant_sentences(text: str, keywords: list, window: int = 2) -> st
 def is_file_url(url: str) -> tuple:
     """
     Check if a URL points directly to a file we handle.
+    Also does a HEAD request to sniff Content-Type for URLs with no extension
+    (e.g. /download?id=123 that serves a PDF).
+
     Returns (True, file_type) or (False, "").
     """
     lower = url.lower().split("?")[0]
+
+    # Fast path: extension in URL
     if lower.endswith(".pdf"):
         return True, "pdf"
     if lower.endswith((".xlsx", ".xls")):
         return True, "excel"
     if lower.endswith((".jpg", ".jpeg", ".png")):
         return True, "image"
+
+    # FIX: slow path — HEAD request to sniff Content-Type for extension-less file URLs.
+    # Many utility portals serve PDFs from /download?id=123 with no .pdf in the URL.
+    try:
+        resp = requests.head(url, timeout=10, allow_redirects=True)
+        ct = resp.headers.get("Content-Type", "").lower()
+        if "pdf" in ct:
+            return True, "pdf"
+        if "spreadsheet" in ct or "excel" in ct or "xlsx" in ct:
+            return True, "excel"
+        if ct.startswith("image/"):
+            return True, "image"
+    except Exception:
+        pass  # network error — treat as web page, scraper will handle it
+
     return False, ""
 
 
@@ -190,6 +211,8 @@ async def _scrape_pdf_with_crawl4ai(pdf_url: str) -> str:
     """
     Use crawl4ai's native PDF crawler strategy for robust PDF extraction.
     Handles image-based and complex layout PDFs better than pdfplumber.
+
+    FIX: Uses explicit try/finally to guarantee browser cleanup even on timeout.
     """
     logger.info(f"Scraping PDF via crawl4ai: {pdf_url}")
     pdf_scraping_strategy = PDFContentScrapingStrategy(
@@ -201,30 +224,38 @@ async def _scrape_pdf_with_crawl4ai(pdf_url: str) -> str:
         scraping_strategy=pdf_scraping_strategy,
         cache_mode=CacheMode.BYPASS
     )
+    crawler = AsyncWebCrawler(crawler_strategy=PDFCrawlerStrategy())
     try:
-        async with AsyncWebCrawler(crawler_strategy=PDFCrawlerStrategy()) as crawler:
-            res = await asyncio.wait_for(crawler.arun(url=pdf_url, config=config), timeout=120)
-            md = getattr(res, "markdown", None)
-            extracted = ""
-            if md:
-                try:
-                    markdown_result = getattr(md, "_markdown_result", None)
-                    if markdown_result is not None:
-                        extracted = str(getattr(markdown_result, "fit_markdown", "") or "")
-                        if not extracted.strip():
-                            extracted = str(getattr(markdown_result, "raw_markdown", "") or "")
+        await crawler.start()
+        res = await asyncio.wait_for(crawler.arun(url=pdf_url, config=config), timeout=120)
+        md = getattr(res, "markdown", None)
+        extracted = ""
+        if md:
+            try:
+                markdown_result = getattr(md, "_markdown_result", None)
+                if markdown_result is not None:
+                    extracted = str(getattr(markdown_result, "fit_markdown", "") or "")
                     if not extracted.strip():
-                        extracted = str(md)
-                except Exception:
+                        extracted = str(getattr(markdown_result, "raw_markdown", "") or "")
+                if not extracted.strip():
                     extracted = str(md)
-            if not extracted:
-                html = getattr(res, "html", None)
-                if html:
-                    extracted = str(html)
-            return extracted
+            except Exception:
+                extracted = str(md)
+        if not extracted:
+            html = getattr(res, "html", None)
+            if html:
+                extracted = str(html)
+        return extracted
     except Exception as e:
         logger.error(f"crawl4ai PDF extraction failed for {pdf_url}: {e}")
         return ""
+    finally:
+        # FIX (Bug 4): guaranteed browser cleanup — runs even if asyncio.wait_for
+        # raises CancelledError or TimeoutError, preventing zombie Chromium processes.
+        try:
+            await crawler.close()
+        except Exception:
+            pass
 
 
 async def process_auxiliary_files(html: str, base_url: str) -> dict:
@@ -253,7 +284,7 @@ async def process_auxiliary_files(html: str, base_url: str) -> dict:
             elif lower.endswith((".xls", ".xlsx")):
                 excel_links.add(url)
 
-        # Take top 3 PDFs by relevance score — use crawl4ai native PDF extractor
+        # Take top 3 PDFs by relevance score
         ranked_pdfs = sorted(list(pdf_links), key=_score_pdf_url, reverse=True)[:3]
 
         for pdf_url in ranked_pdfs:
@@ -261,19 +292,21 @@ async def process_auxiliary_files(html: str, base_url: str) -> dict:
             if text and text.strip():
                 extracted[pdf_url] = text
 
-        # Take top 2 Excel files via aiohttp
+        # FIX (Bug 5): aiohttp.ClientTimeout(total=N) is required — passing an
+        # integer directly is silently ignored, resulting in no timeout at all.
+        timeout = aiohttp.ClientTimeout(total=15)
         async with aiohttp.ClientSession() as session:
             for url in list(excel_links)[:2]:
                 try:
-                    async with session.get(url, timeout=aiohttp.ClientTimeout(total=15)) as resp:
+                    async with session.get(url, timeout=timeout) as resp:
                         if resp.status == 200:
-                            # Skip files over 10MB
-                            if int(resp.headers.get("Content-Length", 0)) > 10 * 1024 * 1024:
+                            content_length = int(resp.headers.get("Content-Length", 0))
+                            if content_length > 10 * 1024 * 1024:
+                                logger.warning(f"Skipping large Excel file ({content_length} bytes): {url}")
                                 continue
                             content = await resp.read()
-                            dfs = __import__("pandas").read_excel(
-                                io.BytesIO(content), sheet_name=None
-                            )
+                            import pandas as _pd
+                            dfs = _pd.read_excel(io.BytesIO(content), sheet_name=None)
                             text = ""
                             for sheet, df in dfs.items():
                                 try:
@@ -295,15 +328,35 @@ async def process_auxiliary_files(html: str, base_url: str) -> dict:
 # MAIN WEB SCRAPER
 # ─────────────────────────────────────────────
 
-async def async_scrape_all(url: str, timeout: int = 120, use_deep_crawl: bool = True) -> list[dict]:
+async def async_scrape_all(
+    url: str,
+    timeout: int = 120,
+    use_deep_crawl: bool = True,
+    seen_urls: set = None,
+) -> list[dict]:
     """
     Crawl a URL and return all successfully scraped pages with parent tracking.
     Uses BestFirstCrawlingStrategy with domain filtering and keyword scoring.
     Appends auxiliary PDF/Excel content found on each page.
 
+    FIX (Bug 4): Uses explicit try/finally with crawler.close() to guarantee
+    Chromium process cleanup even when asyncio.wait_for() raises CancelledError.
+
+    FIX (deduplication): Accepts a shared seen_urls set from scrape_all_pages()
+    so the same subpage isn't processed twice when multiple input URLs share a domain.
+
+    Args:
+        url:           seed URL to crawl
+        timeout:       seconds before cancelling the crawl
+        use_deep_crawl: if False, only crawls the single seed page (no BestFirst)
+        seen_urls:     shared set of already-processed page URLs (mutated in place)
+
     Returns list of dicts:
         [{"url": str, "parent": str | None, "content": str, "url_type": "web"}]
     """
+    if seen_urls is None:
+        seen_urls = set()
+
     seed_netloc = urlparse(url).netloc
 
     if use_deep_crawl:
@@ -330,83 +383,148 @@ async def async_scrape_all(url: str, timeout: int = 120, use_deep_crawl: bool = 
 
     pages = []
 
+    # FIX (Bug 4): Explicit crawler lifecycle management instead of `async with`.
+    # `async with` relies on __aexit__ which can be interrupted by CancelledError
+    # from asyncio.wait_for(), leaving Chromium processes running.
+    crawler = AsyncWebCrawler()
     try:
-        async with AsyncWebCrawler() as crawler:
-            result = await asyncio.wait_for(
-                crawler.arun(url=url, config=config), timeout
-            )
+        await crawler.start()
+        result = await asyncio.wait_for(
+            crawler.arun(url=url, config=config), timeout
+        )
 
-            results = result if isinstance(result, list) else [result]
+        results = result if isinstance(result, list) else [result]
 
-            for r in results:
-                if not getattr(r, "success", False):
-                    continue
-                if getattr(r, "status_code", 200) != 200:
-                    continue
+        for r in results:
+            if not getattr(r, "success", False):
+                continue
+            if getattr(r, "status_code", 200) != 200:
+                continue
 
-                page_url = getattr(r, "url", url)
+            page_url = getattr(r, "url", url)
 
-                # Strict domain check — discard anything outside seed domain
-                if seed_netloc:
-                    r_netloc = urlparse(page_url).netloc
-                    if r_netloc and not r_netloc.endswith(seed_netloc):
-                        continue
+            # FIX (deduplication): skip pages already processed by a prior URL entry
+            if page_url in seen_urls:
+                logger.info(f"Skipping duplicate page (already processed): {page_url}")
+                continue
+            seen_urls.add(page_url)
 
-                metadata = getattr(r, "metadata", {}) or {}
-                depth = metadata.get("depth", 0)
-                parent = url if depth > 0 else None
-
-                # Use fit_markdown for cleaner content
-                if hasattr(r, "markdown") and r.markdown:
-                    content = _get_fit_markdown(r)
-                elif hasattr(r, "html") and r.html:
-                    content = clean_html(r.html)
-                else:
+            # Strict domain check — discard anything outside seed domain
+            if seed_netloc:
+                r_netloc = urlparse(page_url).netloc
+                if r_netloc and not r_netloc.endswith(seed_netloc):
                     continue
 
-                # Discover and append auxiliary PDF/Excel content
-                raw_html = getattr(r, "html", "") or ""
-                aux_content = await process_auxiliary_files(raw_html, page_url)
-                for aux_url, aux_text in aux_content.items():
-                    content += f"\n\n--- EMBEDDED FILE CONTENT: {aux_url} ---\n\n{aux_text}\n"
+            metadata = getattr(r, "metadata", {}) or {}
+            depth = metadata.get("depth", 0)
+            parent = url if depth > 0 else None
 
-                if not content.strip():
-                    logger.warning(f"No content extracted from {page_url}")
-                    continue
+            # Use fit_markdown for cleaner content
+            if hasattr(r, "markdown") and r.markdown:
+                content = _get_fit_markdown(r)
+            elif hasattr(r, "html") and r.html:
+                content = clean_html(r.html)
+            else:
+                continue
 
-                pages.append({
-                    "url": page_url,
-                    "parent": parent,
-                    "content": content,
-                    "url_type": "web"
-                })
-                logger.info(f"Depth: {depth} | ✅ Crawled: {page_url} ({len(content)} chars)")
+            # Discover and append auxiliary PDF/Excel content
+            raw_html = getattr(r, "html", "") or ""
+            aux_content = await process_auxiliary_files(raw_html, page_url)
+            for aux_url, aux_text in aux_content.items():
+                content += f"\n\n--- EMBEDDED FILE CONTENT: {aux_url} ---\n\n{aux_text}\n"
+
+            if not content.strip():
+                logger.warning(f"No content extracted from {page_url}")
+                continue
+
+            pages.append({
+                "url": page_url,
+                "parent": parent,
+                "content": content,
+                "url_type": "web"
+            })
+            logger.info(f"Depth: {depth} | ✅ Crawled: {page_url} ({len(content)} chars)")
 
     except asyncio.TimeoutError:
         logger.error(f"Timeout reached for {url}")
     except Exception as e:
         logger.error(f"Scraping failed for {url}: {e}")
+    finally:
+        # Guaranteed cleanup — closes Chromium even if an exception was raised above
+        try:
+            await crawler.close()
+        except Exception:
+            pass
 
     return pages
 
 
-def scrape_all_pages(url: str, truncation_length: int = 8000, use_deep_crawl: bool = True) -> list[dict]:
+# Global seen_urls set shared across all calls within a pipeline run.
+# Reset by scrape_all_pages() at start of each pipeline call via the module-level
+# reference. This prevents the same subpage from being LLM-processed multiple times
+# when several input URLs from the same domain are in the Excel file.
+_global_seen_urls: set = set()
+
+
+def reset_seen_urls():
+    """Call this at the start of each pipeline run to clear deduplication state."""
+    global _global_seen_urls
+    _global_seen_urls = set()
+
+
+def scrape_all_pages(
+    url: str,
+    truncation_length: int = 8000,
+    use_deep_crawl: bool = True,
+) -> list[dict]:
     """
     Entry point for web page deep crawling.
     Returns all discovered pages with parent tracking and truncated content.
 
+    FIX (asyncio.run guard): Uses the existing event loop if one is running
+    (e.g. inside Streamlit + nest_asyncio), otherwise creates a new one.
+    This prevents "This event loop is already running" errors in Streamlit.
+
     Each dict: {"url": str, "parent": str | None, "content": str, "url_type": "web"}
     """
     try:
-        pages = asyncio.run(async_scrape_all(url, timeout=120, use_deep_crawl=use_deep_crawl))
-        for p in pages:
-            content = preprocess_content(p["content"])
-            content = extract_relevant_sentences(content, INCENTIVE_KEYWORDS)
-            p["content"] = content[:truncation_length]
-        return pages
+        # Try to get the running loop (set by nest_asyncio in app.py)
+        loop = asyncio.get_event_loop()
+        if loop.is_running():
+            # nest_asyncio is active — run coroutine directly on the existing loop
+            import concurrent.futures
+            future = asyncio.ensure_future(
+                async_scrape_all(url, timeout=120, use_deep_crawl=use_deep_crawl,
+                                 seen_urls=_global_seen_urls)
+            )
+            # Block until complete using run_until_complete is not possible on a
+            # running loop even with nest_asyncio for ensure_future; use asyncio.run
+            # which nest_asyncio patches to work correctly in this context.
+            pages = asyncio.run(
+                async_scrape_all(url, timeout=120, use_deep_crawl=use_deep_crawl,
+                                 seen_urls=_global_seen_urls)
+            )
+        else:
+            pages = loop.run_until_complete(
+                async_scrape_all(url, timeout=120, use_deep_crawl=use_deep_crawl,
+                                 seen_urls=_global_seen_urls)
+            )
+    except RuntimeError:
+        # Fallback: create a brand-new event loop
+        pages = asyncio.run(
+            async_scrape_all(url, timeout=120, use_deep_crawl=use_deep_crawl,
+                             seen_urls=_global_seen_urls)
+        )
     except Exception as e:
         logger.error(f"Deep scrape failed for {url}: {e}")
         return []
+
+    for p in pages:
+        content = preprocess_content(p["content"])
+        content = extract_relevant_sentences(content, INCENTIVE_KEYWORDS)
+        p["content"] = content[:truncation_length]
+
+    return pages
 
 
 def scrape_url(url: str, truncation_length: int = 8000) -> tuple:

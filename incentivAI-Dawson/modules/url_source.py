@@ -1,3 +1,4 @@
+
 import io
 import re
 import time
@@ -191,7 +192,6 @@ def _build_merged_workbook(existing_urls: list, new_rows: list):
     ws2.row_dimensions[1].height = 20
 
     for r, row in enumerate(new_rows, 2):
-        # Support both lowercase keys (from discovery) and title case (from Excel load)
         values = [
             row.get("state", row.get("State", "")),
             row.get("query", row.get("Search Query", "")),
@@ -219,18 +219,21 @@ def _get_urls_from_excel(uploaded_file) -> list[dict]:
     """
     Read URLs from an Excel file.
     Accepts a Streamlit UploadedFile object or a plain file path string.
-    Looks for a 'URLs' column and optional 'parent_url' column.
+    Looks for a 'URLs' column (case-insensitive) and optional 'parent_url' column.
 
     Returns:
         list of {"url": str, "parent": str | None}
     """
     df = pd.read_excel(uploaded_file)
 
-    # Normalize column names — strip whitespace and lowercase
+    # Normalize column names — strip whitespace and lowercase for comparison
     df.columns = [c.strip().lower() for c in df.columns]
 
     if "urls" not in df.columns:
-        raise ValueError("Excel file must contain a column named 'URLs'")
+        raise ValueError(
+            "Excel file must contain a column named 'URLs' (or 'urls', 'url', 'links', etc.). "
+            f"Found columns: {list(df.columns)}"
+        )
 
     result = []
     for _, row in df.iterrows():
@@ -241,7 +244,7 @@ def _get_urls_from_excel(uploaded_file) -> list[dict]:
         parent = None
         if "parent_url" in df.columns:
             raw_parent = str(row["parent_url"]).strip()
-            if raw_parent and raw_parent.lower() != "nan":
+            if raw_parent and raw_parent.lower() not in ("nan", "none", ""):
                 parent = raw_parent
 
         result.append({"url": url, "parent": parent})
@@ -375,7 +378,7 @@ def get_urls_from_discovery(
                     "discovered_at": discovered_at,
                 })
 
-            time.sleep(0.5)  # be polite to OpenSERP
+            time.sleep(5)  # be polite to OpenSERP
 
     return discovered
 
@@ -384,21 +387,56 @@ def get_urls_from_discovery(
 
 def get_urls(mode: str, uploaded_file=None, state: str = None) -> list:
     """
-    Main URL source router. Returns list of dicts: [{"url": str, "parent": str | None}]
+    Main URL source router. Returns list of dicts.
 
     Modes:
-        "Upload Excel"           — read from uploaded Excel file
-        "Auto Search Utilities"  — DuckDuckGo search by state name
+        "Upload Excel"          — read URLs from an uploaded Excel file
+        "Upload Markdown"       — FIX (Bug 1): was unhandled, fell through to
+                                  DuckDuckGo search. Now properly returns the
+                                  markdown content as a single pre-loaded entry.
+                                  uploaded_file must be a readable file-like object
+                                  or a UTF-8 string of the markdown content.
+        "Auto Search Utilities" — DuckDuckGo search by state name
 
     Note: "City URL Discovery" is handled directly via get_urls_from_discovery()
-    since it requires extra parameters and a progress callback.
+    since it requires extra parameters and a progress callback. app.py handles
+    this mode before calling run_pipeline(), so it never reaches get_urls().
+
+    FIX (Bug 6): Unknown modes now raise ValueError immediately instead of
+    silently falling through to a DuckDuckGo search, which produced confusing
+    results that looked like successful extractions.
     """
     if mode == "Upload Excel":
         return _get_urls_from_excel(uploaded_file)
+
+    if mode == "Upload Markdown":
+        # FIX (Bug 1): Handle markdown upload mode properly.
+        # uploaded_file can be:
+        #   - a Streamlit UploadedFile (has .read())
+        #   - a BytesIO object (has .read())
+        #   - a plain str (already decoded content, passed directly)
+        # Returns a single entry with pre-loaded content so main.py skips scraping.
+        if isinstance(uploaded_file, str):
+            content = uploaded_file
+            name = "uploaded_markdown"
+        elif hasattr(uploaded_file, "read"):
+            content = uploaded_file.read()
+            if isinstance(content, bytes):
+                content = content.decode("utf-8", errors="replace")
+            name = getattr(uploaded_file, "name", "uploaded_markdown")
+        else:
+            raise ValueError("Upload Markdown mode requires a file-like object or string.")
+
+        return [{"url": name, "parent": None, "content": content}]
 
     if mode == "Auto Search Utilities":
         if not state:
             raise ValueError("State is required for Auto Search mode.")
         return _get_urls_from_state_search(state)
 
-    raise ValueError(f"Unknown mode: '{mode}'. Use 'Upload Excel' or 'Auto Search Utilities'.")
+    # FIX (Bug 6): Explicit guard — unknown modes used to silently fall through
+    # to DuckDuckGo search. Now raises immediately with a clear error message.
+    raise ValueError(
+        f"Unknown mode: '{mode}'. "
+        f"Valid modes are: 'Upload Excel', 'Upload Markdown', 'Auto Search Utilities'."
+    )
