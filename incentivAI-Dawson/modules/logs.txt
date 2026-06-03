@@ -1213,3 +1213,29 @@
 [2026-06-01 15:37:41][INFO][Google] Found 0 total results
 [2026-06-01 15:37:41][INFO] Successfully completed SERP search using google, returned 0 results
 [2026-06-01 15:37:41][INFO] /google/search - request completed
+[2026-06-01 20:54:07][DEBUG] Final config: {Server:{Host:127.0.0.1 Port:7070 ConfigPath: IsDebug:false IsVerbose:false IsRawRequests:false Insecure:false} App:{Timeout:30 BrowserPath: IsBrowserHead:false IsLeaveHead:false IsLeakless:false IsStealth:false} Proxies:{Global: Entries:[] Health:{FailureThreshold:3}} Cache:{TTLSeconds:300 MaxSize:1000} Resilience:{MaxRetries:3 AllowEndpointFallback:false} CircuitBreaker:{Failures:5 RecoverySeconds:60 Successes:2} CORS:{Enabled:true AllowOrigins:* AllowMethods:GET, POST, OPTIONS AllowHeaders:Origin, Content-Type, Accept, Authorization, X-Use-Proxy MaxAge:86400} Config2Capcha:{ApiKey:} GoogleConfig:{SearchEngineOptions:{RateRequests:0 RateTime:0 RateBurst:0 SelectorTimeout:0 IsSolveCaptcha:false} Proxy:} YandexConfig:{SearchEngineOptions:{RateRequests:0 RateTime:0 RateBurst:0 SelectorTimeout:0 IsSolveCaptcha:false} Proxy:} BaiduConfig:{SearchEngineOptions:{RateRequests:0 RateTime:0 RateBurst:0 SelectorTimeout:0 IsSolveCaptcha:false} Proxy:} BingConfig:{SearchEngineOptions:{RateRequests:0 RateTime:0 RateBurst:0 SelectorTimeout:0 IsSolveCaptcha:false} Proxy:} DuckDuckGoConfig:{SearchEngineOptions:{RateRequests:0 RateTime:0 RateBurst:0 SelectorTimeout:0 IsSolveCaptcha:false} Proxy:}}
+[2026-06-01 20:54:07][INFO] Resilient search enabled: retry + circuit breaker
+[2026-06-01 20:54:07][INFO] Response cache enabled: TTL=5m0s, MaxSize=1000
+[2026-06-01 21:00:15][INFO] Starting SERP search request using google engine for query: electric cooperative rebate incentive program Texas
+[2026-06-01 21:00:15][DEBUG] Browser options: {IsHeadless:true IsLeakless:false Timeout:30s LanguageCode: WaitRequests:false LeavePageOpen:false WaitLoadTime:2s CaptchaSolverApiKey: BrowserPath: ProxyURL: Insecure:false UseStealth:false}
+[2026-06-01 21:00:15][DEBUG] Using browser binary: C:\Program Files\Google\Chrome\Application\chrome.exe
+[2026-06-01 21:00:15][DEBUG][Google] Starting search, query: {Text:electric cooperative rebate incentive program Texas LangCode:EN DateInterval: Filetype: Site: Limit:11 Start:0 Filter:true Answers:false ProxyURL: ProxyOverride: Insecure:false}
+[2026-06-01 21:00:15][DEBUG] Navigate to: https://www.google.com/search?hl=EN&ie=UTF-8&lr=lang_en&nfpr=1&num=11&oq=electric+cooperative+rebate+incentive+program+Texas&pws=0&q=electric+cooperative+rebate+incentive+program+Texas&sourceid=chrome
+[2026-06-01 21:00:19][ERROR][Google] Captcha detected: https://www.google.com/search?hl=EN&ie=UTF-8&lr=lang_en&nfpr=1&num=11&oq=electric+cooperative+rebate+incentive+program+Texas&pws=0&q=electric+cooperative+rebate+incentive+program+Texas&sourceid=chrome
+[2026-06-01 21:00:19][WARNING] [google] CAPTCHA detected, skipping retries
+[2026-06-01 21:00:19][ERROR] Error during resilient google search: captcha detected
+[2026-06-01 21:00:19][ERROR] /google/search - request failed
+[2026-06-01 21:00:26][INFO] Starting SERP search request using google engine for query: electric coop energy efficiency rebate apply Texas
+[2026-06-01 21:00:26][DEBUG][Google] Starting search, query: {Text:electric coop energy efficiency rebate apply Texas LangCode:EN DateInterval: Filetype: Site: Limit:11 Start:0 Filter:true Answers:false ProxyURL: ProxyOverride: Insecure:false}
+[2026-06-01 21:00:26][DEBUG] Navigate to: https://www.google.com/search?hl=EN&ie=UTF-8&lr=lang_en&nfpr=1&num=11&oq=electric+coop+energy+efficiency+rebate+apply+Texas&pws=0&q=electric+coop+energy+efficiency+rebate+apply+Texas&sourceid=chrome
+[2026-06-01 21:00:30][ERROR][Google] Captcha detected: https://www.google.com/search?hl=EN&ie=UTF-8&lr=lang_en&nfpr=1&num=11&oq=electric+coop+energy+efficiency+rebate+apply+Texas&pws=0&q=electric+coop+energy+efficiency+rebate+apply+Texas&sourceid=chrome
+[2026-06-01 21:00:30][WARNING] [google] CAPTCHA detected, skipping retries
+[2026-06-01 21:00:30][ERROR] Error during resilient google search: captcha detected
+[2026-06-01 21:00:30][ERROR] /google/search - request failed
+[2026-06-01 21:00:37][INFO] Starting SERP search request using google engine for query: electric association rebate program Texas
+[2026-06-01 21:00:37][DEBUG][Google] Starting search, query: {Text:electric association rebate program Texas LangCode:EN DateInterval: Filetype: Site: Limit:11 Start:0 Filter:true Answers:false ProxyURL: ProxyOverride: Insecure:false}
+[2026-06-01 21:00:37][DEBUG] Navigate to: https://www.google.com/search?hl=EN&ie=UTF-8&lr=lang_en&nfpr=1&num=11&oq=electric+association+rebate+program+Texas&pws=0&q=electric+association+rebate+program+Texas&sourceid=chrome
+[2026-06-01 21:00:40][ERROR][Google] Captcha detected: https://www.google.com/search?hl=EN&ie=UTF-8&lr=lang_en&nfpr=1&num=11&oq=electric+association+rebate+program+Texas&pws=0&q=electric+association+rebate+program+Texas&sourceid=chrome
+[2026-06-01 21:00:40][WARNING] [google] CAPTCHA detected, skipping retries
+[2026-06-01 21:00:40][ERROR] Error during resilient google search: captcha detected
+[2026-06-01 21:00:40][ERROR] /google/search - request failed
