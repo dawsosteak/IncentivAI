@@ -77,9 +77,6 @@ The goal is to build a comprehensive, machine-readable dataset of utility incent
 - **Model size is the dominant factor in extraction quality** — the gap between qwen2.5:14b (~70%) and GPT-4o (~94%) is primarily in financial detail verbatim capture and correct program delineation on dense pages. Both models perform well on simple single-program pages.
 - **Cooperative and municipal utility sites are systematically under-represented in DSIRE** — a significant share of URLs discovered by IncentivAI returned programs with no corresponding DSIRE entry, confirming the hypothesis that smaller utility websites are the primary coverage gap in existing databases.
 
-> 📄 Full analysis memo: **[TODO: link to memo]**
-> 📊 Full dataset: **[TODO: link to dataset if externally hosted]**
-
 ---
 
 ## Data Sources and Caveats

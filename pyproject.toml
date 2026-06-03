@@ -1,0 +1,33 @@
+
+[project]
+name = "incentivai"
+version = "0.1.0"
+description = "Utility incentive extraction using crawl4ai + Ollama"
+requires-python = ">=3.11"
+
+dependencies = [
+    # st.container(height=...) requires 1.32.0+
+    # st.dataframe LargeUtf8 fix is stable on 1.33.0+
+    "streamlit>=1.33.0",
+    "pandas",
+    "requests>=2.26.0,<2.32.3",
+    "beautifulsoup4",
+    "crawl4ai>=0.3.73,<0.8.0",
+    "lxml>=5.3,<6",
+    "altair<5",
+    "openpyxl>=3.1.5",
+    "playwright>=1.58.0",
+    "pdfplumber>=0.11.0",
+    "pillow>=10.0.0",
+    "pytesseract>=0.3.10",
+    "aiohttp>=3.9.0",
+    "ollama>=0.2.0",
+    "langchain-core>=0.2.0",
+    "langchain-ollama>=0.1.0",
+    "langchain-openai>=0.1.0",
+    "tabulate>=0.9.0",
+    # Required for running asyncio inside Streamlit's existing event loop.
+    # Without this, scraper.py's asyncio.run() raises "This event loop is
+    # already running" when called from within a Streamlit session.
+    "nest_asyncio>=1.6.0",
+]
