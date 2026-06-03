@@ -19,9 +19,8 @@
   - [Step 3 — Create virtual environment and install dependencies](#step-3--create-a-virtual-environment-and-install-dependencies)
   - [Step 4 — Activate the virtual environment](#step-4--activate-the-virtual-environment)
   - [Step 5 — Install Playwright browsers](#step-5--install-playwright-browsers)
-  - [Step 6 — Install Tesseract OCR](#step-6--install-tesseract-ocr)
-  - [Step 7 — Set up your LLM](#step-7--set-up-your-llm)
-  - [Step 8 — Configure config.py](#step-8--configure-configpy)
+  - [Step 6 — Set up your LLM](#step-6--set-up-your-llm)
+  - [Step 7 — Configure config.py](#step-7--configure-configpy)
 - [Running the App](#running-the-app)
   - [Streamlit UI](#streamlit-ui-recommended)
   - [CLI / Terminal](#cli--terminal)
@@ -62,7 +61,7 @@ The United States has thousands of electric utilities — cooperatives, municipa
 The pipeline has three stages:
 
 1. **Discover** — find utility website URLs by U.S. state using a local OpenSERP search instance (Bing/DuckDuckGo)
-2. **Extract** — deep-crawl each URL using a headless browser, extract page content including embedded PDFs and Excel files, and run an LLM extraction pass to pull structured program data
+2. **Extract** — deep-crawl each URL using a headless browser, extract page content including embedded PDFs and Excel files, then run a **two-stage LLM pipeline**: a first LLM pass extracts all rebate programs into structured markdown, and a second LLM pass filters and consolidates the output — discarding irrelevant pages and cleaning the results before export
 3. **Export** — output a structured CSV with one row per program found, including program name, type, financial details, eligibility, application process, and sector
 
 The goal is to build a comprehensive, machine-readable dataset of utility incentive programs that can inform clean energy policy, consumer outreach, and research into the geographic distribution of energy efficiency incentives.
@@ -76,6 +75,9 @@ The goal is to build a comprehensive, machine-readable dataset of utility incent
 - **40+ new utility URLs per state** — the City URL Discovery pipeline consistently surfaces over 40 unique utility and cooperative websites per state using Bing via OpenSERP, pulling sites not indexed in DSIRE.
 - **Model size is the dominant factor in extraction quality** — the gap between qwen2.5:14b (~70%) and GPT-4o (~94%) is primarily in financial detail verbatim capture and correct program delineation on dense pages. Both models perform well on simple single-program pages.
 - **Cooperative and municipal utility sites are systematically under-represented in DSIRE** — a significant share of URLs discovered by IncentivAI returned programs with no corresponding DSIRE entry, confirming the hypothesis that smaller utility websites are the primary coverage gap in existing databases.
+
+> 📄 Full analysis memo: **[TODO: link to memo]**
+> 📊 Full dataset: **[TODO: link to dataset if externally hosted]**
 
 ---
 
@@ -106,8 +108,8 @@ IncentivAI/
 ├── config.py               ← All configuration constants
 ├── modules/
 │   ├── url_source.py       ← URL loading + OpenSERP discovery
-│   ├── scraper.py          ← Web / PDF / Excel / image scraping
-│   ├── processor.py        ← LLM prompt building and extraction
+│   ├── scraper.py          ← Web / PDF / Excel scraping
+│   ├── processor.py        ← Two-stage LLM extraction pipeline
 │   ├── llm_agent.py        ← Multi-provider LLM client
 │   ├── exporter.py         ← CSV and markdown output
 │   └── openserp.exe        ← Pre-built OpenSERP server binary (Windows)
@@ -125,7 +127,6 @@ IncentivAI/
 ### Requirements
 - Python 3.11+
 - `uv` package manager
-- Tesseract OCR (for image extraction)
 - Ollama (for local LLM) OR an API key for OpenAI / Anthropic / Google
 - OpenSERP executable (for URL discovery only)
 
@@ -213,26 +214,7 @@ Downloads a bundled Chromium browser (~170MB) used by crawl4ai for deep crawling
 
 ---
 
-### Step 6 — Install Tesseract OCR
-
-Required for image file extraction. Skip if you don't need image OCR.
-
-**Windows:**
-Download from [github.com/UB-Mannheim/tesseract/wiki](https://github.com/UB-Mannheim/tesseract/wiki) and add to PATH.
-
-Verify:
-```bash
-tesseract --version
-```
-
-**Linux / Hyak:**
-```bash
-sudo apt install tesseract-ocr
-```
-
----
-
-### Step 7 — Set up your LLM
+### Step 6 — Set up your LLM
 
 **Option A — Local Ollama:**
 ```bash
@@ -265,7 +247,7 @@ export UW_SSEC_AI_GATEWAY_BASE_URL=your_gateway_url_here
 
 ---
 
-### Step 8 — Configure `config.py`
+### Step 7 — Configure `config.py`
 
 ```python
 MODEL_NAME          = "qwen2.5:14b"  # change to match your setup
@@ -274,6 +256,8 @@ DEFAULT_TRUNCATION  = 15000          # see LLM section for recommended values
 MAX_RETRIES         = 2
 LLM_TIMEOUT         = 180
 ```
+
+See [LLM Providers & Model Selection](#llm-providers--model-selection) for recommended values per model tier.
 
 ---
 
@@ -376,7 +360,7 @@ tail -f logs/incentivai_<job_id>.out
 
 ## Running Individual Modules
 
-Every module can be imported and called directly from a Python script or interactive session. This is useful for debugging a specific stage, testing a single URL, or verifying your setup before running a full batch.
+Every module can be imported and called directly from a Python script or interactive session. Useful for debugging a specific stage, testing a single URL, or verifying your setup before running a full batch.
 
 All examples assume your venv is activated or you prefix with `uv run python`.
 
@@ -391,15 +375,6 @@ from modules.url_source import get_urls
 entries = get_urls(mode="Upload Excel", uploaded_file="urls.xlsx")
 for e in entries:
     print(e["url"], e["parent"])
-```
-
-**Test a single URL load manually:**
-```python
-from modules.url_source import _get_urls_from_excel
-
-entries = _get_urls_from_excel("urls.xlsx")
-print(f"Loaded {len(entries)} URLs")
-print(entries[:3])  # preview first 3
 ```
 
 **Test OpenSERP is reachable before running discovery:**
@@ -459,14 +434,14 @@ print(_extract_domain("https://www.texaselectric.coop/rebates"))
 
 ### `scraper.py`
 
-**Check if a URL points to a file (PDF, Excel, image):**
+**Check if a URL points to a file (PDF or Excel):**
 ```python
 from modules.scraper import is_file_url
 
 urls = [
     "https://example.com/rebate-guide.pdf",
     "https://example.com/programs.xlsx",
-    "https://example.com/rebates",          # web page
+    "https://example.com/rebates",
     "https://example.com/download?id=123",  # no extension — triggers HEAD request
 ]
 for url in urls:
@@ -501,22 +476,22 @@ from modules.scraper import scrape_all_pages
 pages = scrape_all_pages(
     url="https://www.example-utility.com/rebates",
     truncation_length=15000,
-    use_deep_crawl=False      # single page only, no sublink following
+    max_depth=1       # single page only, no sublink following
 )
 for page in pages:
     print(f"URL: {page['url']}")
-    print(f"Content length: {len(page['content'])} chars")
+    print(f"Content: {len(page['content'])} chars")
     print(page['content'][:300])
 ```
 
-**Deep crawl a URL (follows sublinks up to depth 2):**
+**Deep crawl a URL (follows sublinks):**
 ```python
 from modules.scraper import scrape_all_pages
 
 pages = scrape_all_pages(
     url="https://www.example-utility.com/rebates",
     truncation_length=15000,
-    use_deep_crawl=True       # follows sublinks — default behavior
+    max_depth=3       # follows sublinks up to 3 levels deep
 )
 print(f"Found {len(pages)} pages")
 for page in pages:
@@ -537,35 +512,53 @@ filtered = extract_relevant_sentences(cleaned, INCENTIVE_KEYWORDS)
 print(filtered)
 ```
 
-**Reset seen URLs between test runs** (prevents deduplication carrying over):
+**Reset seen URLs between test runs:**
 ```python
 from modules.scraper import reset_seen_urls
-reset_seen_urls()
+reset_seen_urls()  # prevents deduplication carrying over between runs
 ```
 
 ---
 
 ### `processor.py`
 
-**Build and inspect the LLM prompt for any text:**
+The processor runs a **two-stage LLM pipeline**:
+- **Stage 1 (Extraction LLM)** — reads raw scraped text, extracts all rebate programs into structured markdown. Outputs `NOT RELEVANT` if the page has no programs.
+- **Stage 2 (Filter LLM)** — reads Stage 1 markdown, discards NOT RELEVANT sections, consolidates valid programs into a clean final report, then converts to the JSON schema used by the rest of the pipeline.
+
+**Build and inspect the Stage 1 extraction prompt:**
 ```python
-from modules.processor import build_prompt
+from modules.processor import build_extraction_prompt
 
 text = "Central Texas Electric offers a $500 heat pump rebate for residential customers."
-prompt = build_prompt(text, url="https://www.ctec.coop/rebates")
+prompt = build_extraction_prompt(text, url="https://www.ctec.coop/rebates")
 print(prompt)
-# Paste this into any LLM chat to see what it would extract
+# Paste into any LLM chat to see what it would extract
 ```
 
-**Run LLM extraction on any text:**
+**Build and inspect the Stage 2 filter prompt:**
+```python
+from modules.processor import build_filter_prompt
+
+raw_markdown = """
+# Program Name: Heat Pump Rebate
+## Program Details
+- **Concrete Rebate Amounts:**
+  - $500 for qualifying heat pumps
+"""
+prompt = build_filter_prompt(raw_markdown)
+print(prompt)
+```
+
+**Run the full two-stage extraction on any text:**
 ```python
 from modules.processor import process_text
 
 text = """
 Central Texas Electric Cooperative offers the following programs:
 - Heat Pump Rebate: $500 for qualifying ENERGY STAR heat pumps
-- EV Charger Rebate: $250 for Level 2 chargers installed at residential accounts
-- Smart Thermostat Rebate: $75 for ENERGY STAR certified smart thermostats
+- EV Charger Rebate: $250 for Level 2 chargers at residential accounts
+- Smart Thermostat Rebate: $75 for ENERGY STAR certified thermostats
 Eligibility: Must be an active CTEC residential customer.
 """
 
@@ -597,26 +590,6 @@ result = process_text(
 print(result)
 ```
 
-**Test JSON parsing only (check if LLM output is valid):**
-```python
-import json
-
-raw_llm_output = '''
-```json
-{"utility_company": "Test Coop", "programs": [], "summary_of_page": "No programs found."}
-```
-'''
-
-import re
-cleaned = raw_llm_output.strip()
-if cleaned.startswith("```"):
-    cleaned = re.sub(r"^```(?:json)?\n?", "", cleaned)
-    cleaned = re.sub(r"\n?```$", "", cleaned)
-
-data = json.loads(cleaned)
-print(data)
-```
-
 ---
 
 ### `llm_agent.py`
@@ -626,7 +599,7 @@ print(data)
 from modules.llm_agent import call_llm
 
 response = call_llm(
-    prompt="Return only this JSON: {\"status\": \"ok\"}",
+    prompt="Say hello in one word.",
     provider="ollama",
     model="qwen2.5:14b",
     temperature=0.0,
@@ -659,17 +632,17 @@ response = call_llm(
     prompt="Say hello.",
     provider="uw_ssec",
     model="gpt-4o",
-    temperature=1,   # gpt-5 series requires temperature=1
+    temperature=1,  # gpt-5 series requires temperature=1
 )
 print(response)
 ```
 
-**Build an LLM client directly (without calling it):**
+**Build an LLM client without calling it:**
 ```python
 from modules.llm_agent import build_llm
 
 llm = build_llm(provider="ollama", model="qwen2.5:14b", temperature=0.1)
-print(type(llm))  # confirms the client was built without errors
+print(type(llm))  # confirms the client built without errors
 ```
 
 ---
@@ -680,7 +653,6 @@ print(type(llm))  # confirms the client was built without errors
 ```python
 from modules.exporter import export_to_csv
 
-# Simulate what process_text returns
 results = [
     {
         "utility_company": "Central Texas Electric",
@@ -718,7 +690,7 @@ from modules.exporter import append_markdown_entry
 entry = {
     "utility_company": "Central Texas Electric",
     "programs": [{"program_name": "Heat Pump Rebate", "financial_details": "$500",
-                  "program_type": "rebate", "eligibility": "Residential", 
+                  "program_type": "rebate", "eligibility": "Residential",
                   "application_process": "Online", "sector": "Residential", "notes": None}],
     "summary_of_page": "Rebate programs for residential customers.",
     "source_url": "https://www.ctec.coop/rebates",
@@ -744,6 +716,7 @@ output_csv = run_pipeline(
     state=None,
     temperature=0.1,
     truncation_length=15000,
+    max_depth=3,
     progress_callback=lambda c, t, url="", message="": print(f"[{c}/{t}] {message}"),
     cancel_flag=None,
     provider="ollama",
@@ -768,11 +741,11 @@ output_csv = run_pipeline(
     state=None,
     temperature=0.1,
     truncation_length=40000,
+    max_depth=1,       # single page, no deep crawl
     provider="openai",
     model="gpt-4o",
 )
 
-import pandas as pd
 df = pd.read_csv(output_csv)
 print(df[["utility_company", "program_name", "financial_details"]].to_string())
 ```
@@ -804,19 +777,25 @@ Upload an `.xlsx` file with a column named `URLs` (case-insensitive — also acc
 | https://www.example-coop.com/rebates | |
 | https://www.example-coop.com/rebates/solar | https://www.example-coop.com/rebates |
 
-Leave `parent_url` blank for main links. The pipeline deep-crawls each URL and all discovered subpages.
+Leave `parent_url` blank for main links. The pipeline deep-crawls each URL and all discovered subpages at the configured crawl depth.
+
+**Crawl Depth slider** (sidebar) — controls how many levels of sublinks to follow:
+- **Depth 1** — exact URL only, no sublinks. Fastest, lowest memory.
+- **Depth 2** — page + immediate sublinks.
+- **Depth 3** — default. Balanced coverage.
+- **Depth 4–5** — slow, high memory. Not recommended on a laptop.
 
 ---
 
 ### 2. Single URL
 
-Enter one URL directly in the sidebar. Useful for testing a specific page before running a full batch.
+Enter one URL directly in the sidebar. Runs the same deep crawl as Excel mode starting from that URL. Use **Depth 1** in the slider if you only want the exact page without following sublinks.
 
 ---
 
 ### 3. Upload Markdown
 
-Upload a `.md` or `.txt` file containing pre-scraped content. The pipeline runs LLM extraction directly — no scraping. Useful for:
+Upload a `.md` or `.txt` file containing pre-scraped content. The pipeline runs the two-stage LLM extraction directly — no scraping. Useful for:
 - Pages that block headless browsers
 - Content copied manually
 - Testing prompt quality on known content
@@ -845,10 +824,11 @@ Discovers utility website URLs by state using OpenSERP. Does **not** run extract
 1. Open Streamlit: `streamlit run app.py`
 2. Select **Single URL** in the sidebar
 3. Paste a utility rebate page URL (e.g. `https://www.anaheim.net/936/Energy-Rebates-Incentives`)
-4. Set provider to `ollama`, model to `qwen2.5:14b`
-5. Click **▶ Run Extraction**
-6. Check the **📝 Live Summaries** tab for results
-7. Download `incentives_output.csv` from the **📊 Progress** tab
+4. Set **Crawl Depth** to `1` for a quick single-page test
+5. Set provider to `ollama`, model to `qwen2.5:14b`
+6. Click **▶ Run Extraction**
+7. Check the **📝 Live Summaries** tab for results
+8. Download `incentives_output.csv` from the **📊 Progress** tab
 
 ---
 
@@ -857,10 +837,11 @@ Discovers utility website URLs by state using OpenSERP. Does **not** run extract
 1. Prepare an Excel file with one URL per row in a column named `URLs`
 2. Open Streamlit: `streamlit run app.py`
 3. Select **Upload Excel**, upload your file
-4. Set provider and model (use `openai` + `gpt-4o` for best results)
-5. Click **▶ Run Extraction**
-6. Monitor progress in the **📊 Progress** tab
-7. Download results when complete — do this before starting another run as CSVs clear on each new run
+4. Set **Crawl Depth** to `3` (default) for full coverage
+5. Set provider and model (use `openai` + `gpt-4o` for best results)
+6. Click **▶ Run Extraction**
+7. Monitor progress in the **📊 Progress** tab
+8. Download results when complete — CSVs clear on each new run so download before restarting
 
 ---
 
@@ -923,7 +904,7 @@ When running correctly:
 
 Set the **OpenSERP URL** in the Streamlit UI to `http://localhost:7070`.
 
-> ⚠️ Do not close this terminal while running discovery. Closing it kills the server and all queries will fail silently returning 0 results.
+> ⚠️ Do not close this terminal while running discovery. Closing it kills the server and all queries will silently return 0 results.
 
 ---
 
@@ -968,15 +949,15 @@ ssh -L 7070:localhost:7070 your_netid@klone.hyak.uw.edu
 |---|---|---|
 | **Bing** ✅ | High | Recommended default. Rarely CAPTCHAs automated searches. |
 | **DuckDuckGo** ✅ | High | Most permissive. Slightly lower result quality. |
-| **Google** ⚠️ | Low | Best quality but CAPTCHAs after 5 consecutive queries. IP bans last hours to days. Use at most once per day, never re-run same state same day. |
+| **Google** ⚠️ | Low | Best quality but CAPTCHAs after 5 consecutive queries. IP bans last hours to days. Use at most once per day per IP, never re-run the same state the same day. |
 
 ---
 
 ## LLM Providers & Model Selection
 
-Model choice is the single biggest factor in extraction quality.
+Model choice is the single biggest factor in extraction quality. The pipeline runs **two LLM calls per page** — one to extract, one to filter. Both calls use the same provider and model you configure.
 
-> **Note on truncation:** The `DEFAULT_TRUNCATION` setting is in **characters**, not tokens. Roughly 4 characters = 1 token. So `40000` chars ≈ 10,000 tokens, and `100000` chars ≈ 25,000 tokens. GPT-4o's 128k token window is ~500,000 characters — effectively no limit for any real webpage.
+> **Note on truncation:** `DEFAULT_TRUNCATION` is in **characters**, not tokens. Roughly 4 characters = 1 token. So `40000` chars ≈ 10,000 tokens, and `100000` chars ≈ 25,000 tokens. GPT-4o's 128k token window is ~500,000 characters — effectively no limit for any real webpage.
 
 ---
 
@@ -1006,7 +987,7 @@ DEFAULT_TRUNCATION = 40000
 LLM_TIMEOUT        = 180
 ```
 
-- **~70% extraction accuracy** confirmed by manual hand-examination
+- **~70% extraction accuracy** confirmed by manual hand-examination against ground truth
 - `40000` chars (~10k tokens) works well — these models have 128k token windows
 - Significantly better than 7B on financial details and multi-program pages
 - Fully local and free to run
@@ -1069,7 +1050,7 @@ LLM_TIMEOUT        = 60
 | `link_type` | `Main Link` or `Sublink` |
 | `parent_url` | Parent URL if sublink, else blank |
 | `source_url` | URL that was scraped |
-| `url_type` | `web`, `pdf`, `excel`, or `image` |
+| `url_type` | `web`, `pdf`, or `excel` |
 | `utility_company` | Name of the utility |
 | `program_name` | Full program name |
 | `program_type` | Rebate, grant, tax credit, loan, etc. |
@@ -1087,7 +1068,7 @@ LLM_TIMEOUT        = 60
 |---|---|
 | `timestamp` | When the error occurred |
 | `url` | URL that failed |
-| `url_type` | web / pdf / excel / image |
+| `url_type` | web / pdf / excel |
 | `stage` | scraping / llm_parsing / llm_timeout / llm_extraction |
 | `reason` | Short human-readable reason |
 | `detail` | Full error message (capped at 500 chars) |
@@ -1100,35 +1081,32 @@ LLM_TIMEOUT        = 60
 You have `altair<5` in `pyproject.toml`. Change it to `altair>=5` and re-run `uv sync`. The old altair pin conflicts with Streamlit 1.28+ and silently caps the version.
 
 **`Error: Unrecognized type: LargeUtf8 (20)` in browser**
-PyArrow version mismatch with Streamlit's JavaScript Arrow library. The `_safe_dataframe()` wrapper in `app.py` should prevent this. If it reappears, run `uv pip install --upgrade pyarrow streamlit`.
+PyArrow version mismatch with Streamlit's JavaScript Arrow library. The `_safe_dataframe()` wrapper in `app.py` prevents this. If it reappears, run `uv pip install --upgrade pyarrow streamlit`.
 
 **`TypeError: container() got unexpected keyword argument 'height'`**
-Your Streamlit version is below 1.32.0. Run `uv sync` — if it stays at 1.19, see the altair fix above.
+Your Streamlit version is below 1.32.0. Run `uv sync` — if it stays at 1.19, see the altair fix above. The `_scrollable_container()` wrapper in `app.py` also provides a fallback automatically.
 
 **`TypeError: 'NoneType' object is not iterable` during City URL Discovery**
-OpenSERP returned a non-list response (null or error object). The `_search_openserp()` function in `url_source.py` should guard against this. Also check that your OpenSERP URL is correct (`http://localhost:7070` not `7000`).
+OpenSERP returned a non-list response. Check that your OpenSERP URL is correct (`http://localhost:7070` not `7000`) and that `openserp.exe` is running in a separate terminal.
 
 **City URL Discovery returns 0 results**
 In order of likelihood:
 1. OpenSERP URL in the UI is wrong — should be `http://localhost:7070`
 2. `openserp.exe` is not running — open a separate terminal, `cd modules`, run `openserp.exe`
-3. You're using Google engine — switch to Bing
+3. You are using Google engine — switch to Bing
 4. Google has CAPTCHAd your IP — wait several hours or use a VPN
 
 **`scrape_all_pages returned empty list` for all URLs in an Excel batch**
-Playwright browser state is degrading between sequential URLs. Each URL now runs in an isolated thread — make sure you are running the latest `scraper.py` from this repo. Also check `errors.csv` for the specific failure stage.
+Playwright browser state was degrading between sequential URLs. Each URL now runs in an isolated thread — make sure you are running the latest `scraper.py`. Also check `errors.csv` for the specific failure stage.
 
 **LLM timeout errors**
-Increase `LLM_TIMEOUT` in `config.py`. For qwen2.5:14b on a mid-range laptop, `300` seconds is safer than `180`. Alternatively reduce `DEFAULT_TRUNCATION` — less content = faster LLM calls.
+Increase `LLM_TIMEOUT` in `config.py`. For qwen2.5:14b on a mid-range laptop, `300` seconds is safer than `180`. Alternatively reduce `DEFAULT_TRUNCATION` — less content = faster LLM calls. Note that the two-stage pipeline makes two LLM calls per page, so timeouts are roughly twice as likely compared to a single-call approach.
 
 **`second argument (exceptions) must be a non-empty sequence`**
 A crawl4ai internal bug triggered on certain sites. Your code handles it gracefully — the URL is logged to `errors.csv` and the pipeline continues. Update crawl4ai when a new version is available: `uv pip install --upgrade crawl4ai`.
 
 **`Task was destroyed but it is pending`**
 A noisy warning from crawl4ai's internal memory monitor. Does not affect results. Suppressed in `app.py` with `warnings.filterwarnings`.
-
-**`use_container_width` deprecation warning**
-Your Streamlit version is recent enough to use the new `width='stretch'` API. The `_dataframe()` wrapper in `app.py` handles both APIs automatically.
 
 **Ollama model not found**
 Run `ollama list` to see installed models. If your model isn't there, run `ollama pull qwen2.5:14b`. Make sure the model name in `config.py` matches exactly including the tag.
@@ -1138,8 +1116,9 @@ Run `ollama list` to see installed models. If your model isn't there, run `ollam
 ## Known Limitations
 
 - **Memory usage is high during extraction runs.** crawl4ai launches real Chromium instances — 200–500MB RAM each. On a 50-URL batch expect 2–6GB RAM consumed during the run. Released after completion.
+- **Two LLM calls per page.** The two-stage pipeline (extract + filter) doubles LLM call count compared to a single-pass approach. On a 50-URL deep crawl with 200 subpages this means ~400 LLM calls. Budget time and API costs accordingly.
 - **Google is unreliable for automated searching.** Use Bing or DuckDuckGo. See [Google vs Bing vs DuckDuckGo](#google-vs-bing-vs-duckduckgo).
-- **Some utility sites block headless browsers.** Sites with Cloudflare, login walls, or aggressive bot detection return empty results. These are logged to `errors.csv`.
+- **Some utility sites block headless browsers.** Sites with Cloudflare, login walls, or aggressive bot detection return empty results logged to `errors.csv`.
 - **Results are a point-in-time snapshot.** Programs expire and change without notice.
 - **Running extraction and other CPU-intensive tasks simultaneously is not recommended.** The scraper and local LLM together can saturate CPU and RAM on a typical laptop.
 
@@ -1162,7 +1141,6 @@ All managed via `pyproject.toml` and installed with `uv sync`.
 | `langchain-google-genai` | Google Gemini provider |
 | `pdfplumber` | PDF text extraction |
 | `openpyxl` | Excel read/write |
-| `pillow` + `pytesseract` | Image OCR |
 | `aiohttp` | Async HTTP for auxiliary file fetching |
 | `beautifulsoup4` | HTML parsing for auxiliary link discovery |
 | `pandas` | Data handling and CSV output |

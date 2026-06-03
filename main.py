@@ -94,31 +94,35 @@ def run_pipeline(
     cancel_flag=None,
     provider="ollama",
     model=None,
+    max_depth=3,
 ):
     """
     Main pipeline: fetch URLs → scrape → LLM extract → export.
 
     Args:
-        mode:               "Upload Excel", "Upload Markdown", or "Auto Search Utilities"
-        uploaded_file:      Excel file object/path, or markdown file-like object/str.
-                            For "Upload Markdown", app.py handles the mode directly —
-                            but if it reaches here, get_urls() returns a pre-loaded entry.
-        state:              U.S. state name for "Auto Search Utilities" mode (else None)
+        mode:               "Upload Excel", "Upload Markdown", or "Single URL"
+        uploaded_file:      Excel file object/path, or markdown file-like object/str
+        state:              unused, kept for API compatibility
         temperature:        LLM temperature
         truncation_length:  max chars of scraped content sent to LLM
         progress_callback:  callable(current, total, url, message)
         cancel_flag:        callable returning True if the user cancelled
         provider:           LLM provider (ollama, openai, uw_ssec, anthropic, google)
         model:              model name override (uses MODEL_NAME from config if None)
+        max_depth:          crawl depth for web pages (1 = single page only, 3 = default)
 
     Returns:
-        path to output CSV file (temp file — move or copy before it's cleaned up)
+        path to output CSV file
     """
     model = model or MODEL_NAME
 
-    # FIX (deduplication): reset the global seen_urls set in scraper.py at the
-    # start of each pipeline run so pages from one run don't block another.
+    # Reset global seen_urls at start of each run to prevent cross-run deduplication
     reset_seen_urls()
+
+    # Clear output files from previous run
+    for f in [ERRORS_CSV, MARKDOWN_CSV]:
+        if os.path.exists(f):
+            os.remove(f)
 
     url_entries = get_urls(mode, uploaded_file, state)
     total_entries = len(url_entries)
@@ -132,11 +136,7 @@ def run_pipeline(
 
         main_url = entry["url"]
         excel_parent = entry.get("parent")
-
-        # Pre-loaded content is set by get_urls() for "Upload Markdown" mode.
-        # When present, skip all scraping and go straight to LLM extraction.
         pre_loaded_content = entry.get("content")
-
         timestamp = datetime.datetime.utcnow().isoformat()
         idx += 1
 
@@ -177,8 +177,8 @@ def run_pipeline(
             )
             continue
 
-        # ── Web pages: deep crawl, process every discovered page ─────────────
-        pages = scrape_all_pages(main_url, truncation_length)
+        # ── Web pages: deep crawl at specified depth ──────────────────────────
+        pages = scrape_all_pages(main_url, truncation_length, max_depth=max_depth)
 
         if not pages:
             log_error(main_url, "web", "scraping",
@@ -192,7 +192,6 @@ def run_pipeline(
                 logger.info("Pipeline cancelled by user.")
                 break
 
-            # Original seed URL keeps excel_parent; discovered sublinks get main_url as parent
             parent = excel_parent if page["url"] == main_url else page.get("parent", main_url)
 
             _process_page(

@@ -1,3 +1,4 @@
+
 # nest_asyncio MUST be the very first import and applied before anything else.
 import nest_asyncio
 nest_asyncio.apply()
@@ -31,6 +32,7 @@ DEFAULT_PROVIDER       = "ollama"
 DEFAULT_MODEL          = "qwen2.5:14b"
 DEFAULT_TEMP           = DEFAULT_TEMPERATURE
 DEFAULT_TRUNCATION_VAL = DEFAULT_TRUNCATION
+DEFAULT_MAX_DEPTH      = 3
 
 URL_COLUMN_NAMES = {"url", "urls", "links", "link", "website", "websites"}
 
@@ -56,23 +58,14 @@ for key, default in {
 
 # ── Version-safe scrollable container ────────────────────────────────────────
 def _scrollable_container(height: int = 600):
-    """
-    Returns a fixed-height scrollable container on Streamlit >= 1.32.0,
-    or falls back to st.expander on older versions.
-    """
     try:
         return st.container(height=height, border=True)
     except TypeError:
-        return st.expander("📝 Summaries (upgrade Streamlit for scrollable view)", expanded=True)
+        return st.expander("📝 Summaries", expanded=True)
 
 
-# ── Version-safe st.dataframe width parameter ─────────────────────────────────
+# ── Version-safe st.dataframe ─────────────────────────────────────────────────
 def _dataframe(df: pd.DataFrame):
-    """
-    Renders a dataframe using the current Streamlit API.
-    Streamlit >= ~1.40 deprecated use_container_width in favour of width='stretch'.
-    This wrapper tries the new API first and falls back to the old one.
-    """
     df = _safe_dataframe(df)
     try:
         st.dataframe(df, width="stretch")
@@ -82,12 +75,6 @@ def _dataframe(df: pd.DataFrame):
 
 # ── PyArrow LargeUtf8 fix ─────────────────────────────────────────────────────
 def _safe_dataframe(df: pd.DataFrame) -> pd.DataFrame:
-    """
-    Cast all object/string columns to pandas StringDtype before passing to
-    st.dataframe(). Newer PyArrow versions serialize nullable string columns
-    as LargeUtf8 (type 20) which Streamlit's JS Arrow library doesn't support.
-    Explicit StringDtype forces plain Utf8 (type 13) serialization.
-    """
     df = df.copy()
     for col in df.columns:
         if df[col].dtype == object or pd.api.types.is_string_dtype(df[col]):
@@ -99,10 +86,6 @@ def _safe_dataframe(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def _read_csv_safe(path: str):
-    """
-    Read a CSV and return a _safe_dataframe-wrapped result.
-    Returns None if file doesn't exist or can't be read.
-    """
     if not os.path.isfile(path):
         return None
     try:
@@ -117,7 +100,7 @@ st.sidebar.header("Configuration")
 
 mode = st.sidebar.radio(
     "Select Mode",
-    ["Upload Excel", "Single URL", "Upload Markdown", "State URL Discovery"]
+    ["Upload Excel", "Single URL", "Upload Markdown", "City URL Discovery"]
 )
 
 uploaded_file  = None
@@ -128,6 +111,7 @@ temperature       = DEFAULT_TEMP
 truncation_length = DEFAULT_TRUNCATION_VAL
 provider          = DEFAULT_PROVIDER
 model_name        = DEFAULT_MODEL
+max_depth         = DEFAULT_MAX_DEPTH
 run_button        = False
 cancel_button     = False
 
@@ -152,7 +136,30 @@ if mode in ("Upload Excel", "Single URL", "Upload Markdown"):
         ["ollama", "openai", "uw_ssec", "anthropic", "google"],
         index=0
     )
-    model_name    = st.sidebar.text_input("Model Name", value=DEFAULT_MODEL)
+    model_name = st.sidebar.text_input("Model Name", value=DEFAULT_MODEL)
+
+    # ── Crawl depth slider ────────────────────────────────────────────────────
+    max_depth = st.sidebar.slider(
+        "Crawl Depth",
+        min_value=1,
+        max_value=5,
+        value=DEFAULT_MAX_DEPTH,
+        help=(
+            "1 = scrape only the exact URL given, no sublinks. "
+            "3 = follow links up to 3 levels deep (default). "
+            "Higher = more pages found but slower and more memory."
+        )
+    )
+
+    if max_depth == 1:
+        st.sidebar.caption("⚡ Depth 1 — single page only, fastest.")
+    elif max_depth <= 2:
+        st.sidebar.caption("🔍 Depth 2 — page + immediate sublinks.")
+    elif max_depth == 3:
+        st.sidebar.caption("🔍 Depth 3 — default, balanced coverage.")
+    else:
+        st.sidebar.caption("⚠️ Deep crawl — slow, high memory usage.")
+
     run_button    = st.sidebar.button("▶ Run Extraction")
     cancel_button = st.sidebar.button("⏹ Cancel")
 
@@ -169,9 +176,9 @@ def _find_url_column(columns):
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
-# MODE: State URL Discovery
+# MODE: City URL Discovery
 # ═══════════════════════════════════════════════════════════════════════════════
-if mode == "State URL Discovery":
+if mode == "City URL Discovery":
     st.subheader("Discover New Utility URLs by State")
     st.caption(
         "Searches OpenSERP for electric utility and cooperative websites by state. "
@@ -228,7 +235,7 @@ if mode == "State URL Discovery":
                 "Page Title":    r["title"],
                 "Discovered At": r["discovered_at"],
             } for r in discovered])
-            _dataframe(df)   # uses version-safe wrapper
+            _dataframe(df)
 
             def _thin():
                 s = Side(style="thin", color="BFBFBF")
@@ -278,7 +285,6 @@ if mode == "State URL Discovery":
                 mime="text/plain"
             )
 
-    # ── Merge sub-section ─────────────────────────────────────────────────────
     st.markdown("---")
     st.subheader("Merge Discovered URLs into Existing Database")
     st.caption("Domain-level deduplication. Merges a discovered file into your existing URL database.")
@@ -358,7 +364,7 @@ if mode == "State URL Discovery":
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
-# MODE: Upload Excel / Single URL / Upload Markdown — Extraction pipeline
+# MODE: Upload Excel / Single URL / Upload Markdown
 # ═══════════════════════════════════════════════════════════════════════════════
 elif mode in ("Upload Excel", "Single URL", "Upload Markdown"):
 
@@ -367,17 +373,11 @@ elif mode in ("Upload Excel", "Single URL", "Upload Markdown"):
     ])
 
     if run_button:
-        st.session_state.cancelled     = False
-        st.session_state.run_complete  = False
-        st.session_state.output_file   = None
+        st.session_state.cancelled    = False
+        st.session_state.run_complete = False
+        st.session_state.output_file  = None
         st.session_state.callback_count = 0
 
-        # ── Clear previous run output files ───────────────────────────────────
-        for f in [ERRORS_CSV, MARKDOWN_CSV]:
-            if os.path.exists(f):
-                os.remove(f)
-
-        # ── Validate inputs ───────────────────────────────────────────────────
         error = None
         if mode == "Upload Excel" and not uploaded_file:
             error = "Please upload an Excel file."
@@ -389,9 +389,9 @@ elif mode in ("Upload Excel", "Single URL", "Upload Markdown"):
         if error:
             st.error(error)
         else:
-            pipeline_mode    = "Upload Excel"
-            pipeline_file    = None
-            pipeline_state   = None
+            pipeline_mode  = "Upload Excel"
+            pipeline_file  = None
+            pipeline_state = None
 
             if mode == "Upload Excel":
                 df_preview = pd.read_excel(uploaded_file)
@@ -402,8 +402,6 @@ elif mode in ("Upload Excel", "Single URL", "Upload Markdown"):
                         f"Found: {', '.join(df_preview.columns.tolist())}"
                     )
                     st.stop()
-                # Always rebuild from the in-memory DataFrame so the file
-                # pointer is never exhausted before run_pipeline reads it.
                 if url_col != "URLs":
                     df_preview = df_preview.rename(columns={url_col: "URLs"})
                 buf = io.BytesIO()
@@ -422,15 +420,15 @@ elif mode in ("Upload Excel", "Single URL", "Upload Markdown"):
 
             elif mode == "Upload Markdown":
                 markdown_content = uploaded_md.read().decode("utf-8", errors="replace")
+                pipeline_mode    = "Upload Markdown"
+                pipeline_file    = io.StringIO(markdown_content)
+                pipeline_file.name = uploaded_md.name
 
             with tab_progress:
-                progress_bar  = st.progress(0)
-                status_text   = st.empty()
-                stats         = st.empty()
-
-            # Live summary: single placeholder overwritten each update
-            with tab_markdown:
-                live_summary_box = st.empty()
+                progress_bar = st.progress(0)
+                status_text  = st.empty()
+                stats        = st.empty()
+                live_summary = st.empty()
 
             success_count = [0]
             fail_count    = [0]
@@ -445,66 +443,36 @@ elif mode in ("Upload Excel", "Single URL", "Upload Markdown"):
                     f"❌ Failed: `{fail_count[0]}` &nbsp;|&nbsp; "
                     f"🔗 Current: `{url}`"
                 )
-                # Only refresh live views every 3 callbacks to reduce flicker
+
+                # Throttle UI updates — only refresh every 3 callbacks
                 if st.session_state.callback_count % 3 == 0:
-                    df_md = _read_csv_safe(MARKDOWN_CSV)
-                    if df_md is not None and "markdown_summary" in df_md.columns:
-                        recent = df_md.tail(3)["markdown_summary"].dropna().tolist()
-                        live_summary_box.markdown(
-                            "**Last processed:**\n\n---\n\n" + "\n\n---\n\n".join(recent)
-                        )
-                    df_err = _read_csv_safe(ERRORS_CSV)
-                    if df_err is not None:
+                    md_df = _read_csv_safe(MARKDOWN_CSV)
+                    if md_df is not None and "markdown_summary" in md_df.columns:
+                        last_3 = md_df["markdown_summary"].dropna().tail(3).tolist()
+                        with live_summary:
+                            for summary in last_3:
+                                st.markdown(summary)
+                                st.markdown("---")
+
+                    err_df = _read_csv_safe(ERRORS_CSV)
+                    if err_df is not None:
                         with tab_errors:
-                            _dataframe(df_err)
+                            _dataframe(err_df)
 
-            # ── Run pipeline ──────────────────────────────────────────────────
-            if mode == "Upload Markdown":
-                from modules.processor import process_text
-                from modules.exporter import export_to_csv, append_markdown_entry
-                import datetime as dt
-
-                with tab_progress:
-                    status_text.markdown("**Running LLM extraction on uploaded markdown...**")
-
-                try:
-                    structured = process_text(
-                        markdown_content,
-                        "uploaded_markdown",
-                        temperature,
-                        provider=provider,
-                        model=model_name,
-                    )
-                    structured["source_url"]           = uploaded_md.name
-                    structured["parent_url"]           = None
-                    structured["is_sublink"]           = False
-                    structured["url_type"]             = "markdown"
-                    structured["extraction_timestamp"] = dt.datetime.utcnow().isoformat()
-                    append_markdown_entry(structured, MARKDOWN_CSV)
-                    output_file = export_to_csv([structured])
-                    st.session_state.output_file   = output_file
-                    st.session_state.run_complete  = True
-                    st.session_state.md_input_done = True
-                    st.session_state.md_input_text = markdown_content
-                    st.session_state.md_input_name = uploaded_md.name
-
-                except Exception as e:
-                    st.error(f"Extraction failed: {e}")
-
-            else:
-                output_file = run_pipeline(
-                    mode=pipeline_mode,
-                    uploaded_file=pipeline_file,
-                    state=pipeline_state,
-                    temperature=temperature,
-                    truncation_length=int(truncation_length),
-                    progress_callback=progress_callback,
-                    cancel_flag=lambda: st.session_state.cancelled,
-                    provider=provider,
-                    model=model_name,
-                )
-                st.session_state.output_file  = output_file
-                st.session_state.run_complete = True
+            output_file = run_pipeline(
+                mode=pipeline_mode,
+                uploaded_file=pipeline_file,
+                state=pipeline_state,
+                temperature=temperature,
+                truncation_length=int(truncation_length),
+                progress_callback=progress_callback,
+                cancel_flag=lambda: st.session_state.cancelled,
+                provider=provider,
+                model=model_name,
+                max_depth=int(max_depth),
+            )
+            st.session_state.output_file  = output_file
+            st.session_state.run_complete = True
 
     # ── Post-run results ──────────────────────────────────────────────────────
     if st.session_state.run_complete and st.session_state.output_file:
@@ -523,43 +491,38 @@ elif mode in ("Upload Excel", "Single URL", "Upload Markdown"):
                     file_name="incentives_output.csv"
                 )
 
-            if st.session_state.get("md_input_done"):
-                st.download_button(
-                    "⬇️ Download Original Markdown",
-                    st.session_state.md_input_text.encode("utf-8"),
-                    file_name=st.session_state.md_input_name,
-                    mime="text/markdown"
-                )
-
         with tab_markdown:
             st.subheader("Full Markdown Summaries")
-            df_md = _read_csv_safe(MARKDOWN_CSV)
-            if df_md is not None and "markdown_summary" in df_md.columns:
-                all_md = "\n\n---\n\n".join(df_md["markdown_summary"].dropna().tolist())
-                st.download_button(
-                    "⬇️ Download All Summaries as Markdown",
-                    all_md.encode("utf-8"),
-                    file_name="incentive_summaries.md",
-                    mime="text/markdown"
-                )
-                with open(MARKDOWN_CSV, "rb") as f:
+            if os.path.isfile(MARKDOWN_CSV):
+                try:
+                    md_df = pd.read_csv(MARKDOWN_CSV, quoting=csv.QUOTE_ALL, on_bad_lines="skip")
+                    all_md = "\n\n---\n\n".join(md_df["markdown_summary"].dropna().tolist())
                     st.download_button(
-                        "⬇️ Download Markdown CSV",
-                        f,
-                        file_name="markdown_summaries.csv"
+                        "⬇️ Download All Summaries as Markdown",
+                        all_md.encode("utf-8"),
+                        file_name="incentive_summaries.md",
+                        mime="text/markdown"
                     )
-                with _scrollable_container(600):
-                    for _, row in df_md.iterrows():
-                        st.markdown(str(row["markdown_summary"]))
-                        st.markdown("---")
+                    with open(MARKDOWN_CSV, "rb") as f:
+                        st.download_button(
+                            "⬇️ Download Markdown CSV",
+                            f,
+                            file_name="markdown_summaries.csv"
+                        )
+                    with _scrollable_container(height=600):
+                        for _, row in md_df.iterrows():
+                            st.markdown(row["markdown_summary"])
+                            st.markdown("---")
+                except Exception as e:
+                    st.error(f"Could not load markdown summaries: {e}")
             else:
                 st.info("No summaries generated yet.")
 
         with tab_errors:
             st.subheader("Error Log")
-            df_err = _read_csv_safe(ERRORS_CSV)
-            if df_err is not None:
-                _dataframe(df_err)
+            err_df = _read_csv_safe(ERRORS_CSV)
+            if err_df is not None:
+                _dataframe(err_df)
                 with open(ERRORS_CSV, "rb") as f:
                     st.download_button(
                         "⬇️ Download Error Log",

@@ -3,13 +3,13 @@ import asyncio
 import re
 import sys
 import io
+import threading
+import warnings
 import os
-import requests
 import pdfplumber
 import openpyxl
 import aiohttp
-import threading
-import warnings
+import requests
 from urllib.parse import urlparse, urljoin
 from io import BytesIO
 from PIL import Image
@@ -23,10 +23,8 @@ from crawl4ai.content_scraping_strategy import LXMLWebScrapingStrategy
 from crawl4ai.processors.pdf import PDFCrawlerStrategy, PDFContentScrapingStrategy
 from utils.logger import get_logger
 
-# Suppress crawl4ai background task noise
 warnings.filterwarnings("ignore", message="Task was destroyed but it is pending")
 
-# FIX: Windows requires ProactorEventLoopPolicy for asyncio subprocesses
 if sys.platform.startswith("win"):
     asyncio.set_event_loop_policy(asyncio.WindowsProactorEventLoopPolicy())
 
@@ -40,10 +38,7 @@ INCENTIVE_KEYWORDS = [
 
 PDF_SCORE_KEYWORDS = ["incentive", "rebate", "grant", "guide", "manual", "form", "terms", "efficiency"]
 
-# ─────────────────────────────────────────────
-# GLOBAL DEDUPLICATION
-# ─────────────────────────────────────────────
-
+# ── Global deduplication ──────────────────────────────────────────────────────
 _global_seen_urls: set = set()
 _seen_lock = threading.Lock()
 
@@ -55,9 +50,7 @@ def reset_seen_urls():
         _global_seen_urls = set()
 
 
-# ─────────────────────────────────────────────
-# UTILITIES
-# ─────────────────────────────────────────────
+# ── Utilities ─────────────────────────────────────────────────────────────────
 
 def clean_html(html: str) -> str:
     html = re.sub(r"<script.*?>.*?</script>", "", html, flags=re.DOTALL)
@@ -101,7 +94,7 @@ def is_file_url(url: str) -> tuple:
     if lower.endswith((".jpg", ".jpeg", ".png")):
         return True, "image"
 
-    # FIX: HEAD request fallback for extension-less file URLs
+    # HEAD request fallback for extension-less file URLs
     try:
         resp = requests.head(url, timeout=10, allow_redirects=True)
         ct = resp.headers.get("Content-Type", "").lower()
@@ -134,9 +127,7 @@ def _get_fit_markdown(page) -> str:
         return str(page.markdown)
 
 
-# ─────────────────────────────────────────────
-# FILE EXTRACTORS
-# ─────────────────────────────────────────────
+# ── File extractors ───────────────────────────────────────────────────────────
 
 def extract_pdf(url: str) -> str | None:
     try:
@@ -194,15 +185,9 @@ def extract_image(url: str) -> str | None:
         return None
 
 
-# ─────────────────────────────────────────────
-# AUXILIARY FILE DISCOVERY
-# ─────────────────────────────────────────────
+# ── Auxiliary file discovery ──────────────────────────────────────────────────
 
 async def _scrape_pdf_with_crawl4ai(pdf_url: str) -> str:
-    """
-    Use crawl4ai's native PDF crawler for robust extraction.
-    FIX: explicit try/finally guarantees browser cleanup even on timeout.
-    """
     logger.info(f"Scraping PDF via crawl4ai: {pdf_url}")
     pdf_scraping_strategy = PDFContentScrapingStrategy(
         extract_images=False,
@@ -239,18 +224,18 @@ async def _scrape_pdf_with_crawl4ai(pdf_url: str) -> str:
         logger.error(f"crawl4ai PDF extraction failed for {pdf_url}: {e}")
         return ""
     finally:
-        await crawler.close()
+        try:
+            await crawler.close()
+        except Exception:
+            pass
 
 
 async def process_auxiliary_files(html: str, base_url: str) -> dict:
-    """
-    Scan a page's HTML for embedded PDF and Excel links and extract their content.
-    FIX: uses aiohttp.ClientTimeout(total=15) instead of bare integer.
-    """
     extracted = {}
     try:
         soup = BeautifulSoup(html, "html.parser")
         links = [a.get("href") for a in soup.find_all("a", href=True)]
+
         base_netloc = urlparse(base_url).netloc
         pdf_links = set()
         excel_links = set()
@@ -272,11 +257,10 @@ async def process_auxiliary_files(html: str, base_url: str) -> dict:
             if text and text.strip():
                 extracted[pdf_url] = text
 
-        # FIX: aiohttp.ClientTimeout instead of bare integer
-        timeout = aiohttp.ClientTimeout(total=15)
         async with aiohttp.ClientSession() as session:
             for url in list(excel_links)[:2]:
                 try:
+                    timeout = aiohttp.ClientTimeout(total=15)
                     async with session.get(url, timeout=timeout) as resp:
                         if resp.status == 200:
                             if int(resp.headers.get("Content-Length", 0)) > 10 * 1024 * 1024:
@@ -295,30 +279,40 @@ async def process_auxiliary_files(html: str, base_url: str) -> dict:
                                 extracted[url] = text
                 except Exception as e:
                     logger.error(f"Excel auxiliary extraction failed for {url}: {e}")
+
     except Exception as e:
         logger.error(f"Auxiliary file discovery failed for {base_url}: {e}")
+
     return extracted
 
 
-# ─────────────────────────────────────────────
-# MAIN WEB SCRAPER
-# ─────────────────────────────────────────────
+# ── Main web scraper ──────────────────────────────────────────────────────────
 
-async def async_scrape_all(url: str, timeout: int = 120, use_deep_crawl: bool = True) -> list[dict]:
+async def async_scrape_all(
+    url: str,
+    timeout: int = 120,
+    use_deep_crawl: bool = True,
+    max_depth: int = 3,          # ← settable, default 3
+) -> list[dict]:
     """
-    Crawl a URL and return all scraped pages.
-    FIX: explicit try/finally with crawler.close() guarantees Playwright cleanup
-         even when asyncio.wait_for() raises CancelledError on timeout.
+    Crawl a URL and return all successfully scraped pages.
+
+    Args:
+        url:           seed URL to crawl
+        timeout:       seconds before the crawl is abandoned
+        use_deep_crawl: if False, only scrapes the exact URL (depth 1 equivalent)
+        max_depth:     how many link levels deep to follow (1 = seed page only,
+                       2 = seed + direct links, 3 = seed + 2 levels of sublinks)
     """
     seed_netloc = urlparse(url).netloc
-    pages = []
 
-    if use_deep_crawl:
+    if use_deep_crawl and max_depth > 1:
         scorer = KeywordRelevanceScorer(keywords=INCENTIVE_KEYWORDS, weight=0.8)
         seo_filter = SEOFilter(threshold=0.3, keywords=INCENTIVE_KEYWORDS)
         domain_filter = DomainFilter(allowed_domains=[seed_netloc])
+
         strategy = BestFirstCrawlingStrategy(
-            max_depth=2,
+            max_depth=max_depth,          # ← passed through
             include_external=False,
             url_scorer=scorer,
             filter_chain=FilterChain([domain_filter, seo_filter]),
@@ -329,13 +323,15 @@ async def async_scrape_all(url: str, timeout: int = 120, use_deep_crawl: bool = 
             cache_mode=CacheMode.BYPASS,
         )
     else:
+        # max_depth=1 or use_deep_crawl=False → single page only
         config = CrawlerRunConfig(
             scraping_strategy=LXMLWebScrapingStrategy(),
             cache_mode=CacheMode.BYPASS,
         )
 
-    # FIX: explicit crawler lifecycle with guaranteed cleanup
-    crawler = AsyncWebCrawler(config=BrowserConfig(headless=True, java_script_enabled=True))
+    pages = []
+
+    crawler = AsyncWebCrawler()
     try:
         await crawler.start()
         result = await asyncio.wait_for(
@@ -347,12 +343,11 @@ async def async_scrape_all(url: str, timeout: int = 120, use_deep_crawl: bool = 
         for r in results:
             if not getattr(r, "success", False):
                 continue
-            if getattr(r, "status_code", 200) not in (200, None, 0):
+            if getattr(r, "status_code", 200) != 200:
                 continue
 
             page_url = getattr(r, "url", url)
 
-            # Strict domain check
             if seed_netloc:
                 r_netloc = urlparse(page_url).netloc
                 if r_netloc and not r_netloc.endswith(seed_netloc):
@@ -391,14 +386,13 @@ async def async_scrape_all(url: str, timeout: int = 120, use_deep_crawl: bool = 
                 "content": content,
                 "url_type": "web"
             })
-            logger.info(f"Depth {depth} | ✅ Crawled: {page_url} ({len(content)} chars)")
+            logger.info(f"Depth: {depth} | max_depth: {max_depth} | ✅ Crawled: {page_url} ({len(content)} chars)")
 
     except asyncio.TimeoutError:
         logger.error(f"Timeout reached for {url}")
     except Exception as e:
         logger.error(f"Scraping failed for {url}: {e}")
     finally:
-        # FIX: guaranteed Playwright cleanup regardless of what happened above
         try:
             await crawler.close()
         except Exception:
@@ -407,61 +401,68 @@ async def async_scrape_all(url: str, timeout: int = 120, use_deep_crawl: bool = 
     return pages
 
 
-def _run_scrape_in_thread(url: str, timeout: int, use_deep_crawl: bool) -> list[dict]:
+def _run_scrape_in_thread(
+    url: str,
+    timeout: int,
+    use_deep_crawl: bool,
+    max_depth: int,              # ← passed through to async_scrape_all
+) -> list[dict]:
     """
-    FIX (core fix for Excel multi-URL runs):
-    Run each URL's scrape in a completely isolated thread with its own event loop.
-
-    Without this, crawl4ai's Playwright state from URL #1 bleeds into URL #2.
-    The second call to asyncio.run() reuses a degraded loop/browser state and
-    returns empty. Each thread gets a fresh event loop and a fresh Playwright
-    instance, so every URL in an Excel batch scrapes independently and cleanly.
+    Run async_scrape_all in a completely isolated thread with its own event loop.
+    Prevents Playwright state from leaking between sequential URL scrapes in a
+    batch Excel run, which caused empty results from URL #2 onwards.
     """
     result = []
-    error = []
 
     def _thread_target():
-        # Create a brand new event loop for this thread — no shared state
-        if sys.platform.startswith("win"):
-            loop = asyncio.ProactorEventLoop()
-        else:
-            loop = asyncio.new_event_loop()
+        loop = asyncio.new_event_loop()
         asyncio.set_event_loop(loop)
         try:
-            result.extend(loop.run_until_complete(
-                async_scrape_all(url, timeout=timeout, use_deep_crawl=use_deep_crawl)
-            ))
+            pages = loop.run_until_complete(
+                async_scrape_all(url, timeout=timeout,
+                                 use_deep_crawl=use_deep_crawl,
+                                 max_depth=max_depth)
+            )
+            result.extend(pages)
         except Exception as e:
-            error.append(e)
+            logger.error(f"Thread scrape failed for {url}: {e}")
         finally:
-            try:
-                loop.close()
-            except Exception:
-                pass
+            loop.close()
 
     t = threading.Thread(target=_thread_target, daemon=True)
     t.start()
-    t.join(timeout + 30)  # thread timeout = scrape timeout + 30s grace
+    t.join(timeout + 30)
 
     if t.is_alive():
-        logger.error(f"Scrape thread timed out and is being abandoned for {url}")
-        return []
-
-    if error:
-        logger.error(f"Scrape thread raised exception for {url}: {error[0]}")
-        return []
+        logger.error(f"Scrape thread did not complete in time for {url}")
 
     return result
 
 
-def scrape_all_pages(url: str, truncation_length: int = 50000, use_deep_crawl: bool = True) -> list[dict]:
+def scrape_all_pages(
+    url: str,
+    truncation_length: int = 8000,
+    use_deep_crawl: bool = True,
+    max_depth: int = 3,          # ← exposed here so main.py and app.py can set it
+) -> list[dict]:
     """
-    Entry point for web page deep crawling.
-    FIX: each call runs in its own isolated thread with a fresh event loop,
-         preventing Playwright state from previous URLs causing empty results.
+    Entry point for web page scraping.
+
+    Args:
+        url:              seed URL
+        truncation_length: max chars of content sent to LLM per page
+        use_deep_crawl:   if False, only scrapes the exact URL
+        max_depth:        crawl depth (1 = this page only, 2 = +direct links,
+                          3 = +2 levels of sublinks)
+
+    Returns list of dicts: [{"url", "parent", "content", "url_type"}]
     """
     try:
-        pages = _run_scrape_in_thread(url, timeout=120, use_deep_crawl=use_deep_crawl)
+        pages = _run_scrape_in_thread(
+            url, timeout=120,
+            use_deep_crawl=use_deep_crawl,
+            max_depth=max_depth
+        )
         for p in pages:
             content = preprocess_content(p["content"])
             content = extract_relevant_sentences(content, INCENTIVE_KEYWORDS)
