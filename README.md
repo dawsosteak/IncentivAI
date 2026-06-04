@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">
-    <img src="icon.jpg" width="200" alt="IncentivAI logo"/>
+    <img src="src/icon.jpg" width="200" alt="IncentivAI logo"/>
     <br/>
     IncentivAI
   </h1> 
