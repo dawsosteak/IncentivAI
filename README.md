@@ -1,8 +1,16 @@
-# IncentivAI
-### Automated Discovery and Extraction of U.S. Electric Utility Energy Incentive Programs
-
-> Capstone project — University of Washington, Chemical Engineering  
-> Built with Python, crawl4ai, Streamlit, and large language models.
+<div align="center">
+  <h1 align="center">
+    <img src="icon.jpg" width="200" alt="IncentivAI logo"/>
+    <br/>
+    IncentivAI
+  </h1> 
+  
+  <p>
+    An Automated Discovery and Extraction of U.S. Electric Utility Energy Incentive Programs.
+  </p>
+  
+  <p><i>University of Washington Chemical Engineering Capstone project built with Python, large language models <a href="https://https://github.com/unclecode/crawl4ai">crawl4ai</a>, and <a href="https://github.com/streamlit/streamlit"> Streamlit</a>. </i></p>
+</div>
 
 ---
 
@@ -76,8 +84,8 @@ The goal is to build a comprehensive, machine-readable dataset of utility incent
 - **Model size is the dominant factor in extraction quality** — the gap between qwen2.5:14b (~70%) and GPT-4o (~94%) is primarily in financial detail verbatim capture and correct program delineation on dense pages. Both models perform well on simple single-program pages.
 - **Cooperative and municipal utility sites are systematically under-represented in DSIRE** — a significant share of URLs discovered by IncentivAI returned programs with no corresponding DSIRE entry, confirming the hypothesis that smaller utility websites are the primary coverage gap in existing databases.
 
-> 📄 Full analysis memo: **[TODO: link to memo]**
-> 📊 Full dataset: **[TODO: link to dataset if externally hosted]**
+> Full analysis memo: **[TODO: link to memo]**
+> Full dataset: **[TODO: link to dataset if externally hosted]**
 
 ---
 
@@ -167,7 +175,7 @@ This does three things in one command:
 - Reads `pyproject.toml` to find all required packages
 - Installs all of them into `.venv/`
 
-> ⚠️ **If Streamlit stays at version 1.19 after sync**, check `pyproject.toml` for `altair<5` and change it to `altair>=5`. The old altair pin conflicts with Streamlit 1.28+ and silently caps your Streamlit version. Then re-run `uv sync`.
+> **If Streamlit stays at version 1.19 after sync**, check `pyproject.toml` for `altair<5` and change it to `altair>=5`. The old altair pin conflicts with Streamlit 1.28+ and silently caps your Streamlit version. Then re-run `uv sync`.
 
 You only need to run `uv sync` once after cloning, and again any time `pyproject.toml` changes.
 
@@ -826,9 +834,9 @@ Discovers utility website URLs by state using OpenSERP. Does **not** run extract
 3. Paste a utility rebate page URL (e.g. `https://www.anaheim.net/936/Energy-Rebates-Incentives`)
 4. Set **Crawl Depth** to `1` for a quick single-page test
 5. Set provider to `ollama`, model to `qwen2.5:14b`
-6. Click **▶ Run Extraction**
-7. Check the **📝 Live Summaries** tab for results
-8. Download `incentives_output.csv` from the **📊 Progress** tab
+6. Click **Run Extraction**
+7. Check the **Live Summaries** tab for results
+8. Download `incentives_output.csv` from the ** Progress** tab
 
 ---
 
@@ -839,8 +847,8 @@ Discovers utility website URLs by state using OpenSERP. Does **not** run extract
 3. Select **Upload Excel**, upload your file
 4. Set **Crawl Depth** to `3` (default) for full coverage
 5. Set provider and model (use `openai` + `gpt-4o` for best results)
-6. Click **▶ Run Extraction**
-7. Monitor progress in the **📊 Progress** tab
+6. Click **Run Extraction**
+7. Monitor progress in the **Progress** tab
 8. Download results when complete — CSVs clear on each new run so download before restarting
 
 ---
@@ -851,7 +859,7 @@ Discovers utility website URLs by state using OpenSERP. Does **not** run extract
 2. Open Streamlit in another terminal: `streamlit run app.py`
 3. Select **City URL Discovery**
 4. Choose states, set engine to **Bing**, set OpenSERP URL to `http://localhost:7070`
-5. Click **▶ Run Discovery** → download the discovered URLs Excel
+5. Click **Run Discovery** → download the discovered URLs Excel
 6. Use **Merge Database** to dedup against your existing database → download merged file
 7. Switch to **Upload Excel** mode, upload the merged file, run extraction
 
@@ -904,7 +912,7 @@ When running correctly:
 
 Set the **OpenSERP URL** in the Streamlit UI to `http://localhost:7070`.
 
-> ⚠️ Do not close this terminal while running discovery. Closing it kills the server and all queries will silently return 0 results.
+> **Warning**  Do not close this terminal while running discovery. Closing it kills the server and all queries will silently return 0 results.
 
 ---
 
@@ -947,9 +955,9 @@ ssh -L 7070:localhost:7070 your_netid@klone.hyak.uw.edu
 
 | Engine | Reliability | Notes |
 |---|---|---|
-| **Bing** ✅ | High | Recommended default. Rarely CAPTCHAs automated searches. |
-| **DuckDuckGo** ✅ | High | Most permissive. Slightly lower result quality. |
-| **Google** ⚠️ | Low | Best quality but CAPTCHAs after 5 consecutive queries. IP bans last hours to days. Use at most once per day per IP, never re-run the same state the same day. |
+| **Bing** | High | Recommended default. Rarely CAPTCHAs automated searches. |
+| **DuckDuckGo** | High | Most permissive. Slightly lower result quality. |
+| **Google**  | Low | Best quality but CAPTCHAs after 5 consecutive queries. IP bans last hours to days. Use at most once per day per IP, never re-run the same state the same day. |
 
 ---
 
@@ -1041,7 +1049,7 @@ LLM_TIMEOUT        = 60
 | `markdown_output.csv` | Human-readable markdown summaries per URL |
 | `utility_urls_discovered.xlsx` | URLs found by City URL Discovery |
 
-> ⚠️ `errors.csv` and `markdown_output.csv` are **cleared at the start of each new run** in the Streamlit UI. Download them before starting another run if you need them.
+> `errors.csv` and `markdown_output.csv` are **cleared at the start of each new run** in the Streamlit UI. Download them before starting another run if you need them.
 
 ### Output CSV columns
 
